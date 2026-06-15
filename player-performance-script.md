@@ -1,0 +1,622 @@
+> **Back to files:** Use **Return to canvas** in the editor toolbar, then **Back to files** on your character folder.
+
+# The Cure, Player Performance Script
+
+**St. Jude's Progressive Care, VIP Wing.** You are a suspect, a witness, or both. This booklet has lines to deliver and scenes to play. It does **not** have the full mystery solution.
+
+---
+
+## HOW TO PLAY
+
+**Read your character dossier first.** Everything about who you are, what you want, and what you must hide is in your private dossier. This script only has shared scenes and your spoken lines.
+
+**Stay in character.** Talk like your person. React to the storm, the lockdown, and each other. Argue. Flirt. Lie. Protect your secrets until it costs you something to keep them.
+
+**Only read the act you are in.** When the facilitator says you are in Act 1, read through Act 1 and **stop**. Do not read Act 2 until the facilitator opens it. Same for Acts 3 and 4. Spoilers ruin the night for everyone.
+
+**Lines marked (PLAYER)** are yours when that scene is reached. Optional lines are yours to use or skip. Stage directions in *italics* are mood or movement, not spoken aloud.
+
+**NARRATOR** blocks are read by the facilitator. Listen, then play.
+
+**Between scenes** you investigate the wing, trade information, examine evidence, and accuse each other. Officer Ray, Officer Diamond, and Dr. Curie lead interviews, but no one is a spectator.
+
+**Rules:**
+
+- The VIP wing is sealed. No one leaves until municipal watch arrives (end of the night).
+- Do not physically grab other players or props unless the facilitator clears it.
+- Evidence cards are real in the fiction. You may lie about what you saw. You may not invent evidence the facilitator has not given the room.
+- Death in the OR is fixed canon. You cannot rewind the murder.
+- Your dossier **✓** and **✗** rules still apply.
+
+**Personas:** Play big and fun. Arrogant Homes, genki Vance, valley Melody, German knight Sachs, nervous Alfie, charming Curie, southern belle Diamond, surfer bro Jetski. Same story, louder choices.
+
+---
+
+# ACT 1
+
+*Do not read past this section until the facilitator opens Act 2.*
+
+---
+
+## PROLOGUE: VIP CONSULTATION SUITE
+
+*Before surgery. Only **Alex**, **Homes**, and **Pepper** speak in this scene unless the facilitator casts others as silent presence.*
+
+Soft lighting. Glass walls. Storm over Lesbian City skyline.
+
+> **HOMES:** Your imaging shows a compromised arterial wall. This case is legitimate. Your intake file is still… unusually sparse, Mr. Austin.  
+> **ALEX:** I prefer efficiency. Whatever this costs, double it. So please, no delays. No mistakes.  
+> **PEPPER:** (quietly) We don't prioritize patients that way.  
+> **ALEX:** Everyone prioritizes something.
+
+> **HOMES:** This is a surgical facility, not a negotiation table. You need this repair. I am not here to flatter you.  
+> **ALEX:** Everything is a negotiation table, Doctor. I chose this hospital. I expect your seniors to act like it. But I'm here to walk out better than I walked in.
+
+> **ALEX:** (softly) People don't get second chances where I come from.  
+> (to Homes) So let's not waste this one.
+
+---
+
+## ACT 1: OPERATING THEATER
+
+### NARRATOR: OPEN
+
+> VIP Operating Theater Two. St. Jude's Progressive Care.  
+> Storm against the glass. Inside: sterile green, machine hum, the steady beep of a heart that still believes in tomorrow.
+
+> **HOMES:** Arterial wall's more compromised than imaging suggested. This is borderline rupture.  
+> Jetski, tighten control. I want zero drift. Pepper, clamp.
+
+**PEPPER** (PLAYER: crisp, professional; fear not yet in the room):
+
+> Clamp in.  
+> (beat, reading monitor)  
+> Pressure's falling. Faster than expected.
+
+> **HOMES:** Then we stabilize it. We're not chasing this. We control it.
+
+**JETSKI** (PLAYER: uneasy, surfer bro slipping through):
+
+> …hold on, man.  
+> (blinks hard)  
+> That's not right. I'm getting lag. Visual lag. The IV...
+
+> **JETSKI:** No, no, that's...
+
+*The lights cut. Total darkness. Then emergency red.*
+
+> **HOMES:** (breathing uneven)  
+> No… no, that's...  
+> I lost visibility. I couldn't...  
+> (looking around, frantic)  
+> Someone was here. Someone was *in* this room.
+
+**PEPPER** (PLAYER: first movement; small, broken sound):
+
+> …nnh...
+
+> **PEPPER:** (hoarse, climbing)  
+> What... what...  
+> (scrambling, ignoring dizziness)  
+> Oh my God... oh my God...
+
+> **PEPPER:** (voice cracking, **terrified**)  
+> No... no, no, no...  
+> (checking reflexively, hands shaking so badly she almost can't hold them steady)  
+> No pulse... there's no...
+
+> **PEPPER:** (whispering, horrified)  
+> …we were right here.  
+> (trying to make sense of it; voice breaking)  
+> We were all right here. What happened to him... **what happened to him...**
+
+**HOMES** (PLAYER):
+
+> Pepper... I didn't... the lights...
+
+### NARRATOR: AFTERMATH
+
+> Someone ran for the corridor.  
+> Someone screamed for help into a storm that ate sound.  
+> They went to find **Director Lacey Lovely** in administration, and **Security Chief Officer Ray**, because in a hospital, death in the OR does not stay in the OR.  
+> It climbs the stairs. It knocks on doors. It demands a name.
+>
+> The code went out on every channel the building still had. Municipal Watch logged the death, and sent back the same message the city had been sending all night: *shelter in place, routes flooded, units when routing permits.*  
+> The backup generators finished their apology. The patrol cars did not.  
+> Inside the VIP wing, someone was already dead. Outside, the storm made sure nobody was coming to save them yet.
+
+---
+
+## ACT 1: THE GATHERING
+
+*All eleven players. VIP Recovery Lounge. **Dr. Homes is the primary suspect.***
+
+### NARRATOR: OPEN
+
+> The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
+> Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
+> Officer Ray has pulled everyone with access to this wing into one room. Officer Diamond is with him. Not a request. The wing is locked down.  
+> The body of Alex Austin is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
+> And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
+
+### SCENE: THE BRIEFING
+
+> **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Diamond's with me.
+
+**DIAMOND** (PLAYER: southern belle, pleasant, already painting a nail):
+
+> And I'm Officer Diamond. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
+
+> **RAY:** (beat)  
+> At eleven forty-two, Alex Austin died in VIP OR Two. Throat cut. One clean cut.  
+> Lights were out about a minute. When they came back, Dr. Homes was standing over him with a scalpel in his hand.
+
+**HOMES** (PLAYER: defensive, immediate):
+
+> That is not... I did not kill him. I lost the blade when the grid dropped. Someone was in that room.
+
+**CURIE** (PLAYER: warm, unruffled, room immediately calmer):
+
+> Doctor, you'll get your turn. All of you will.
+
+> **CURIE:** I'm Dr. Curie, Chief of Surgery. Until Municipal Watch gets through the flood, and they are not here yet, I am medical liaison on this death.  
+> That means cause, mechanism, and whether anyone in this room had the skill and the access to do what was done.
+
+**RAY** (PLAYER: gruff, almost softening):
+
+> And I'm the security here. We figure this out together, or we stumble around in the dark.
+
+**CURIE** (PLAYER: smile, serious shutdown):
+
+> Officer, I'd flirt back, but we have a corpse and a flood. Another time.
+
+**PEPPER** (PLAYER: **sharp ahem**; comedic beat):
+
+> *(clears throat)*  
+> …Can we stay on the dead man?
+
+**HOMES** (PLAYER: bristling):
+
+> Christ. Could we investigate the murder instead of...
+
+**CURIE** (pleasant, devastating):
+
+> Doctor, when you have an alibi, I'll schedule around your preferences.
+
+**LACEY** (PLAYER: ice, administrative):
+
+> Officer. I have counsel on standby. This hospital will cooperate within regulatory...
+
+> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That was your call, not mine. Your lawyer can wait until I say otherwise.
+
+> **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
+> (beat, harder)  
+> I know how this looks. Austin had dirt on half this city. He had dirt on me too. I'm a suspect same as you. I'm also running this wing until those sirens show up.  
+> Nobody leaves. Nobody. You talk in this room, or I stick you in separate rooms and let the real cops sort it in the morning.
+
+> **CURIE:** (to the room) The officer's right. If we don't build the case tonight, the case will be built for us, by people who weren't in the building when the lights died.
+
+### ROUND ONE: WHO WAS WHERE
+
+> **RAY:** Give us your names. Jobs. Where you were when the red lights came on. One at a time. Jetski, you're first. You're half why this room was knocked out.
+
+**JETSKI** (PLAYER, shaking, furious at the framing; occasional surfer slip):
+
+> Dr. Jetski. Anesthesiology. Dude, I was at the south wall monitoring IV delivery and I went down before the lights even cut, lag, paralysis, I couldn't move, I couldn't see straight. Ask Pepper. I was on the floor when it happened.
+
+**PEPPER** (PLAYER, clinical mask over horror):
+
+> He's not lying about the timing. I felt it too, cognitive lag, motor drop. We were incapacitated before the incision.  
+> (beat, unwilling)  
+> I was assisting Dr. Homes. Alex was on the table. When the red lights came back… Homes had the scalpel. Austin was gone.
+
+**HOMES** (PLAYER):
+
+> I was primary surgeon. The arterial wall was compromised, we were stabilizing. Jetski reported drift. Then black. I felt the blade pulled from my grip. I shouted for backup power. When the lights returned I was still holding  
+> (voice cracking)  
+> I didn't make that cut. I couldn't see. Someone was in there with us.
+
+**CURIE** (quiet, surgical):
+
+> The incision profile doesn't match panic. It matches training.
+
+> **RAY:** You're my main guy until I hear better. Sit down.
+
+### ROUND TWO: EVERYONE ELSE IN THE WING
+
+> **RAY:** The rest of you. What were you doing in my wing tonight?
+
+**MELODY** (PLAYER, valley gossip, ditzy top layer):
+
+> Melody! Night reception? Like, I was at the desk, I called the code when the monitor flatlined, oh my god, and I saw *everyone* coming and going all night. Including
+
+*Glances at **Alfie**. Blinks innocent. Glances at **Diamond**'s nails.*
+
+> **MELODY:** Officer Diamond? Where is that blouse from? It is, like, literally gorgeous on you.
+
+**DIAMOND** (PLAYER, kind):
+
+> Oh, bless you, honey. Thrift store in the Quarter, then I fixed the cuffs myself. You have good eyes.
+
+> **MELODY:** Including things that don't match the visitor log. But that's like, a whole thing.
+
+> **RAY:** Including what?
+
+**MELODY:**
+
+> Including things that don't match the visitor log. Ask your IT guy about the cameras. Ask about the page missing from the keycard book.
+
+**VANCE** (PLAYER, genki speed, then wilt):
+
+> Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Director Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
+
+> **VANCE:** *(quieter)* …eep.
+
+> **RAY:** (flat) Other requests. We'll come back to logs. And to you.
+
+**SACHS** (PLAYER, lazy menace, German accent; lines as written):
+
+> He does what keeps his pones in one piece. Like everypody else in this room who isn't holting a scalpel.
+
+**ALFIE** (PLAYER, defensive, too loud):
+
+> Alfie Austin. Alex's brother. I was a delivery. Medical supplies. That's on the manifest.
+
+**SACHS** (PLAYER, knight formality, dangerous amusement, German accent):
+
+> Swastika Sachs. You want the name on my pirth certificate or the one your mother kave you?
+
+> **RAY:** (immediate) Where were you at eleven forty-two?
+
+**SACHS:**
+
+> Perimeter. VIP access corridor. A soldier posts where she's tolt. Alex owet the realm money. I owet the realm answers. I dit not owe him a throat cut in the tark.
+
+> Put if you're asking who in this room looks like they just left an OR? You're staring at him, Officer.
+
+**LACEY** (PLAYER, controlled):
+
+> Lacey Lovely. Hospital Director. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
+
+**CURIE** (PLAYER, does not block):
+
+> Good. Pull it. Executive tier on a night like this is a lead.  
+> (to Ray, professional)  
+> Surgical read? A director facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
+
+### THE ACCUSATION
+
+> **RAY:** Let's be plain. Everyone hated Austin. Loan shark in a hospital gown. Half of you wanted him dead.  
+> But only one guy was standing over the body, blood on his hands, scalpel in his grip when the lights came back.  
+> Dr. Homes, you're my main suspect.
+
+**HOMES** (PLAYER, standing, rage):
+
+> This is insane. Curie, you're Chief of Surgery, you know that cut was
+
+**CURIE** (PLAYER, gentle, devastating):
+
+> I know what I know. And right now I know you were holding the instrument.
+
+**PEPPER** (PLAYER, torn, quiet):
+
+> …I don't think you did it.
+
+> **PEPPER:** I don't know what I think. I was on the floor. I saw you standing there. I saw
+
+**JETSKI** (PLAYER, small):
+
+> Bro, I was paralyzed. He wasn't the only surgeon in this building.
+
+> **RAY:** Then help me prove it. Starting now.
+
+### CURIE: THE ASK
+
+> **CURIE:** Officer Ray cannot process a coordinated murder alone. I cannot autopsy a conspiracy from a cot.  
+> Every person in this lounge was inside the VIP wing when Alex Austin died. That makes you witnesses, suspects, or both.  
+> The municipal watch is not walking through that flood tonight. The killer may still be in this wing, I don't say that to panic you. I say it because it's true.  
+> So here's what happens next. We log evidence. You don't get to go home and invent an alibi in the rain.
+
+> **RAY:** Find me something that proves Homes didn't do it.   
+> Or Homes sits alone and I talk to the rest of you one by one in rooms with no windows.  
+> You don't have to like me. You do have to stay.
+
+### JETSKI: THE ROOM GOES QUIET
+
+**JETSKI** (PLAYER: quiet, not performing, genuinely unsettled; surfer bro mostly gone):
+
+> You know what keeps turning in my head?  
+> (beat)  
+> We keep asking who was in the OR. Who had the blade. Who was out in the storm.  
+> But whoever killed Austin didn't have to be out there.  
+> They could be right here. In this lounge. Listening. Helping us decide who to blame.  
+> (quieter, to Pepper or the room)  
+> That's the part that's going to stay with me, man.
+
+**CURIE** (optional, pleasant):
+
+> Doctor, you're medicated and you're frightened. That's fair. Let's channel it into evidence.
+
+**RAY** (optional, gruff):
+
+> Yeah. Fine. Now we work.
+
+### NARRATOR: TRANSITION OUT
+
+> The lounge emptied in fragments, no one calm, no one innocent in the eyes of the room.  
+> Dr. Homes left under Ray's gaze like a man already in cuffs.  
+> Dr. Curie touched his shoulder in the corridor, a colleague's sympathy that looked perfect on camera that didn't exist.  
+> The storm kept screaming. The sirens were still miles away.  
+> And somewhere between the pharmacy vault and the admin terminal, the truth was already written in codes and overrides the room had not opened yet.
+
+---
+
+**END OF ACT 1.** Investigate the wing. Defend yourself. Trade secrets. Do not open Act 2 until the facilitator says so.
+
+---
+
+# ACT 2
+
+*Do not read past this section until the facilitator opens Act 3.*
+
+---
+
+## ACT 2: THE LOGIC OF THE NEEDLE
+
+*Recovery ward. Toxicology. Logs. Pressure on Lacey and Vance.*
+
+**CURIE** (PLAYER: to Ray, quiet wit):
+
+> They also don't panic. Give him air, Officer, you'll get a better witness.
+
+**RAY** (PLAYER: gruff fondness):
+
+> Don't tell me how to ask questions.
+
+**CURIE** (PLAYER: smile, serious):
+
+> I'd never. I'm only suggesting you look handsome when you're not shouting.
+
+**PEPPER** (PLAYER: **ahem**, entering with folder):
+
+> *(clears throat, deadpan)*  
+> Toxicology's ready. Whenever you two are **done**.
+
+> **PEPPER:** Jetski collapsed before the lights even went out. The killer needed night vision, or immunity.  
+> **RAY:** Pharmacy vault got opened. Top-level clearance. **Lacey Lovely.**  
+> **RAY:** Power got cut around the same time. That's not a coincidence. I want everything on her. Who she let in. What she's been doing.
+
+**CURIE** (PLAYER: calm authority, not obstruction):
+
+> Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
+> (beat)  
+> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern fits a **facilitator**, not a cutter. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
+
+**RAY** (PLAYER: short nod, trusts the tone):
+
+> Good. Then we're chasing it.
+
+**DIAMOND** (PLAYER, optional, painting a nail, outlandish but specific):
+
+> Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
+
+**RAY** (PLAYER, optional, gruff):
+
+> Write it down. Don't preach it yet.
+
+**CURIE** (PLAYER: brushes nonexistent lint from Ray's shoulder; casual):
+
+> You've got a good instinct. Keep it.
+
+**PEPPER** (PLAYER: optional, under breath):
+
+> *(ahem)*
+
+> **CURIE:** Access, preparation, delivery, blackout, incision. You don't improvise that. Someone coordinated. Director's tier is on that list until it isn't.
+
+**RAY** (to **Vance**, if present or via intercom):
+
+> Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
+
+**VANCE** (PLAYER: genki speed collapse; breaking):
+
+> Okay okay okay... so Sachs was like, *find the wife*, and I was like *eep* but also the query was already running? Clinic databases, reconstruction intake flags, hospital admin cross ref... I was looking for whoever stole his money! I didn't know her **name**! I didn't know it was *her*...
+
+> **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like Austin make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
+
+**SACHS** (PLAYER: snarling, German accent):
+
+> You ton't get to moralize. You were on the clock.
+
+**CURIE** (PLAYER: to window, dry charm):
+
+> Some people don't die in hospitals, Officer… they get released.
+
+**RAY** (PLAYER: tired smile he hates himself for):
+
+> You say stuff like that so I forget you're on my list.
+
+**CURIE** (PLAYER: without turning):
+
+> I'm on your board. I'm also the best partner you've got tonight. Use me accordingly.
+
+---
+
+**END OF ACT 2.** Keep investigating. New evidence is in play.
+
+---
+
+# ACT 3
+
+*Do not read past this section until the facilitator opens Act 4.*
+
+---
+
+## ACT 3: FOUND IN THE DARK
+
+*Pharmacy wing hallway. Melody attacked.*
+
+> **RAY:** Security! Step away!
+
+> **CURIE:** Potassium chloride overdose! Shadow running toward administration. Go, Ray!  
+> **RAY:** Did you see who...  
+> **CURIE:** Move!
+
+**MELODY** (PLAYER, weak, if antidote succeeds):
+
+> It's not just him… it's everything… all of you…
+
+*If the room solves the antidote puzzle in time, Melody survives. If not, she stays unconscious and the room loses her direct testimony.*
+
+---
+
+**END OF ACT 3.**
+
+---
+
+# ACT 4
+
+*Final act. Do not read until the facilitator opens Act 4.*
+
+---
+
+## ACT 4: ALFIE REVEALS GENEVIEVE
+
+**RAY** (PLAYER, hard):
+
+> Your brother kept a wife locked up for years. Detective file says new face. New name. You said you came here with medical supplies. Start talking straight.
+
+**ALFIE** (PLAYER: must deliver; do not skip; truth through uncertainty):
+
+> I... look. I'm not trying to bury my brother. I'm not trying to hang anyone either. I just… I can't keep my mouth shut anymore.
+>
+> (beat)
+>
+> As far as I know, his wife, his *first* wife, her name was **Genevieve**. Maybe it still is, somewhere under all this. I don't know what you call yourself now.
+>
+> (glances at **Lacey**, pained)
+>
+> Alex wasn't just a lender. Not at the end. He was… whatever he became. Men like Sachs at the door. Ledgers. Genevieve didn't run that house, she **survived** it, as best I could tell from the outside. I think he moved her when he wanted. I think he took her phone when he wanted. I **saw** bruises once. Holidays where she wouldn't eat. I could be wrong about some of it, he told the family she was unstable, and when you're family you want to believe that.
+>
+> (voice cracks)
+>
+> But I don't think I was wrong. Not about the flinching.
+>
+> (beat, softer)
+>
+> When she disappeared, when she took money and ran, Alex called it theft. Like she was property. Hunters. Clinic lists. I didn't know where she landed. I'm **not** saying I have proof of every step.
+>
+> (hesitates)
+>
+> There's an intake photo. Mainland clinic. Scar above the left ear, glass, years ago, I **think** it was her. Total reconstruction, maybe. New name. New life. I could be connecting dots that aren't, except Alex needed the surgery, sure, but he chose **this** hospital. He was here because **she** might be.
+>
+> (almost pleading)
+>
+> I'm telling you what I believe. I'm not saying she did anything tonight. Genevieve just wanted to **run**. That's what I keep coming back to. She wanted out. Not… this.
+
+**LACEY** (PLAYER: mandatory; controlled, not crumbling):
+
+> You don't know what you're talking about.
+
+**ALFIE** (PLAYER: quiet, protective):
+
+> I know enough that I didn't want to say it like this.
+
+**LACEY** (PLAYER: stands; ice, not confession):
+
+> Officer. You want the truth from me? Fine.
+>
+> I ran. I changed my life. I did what I had to do to never sleep in the same room as that man again.  
+> (beat)  
+> I did **not** hate him enough to kill him. I wanted distance, miles, years, a face he wouldn't recognize. Murder wasn't the plan. Running was.  
+> (cold)  
+> Someone killed him in an operating theater. I was two floors up in administration. If your logs say otherwise, read them. But don't let that ghost put words in my mouth.
+
+**MELODY** (PLAYER: support, after Alfie only; firmer than Alfie):
+
+> …The archival intake binders don't lie. I wondered why you looked familiar. Pre op photos. Before the reconstruction. If he's right, that's Genevieve.
+
+**CURIE** (PLAYER: authoritative doubt, not obstruction; room hangs on it):
+
+> Officer, run every log you have. I've said that all night.  
+> (to the room)  
+> Clinically? A director with that history is a **motive**, not a mechanism. The incision was surgeon's work. The paralysis was pharmacy work. Lovely's tier fits access, not the cut. Unlikely she'd personally finish him on the table.  
+> (beat, meets Ray's eyes)  
+> Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
+
+**PEPPER** (PLAYER: **ahem**).
+
+**HOMES** (PLAYER: snapped):
+
+> Are we solving a murder or watching you two eye fuck over the evidence?
+
+**CURIE** (PLAYER: pleasant, surgical):
+
+> Doctor, your alibi is still bleeding. I'd focus.
+
+**RAY** (PLAYER, cutting, but not at Curie):
+
+> I'm not dropping it. Someone opened the vault. Someone killed the lights. Someone with the keys. And a dead man who came here chasing a woman who just wanted to get away.
+
+**PEPPER** (PLAYER: optional, if affair secret is out):
+
+> I loved him. I need you to hear that. And I need you to hear that I didn't know... Genevieve. The fire. Any of it. He wasn't… he wasn't just difficult. He was what Alfie said. And the people who cut his throat still sat with us at that table.
+
+---
+
+## ACT 4: FINAL CALL
+
+### NARRATOR
+
+> The storm is thinning. You can hear it in the walls, less scream, more drain.  
+> Genevieve is in the room, whatever name she wears.  
+> You have surgical precision, executive access codes, a blackout that obeyed no accident protocol, and a victim who weaponized debt and fists the way others weaponize scalpels.  
+> Officer Ray is still the head of security here. Officer Diamond is with him. The real watch is close, sirens somewhere below the flood line, getting closer.  
+> Before they walk through that door, this room decides: **one suspect, or the pair.** Then choose what kind of city Lesbian City becomes tonight.
+
+*The facilitator collects accusation ballots and moral verdict ballots. Debate. Vote. Then listen to the ending.*
+
+---
+
+## AFTER THE VOTE (listen and react)
+
+*The facilitator reads what the room decided. React in character. You may be arrested, vindicated, or caught in chaos.*
+
+### NARRATOR: POLICE ARRIVAL
+
+> The wind dropped like a held breath.  
+> First the generators steadied. Then, distant, then close, sirens.  
+> Municipal Watch. Real patrol. Flood lights through the glass. Boots in the lobby. Radios that weren't hospital channels.
+
+**RAY** (PLAYER, exhausted, to the room):
+
+> That's them. Finally.  
+> Whatever you picked in this room, names, proof, who did what. It's theirs now.
+
+> **RAY:** Case number's LC-4471. Was my problem until about a minute ago.
+
+*Optional lines if the room accused correctly and your character is named:*
+
+**HOMES** (optional):
+
+> I told you. I told all of you.
+
+**PEPPER** (optional):
+
+> You were in the OR with us. You were *helping* us think.
+
+**LACEY** (optional):
+
+> My name was Genevieve. He hunted me here.
+
+**CURIE** (optional):
+
+> You have the timeline right. You don't have my regret.
+
+**DIAMOND** (optional, if you volunteered a wild theory that landed):
+
+> I told y'all. I told y'all in Act Two and you laughed.
+
+---
+
+**END OF NIGHT.**
