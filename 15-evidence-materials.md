@@ -13,7 +13,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 **Text:**
 
-> **ST. JUDE'S PROGRESSIVE CARE, VIP OR TWO, FLOOR SKETCH (HOST COPY)**  
+> **ST. SAPHICCA'S PROGRESSIVE CARE, VIP OR TWO, FLOOR SKETCH (HOST COPY)**  
 > Annotated by Officer Ray, LC-4471  
 >
 > **Zone A (pre blackout):** Controlled drip pattern, south side of table, consistent with arterial spray from elevated position. Small volume. Precise.  
@@ -40,7 +40,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E1-C, Private investigator dossier
 
-**Description:** Folded report in Alex Austin's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Jude's for a **real** surgical booking, not cover alone. **No first name** until Alfie speaks in Episode 4.
+**Description:** Folded report in Alex Austin's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Saphicca's for a **real** surgical booking, not cover alone. **No first name** until Alfie speaks in Episode 4.
 
 **Text:**
 
@@ -53,7 +53,7 @@ Each entry: short description + full text to read aloud or hand out.
 > – Regional youth sanctuary records (childhood contact: male, same cohort, medical training suspected)  
 > – Sapphic Quarter clinic network, facial reconstruction intake flags (3 clinics, 2 false positives)  
 > – Hospital admin cross reference (VIP medical corridors, Lesbian City metro)  
-> Surgical booking: **St. Jude's VIP arterial repair**, legitimate indication (compromised vessel); client chose director's hospital personally  
+> Surgical booking: **St. Saphicca's VIP arterial repair**, legitimate indication (compromised vessel); client chose director's hospital personally  
 > Status: **ACTIVE HUNT**, surgery used as proximity + leverage  
 > Investigator note: *"Client does not want her found for reconciliation. He wants her cornered while he's on her table."*
 
@@ -165,7 +165,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Request origin: external (flagged: **SACHS INDIGO COLLECTIONS**)  
 > Search terms: facial reconstruction intake, name change, clinic metro, "runaway spouse," stolen ledger  
 > Hits: 14 clinics, 3 reconstruction flags, 1 partial admin cross match  
-> **ST. JUDE'S PROGRESSIVE CARE, EXECUTIVE ACCESS PATTERNS, ANOMALY**  
+> **ST. SAPHICCA'S PROGRESSIVE CARE, EXECUTIVE ACCESS PATTERNS, ANOMALY**  
 > Vance note (typed, panicked): *"I was looking for whoever stole his money. I didn't know her name. I didn't know it was her."*  
 > Timestamp gap: one 11:42 p.m. edit flagged **POST INCIDENT**
 

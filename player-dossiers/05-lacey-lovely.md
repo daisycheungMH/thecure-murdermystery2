@@ -1,10 +1,8 @@
-> Back to files: Use Return to canvas in the editor toolbar, then Back to files on your character folder.
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Lacey Lovely *(born Genevieve)*  
 AGE: 36  
-OCCUPATION: Hospital Director, St. Jude's
+OCCUPATION: Hospital Director, St. Saphicca's
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -36,7 +34,7 @@ Alex was your first husband, and he became your hunter.
 
 **History**
 
-- As Genevieve you endured abuse, isolation, and stolen ledger cash before you fled, had facial reconstruction, took a new name, and built a career at St. Jude's.
+- As Genevieve you endured abuse, isolation, and stolen ledger cash before you fled, had facial reconstruction, took a new name, and built a career at St. Saphicca's.
 - You saw Sachs and other warnings that Alex had found the hospital, and when his real VIP arterial surgery booked here as a power play on your turf, you and Curie planned his death in ~48 hours; he needed the knife medically but not your fear, and Homes and Curie did not play along.
 
 ## 3. ALIBI (11:42 p.m.)

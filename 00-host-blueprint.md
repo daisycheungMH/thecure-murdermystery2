@@ -4,14 +4,14 @@
 **THE CURE: LIVE ACTION MEDICAL THRILLER**
 
 ## Setting
-VIP Wing & Operating Theater, St. Jude's Progressive Care, Lesbian City  
+VIP Wing & Operating Theater, St. Saphicca's Progressive Care, Lesbian City  
 Tone: High stakes medical thriller × neo noir × messy interpersonal drama
 
 ---
 
 ## CONTAINMENT PREMISE (read players the FAQ, not the truth)
 
-A severe storm isolates St. Jude's from municipal watch for the entire game. **Officer Ray** (hospital security chief, ex cop, **debt to Alex**) and **Officer Diamond** (junior security) run **Containment Protocol Delta**, VIP wing sealed, no one leaves, suspects must cooperate until patrol gets through flooded causeways. **Real police arrive only in the Episode 4 coda** after the storm breaks.
+A severe storm isolates St. Saphicca's from municipal watch for the entire game. **Officer Ray** (hospital security chief, ex cop, **debt to Alex**) and **Officer Diamond** (junior security) run **Containment Protocol Delta**, VIP wing sealed, no one leaves, suspects must cooperate until patrol gets through flooded causeways. **Real police arrive only in the Episode 4 coda** after the storm breaks.
 
 Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
@@ -19,9 +19,9 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 ## THE TRUTH
 
-**Alex Austin** was a ruthless loan shark and crime lord. Bankrupt on paper, violent in practice, hunting his runaway ex wife to strip her of the fortune she stole when she fled. Tonight he booked **real** VIP arterial surgery at St. Jude's as a power play on Lacey's hospital, not a medical fake out.
+**Alex Austin** was a ruthless loan shark and crime lord. Bankrupt on paper, violent in practice, hunting his runaway ex wife to strip her of the fortune she stole when she fled. Tonight he booked **real** VIP arterial surgery at St. Saphicca's as a power play on Lacey's hospital, not a medical fake out.
 
-**Genevieve** was that wife. Alex isolated her, controlled every account, beat her when she questioned his "business," and escalated to burning **Curie's family home** after she took money from his ledger. Genevieve vanished, underwent **total facial reconstruction**, and rebuilt herself as **Lacey Lovely**, hospital director of St. Jude's.
+**Genevieve** was that wife. Alex isolated her, controlled every account, beat her when she questioned his "business," and escalated to burning **Curie's family home** after she took money from his ledger. Genevieve vanished, underwent **total facial reconstruction**, and rebuilt herself as **Lacey Lovely**, hospital director of St. Saphicca's.
 
 **Dr. Curie** is Genevieve's childhood protector from the regional youth sanctuary. He failed to stop the marriage; he failed to stop the fire. **He is the killer**, and the room's favorite investigator because he **weaponizes charm** (Ray endeared, Pepper's comic ahems, **only Homes** immune). Playbook: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
@@ -33,9 +33,9 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 ## WHY CURIE + LACEY ACTED NOW (48-hour plan)
 
-**Lacey** spent years believing Alex would never find St. Jude's. Then the warnings stacked up: **Swastika Sachs** on the VIP perimeter, collection faces in the parking structure, contractor queries spiking on reconstruction databases, a VIP intake that matched Alex's habits (sparse records, money buying priority). She was not paranoid. He was closing in.
+**Lacey** spent years believing Alex would never find St. Saphicca's. Then the warnings stacked up: **Swastika Sachs** on the VIP perimeter, collection faces in the parking structure, contractor queries spiking on reconstruction databases, a VIP intake that matched Alex's habits (sparse records, money buying priority). She was not paranoid. He was closing in.
 
-**Curie** learned **two days before surgery** that Alex had booked a **real** VIP arterial case at St. Jude's, compromised carotid wall, borderline rupture, genuinely life threatening if untreated. This was not a fake patient stunt. Alex needed the knife. He also chose **her** hospital on purpose: ego, leverage, and the bet that Genevieve was still too afraid to fight back. Schedule surgery on her turf. Let her senior staff orbit him. Force her to watch from administration while the man who owned her old life was repaired in her wing.
+**Curie** learned **two days before surgery** that Alex had booked a **real** VIP arterial case at St. Saphicca's, compromised carotid wall, borderline rupture, genuinely life threatening if untreated. This was not a fake patient stunt. Alex needed the knife. He also chose **her** hospital on purpose: ego, leverage, and the bet that Genevieve was still too afraid to fight back. Schedule surgery on her turf. Let her senior staff orbit him. Force her to watch from administration while the man who owned her old life was repaired in her wing.
 
 **The power play failed on Homes and Curie.** Homes treated Alex as a difficult surgical problem, not royalty. Curie saw the hunt behind the booking and told Lacey they had **48 hours**. They hatched the plan in secret: vault access, tampered vial, blackout, corridor entry, frame Homes. Fast, ugly, surgical. Murder was not years of plotting. It was two days of panic after the walls started closing in.
 

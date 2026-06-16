@@ -38,7 +38,7 @@
 | | |
 |---|---|
 | **Public face** | Wealthy VIP patient demanding priority care |
-| **Truth** | Bankrupt loan shark and crime lord; hunting ex wife Genevieve; **real** VIP arterial case booked at St. Jude's as power play on Lacey's hospital |
+| **Truth** | Bankrupt loan shark and crime lord; hunting ex wife Genevieve; **real** VIP arterial case booked at St. Saphicca's as power play on Lacey's hospital |
 | **Crimes** | Years of violent abuse of **Genevieve** (see below); arson against Curie's family; predatory lending; threatened Ray's **mother and sister** |
 | **Why murdered** | Lacey + Curie execution; Alfie/Sachs had parallel plans |
 | **Story arc** | **Revealed over four episodes as worse than his murderers**, see [12-alex-revelation-arc.md](12-alex-revelation-arc.md) |
@@ -63,7 +63,7 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 | **Surface motive** | Ice queen director; corporate liability |
 | **Real motive** | Finish escaping Alex forever; keep stolen fortune; protect new identity |
 | **Past** | Alex's first wife. Lived under his crime empire, isolated, beaten, financially erased, hunted after she fled with ledger cash |
-| **Transformation** | Total facial reconstruction + legal name change to **Lacey Lovely**; built career at St. Jude's |
+| **Transformation** | Total facial reconstruction + legal name change to **Lacey Lovely**; built career at St. Saphicca's |
 | **Vs. Alex** | Sachs and other warnings told her he had found the hospital; his **real** VIP surgery booking was a power play on her turf; she and Curie planned his death in ~48 hours |
 | **Public denial (Ep 4)** | Admits she ran and rebuilt her life; **denies murder**, *she never hated him enough to kill; she only wanted distance* (facilitator: this is a lie) |
 | **Vs. Pepper** | Knows affair with Alex; wants Pepper destroyed |

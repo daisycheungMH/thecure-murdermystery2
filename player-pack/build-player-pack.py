@@ -13,7 +13,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = Path(__file__).resolve().parent / "content.js"
 
 NAV_BANNER = re.compile(
-    r"^> \*\*Back to files:\*\*.*?\n\n",
+    r"^> (\*\*)?Back to files:(\*\*)?[^\n]*\n\n",
     re.MULTILINE,
 )
 HRULE_LINE = re.compile(r"^---\s*$", re.MULTILINE)

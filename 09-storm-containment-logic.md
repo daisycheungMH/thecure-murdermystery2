@@ -18,9 +18,9 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 |-------|----------------|
 | **Weather** | Severe Pacific front; sustained winds; flash flooding in the Indigo District and lower causeways |
 | **City grid** | Lesbian City eco grid under stress all evening, brownouts before the murder |
-| **Hospital** | St. Jude's has backup generators, but VIP wing redundancy was **manually overridden** during the 60-second OR blackout (Lacey) |
+| **Hospital** | St. Saphicca's has backup generators, but VIP wing redundancy was **manually overridden** during the 60-second OR blackout (Lacey) |
 | **Communications** | Cell towers degraded; external 911 queue backed up citywide |
-| **Access roads** | Two of three routes to St. Jude's campus reported flooded; ambulance bay open, patrol cars not getting through |
+| **Access roads** | Two of three routes to St. Saphicca's campus reported flooded; ambulance bay open, patrol cars not getting through |
 
 *Facilitator note:* Lacey and Curie did not create the storm, they **exploited** a night when help was already slow.
 
@@ -34,7 +34,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 3. **Hospital legal posture**, **Lacey Lovely** invoked **corporate crisis containment**: no external law enforcement entry until hospital counsel and patient privacy review on scene, a delay tactic that buys hours, not a permanent block.
 
-4. **Ray's on site authority**, Ray is **not municipal patrol tonight**. He is **St. Jude's Security Chief**, ex Municipal Watch, hired by the hospital. He is the highest law enforcement adjacent authority **physically in the building**.
+4. **Ray's on site authority**, Ray is **not municipal patrol tonight**. He is **St. Saphicca's Security Chief**, ex Municipal Watch, hired by the hospital. He is the highest law enforcement adjacent authority **physically in the building**.
 
 5. **No second badge**, Curie has medical authority, not arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
 

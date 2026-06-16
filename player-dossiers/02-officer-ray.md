@@ -1,10 +1,8 @@
-> Back to files: Use Return to canvas in the editor toolbar, then Back to files on your character folder.
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Officer Ray  
 AGE: 44  
-OCCUPATION: Security Chief, St. Jude's (ex Municipal Watch)
+OCCUPATION: Security Chief, St. Saphicca's (ex Municipal Watch)
 
 ## 1. PUBLIC PERSONA & TRAITS
 

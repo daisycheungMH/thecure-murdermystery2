@@ -1,5 +1,3 @@
-> Back to files: Use Return to canvas in the editor toolbar, then Back to files on your character folder.
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Dr. Curie  
@@ -68,5 +66,5 @@ Protect Lacey, frame Homes / Sachs / Alfie, and stay the most trusted investigat
 ## 🔒 NIGHT TRUTH, DO NOT SHARE
 
 - You killed Alex in a 48-hour plan after signs of him and his surgery booking: tampered vial, Lacey's blackout, OR entry, carotid cut, Homes framed.
-- Alex needed the operation (compromised artery) and chose St. Jude's to dominate Lacey; Homes and you refused his theater, and Lacey provided the vault code while having Vance scrub logs.
+- Alex needed the operation (compromised artery) and chose St. Saphicca's to dominate Lacey; Homes and you refused his theater, and Lacey provided the vault code while having Vance scrub logs.
 - In Ep 3 you may attack Melody (KCl) if the story reaches that beat (do not initiate this), and your biggest risk is that the incision is too perfect for Homes's panic story.

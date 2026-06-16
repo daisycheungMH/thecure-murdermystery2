@@ -20,11 +20,11 @@
 | [14-actor-personas.md](14-actor-personas.md) | **Exaggerated actor personas, all 11 players** |
 | [player-dossiers/](player-dossiers/) | **Printable player character dossiers (1 per actor)** |
 | [player-performance-script.md](player-performance-script.md) | **Player script only** (no host notes; act by act) |
-| [Game launcher canvas](../.cursor/projects/c-projects/canvases/the-cure-game-launcher.canvas.tsx) | **Players:** pick character, open dossier and script |
-| [Host reference canvas](../.cursor/projects/c-projects/canvases/the-cure-host-reference.canvas.tsx) | **Facilitator only:** full spoiler pack |
+| Game launcher canvas | **Players:** pick character, open dossier and script. **Open live canvas:** Ctrl+Shift+P → **Open Canvas**, or click [the-cure-game-launcher.canvas.tsx](file:///C:/Users/daisycheung/.cursor/projects/c-projects-the-cure/canvases/the-cure-game-launcher.canvas.tsx) |
+| Host reference canvas | **Facilitator only:** full spoiler pack. [the-cure-host-reference.canvas.tsx](file:///C:/Users/daisycheung/.cursor/projects/c-projects-the-cure/canvases/the-cure-host-reference.canvas.tsx) |
 | [Player pack (HTML)](player-pack/index.html) | **Share to phones/tablets:** zip `player-pack/` folder, open `index.html` |
 
-**Setting:** VIP Wing & Operating Theater, St. Jude's Progressive Care, Lesbian City  
+**Setting:** VIP Wing & Operating Theater, St. Saphicca's Progressive Care, Lesbian City  
 **Runtime:** 3–4 hours | **Players:** 11  
 **Core question:** Was this murder… or justice?
 

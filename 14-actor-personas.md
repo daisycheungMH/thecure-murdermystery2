@@ -8,19 +8,21 @@
 
 ## Quick reference
 
-| Character | Persona | Play as… |
-|-----------|---------|----------|
-| **Dr. Curie** | Prince Charming villain | Disney prince surface; horror buried deep |
-| **Officer Ray** | Bruiser with soft center | Wall of muscle and bark; secret marshmallow |
-| **Officer Diamond** | Southern belle (brutally honest) | Honey, nails, wild theories; kind when asked nicely |
-| **Nurse Pepper** | Sage + sentimental | Wise, calm, then devastatingly precise |
-| **Dr. Homes** | Authoritative dick (good cause) | Insufferable expert who *is* that good |
-| **Lacey Lovely** | Girl next door damsel / corporate | Soft, pretty, harmless, spreadsheet blade underneath |
-| **CD Vance** | Genki IT girl | Hyper, cute, nerdy; terror as squeaky speed |
-| **Swastika Sachs** | Loyal knight (German) | Code, duty; accent: D→T, B→P, G→K, V→F |
-| **Melody** | Valley gossip bimbo | Airy, ditzy, sees *everything* |
-| **Alfie Austin** | Shifty nervous coward | Wannabe tough guy; folds instantly |
-| **Dr. Jetski** | Frazzled surfer bro | Sweat, volume, occasional *dude*; smart when it counts |
+
+| Character           | Persona                           | Play as…                                               |
+| ------------------- | --------------------------------- | ------------------------------------------------------ |
+| **Dr. Curie**       | Prince Charming villain           | Disney prince surface; horror buried deep              |
+| **Officer Ray**     | Bruiser with soft center          | Wall of muscle and bark; secret marshmallow            |
+| **Officer Diamond** | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
+| **Nurse Pepper**    | Sage + sentimental                | Wise, calm, then devastatingly precise                 |
+| **Dr. Homes**       | Authoritative dick (good cause)   | Insufferable expert who *is* that good                 |
+| **Lacey Lovely**    | Girl next door damsel / corporate | Soft, pretty, harmless, spreadsheet blade underneath   |
+| **CD Vance**        | Genki IT girl                     | Hyper, cute, nerdy; terror as squeaky speed            |
+| **Swastika Sachs**  | Loyal knight (German)             | Code, duty; accent: D→T, B→P, G→K, V→F                 |
+| **Melody**          | Valley gossip bimbo               | Airy, ditzy, sees *everything*                         |
+| **Alfie Austin**    | Shifty nervous coward             | Wannabe tough guy; folds instantly                     |
+| **Dr. Jetski**      | Frazzled surfer bro               | Sweat, volume, occasional *dude*; smart when it counts |
+
 
 ---
 
@@ -150,7 +152,7 @@
 
 ---
 
-## Melody, Valley gossip bimbo
+## Melody, Valley girl gossip bimbo
 
 **Surface:** Valley cadence, hair touch, *"like literally"*, plays ditzy so people talk in front of her.
 
@@ -192,11 +194,14 @@
 
 ## Ensemble chemistry (host reminder)
 
-| Pairing | Dynamic |
-|---------|---------|
-| Curie + Ray | Prince + bruiser flirt; Pepper ahems |
-| Curie + Homes | Charm vs merit, oil and fire |
-| Sachs + Vance | Knight + squeaky squire |
-| Melody + everyone | Bimbo mirror, they underestimate her |
-| Lacey + room | Damsel mask slips one notch per act |
-| Alfie + Lacey | Coward protecting ghost of sister in law |
+
+| Pairing           | Dynamic                                  |
+| ----------------- | ---------------------------------------- |
+| Curie + Ray       | Prince + bruiser flirt; Pepper ahems     |
+| Curie + Homes     | Charm vs merit, oil and fire             |
+| Sachs + Vance     | Knight + squeaky squire                  |
+| Melody + everyone | Bimbo mirror, they underestimate her     |
+| Lacey + room      | Damselness slips one notch per act       |
+| Alfie + Lacey     | Coward protecting ghost of sister in law |
+
+

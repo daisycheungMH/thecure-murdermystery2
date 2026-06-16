@@ -58,7 +58,7 @@ He adjusts his wrist, faint old bruise. Pepper notices.
 
 ### NARRATOR: OPEN
 
-> VIP Operating Theater Two. St. Jude's Progressive Care.  
+> VIP Operating Theater Two. St. Saphicca's Progressive Care.  
 > Storm against the glass. Inside: sterile green, machine hum, the steady beep of a heart that still believes in tomorrow.
 
 ---
@@ -482,6 +482,53 @@ Ray sprints. Curie's expression goes cold.
 
 > I told you. I told all of you.
 
+**NARRATOR: EPILOGUE (GOOD / BITTERSWEET)**
+
+> The officers split the room fast, practiced, no drama, no raised voices.  
+> Two names leave in cuffs before dawn. Dr. Curie, still elegant even with steel at her wrists. Director Lacey Lovely, chin high, eyes fixed on a horizon nobody else can see.
+>
+> The case does not collapse in court. It hardens.
+>
+> **Dr. Curie** is convicted of conspiracy to commit murder, controlled substance facilitation, and medical misconduct resulting in death. She serves **24 years** at Lesbian City State Correctional Medical Annex, with parole eligibility after 16. Her license is permanently revoked.  
+> **Lacey Lovely (Genevieve)** is convicted of conspiracy to commit murder and criminal coordination of hospital systems for lethal intent. She serves **18 years** at Harbor Women's Correctional Center, with parole eligibility after 12.
+>
+> The judge calls it "an engineered death dressed as emergency medicine."
+>
+> Five years later, Curie teaches no one and charms no one worth charming. Her appeals fail, one by one, thin paper against hard facts.  
+> Lacey keeps to herself in prison, studies trauma law through a distance program, and writes letters she never sends, most of them addressed to a name she buried: **Genevieve**.
+>
+> Officer Ray is cleared of corruption tied to the murder and commended for preserving chain of custody through a flood lockdown. He still checks every backup generator himself on storm nights.  
+> Officer Diamond is promoted to Senior Security Officer. She keeps her sidearm clean and her nails immaculate.  
+> Dr. Homes is publicly cleared as principal killer. The hospital board still removes him from VIP surgery for a year. He returns quieter, less certain, more human.  
+> Nurse Pepper transfers out of VIP and into emergency trauma. She stops apologizing for surviving.  
+> Dr. Jetski enters rehab, then returns under supervision. He no longer jokes when someone says "lights out."  
+> Melody testifies, then vanishes from gossip into witness protection contract work for municipal records.  
+> CD Vance pleads to accessory cyber-facilitation, serves 18 months, and spends the next decade doing compliant IT audits for public clinics. No shortcuts.  
+> Swastika Sachs disappears before sentencing on separate warrants, then reappears two years later in another port city under another bad nickname.  
+> Alfie Austin leaves Lesbian City with a single suitcase and no inheritance worth keeping.
+
+### THE TRUTH
+
+> Long before the operating table, before the storm, before the red emergency lights, there was a locked house and a woman called Genevieve learning how to become smaller than a man's rage.
+>
+> Alex Austin made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
+>
+> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. She told herself survival was enough.
+>
+> It was not enough for Alex.
+>
+> He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
+>
+> Curie saw him first for what he was, and for what he would do if he walked out alive. A surgeon's mind, a strategist's ego, and a conscience she had already learned to quiet. Lacey had motive, access, and a life she refused to lose again. Together they shaped a murder to look like medical chaos.
+>
+> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand made one clean cut. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror.
+>
+> By sunrise, the script was cracked open. Logs matched toxicology. Access trails matched alibis that were too perfect. Fear matched opportunity. And for once in Lesbian City, the rich did not buy the ending.
+>
+> Alex Austin died the way he made others live, trapped, cornered, at the mercy of people he thought he owned.  
+> Genevieve did not walk free into dawn. She walked in chains beside the woman who helped her end him.  
+> Justice arrived late, soaked through, and incomplete. But it arrived.
+
 *Proceed to **POLICE ARRIVAL**. Watch cuffs Curie and Lacey on Ray's assembled evidence.*
 
 ---
@@ -669,7 +716,7 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Your verdict: **system failure**.  
-> St. Jude's sold VIP wings to predators. Directors with new faces. Contractors who scrub logs. Security chiefs with debts.  
+> St. Saphicca's sold VIP wings to predators. Directors with new faces. Contractors who scrub logs. Security chiefs with debts.  
 > The room wants the institution exposed, not just the hands that held the scalpel.  
 > Whatever happens to the suspects, the scandal outlives the storm.
 
@@ -713,5 +760,5 @@ Ray sprints. Curie's expression goes cold.
 
 ### Facilitator closing monologue (all endings)
 
-> The auxiliary power clicked off at St. Jude's. The main grid hummed back. Heart monitors resumed their steady beeping. Municipal Watch took the bodies and the statements into the rain. And every layer of the system continued… exactly as it had before.
+> The auxiliary power clicked off at St. Saphicca's. The main grid hummed back. Heart monitors resumed their steady beeping. Municipal Watch took the bodies and the statements into the rain. And every layer of the system continued… exactly as it had before.
 

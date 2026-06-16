@@ -10,7 +10,7 @@ All times approximate. Adjust to your table's surgery slot.
 |------|-------|----------------------|
 | T−6h | Severe storm warning issued; city grid under stress | Background |
 | T−2h | Lower causeways flood; patrol units redeployed to rescue | Municipal watch stretched |
-| T−30m | St. Jude's on backup power cycles; VIP wing stable | Lacey/Curie exploit chaos |
+| T−30m | St. Saphicca's on backup power cycles; VIP wing stable | Lacey/Curie exploit chaos |
 | T+0 | OR murder + 60s surgical blackout | LC-4471 logged; **no patrol on campus** |
 | T+10m | Ray invokes **Containment Protocol Delta** | Wing sealed |
 | Ep 1–3 | Radio: *"hold position… no ETA"* | Suspects must cooperate inside |
@@ -26,7 +26,7 @@ All times approximate. Adjust to your table's surgery slot.
 | Time | Character | Location | Activity | Witnesses / record |
 |------|-----------|----------|----------|-------------------|
 | T−48h | **Lacey Lovely** | Hospital (admin) | Sees **Sachs** on perimeter + other hunt signs; panic | Subtle, no proof yet |
-| T−48h | **Dr. Curie** | St. Jude's | Learns Alex booked **real** VIP arterial surgery here; tells Lacey they have ~2 days | Facilitator only until confession |
+| T−48h | **Dr. Curie** | St. Saphicca's | Learns Alex booked **real** VIP arterial surgery here; tells Lacey they have ~2 days | Facilitator only until confession |
 | T−36h | **Curie + Lacey** | Off books | Hatch murder plan: vial, blackout, frame Homes | No witnesses |
 | T−3h | **Lacey Lovely** | Admin office | Authorizes pharmacy vault pull (code used) | Pharmacy log, **executive tier** |
 | T−3h | **Dr. Curie** | Pharmacy vault | Swaps anesthesia vial (uses Lacey's access) | Vault camera *may* be disabled wing wide |

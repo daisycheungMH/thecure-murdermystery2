@@ -1,5 +1,3 @@
-> Back to files: Use Return to canvas in the editor toolbar, then Back to files on your character folder.
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Swastika Sachs  

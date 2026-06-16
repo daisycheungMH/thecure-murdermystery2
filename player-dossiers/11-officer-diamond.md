@@ -1,10 +1,8 @@
-> Back to files: Use Return to canvas in the editor toolbar, then Back to files on your character folder.
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Officer Diamond  
 AGE: 29  
-OCCUPATION: Junior Security Officer, St. Jude's (ex–Municipal Watch)
+OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
 
 ## 1. PUBLIC PERSONA & TRAITS
 

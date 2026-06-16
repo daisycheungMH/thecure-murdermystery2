@@ -59,7 +59,7 @@ His play was psychological: book at **her** hospital, let department heads fuss 
 | **Alfie** | **Full family truth**, legal papers, old photos, abuse he witnessed; must reveal in Ep 4 |
 | **Melody** | Archival intake photos; recognizes pre surgery face; corroborates after Alfie names Genevieve |
 | **Pepper** | Thought Alex was legally married to someone absent; did not know Lacey |
-| **CD Vance** | Sachs forced him to hunt the wife digitally, clinic flags, admin trails; no name until Alfie, but data pointed at St. Jude's exec tier |
+| **CD Vance** | Sachs forced him to hunt the wife digitally, clinic flags, admin trails; no name until Alfie, but data pointed at St. Saphicca's exec tier |
 | **Sachs** | Ordered the hunt for money, not mercy; threatened Vance |
 | **Everyone else** | P.I. dossier (E1-C) hints ex wife + reconstruction, no name |
 

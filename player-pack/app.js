@@ -119,7 +119,7 @@
     root.innerHTML = `
       <header class="app-header">
         <h1 class="mystery-title">The Cure</h1>
-        <p class="subtitle">St. Jude&apos;s Progressive Care: choose who you are playing tonight</p>
+        <p class="subtitle">St. Saphicca&apos;s Progressive Care: choose who you are playing tonight</p>
       </header>
       ${modeToggleHtml("player")}
       <div class="callout callout-info">

@@ -43,7 +43,7 @@ The murderers (Curie + Lacey) are guilty, calculated, and sympathetic. **Alex is
 |---------------------|--------|
 | Clinic database sweeps | Facial reconstruction intake flags in Lesbian City metro |
 | Hospital cross reference | Admin access patterns, VIP wing anomalies |
-| Partial match | Trails pointing toward St. Jude's admin tier, **before** Vance understood Lacey |
+| Partial match | Trails pointing toward St. Saphicca's admin tier, **before** Vance understood Lacey |
 
 **Vance is terrified of Sachs** and still feeding him scraps when he can. He is **not** loyal, he is leased.
 
