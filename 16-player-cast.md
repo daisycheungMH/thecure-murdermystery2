@@ -1,6 +1,6 @@
 # Player Cast, The Cure
 
-**De Worsti** (victim / narrator) and **11 players.** Descriptions are under five words each.
+**De Worsti** (victim / narrator), **11 players**, and **optional 12th** Officer Marz. Descriptions are under five words each.
 
 ---
 
@@ -52,5 +52,6 @@ Frazzled surfer bro anesthesiologist
 
 Strategic inflammatory rage baiter
 
-## Officer Express
+## Officer Marlowe "Marz" — (twelfth player, optional)
 
+Procedure nerd, gamifies crisis

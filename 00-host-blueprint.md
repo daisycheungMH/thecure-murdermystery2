@@ -15,6 +15,8 @@ A severe storm isolates St. Saphicca's from municipal watch for the entire game.
 
 Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
+**Optional auxiliary:** Officer Marlowe "Marz" (storm overflow security, 12th player, limited main-plot beats): [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)
+
 ---
 
 ## THE TRUTH

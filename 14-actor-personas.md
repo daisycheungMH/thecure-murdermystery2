@@ -22,6 +22,7 @@
 | **Melody**          | Valley gossip bimbo               | Airy, ditzy, sees *everything*                         |
 | **Alfie De Worsti**    | Strategic rage baiter             | Screw-up mask; observant; inflammatory; punchable      |
 | **Dr. Jetski**      | Frazzled surfer bro               | Sweat, volume, occasional *dude*; smart when it counts |
+| **Officer Marz**    | Procedure nerd (overflow)         | Gamify phases; boo yah; sharper than the bit          |
 
 
 ---
@@ -207,6 +208,24 @@
 **Tell:** Stress makes you sound more like a surfer, not less.
 
 > *"Dude, that's not drift, that's a wipeout in a vial."* (then immediately correct yourself like you hate that you said it).
+
+---
+
+## Officer Marz, Procedure nerd (auxiliary, optional)
+
+**Not one of the eleven in the lounge.** Overflow security on a storm night. Full player dossier and pack; comic perimeter energy; Ray and Diamond still run the case.
+
+**Surface:** Bright eyes, clipboard or tablet, uniform still damp from the stairs. Talks like she has been waiting her whole career for a situation this dramatic.
+
+**Under the hood:** Sharper than the bit suggests. Notices details, files them mentally, reports up to Ray instead of holding court.
+
+**Play:** Gamify everything (*Phase Two: Everyone Is Suspicious*, credibility points, *boo yah* when a beat lands). Genuinely enjoys interrogations a little too much. Switch to flat competence the instant someone steps in the wrong place.
+
+**Voice:** Official words in casual moments; coach energy; never stern, weirdly upbeat.
+
+> *"New rule, if you interrupt, you lose credibility points. I don't make the system."* (beat) *"Boo yah."*
+
+**Host:** [17-officer-marz.md](17-officer-marz.md). Arrives after **The Gathering**. Dossier: [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md).
 
 ---
 

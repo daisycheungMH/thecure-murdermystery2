@@ -17,6 +17,7 @@
 - **Ray** at the head. **Diamond** beside him (junior, notebook, nail polish). **Curie** beside Ray, not across, unified front.  
 - Read **NARRATOR** blocks yourself; players deliver their own lines where marked **(PLAYER)**.  
 - **Persona guide:** [14-actor-personas.md](14-actor-personas.md), encourage big, fun choices; plot beats stay the same.
+- **Optional Marz:** If using the twelfth player, **Officer Marz** arrives at the lounge door after Ray's briefing (see [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)).
 
 ---
 

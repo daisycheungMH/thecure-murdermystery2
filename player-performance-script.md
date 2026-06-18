@@ -30,6 +30,8 @@
 
 **Personas:** Play big and fun. Your dossier and [14-actor-personas.md](14-actor-personas.md) have how to play your character.
 
+**Auxiliary cast:** **Officer Marlowe "Marz"** is the optional twelfth player (overflow security). She has a dossier and player pack entry like everyone else, but arrives after The Gathering and stays out of the eleven-person briefing. See [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md).
+
 ---
 
 # ACT 1
@@ -359,6 +361,22 @@
 > The storm kept screaming. The sirens were still miles away.  
 > And somewhere between the pharmacy vault and the admin terminal, the truth was already written in codes and overrides the room had not opened yet.
 
+### OPTIONAL: OFFICER MARZ (twelfth player, arrives after briefing)
+
+*Marz was on main campus when the code dropped. Read this beat when the facilitator calls you in, usually end of Act 1.*
+
+**MARZ**:
+
+> Okay! **Phase One: Lockdown Complete.** Officer Marlowe. Marz. Overflow from main campus. Perimeter's mine. You all keep being suspicious. Boo yah.
+
+**RAY** (optional):
+
+> Marz. Door. Logs. Don't gamify the corpse.
+
+**MARZ** (optional):
+
+> Copy that, Chief. Phase One point five: Respect the Corpse. I'm on it.
+
 ---
 
 **END OF ACT 1.** Investigate the wing. Defend yourself. Trade secrets. Do not open Act 2 until the facilitator says so.
@@ -427,6 +445,10 @@
 **RAY** (to **Vance**, if present or via intercom):
 
 > Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
+
+**MARZ** (optional, escort beat if facilitator splits room for search):
+
+> Welcome to **Phase Three: Controlled Chaos.** Pair up. I walk you to your assigned room. New rule: if you touch evidence without logging it, you lose credibility points. I don't make the system. Boo yah.
 
 **VANCE**:
 

@@ -167,6 +167,21 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             "when Melody flirts too loud in front of Vance",
         ],
     },
+    "12-officer-marz.md": {
+        "likes": [
+            "protocols, phases, and ideal scenarios",
+            "structured listening (you call it interrogation)",
+            "when a room finally follows a rule",
+            "Officer Diamond taking you seriously for five seconds",
+            "saying boo yah when a beat lands",
+        ],
+        "dislikes": [
+            "unstructured chaos with no learning objectives",
+            "people who step in biohazard-adjacent footprints",
+            'being told overflow means decoration',
+            "storm nights that skip the debrief",
+        ],
+    },
 }
 
 SECTION_HEADER = re.compile(r"^\*\*[^*]+\*\*\s*$")

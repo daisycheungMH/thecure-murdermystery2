@@ -35,6 +35,7 @@ All times approximate. Adjust to your table's surgery slot.
 | T−2h | **Alfie De Worsti** | Loading dock → VIP | Enters disguised as delivery driver | **Melody** saw him slip in |
 | T−90m | **Officer Ray** | Security office | Debt pressure from De Worsti; tears keycard log page to hide OR entry plan | Knows he made the tear |
 | T−90m | **Officer Diamond** | VIP corridor patrol | Junior patrol; notices torn keycard log page | Does not tell Ray immediately |
+| T−60m | **Officer Marlowe "Marz"** | Main campus security desk | Storm overflow shift; not yet routed to VIP wing | Not in building wing during prep |
 | T−60m | **Melody** | Front desk | Tears / notices missing master keycard log page | Logbook gap, **host only until Ep 3** |
 | T−45m | **Dr. Homes** | Pre op / consult | De Worsti intake; tension with Pepper | Prologue scene |
 | T−30m | **Nurse Pepper** | VIP consult suite | Prep; secret eye on De Worsti | Pepper, Homes, De Worsti |
@@ -74,6 +75,7 @@ All times approximate. Adjust to your table's surgery slot.
 | T+2m | **Staff / Melody** | OR corridor | Run to fetch **Lacey** (admin) and **Ray** (security) |
 | T+5m | **Nurse Pepper** | OR | Wakes terrified; sees De Worsti; shaking testimony, does not immediately accuse Homes |
 | T+10m | **Officer Ray** + **Officer Diamond** + **Lacey** | OR → Recovery Lounge | Ray secures scene; Diamond on perimeter; Lacey crisis posture; summon **all eleven** to lounge |
+| T+12m | **Officer Marlowe "Marz"** | Main campus → VIP wing stairs | Overflow call after code; en route during Gathering | Arrives end of Act 1; not in lounge for death |
 | T+20m | **Everyone** | Recovery Lounge | **THE GATHERING**, news broken; Homes named primary suspect (see 10-the gathering.md) |
 | T+35m | **Officer Ray** + **Dr. Curie** | Lounge → wing | Ray splits room for evidence search; keeps Homes primary; Curie looks like co-lead |
 | T+40m | **Melody** | Lounge testimony | Hints missing keycard page / cameras; Alfie glance; flirts with Diamond |

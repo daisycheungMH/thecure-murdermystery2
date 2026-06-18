@@ -38,6 +38,8 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 5. **No second badge**, Curie has medical authority, not arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
 
+6. **Optional overflow officer**, If cast, **Officer Marlowe "Marz"** (twelfth player) arrives after the code from main campus. She has a full dossier and supports perimeter and escort; Ray and Diamond still lead investigation. See [17-officer-marz.md](17-officer-marz.md).
+
 > **Narrator line (Ep 1):** *The city was drowning. The watch was spread thin as wire. And inside the VIP wing, the only handcuffs were on the wrong side of the door.*
 
 ---

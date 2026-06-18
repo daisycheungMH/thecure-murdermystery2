@@ -18,6 +18,7 @@
 | [12-de-worsti-revelation-arc.md](12-de-worsti-revelation-arc.md) | **De Worsti worse than killers, episode reveal map; Vance + Sachs** |
 | [13-curie-charm-playbook.md](13-curie-charm-playbook.md) | **Curie red herring; Ray flirt tension; Pepper ahem; Homes annoyed** |
 | [14-actor-personas.md](14-actor-personas.md) | **Exaggerated actor personas, all 11 players** |
+| [17-officer-marz.md](17-officer-marz.md) | **Optional 12th player: Officer Marz beat guide + dossier link** |
 | [player-dossiers/](player-dossiers/) | **Printable player character dossiers (1 per actor)** |
 | [player-performance-script.md](player-performance-script.md) | **Player script only** (no host notes; act by act) |
 | Game launcher canvas | **Players:** pick character, open dossier and script. **Open live canvas:** Ctrl+Shift+P → **Open Canvas**, or click [the-cure-game-launcher.canvas.tsx](file:///C:/Users/daisycheung/.cursor/projects/c-projects-the-cure/canvases/the-cure-game-launcher.canvas.tsx) |

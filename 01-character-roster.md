@@ -2,6 +2,7 @@
 
 **Victim / narrator (non player):** De Worsti  
 **Investigation leads (until Ep 4 coda):** Officer Ray, Officer Diamond + Dr. Curie  
+**Optional 12th player:** Officer Marlowe "Marz", storm overflow security, see [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)  
 **Full performance guide:** [14-actor-personas.md](14-actor-personas.md)
 
 ---
@@ -104,3 +105,19 @@
 - Crush on Melody, goes full genki disaster around her  
 - **Ability:** *Data Breach*, sticky note forces dossier reveal  
 - **Objective:** Survive Sachs, prison  
+
+---
+
+## Twelfth player (optional, overflow security)
+
+### Officer Marlowe "Marz", Procedure nerd (storm overflow)
+| | |
+|---|---|
+| **Persona** | Over enthusiastic procedure nerd; treats real crisis like a live action training simulation |
+| **Play** | Gamifies phases and credibility points; *boo yah*; official language in wrong contexts; playful then laser focused |
+| **Role** | Auxiliary containment officer, called last minute when storm overflow stretches security; perimeter and escort |
+| **Secret** | Sharper than the bit; reports observations to Ray instead of holding court |
+| **Ability** | *Training Module*, once per act: declare a phase name; room lets you finish one official sentence before arguing back (comic structure only) |
+| **Objective** | Keep perimeter honest; support Ray and Diamond; one real detail per act |
+| **Dossier** | [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md) |
+| **Host** | [17-officer-marz.md](17-officer-marz.md), arrives after The Gathering; limited main plot |

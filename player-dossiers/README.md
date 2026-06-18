@@ -11,6 +11,7 @@ Also print **[player-performance-script.md](../player-performance-script.md)** (
 
 | File | Character | Role |
 |------|-----------|------|
+| [00-alex-austin.md](00-alex-austin.md) | Alex Austin *(De Worsti)* | Victim / prologue only (not one of the eleven) |
 | [01-dr-curie.md](01-dr-curie.md) | Dr. Curie | Obvious red herring |
 | [02-officer-ray.md](02-officer-ray.md) | Officer Ray | Killer / security chief |
 | [03-nurse-pepper.md](03-nurse-pepper.md) | Nurse Pepper | Witness + logbook gatekeeper |
@@ -22,5 +23,6 @@ Also print **[player-performance-script.md](../player-performance-script.md)** (
 | [09-melody.md](09-melody.md) | Melody | Night receptionist |
 | [10-cd-vance.md](10-cd-vance.md) | CD Vance | IT contractor |
 | [11-officer-diamond.md](11-officer-diamond.md) | Officer Diamond | Junior security / investigator |
+| [12-officer-marz.md](12-officer-marz.md) | Officer Marlowe "Marz" | Auxiliary containment / overflow |
 
 **Ray** dossier includes a sealed **NIGHT TRUTH** section at the bottom, fold or staple closed before handing out.

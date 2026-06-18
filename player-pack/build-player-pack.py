@@ -83,6 +83,7 @@ DOSSIERS = {
     "melody": "09-melody.md",
     "vance": "10-cd-vance.md",
     "diamond": "11-officer-diamond.md",
+    "marz": "12-officer-marz.md",
 }
 
 SHARED_DOCS = {
@@ -220,6 +221,21 @@ CHARACTERS = [
         "role": "IT Contractor",
         "resources": with_dossier("10-cd-vance.md", []),
     },
+    {
+        "id": "marz",
+        "name": 'Officer Marlowe "Marz"',
+        "role": "Auxiliary Containment",
+        "resources": with_dossier(
+            "12-officer-marz.md",
+            [
+                {
+                    "id": "storm-containment",
+                    "label": "Storm and containment FAQ",
+                    "hint": "Player facing answers: why no police, why you investigate",
+                }
+            ],
+        ),
+    },
 ]
 
 
@@ -251,6 +267,8 @@ HOST_RESOURCES = [
     {"id": "08-alfie-de-worsti", "label": "Dossier: Alfie De Worsti", "path": "player-dossiers/08-alfie-de-worsti.md"},
     {"id": "09-melody", "label": "Dossier: Melody", "path": "player-dossiers/09-melody.md"},
     {"id": "10-cd-vance", "label": "Dossier: CD Vance", "path": "player-dossiers/10-cd-vance.md"},
+    {"id": "12-officer-marz", "label": "Dossier: Officer Marz", "path": "player-dossiers/12-officer-marz.md"},
+    {"id": "17-officer-marz", "label": "Officer Marz beat guide", "path": "17-officer-marz.md", "hint": "Host and player: when to enter, limited role"},
     {"id": "dossiers-readme", "label": "Dossiers README", "path": "player-dossiers/README.md"},
 ]
 
