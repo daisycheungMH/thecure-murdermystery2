@@ -224,7 +224,8 @@ CHARACTERS = [
     {
         "id": "marz",
         "name": 'Officer Marlowe "Marz"',
-        "role": "Auxiliary Containment",
+        "role": "Auxiliary Containment (optional 12th)",
+        "optional": True,
         "resources": with_dossier(
             "12-officer-marz.md",
             [

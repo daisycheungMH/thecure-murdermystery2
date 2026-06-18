@@ -106,15 +106,28 @@
       return;
     }
 
-    const cards = characters
-      .map(
-        (c) => `
-      <button type="button" class="card" data-character="${escapeHtml(c.id)}">
+    function characterCard(c) {
+      const optionalBadge = c.optional
+        ? `<span class="card-badge">Optional 12th</span>`
+        : "";
+      return `
+      <button type="button" class="card${c.optional ? " card-optional" : ""}" data-character="${escapeHtml(c.id)}">
+        ${optionalBadge}
         <span class="card-title">${escapeHtml(c.name)}</span>
         <span class="card-role">${escapeHtml(c.role)}</span>
-      </button>`
-      )
-      .join("");
+      </button>`;
+    }
+
+    const mainCast = characters.filter((c) => !c.optional);
+    const optionalCast = characters.filter((c) => c.optional);
+    const mainCards = mainCast.map(characterCard).join("");
+    const optionalCards = optionalCast.map(characterCard).join("");
+    const optionalSection = optionalCast.length
+      ? `
+      <h2 class="section-title">Optional 12th player</h2>
+      <p class="section-note">Storm overflow security. Arrives after The Gathering. Full dossier and script inside.</p>
+      <div class="grid grid-optional" id="optional-cast-grid">${optionalCards}</div>`
+      : "";
 
     root.innerHTML = `
       <header class="app-header">
@@ -123,10 +136,11 @@
       </header>
       ${modeToggleHtml("player")}
       <div class="callout callout-info">
-        Pick your character to open their resource folder. Each file opens inside this app.
+        Pick your character to open their resource folder. Eleven suspects plus optional Officer Marz.
       </div>
-      <h2 class="section-title">Cast</h2>
-      <div class="grid" id="cast-grid">${cards}</div>
+      <h2 class="section-title">Cast (${mainCast.length} players)</h2>
+      <div class="grid" id="cast-grid">${mainCards}</div>
+      ${optionalSection}
     `;
 
     bindModeToggle();
