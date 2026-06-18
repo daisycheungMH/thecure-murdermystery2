@@ -30,12 +30,12 @@ You are a genki IT girl who starts with *"okay okay okay the logs are…"* and a
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex's VIP records had gaps you noticed during storm failover.
+De Worsti's VIP records had gaps you noticed during storm failover.
 
 **History**
 
 - You are a contractor, not hospital staff.
-- Sachs threatened you in an elevator shaft and forced you to trace Alex's vanished wife through databases.
+- Sachs threatened you in an elevator shaft and forced you to trace De Worsti's vanished wife through databases.
 - Lacey forced a log scrub after the murder. You botched it, and a timestamp anomaly was left behind.
 
 ## 3. ALIBI (11:42 p.m.)

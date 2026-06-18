@@ -29,7 +29,7 @@ Honey drawl, brutal honesty, outlandish theories in plain English. You are junio
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
+De Worsti was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
 
 **History**
 

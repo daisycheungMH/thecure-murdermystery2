@@ -2,7 +2,7 @@
 
 CHARACTER NAME: Dr. Curie  
 AGE: 38  
-OCCUPATION: Chief of Surgery and medical liaison on Alex's death
+OCCUPATION: Chief of Surgery and medical liaison on De Worsti's death
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -11,7 +11,7 @@ You wear impeccable scrubs or a blazer, keep steady hands, and make warm eye con
 
 **Likes**
 
-- clean surgical work
+- violent scalpel work that still lands
 - competent partners
 - Ray's instincts (even when they get close)
 - being the calm anchor in a panicked room
@@ -19,52 +19,47 @@ You wear impeccable scrubs or a blazer, keep steady hands, and make warm eye con
 **Dislikes**
 
 - Homes's ego
-- Alex
+- De Worsti
 - sloppy investigations into Lacey (you quietly steer those away)
 - cruelty that serves no purpose
 
 **Vibe**
-You are witty, generous, and seriously professional. You shut down flirtation with a smile. Only Homes finds you obnoxious. Deep trauma lives under the charm, but you never show it.
+You are witty, generous, and seriously professional — a naive social butterfly who is genuinely friends with almost everyone in the wing. You shut down flirtation with a smile. Only Homes finds you obnoxious. Deep trauma lives under the charm, but you never show it. You assume good faith because you usually get it back.
 
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex was tonight's VIP patient, and the man who burned your family home and hunted Genevieve.
+De Worsti was tonight's VIP patient, and the man who burned your family home and hunted Genevieve.
 
 **History**
 
-- You grew up with Genevieve (now Lacey Lovely) at a regional youth sanctuary, failed to stop her marriage to Alex and what came after, and after she fled Alex torched your family home until everyone inside died.
-- Two days ago you learned Alex booked real VIP arterial surgery here, a power play on Lacey's hospital after Sachs and other warnings showed he was close; you and Lacey hatched the plan in that window, he is dead now, and you know exactly why.
+- You grew up with Genevieve (now Lacey Lovely) at a regional youth sanctuary, failed to stop her marriage to De Worsti and what came after, and after she fled De Worsti torched your family home until everyone inside died.
+- You wanted Alex dead. You did not kill him. Officer Ray runs this investigation, and the room will mistake your motive and your skill for guilt.
 
 ## 3. ALIBI (11:42 p.m.)
 
 **Where**
-You were in the eastern VIP corridor and at liaison checkpoints, not in the OR at the moment of the kill (this is your public story).
+You were in the eastern VIP corridor and at liaison checkpoints, not in the OR at the moment of the kill.
 
 **Backup**
-Staff saw you moving in the corridor, and Ray trusts your partnership on the investigation.
+Staff saw you moving in the corridor, and Ray trusts your partnership on the investigation. You can feel that he respects you — that is why you do not suspect him.
 
 **Hide (minor)**
-You did enter the OR during the blackout, so never admit it; if pressed, say you were coordinating triage from the corridor.
+You considered violence when De Worsti's booking landed. You did not act. If pressed, say you were coordinating triage from the corridor. You never realised your OR keycard left your person that night until the evidence names it. With this many colleagues who hug you in passing, you cannot narrow down who might have lifted it.
 
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Protect Lacey, frame Homes / Sachs / Alfie, and stay the most trusted investigator in the room.
+Protect Lacey, survive the red herring heat, and help the room find the truth without confessing to a crime you did not commit.
 
 **Plan**
 
-- Build a warm partnership with Ray. Light flirtation buys you cover, but never openly block leads on Lacey.
+- Build a warm partnership with Ray. Light flirtation keeps you at the table, but never openly block leads that point away from Lacey. You trust his respect for you; do not play paranoid.
+- When access logs surface, be honestly baffled — your card, your OR clearance, but you were in the corridor. That contradiction is real to you, not a performance.
 - Offer real medical insight. Tell Ray a lead seems unlikely but is still worth running.
-- When admin mistakes pile up, redirect attention toward blade contact and street level suspects.
+- When the room chases your sanctuary bond or surgical skill, stay calm. Homes's irritation makes him look guiltier; your charm makes you look guiltier. Use both.
 
 ## ⚠️ RULES
 
 - **✓** Use charm lines, praise, dry flirt, and medical jargon.
-- **✗** Do not confess. Do not break with Lacey. Do not openly block Ray when he digs into Lacey.
-
-## 🔒 NIGHT TRUTH, DO NOT SHARE
-
-- You killed Alex in a 48-hour plan after signs of him and his surgery booking: tampered vial, Lacey's blackout, OR entry, carotid cut, Homes framed.
-- Alex needed the operation (compromised artery) and chose St. Saphicca's to dominate Lacey; Homes and you refused his theater, and Lacey provided the vault code while having Vance scrub logs.
-- In Ep 3 you may attack Melody (KCl) if the story reaches that beat (do not initiate this), and your biggest risk is that the incision is too perfect for Homes's panic story.
+- **✗** Do not confess to the murder. Do not break with Lacey. Do not openly block Ray when he digs into Lacey.

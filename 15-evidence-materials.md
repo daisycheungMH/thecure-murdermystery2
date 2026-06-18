@@ -40,7 +40,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E1-C, Private investigator dossier
 
-**Description:** Folded report in Alex Austin's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Saphicca's for a **real** surgical booking, not cover alone. **No first name** until Alfie speaks in Episode 4.
+**Description:** Folded report in De Worsti's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Saphicca's for a **real** surgical booking, not cover alone. **No first name** until Alfie speaks in Episode 4.
 
 **Text:**
 
@@ -65,7 +65,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 **Text:**
 
-> When backup lighting returned, Dr. Homes was at center table with bloody gloves and a scalpel in his hand. Alex Austin's carotid artery was opened with surgical precision. Staff testimony: Homes shouted for failover power; he claims the blade was pulled from his grip during the blackout.
+> When backup lighting returned, Dr. Homes was at the center table with bloody gloves and a scalpel in his hand. De Worsti lay on the tile beside it, carotid opened with a scalpel in a violent, passionate stroke that looked almost crazed, IV lines pulled loose, monitors dark. Staff testimony: Homes shouted for failover power; he claims the blade was pulled from his grip during the blackout.
 
 ---
 
@@ -175,12 +175,12 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E3-A, Missing keycard log page
 
-**Description:** Torn page from the VIP master keycard book. Melody noticed it before surgery. Links administration to OR corridor access.
+**Description:** Torn page from the VIP master keycard book. Melody noticed it before surgery. Links OR corridor access to **Curie's surgery-chief badge** (Ray tore the page to hide the theft).
 
 **Text:**
 
 > **VIP MASTER KEYCARD LOG, EXTRACT (PAGE MISSING FROM BINDER)**  
-> 11:15 p.m., Card #VIP-OR-07, checkout: **Executive tier**  
+> 11:15 p.m., Card #VIP-OR-07, checkout: **Surgery chief tier (Dr. Curie)**  
 > Destination: Eastern secure corridor, OR Two approach  
 > Return field: **BLANK**  
 > Desk note (Melody, handwriting): *"Page was already gone when I called the code. Someone tore it out before surgery."*
@@ -209,7 +209,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 > **PERSONAL EFFECTS, VIP LOADING BAY**  
 > Item: Fixed blade hunting knife, concealed carry wrap  
-> Owner statement (Alfie Austin): *"Delivery driver cover. I came for my brother. I didn't get to him."*  
+> Owner statement (Alfie De Worsti): *"Delivery driver cover. I came for my brother. I didn't get to him."*  
 > Blood: none on blade (OR kill used surgical steel, not this)
 
 ---
@@ -222,7 +222,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 > **PERIMETER SEARCH, VIP ACCESS CORRIDOR**  
 > Item: Industrial wire cutters, worn handles  
-> Sachs statement: *"For krits and toors, not throats. Someone peat me to the plackout."*  
+> Sachs statement: *"For krits and toors, not throats. Someone peat me to the plackout—and fix the lighting in this corridor while you're at it."*  
 > Engraving (faded): collection crest, Indigo District
 
 ---
@@ -278,15 +278,16 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-C, Raw mainframe keycard log
 
-**Description:** Vance pulls unedited data. Shows executive keycard in OR approach during the 60 second blackout.
+**Description:** Vance pulls unedited data. Shows **Dr. Curie's** OR keycard at the reader during the 60 second blackout. Curie was in the corridor — Ray stole the badge and Curie never noticed until tonight.
 
 **Text:**
 
 > **MAINFRAME RAW, VIP KEYCARD (UNEDITED)**  
-> 11:42:04 p.m., Card #VIP-OR-07, **LACEY LOVELY**, executive tier  
+> 11:42:04 p.m., Card #VIP-OR-07, **DR. CURIE**, surgery chief tier  
 > Reader: Eastern secure corridor → OR Two approach  
 > Duration: 58 seconds inside blackout window  
-> Compare: edited log (E4-D) shows **NO ENTRY**
+> Compare: edited log (E4-D) shows **NO ENTRY**  
+> Curie statement (if asked): *"That's my clearance. I was not at that reader. I don't know when my card left my person."*
 
 ---
 
@@ -297,7 +298,7 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **LOG COMPARISON, VANCE WORKSTATION**  
-> Raw timestamp: 11:42:04 p.m., executive card, OR corridor  
+> Raw timestamp: 11:42:04 p.m., **Dr. Curie**, surgery chief card, OR corridor  
 > Published timestamp: **[ENTRY REMOVED]**  
 > Edit authorization: **ADMIN DIRECTIVE**, voice match flagged: Director Lovely  
 > Vance note: *"I botched it. Left the gap. I'm sorry. I'm sorry. eep."*
@@ -306,16 +307,16 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-E, Surgical perfection report
 
-**Description:** Medical assessment of the kill wound. Incision skill matches chief of surgery, not panic surgery.
+**Description:** Medical assessment of the kill wound. Violent scalpel work that could read as rage or skill.
 
 **Text:**
 
 > **PRELIMINARY WOUND ASSESSMENT, MORGUE COPY**  
-> Single carotid incision, clean entry, no hesitation marks  
-> Profile: **master level**, night or low light training suspected  
-> Consistent with: attending surgeon in controlled conditions  
-> **Inconsistent with:** disoriented primary surgeon still holding blade when lights returned  
-> Curie note (if asked): *"Homes is brilliant. This cut is… quieter than his panic would have been."*
+> Single carotid scalpel wound; violent entry, ragged in places, reads as passionate rage  
+> Profile: **could be surgeon or killer in a frenzy**, scalpel weapon, night or low light suspected  
+> Consistent with: attending surgeon in controlled conditions **or** primary surgeon acting in hatred  
+> **Inconsistent with:** neat theatre incision; wound looks too crazed for calm surgery  
+> Curie note (if asked): *"Homes could have done this in rage. Or someone wanted it to look that way."*
 
 ---
 
@@ -331,9 +332,9 @@ Each entry: short description + full text to read aloud or hand out.
 
 ---
 
-### E4-G, Alex's ledger (puzzle)
+### E4-G, De Worsti's ledger (puzzle)
 
-**Description:** Hidden ledger prop for final act. Sachs wants the stolen millions; room maps who owed Alex and who hunted the money.
+**Description:** Hidden ledger prop for final act. Sachs wants the stolen millions; room maps who owed De Worsti and who hunted the money.
 
 **Text:**
 
@@ -344,7 +345,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Outstanding: Ray [security], Jetski/Alfie [gambling], Sachs [enforcement split]  
 > **REPOSSESSION LIST:** G.A., wife, full account freeze, **sanctuary contact** [fire incident, see press]  
 > **STOLEN / UNRECOVERED:** $2.4M moved offshore, subject fled  
-> Margin note (Alex): *"She doesn't get to buy a new face with my money."*  
+> Margin note (De Worsti): *"She doesn't get to buy a new face with my money."*  
 >
 > Puzzle goal: match names to players; understand why half the wing was in his debt tonight
 
@@ -352,7 +353,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-H, Newspaper clipping, sanctuary fire
 
-**Description:** Older article about an arson death tied to a debt operation. **Alex is not named**; descriptors match his methods and the P.I. dossier's "message" to a runaway wife.
+**Description:** Older article about an arson death tied to a debt operation. **De Worsti is not named**; descriptors match his methods and the P.I. dossier's "message" to a runaway wife.
 
 **Text:**
 
@@ -373,7 +374,7 @@ Each entry: short description + full text to read aloud or hand out.
 | Hospital ID badge | 10 | All players | Session start | Name, role, photo slot |
 | VIP Wing Logbook | 1 | Nurse Pepper | Ep 1+ | Pepper gates access; log timestamps |
 | Tampered anesthesia vial | 1 | Planted by Curie | Ep 1 OR search | Pair with **E1-B** card |
-| P.I. dossier folder | 1 | Alex's coat | Ep 1 OR search | Pair with **E1-C** card |
+| P.I. dossier folder | 1 | De Worsti's coat | Ep 1 OR search | Pair with **E1-C** card |
 | Blood pattern floor card | 1 | Host / OR | Ep 1 | **E1-A** |
 | Scalpel (prop or tag) | 1 | Scene | Ep 1 | Homes framing; **E1-D** readout |
 | Pepper's toxicology folder | 1 | Pepper | Ep 2 | **E2-A** inside |
@@ -388,13 +389,13 @@ Each entry: short description + full text to read aloud or hand out.
 | Antidote puzzle card | 1 | Host | Ep 3 | See **Antidote** entry |
 | Newspaper clipping, G.A. missing | 1 | Host | Ep 4 | **E4-F**, after Alfie |
 | Newspaper clipping, sanctuary fire | 1 | Host | Ep 4 | **E4-H**, with ledger or press packet |
-| Alex's ledger (folder) | 1 | Hidden | Ep 4 | **E4-G** puzzle |
+| De Worsti's ledger (folder) | 1 | Hidden | Ep 4 | **E4-G** puzzle |
 | Raw mainframe log printout | 1 | Vance | Ep 4 | **E4-C / E4-D** |
 | Surgical assessment card | 1 | Host | Ep 4 | **E4-E** |
-| Accusation ballot | 10 | Host | Ep 4 | One suspect or pair (Curie + Lacey) |
+| Accusation ballot | 10 | Host | Ep 4 | One suspect (**Officer Ray**) or pair (Ray + Lacey) |
 | Moral verdict ballot | 10 | Host | Ep 4 | MURDER / JUSTICE / SYSTEM FAILURE |
 | Storm radio static cue | 1 | Host | All acts | Optional speaker or phone |
-| VIP patient gown (optional) | 1 | Alex prologue | Prologue | Atmospheric |
+| VIP patient gown (optional) | 1 | De Worsti prologue | Prologue | Atmospheric |
 | Flashlight (optional) | 1 | Host | Ep 3 | Melody scene |
 
 ---
@@ -402,6 +403,6 @@ Each entry: short description + full text to read aloud or hand out.
 ## HOST NOTES
 
 - **E1-C** and **E4-F / E4-H** are designed to connect **after** Alfie names Genevieve, not before.  
-- **E4-H** never names Alex Austin; room infers from financier + Indigo + sanctuary + ledger cross reference.  
-- Red herring props (**E3-C**, **E3-D**) should feel damning but do not match the surgical kill profile (**E4-E**).  
+- **E4-H** never names De Worsti; room infers from financier + Indigo + sanctuary + ledger cross reference.  
+- Red herring props (**E3-C**, **E3-D**) should feel damning but do not match the violent scalpel kill profile (**E4-E**).  
 - Full drop timing: [04-evidence-index.md](04-evidence-index.md).

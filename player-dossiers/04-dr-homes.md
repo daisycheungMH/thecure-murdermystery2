@@ -19,7 +19,7 @@ You wear surgical scrubs with your chin up and god complex posture. Bloody glove
 **Dislikes**
 
 - Curie's charm
-- Alex's wallet ethics
+- De Worsti's wallet ethics
 - wasted OR time
 - accusations without proof
 
@@ -29,7 +29,7 @@ You are an authoritative dick for a good cause. You are insufferable because you
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex was your VIP arterial case tonight.
+De Worsti was your VIP arterial case tonight.
 
 **History**
 
@@ -55,7 +55,7 @@ Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
 
 **Plan**
 
-- Push two points together: the blade was stolen, and the incision is too perfect for panic surgery.
+- Push two points together: the blade was stolen, and the wound looks passionate and crazed, which fits you in the room, but a scalpel in trained hands could still belong to someone else.
 - Mock Curie and Ray's flirt openly because it makes you look guilty even when it is also true.
 
 ## ⚠️ RULES

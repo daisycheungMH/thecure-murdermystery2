@@ -15,8 +15,8 @@
 | [09-storm-containment-logic.md](09-storm-containment-logic.md) | **Why no police / why suspects investigate / Ray's conflict** |
 | [10-the-gathering.md](10-the-gathering.md) | **Central cast briefing, Ray + Diamond + Curie, all eleven players, Homes accused** |
 | [11-genevieve-backstory.md](11-genevieve-backstory.md) | **Genevieve / Lacey abuse history; Alfie reveal beat** |
-| [12-alex-revelation-arc.md](12-alex-revelation-arc.md) | **Alex worse than killers, episode reveal map; Vance + Sachs** |
-| [13-curie-charm-playbook.md](13-curie-charm-playbook.md) | **Curie's charisma; Ray flirt tension; Pepper ahem; Homes annoyed** |
+| [12-de-worsti-revelation-arc.md](12-de-worsti-revelation-arc.md) | **De Worsti worse than killers, episode reveal map; Vance + Sachs** |
+| [13-curie-charm-playbook.md](13-curie-charm-playbook.md) | **Curie red herring; Ray flirt tension; Pepper ahem; Homes annoyed** |
 | [14-actor-personas.md](14-actor-personas.md) | **Exaggerated actor personas, all 11 players** |
 | [player-dossiers/](player-dossiers/) | **Printable player character dossiers (1 per actor)** |
 | [player-performance-script.md](player-performance-script.md) | **Player script only** (no host notes; act by act) |

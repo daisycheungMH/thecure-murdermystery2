@@ -11,30 +11,30 @@
 
 | Character           | Persona                           | Play as…                                               |
 | ------------------- | --------------------------------- | ------------------------------------------------------ |
-| **Dr. Curie**       | Prince Charming villain           | Disney prince surface; horror buried deep              |
-| **Officer Ray**     | Bruiser with soft center          | Wall of muscle and bark; secret marshmallow            |
+| **Dr. Curie**       | Prince Charming red herring       | Disney prince surface; motive without guilt             |
+| **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; friend's revenge               |
 | **Officer Diamond** | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
 | **Nurse Pepper**    | Sage + sentimental                | Wise, calm, then devastatingly precise                 |
 | **Dr. Homes**       | Authoritative dick (good cause)   | Insufferable expert who *is* that good                 |
 | **Lacey Lovely**    | Girl next door damsel / corporate | Soft, pretty, harmless, spreadsheet blade underneath   |
 | **CD Vance**        | Genki IT girl                     | Hyper, cute, nerdy; terror as squeaky speed            |
-| **Swastika Sachs**  | Loyal knight (German)             | Code, duty; accent: D→T, B→P, G→K, V→F                 |
+| **Uvula Sachs**  | Workflow chaos gremlin (German)   | Efficiency rage; murder as bad PM; accent: D→T, B→P, G→K, V→F |
 | **Melody**          | Valley gossip bimbo               | Airy, ditzy, sees *everything*                         |
-| **Alfie Austin**    | Shifty nervous coward             | Wannabe tough guy; folds instantly                     |
+| **Alfie De Worsti**    | Strategic rage baiter             | Screw-up mask; observant; inflammatory; punchable      |
 | **Dr. Jetski**      | Frazzled surfer bro               | Sweat, volume, occasional *dude*; smart when it counts |
 
 
 ---
 
-## Dr. Curie, Prince Charming (villain under the hood)
+## Dr. Curie, Prince Charming (obvious red herring)
 
 **Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading man charm, the room *wants* to be on his side.
 
-**Under the hood:** Deeply traumatized (Genevieve, the fire, the pact). **Never let it show**, only the prince. When stressed, get *more* charming, not less.
+**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** When stressed, get *more* charming, not less, and the room will chase the wrong surgeon.
 
 **Physical:** Open posture; unhurried hands; smile that lands like a gift.  
 **Voice:** Low, warm, complete sentences. Never shouts, cuts with politeness.  
-**Tell:** When lying, he gets *extra* helpful.
+**Tell:** When cornered on motive, he gets *extra* sincere, not guilty.
 
 > *"Officer, I'd flirt back, but we have a corpse."* (smile, pivot, devastating competence).
 
@@ -42,15 +42,17 @@
 
 ---
 
-## Officer Ray, Bruiser with a soft center
+## Officer Ray, Bruiser with a soft center (killer)
 
 **Surface:** Square jaw energy, boots loud, notebook like a weapon. First impression: *will arrest the weather.*
 
-**Soft center:** Protective of innocents, secretly romantic about partnership, genuinely wants justice. Curie flusteres him, he hates that he likes it.
+**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes.
 
-**Physical:** Takes space; points with chin; softens voice only for Curie or when admitting debt shame.  
+**Soft center:** Protective of Lacey, quietly loyal to his friends, uses warmth as cover. He is easier around Lacey than almost anyone else.
+
+**Physical:** Takes space; points with chin; softens voice only for Curie, Lacey, or when admitting debt shame.  
 **Voice:** Gravel, short sentences, words a normal person would use. Occasional accidental tenderness he covers with gruffness.  
-**Tell:** Rubs back of neck when embarrassed.
+**Tell:** Rubs back of neck when embarrassed, or when the keycard question gets too close.
 
 > *"Don't tell me how to ask questions."* (said like he already took the note).
 
@@ -78,7 +80,7 @@
 
 **Surface:** Still water and hospital monk energy; you speak like you've read the chart *and* the room.
 
-**Sentimental:** Grief for Alex is real and messy beneath the calm, while your crush on Homes stays quiet and not performative.
+**Sentimental:** Grief for De Worsti is real and messy beneath the calm, while your crush on Homes stays quiet and not performative.
 
 **Logical:** When she switches to data mode, it's surgical, timestamps, vitals, no fluff. The throat clear is her **only** undignified habit *once she's composed again.*
 
@@ -110,11 +112,11 @@
 
 **Corporate side:** Ice underneath. Liability language, boardroom smile, crisis voice on speakerphone.
 
-**Play the gap:** Damsel in the light; mastermind in the pause before she answers.
+**Play the gap:** Damsel in the light; steel in the pause before she answers. Ray's friend; she did not plan the murder.
 
 **Physical:** Soft angles; stillness; smile that doesn't reach eyes when cornered.  
 **Voice:** Warm alto for public; flat executive for threats.  
-**Ep 4 denial:** Sincere sounding, *"I only wanted to run"*, delivered like a woman who's practiced being believed.
+**Ep 4 denial:** Sincere, *"I only wanted to run"*, delivered like a woman telling the truth for once.
 
 ---
 
@@ -130,25 +132,41 @@
 
 **Melody crush:** Goes full genki disaster around her, helpful to a fault.
 
-> Sachs threatens her → she still says *"eep"* and does the query.
+> Sachs micromanages her → she still says *"eep"* and does the query.
 
 ---
 
-## Swastika Sachs, Loyal knight (second in command, German)
+## Uvula Sachs, Workflow chaos gremlin (second in command, German)
 
-**Surface:** Enforcer as **chivalric code**, brutal, but principled in her own twisted way. Alex was the liege; she was the sword. Now the liege is dead and the realm owes answers.
+**Surface:** Sachs treats crime like a **perfectly engineered system**—but tonight nothing meets her standards, and it is personally offensive. Instead of cold and slick, she becomes an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow.
 
-**Not dumb muscle:** Speaks in duty, debt, honor among thieves. Mocking her name is attacking her crest.
+**Still dangerous:** Wire cutters, elevator threats, syndicate muscle. The ridiculousness does not make her safe. It makes her **unpredictable**.
+
+**Not dumb muscle:** Over-analysis to absurd levels. Takes everything too literally. Gets distracted by inefficiency mid-interrogation. Treats murder like a badly run corporate meeting. Randomly fixates on lighting, posture, phrasing.
 
 **German accent (mandatory):** Lines in the script are pre-accented. When you improvise, swap **D→T, B→P, G→K, V→F** (good→goot, rob→rop, dog→dok, love→luff).
 
-**Physical:** Still as armor; economy of violence; wire cutters like a reliquary.  
-**Voice:** Formal cruelty; German consonants; unexpected courtesy when someone "gets it."  
-**Tell:** Calls people *"sir"* or *"lady"* right before threatening them.
+**Physical:** Big gestures when something is *wrong* with the process; wire cutters like a tool she brought to fix the building; stops mid-threat to squint at bad lighting.  
+**Voice:** German consonants; sudden full-volume efficiency rage; whiplash from corporate critique to violence.  
+**Tell:** *"Wait. Stop. Everyone stop."* before dismantling someone's timeline, alibi, or sentence structure.
 
-> *"You ton't moralize at me, sir. You were on the clock."*
+**Sample lines (ad-lib freely):**
 
-**Vance:** Treats as squire, coerced, but *hers*.
+> *"Wait. Stop. Everyone stop. This timeline—this is not a timeline. This is a suggestion."*
+
+> *"You said 'around 9.' What is 'around'? This is not a planet orbit."*
+
+> *"Who is in charge here? No one? Ah. That explains everything immediately."*
+
+> *"We have motive, we have opportunity, we have… vibes. Why are we using vibes?"*
+
+> *"You are all speaking in paragraphs. We need bullet points. Bullet points save lives."*
+
+> *"The lighting in this hospital is hostile. I cannot think in this lighting."*
+
+> *"If I made decisions like this in my work, I would be dead. Which—yes, ironic."*
+
+**Vance:** Treats as overworked contractor on a death march—coerced, micromanaged, still *hers*.
 
 ---
 
@@ -164,17 +182,17 @@
 
 ---
 
-## Alfie Austin, Shifty nervous coward
+## Alfie De Worsti, Strategic rage baiter
 
-**Surface:** Wannabe operator, borrowed confidence, delivery driver cosplay, knife he doesn't know how to hold.
+**Surface:** Reckless screw-up, delivery driver cosplay, knife held wrong on purpose, treats murder night like a bad reality show.
 
-**Truth:** Folds under pressure; tells the truth in **hedges** because he's scared of everyone, Alex's memory, Lacey, Ray, Sachs.
+**Truth:** Very observant. Strategically inflammatory — thrives on reactions, pokes insecurities, turns people against each other. While others solve the murder, he tries to **break the room dynamic**. Hedged language (*"I think… maybe…"*) is camouflage, not fear; sounding harmless makes the hit land harder.
 
-**Physical:** Can't stand still; wrings hands; looks at exits.  
-**Voice:** Speeds up when lying; voice cracks on Genevieve's name; apologetic mid sentence.  
-**Tell:** *"I mean, probably, I could be wrong, "* before the most accurate thing anyone says all night.
+**Physical:** Loose grin in serious moments; can't stand a calm room; eyes on exits and on whoever's about to crack.  
+**Voice:** Unserious cadence that sharpens when baiting; fake apology mid-sentence; voice only cracks on Genevieve's name — the one subject that punches through the mask.  
+**Tell:** Smirk when tension spikes; *"I mean, probably, I could be wrong, "* before the most accurate thing anyone says all night.
 
-**Ep 4:** Protective of Lacey/Genevieve because family guilt, not courage.
+**Ep 4:** Protective of Lacey/Genevieve because family guilt — the rare beat where the baiter mask slips toward something real.
 
 ---
 
@@ -197,11 +215,11 @@
 
 | Pairing           | Dynamic                                  |
 | ----------------- | ---------------------------------------- |
-| Curie + Ray       | Prince + bruiser flirt; Pepper ahems     |
+| Curie + Ray       | Easy banter under pressure; Pepper ahems |
 | Curie + Homes     | Charm vs merit, oil and fire             |
-| Sachs + Vance     | Knight + squeaky squire                  |
+| Sachs + Vance     | Chaos PM + squeaky contractor            |
 | Melody + everyone | Bimbo mirror, they underestimate her     |
 | Lacey + room      | Damselness slips one notch per act       |
-| Alfie + Lacey     | Coward protecting ghost of sister in law |
+| Alfie + Lacey     | Baiter who goes soft when Genevieve surfaces |
 
 

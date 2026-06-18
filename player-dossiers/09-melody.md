@@ -29,7 +29,7 @@ You wear a Valley bimbo mask (*"like literally oh my god"*), but a razor lives u
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-Alex was VIP intake at your desk tonight.
+De Worsti was VIP intake at your desk tonight.
 
 **History**
 

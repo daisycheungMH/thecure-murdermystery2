@@ -11,16 +11,16 @@ Also print **[player-performance-script.md](../player-performance-script.md)** (
 
 | File | Character | Role |
 |------|-----------|------|
-| [01-dr-curie.md](01-dr-curie.md) | Dr. Curie | Killer, investigator cover |
-| [02-officer-ray.md](02-officer-ray.md) | Officer Ray | Security chief / scene commander |
+| [01-dr-curie.md](01-dr-curie.md) | Dr. Curie | Obvious red herring |
+| [02-officer-ray.md](02-officer-ray.md) | Officer Ray | Killer / security chief |
 | [03-nurse-pepper.md](03-nurse-pepper.md) | Nurse Pepper | Witness + logbook gatekeeper |
-| [04-dr-homes.md](04-dr-homes.md) | Dr. Homes | Framed surgeon |
-| [05-lacey-lovely.md](05-lacey-lovely.md) | Lacey Lovely | Mastermind |
+| [04-dr-homes.md](04-dr-homes.md) | Dr. Homes | Framed surgeon / first suspect |
+| [05-lacey-lovely.md](05-lacey-lovely.md) | Lacey Lovely | Ray's friend; hunted by De Worsti |
 | [06-dr-jetski.md](06-dr-jetski.md) | Dr. Jetski | Anesthesiologist |
-| [07-swastika-sachs.md](07-swastika-sachs.md) | Swastika Sachs | Enforcer (red herring) |
-| [08-alfie-austin.md](08-alfie-austin.md) | Alfie Austin | Alex's brother |
+| [07-uvula-sachs.md](07-uvula-sachs.md) | Uvula Sachs | Enforcer (red herring) |
+| [08-alfie-de-worsti.md](08-alfie-de-worsti.md) | Alfie De Worsti | De Worsti's brother |
 | [09-melody.md](09-melody.md) | Melody | Night receptionist |
 | [10-cd-vance.md](10-cd-vance.md) | CD Vance | IT contractor |
 | [11-officer-diamond.md](11-officer-diamond.md) | Officer Diamond | Junior security / investigator |
 
-**Curie** and **Lacey** dossiers include a sealed **NIGHT TRUTH** section at the bottom, fold or staple closed before handing out.
+**Ray** dossier includes a sealed **NIGHT TRUTH** section at the bottom, fold or staple closed before handing out.

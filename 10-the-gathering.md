@@ -2,7 +2,7 @@
 
 **When:** Immediately after Episode 1 OR cutscene (~15 minutes scripted + live questioning)  
 **Location:** VIP Recovery Lounge, glass on three sides, storm hammering the city, red backup wash bleeding through the blinds  
-**Present:** All eleven players. Alex Austin is absent, body in OR, morgue pending.  
+**Present:** All eleven players. De Worsti is absent, body in OR, morgue pending.  
 **Leads:** Officer Ray, Officer Diamond + Dr. Curie  
 **Room temperature:** **Dr. Homes is the primary suspect.**
 
@@ -25,7 +25,7 @@
 > The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
 > Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
 > Officer Ray has pulled everyone with access to this wing into one room. Officer Diamond is with him. Not a request. The wing is locked down.  
-> The body of Alex Austin is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
+> The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
 > And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
 
 *Door locks. Distant thunder.*
@@ -45,7 +45,7 @@
 > And I'm Officer Diamond. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
-> At eleven forty-two, Alex Austin died in VIP OR Two. Throat cut. One clean cut.  
+> At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
 > Lights were out about a minute. When they came back, Dr. Homes was standing over him with a scalpel in his hand.
 
 **HOMES** (PLAYER: defensive, immediate):
@@ -98,7 +98,7 @@
 
 > **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
 > (beat, harder)  
-> I know how this looks. Austin had dirt on half this city. He had dirt on me too. I'm a suspect same as you. I'm also running this wing until those sirens show up.  
+> I know how this looks. De Worsti had dirt on half this city. He had dirt on me too. I'm a suspect same as you. I'm also running this wing until those sirens show up.  
 > Nobody leaves. Nobody. You talk in this room, or I stick you in separate rooms and let the real cops sort it in the morning.
 
 *Silence. Storm on the glass.*
@@ -121,7 +121,7 @@
 
 > He's not lying about the timing. I felt it too, cognitive lag, motor drop. We were incapacitated before the incision.  
 > (beat, unwilling)  
-> I was assisting Dr. Homes. Alex was on the table. When the red lights came back… Homes had the scalpel. Austin was gone.
+> I was assisting Dr. Homes. De Worsti was on the table when the lights died. When the red lights came back he was on the floor… Homes had the scalpel. De Worsti was gone.
 
 *Eyes turn to **Homes**. The room does the math without help.*
 
@@ -133,7 +133,7 @@
 
 **CURIE** (quiet, surgical):
 
-> The incision profile doesn't match panic. It matches training.
+> The wound was not panic. It was passionate, almost crazed. But a scalpel did it, and that could be a surgeon's hand or a man's rage.
 
 *Not accusation. Worse, assessment. The room hears it as verdict.*
 
@@ -181,27 +181,29 @@
 
 > **RAY:** (flat) Other requests. We'll come back to logs. And to you.
 
-**SACHS** (PLAYER, lazy menace, German accent; lines as written):
+**SACHS** (PLAYER, efficiency rage bleeding into menace, German accent; lines as written):
 
-> He does what keeps his pones in one piece. Like everypody else in this room who isn't holting a scalpel.
+> He does what keeps his pones in one piece. Like any contractor who does not want the project cancelled.
 
-**ALFIE** (PLAYER, defensive, too loud):
+**ALFIE** (PLAYER, smug, too casual):
 
-> Alfie Austin. Alex's brother. I was a delivery. Medical supplies. That's on the manifest.
+> Alfie De Worsti. De Worsti's brother. I was a delivery. Medical supplies. That's on the manifest.
 
-**SACHS** (PLAYER, knight formality, dangerous amusement, German accent):
+**SACHS** (PLAYER, hyper-critical chaos gremlin, German accent):
 
-> Swastika Sachs. You want the name on my pirth certificate or the one your mother kave you?
+> Uvula Sachs. You want the name on my pirth certificate or the one your mother kave you?
+
+> *(to room, suddenly)* Wait. Stop. Who is running this introduction? No one? Ah. That explains the vibe in this room immediately.
 
 > **RAY:** (immediate) Where were you at eleven forty-two?
 
 **SACHS:**
 
-> Perimeter. VIP access corridor. A soldier posts where she's tolt. Alex owet the realm money. I owet the realm answers. I dit not owe him a throat cut in the tark.
+> Perimeter. VIP access corridor. Eleven forty-two, **not** "around" eleven forty-two. I post where I'm told. De Worsti owed money. I owed answers. I did not owe him a throat cut in the dark.
 
 *She looks at **Homes**.*
 
-> Put if you're asking who in this room looks like they just left an OR? You're staring at him, Officer.
+> And if you're asking who in this room looks like they just left an OR? You are staring at him, Officer. Motive, opportunity, blood on his hands. Why are we still using vibes?
 
 **LACEY** (PLAYER, controlled):
 
@@ -225,7 +227,7 @@
 
 **RAY** stands. Circles the table. Stops behind Homes' chair.
 
-> **RAY:** Let's be plain. Everyone hated Austin. Loan shark in a hospital gown. Half of you wanted him dead.  
+> **RAY:** Let's be plain. Everyone hated De Worsti. Loan shark in a hospital gown. Half of you wanted him dead.  
 > But only one guy was standing over the body, blood on his hands, scalpel in his grip when the lights came back.  
 > Dr. Homes, you're my main suspect tonight.
 
@@ -237,7 +239,7 @@
 
 > I know what I know. And right now I know you were holding the instrument.
 
-*Beat. Curie is the killer steering the room. This line should land.*
+*Beat. Curie is the red herring the room will chase. Ray is the killer steering the investigation. This line should land.*
 
 **PEPPER** (PLAYER, torn, quiet):
 
@@ -264,7 +266,7 @@
 **CURIE** steps forward. Addresses everyone, not just Homes.
 
 > **CURIE:** Officer Ray cannot process a coordinated murder alone. I cannot autopsy a conspiracy from a cot.  
-> Every person in this lounge was inside the VIP wing when Alex Austin died. That makes you witnesses, suspects, or both.  
+> Every person in this lounge was inside the VIP wing when De Worsti died. That makes you witnesses, suspects, or both.  
 > The municipal watch is not walking through that flood tonight. The killer may still be in this wing, I don't say that to panic you. I say it because it's true.  
 > So here's what happens next. We split the wing. We log evidence. We cross check access, pharmacy, power, keycards, and testimony. You don't get to go home and invent an alibi in the rain.
 
@@ -288,7 +290,7 @@
 > You know what keeps turning in my head?  
 > (beat)  
 > We keep asking who was in the OR. Who had the blade. Who was out in the storm.  
-> But whoever killed Austin didn't have to be out there.  
+> But whoever killed De Worsti didn't have to be out there.  
 > They could be right here. In this lounge. Listening. Helping us decide who to blame.  
 > (quieter, to Pepper or the room)  
 > That's the part that's going to stay with me, man.
@@ -315,7 +317,7 @@
 | **Melody** | Called code; hints missing log / cameras |
 | **Vance** | Server room; logs; **Sachs glance**; wife hunt foreshadow |
 | **Sachs** | German accent; street presence; points at Homes; implies Vance is her coerced asset |
-| **Alfie** | Brother; delivery cover; nervous |
+| **Alfie** | Brother; delivery cover; inflammatory; watches who flinches |
 
 ---
 
@@ -359,7 +361,7 @@
 
 - This scene **centralizes the cast** before anyone scatters, every player has heard the charge and the lockdown rules.  
 - **Homes must feel the room turn on him**, Sachs, Ray, Curie, and default logic all point his way. Pepper's doubt is the seed for later doubt.  
-- **Curie's warmth toward Homes in the corridor** (optional stage direction) foreshadows the frame job.  
+- **Curie's warmth toward Homes in the corridor** (optional stage direction) foreshadows how cleanly Ray framed him.  
 - If players try to leave: Ray blocks door, *"Protocol Delta. Sit."*  
 - Lacey invoking counsel then losing to Ray establishes power struggle early.  
 - Melody's unfinished *"including, "* plants Alfie without full reveal.

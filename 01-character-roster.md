@@ -1,6 +1,6 @@
 # Character Roster, 11 Players
 
-**Victim / narrator (non player):** Alex Austin  
+**Victim / narrator (non player):** De Worsti  
 **Investigation leads (until Ep 4 coda):** Officer Ray, Officer Diamond + Dr. Curie  
 **Full performance guide:** [14-actor-personas.md](14-actor-personas.md)
 
@@ -8,25 +8,25 @@
 
 ## Investigators (4, including killer in plain sight)
 
-### Dr. Curie, Prince Charming (villain under the hood)
+### Officer Ray, Bruiser with a soft center (killer)
 | | |
 |---|---|
-| **Persona** | Lovable leading man charm; classic villain underneath; **deeply traumatized, never shows it** |
-| **Play** | Warm, witty, generous with praise, room adores him; **only Homes** is immune |
-| **Role** | Chief of Surgery + lead investigator (killer hiding in plain sight) |
-| **Secret** | 48-hour plan with Lacey after hunt signs + Alex's real surgery booking; tampered IV; OR entry during blackout |
-| **Ability** | *Surgical Counsel*, once/act: lead seems unlikely, still worth running; never block Ray |
-| **Objective** | Frame Homes, Sachs, or Alfie; stay the most trusted voice in the room |
-
-### Officer Ray, Bruiser with a soft center
-| | |
-|---|---|
-| **Persona** | Hard edged ex cop wall; secret soft heart; flustered by Curie's flirt |
-| **Play** | Bark first, regret later; protective; plain talk; endeared despite good instincts |
+| **Persona** | Hard edged ex cop wall; secret soft heart; easy, steady friend to Lacey |
+| **Play** | Bark first, regret later; protective; plain talk; runs the investigation |
 | **Role** | Security chief; Containment Protocol Delta with **Diamond** as junior officer |
-| **Secret** | Debt to Alex (mother's bills); threatened **mother + sister**; torn keycard log |
+| **Secret** | **Killer**; Lacey's old friend; swore revenge on De Worsti; debt to De Worsti; tore keycard log; **stole Curie's OR keycard** (no OR access on his own badge) |
 | **Ability** | *Good Cop, Bad Cop*, coin flip with Curie: motive OR clue |
-| **Objective** | Find killer; clear name; hand case to real watch |
+| **Objective** | Steer room toward Curie and Homes; survive until watch arrives |
+
+### Dr. Curie, Prince Charming (obvious red herring)
+| | |
+|---|---|
+| **Persona** | Lovable leading man charm; **naive social butterfly**; **deeply traumatized, never shows it** |
+| **Play** | Warm, witty, generous with praise, friends with almost everyone; room adores him; **only Homes** is immune |
+| **Role** | Chief of Surgery + medical liaison (looks guilty, is not the killer) |
+| **Secret** | Sanctuary bond with Lacey; wanted De Worsti dead; did not make the cut; **never noticed keycard missing until evidence** |
+| **Ability** | *Surgical Counsel*, once/act: lead seems unlikely, still worth running |
+| **Objective** | Survive red herring heat; protect Lacey; help room find truth |
 
 ### Officer Diamond, Southern belle (brutally honest)
 | | |
@@ -43,9 +43,9 @@
 | | |
 |---|---|
 | **Persona** | Wise, calm anchor; devastatingly precise when on data; **comedic ahem** at Ray/Curie |
-| **Play** | Sentimental about Alex and Homes; logical about timestamps and vitals |
+| **Play** | Sentimental about De Worsti and Homes; logical about timestamps and vitals |
 | **Role** | VIP logbook gatekeeper; clinical witness |
-| **Secret** | Affair with Alex; Lacey's perfume before collapse |
+| **Secret** | Affair with De Worsti; Lacey's perfume before collapse |
 | **Ability** | *The Chart Doesn't Lie*, logbook access for trades |
 | **Objective** | Find killer; then expose or bury truth |
 
@@ -54,15 +54,16 @@
 ### Dr. Homes, Authoritative dick (for a good cause)
 - **Persona:** Arrogant, insufferable, **actually brilliant**, saves lives, ruins moods  
 - **Play:** Condescending meritocrat; **only one openly annoyed by Curie's charm**  
-- **Framed** at scene; obsessed with Lacey  
+- **Framed** at scene; **first suspect** who must defend himself; obsessed with Lacey  
 - **Ability:** *Doctor's Orders*, 3 truthful answer subpoena tokens  
 - **Objective:** Clear name; destroy Curie's reputation  
 
 ### Lacey Lovely, Girl next door damsel (corporate)
 - **Persona:** Attractive, approachable, *harmless*, ice queen boardroom underneath  
-- **Play:** Damsel in the light; mastermind in the pause before she speaks  
-- **Born Genevieve**; fled Alex; facial reconstruction + new name  
-- **Ep 4 denial:** Ran yes, killed no, *"I only wanted distance"* (murder was 48-hour scramble after Sachs + surgical booking)  
+- **Play:** Damsel in the light; steel in the pause before she answers  
+- **Born Genevieve**; fled De Worsti; facial reconstruction + new name  
+- **Ray's friend**; he stayed close for years; she did not plan the murder  
+- **Ep 4 denial:** Ran yes, killed no, *"I only wanted distance"* (**truthful**)  
 - **Ability:** *Administrative Override*, once/game, veto one search for full act  
 - **Objective:** Escape with fortune and identity intact  
 
@@ -73,21 +74,21 @@
 - **Ability:** *Adrenaline Shot*, yell "CLEAR!" for 1 uninterrupted minute  
 - **Objective:** Prove physical incapacitation  
 
-### Swastika Sachs, Loyal knight (second in command)
-- **Persona:** German brutal enforcer as **code of honor** soldier; duty, debt, crest  
-- **Play:** Formal menace; principled in her own crooked way; **German accent** (D→T, B→P, G→K, V→F); **not the killer**  
-- Coerces **CD Vance** (her squire) to trace Alex's wife digitally  
+### Uvula Sachs, Workflow chaos gremlin (second in command)
+- **Persona:** German enforcer who treats crime like engineering—tonight's murder investigation is a **broken workflow** and personally offensive  
+- **Play:** Overly expressive efficiency rage; takes everything literally; fixates on lighting, posture, phrasing; murder as badly run corporate meeting; **still dangerous**; **German accent** (D→T, B→P, G→K, V→F); **not the killer**  
+- Coerces **CD Vance** (micromanaged contractor) to trace De Worsti's wife digitally  
 - Wire cutters; planned own blackout, beaten to punch  
 - **Ability:** *Irony & Iron Knuckles*, blocks vote without two evidence items  
-- **Objective:** Alex's ledger; stolen millions  
+- **Objective:** De Worsti's ledger; stolen millions  
 
-### Alfie Austin, Shifty nervous coward
-- **Persona:** Wannabe tough guy; folds instantly; truth through **hedges and uncertainty**  
-- **Play:** Shifty eyes, apologetic speed; still protects Lacey/Genevieve from full ruin  
+### Alfie De Worsti, Strategic rage baiter
+- **Persona:** Reckless unserious screw-up *(mask)*; observant, inflammatory, punchable  
+- **Play:** Smirks through serious moments; treats the investigation like entertainment; escalates when tension settles; pokes insecurities, turns people against each other  
 - Delivery disguise; hunting knife; insurance plot; witnessed Genevieve's abuse  
-- **Ep 4 obligation:** Name Genevieve, uncertain language, soft on Lacey  
+- **Ep 4 obligation:** Name Genevieve, hedged language *(camouflage, not cowardice)*, soft on Lacey  
 - **Ability:** *Double or Nothing*, die roll for clue vs. reveal knife  
-- **Objective:** Escape suspicion; insurance; don't destroy Genevieve if he can help it  
+- **Objective:** Escape suspicion; insurance; break room dynamic; don't destroy Genevieve if he can help it  
 
 ### Melody, Valley gossip bimbo
 - **Persona:** Valley cadence, ditzy camouflage; **sharp nail file underneath**  
@@ -99,7 +100,7 @@
 ### CD Vance, Genki IT girl
 - **Persona:** Nerdy, hyperactive, cutesy; terror = **speed talk and babble**  
 - **Play:** Stickers on laptop energy; overshares logs; *"eep"* under Sachs's threats  
-- **Alliance: Sachs (coerced)**, wife hunt queries; **Lacey** forced log scrub  
+- **Alliance: Sachs (coerced)**, wife hunt queries; raw mainframe may expose **Ray**  
 - Crush on Melody, goes full genki disaster around her  
 - **Ability:** *Data Breach*, sticky note forces dossier reveal  
-- **Objective:** Survive Sachs, Lacey, prison  
+- **Objective:** Survive Sachs, prison  

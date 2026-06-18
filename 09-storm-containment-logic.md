@@ -22,7 +22,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 | **Communications** | Cell towers degraded; external 911 queue backed up citywide |
 | **Access roads** | Two of three routes to St. Saphicca's campus reported flooded; ambulance bay open, patrol cars not getting through |
 
-*Facilitator note:* Lacey and Curie did not create the storm, they **exploited** a night when help was already slow.
+*Facilitator note:* Ray did not create the storm; he **exploited** a night when help was already slow.
 
 ---
 
@@ -49,7 +49,7 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 | Rule | In world reason |
 |------|-----------------|
 | **Nobody leaves the wing** | Preserve scene; storm blocks transport anyway |
-| **Everyone in the wing is a witness or suspect** | Ten people were inside when Alex died; alibis only matter to each other until watch arrives |
+| **Everyone in the wing is a witness or suspect** | Ten people were inside when De Worsti died; alibis only matter to each other until watch arrives |
 | **Cooperative interviews required** | Ray cannot process a coordinated murder alone; he **orders** staff to produce logs, testify, search assigned rooms |
 | **Curie "liaison" role** | Hospital board rule: cause of death in OR cannot be assessed without Chief of Surgery; Curie volunteers, too smoothly |
 | **Mutual desperation** | Homes needs exoneration; Jetski needs proof of incapacitation; Sachs/Alfie need to not be the fall guy; Melody wants Lacey exposed; Pepper wants truth or cover, **each has reason to dig** |
@@ -61,7 +61,7 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 ### Why players accept it (even if they hate Ray)
 
 - The doors are literally secured (storm + protocol).  
-- Alex's killer is **still in the wing** (Ep 3 proves that when Melody is attacked).  
+- De Worsti's killer is **still in the wing** (Ep 3 proves that when Melody is attacked).  
 - Ray is compromised, **and everyone knows it**, but he's the only one with security keys and the radio to the guard shack.  
 - Curie normalizes participation: *"The officer's right. If we don't build the case, the case will be built for us."*
 
@@ -71,13 +71,14 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 
 | Fact | Play impact |
 |------|-------------|
-| Owed Alex money; Alex threatened his mother and sister | Classic motive, players should suspect him |
+| Owed De Worsti money; De Worsti threatened his mother and sister | Classic motive, players should suspect him |
 | Ex cop instincts are real | He finds real evidence; not incompetent |
-| Blind spot for Curie | **Flirty banter + charm**, Ray endeared; explains why killer stays at the table |
-| Torn keycard log noticed pre murder | He knew something was wrong before the OR, looks guilty or looks like the only person paying attention |
+| Blind spot for Curie | **Easy banter + visible respect**; Curie never suspects Ray; room chases the surgeon when raw log names Curie's badge |
+| No OR access on Ray's badge | Security chief cannot open OR on his own credentials; **stole Curie's card**; mainframe shows Curie |
+| Torn keycard log before murder | Ray made the tear; looks like attention to detail or guilt depending who notices |
 | Runs the board anyway | *"I know how this looks. I don't care. Someone cut a man's throat in the dark and I'm the boss of security here until those sirens get through. Diamond's with me."* |
 
-**Design intent:** Ray should feel credible enough to follow and suspicious enough to accuse. Wrong target endings where Ray is framed (Ending C) land harder because he was always morally gray.
+**Design intent:** Ray should feel credible enough to follow and suspicious enough to accuse. Correct target endings land harder because he was always running the board.
 
 ---
 
@@ -87,7 +88,7 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 |---------|-----------------|---------------|
 | **Ep 1** | Ray + Diamond secure OR → **The Gathering** (all eleven in Recovery Lounge); Homes primary suspect | LC-4471 logged; ETA unknown |
 | **Ep 2** | Ray + Diamond + Curie partnership; players gather evidence | Radio: units still blocked; "shelter in place" |
-| **Ep 3** | Ray chases shadow; killer still in wing | Melody attack proves external killer theory false |
+| **Ep 3** | Ray chases shadow (misdirection); killer still in wing | Melody attack proves external killer theory false |
 | **Ep 4** | Room builds accusation; Ray prepares handoff | Storm breaks; sirens audible; lights stabilize |
 | **Ep 4 coda** | **Municipal Watch arrives** | Ballot readout → custody; see 05-episode-scripts.md |
 | **Gathering** | All eleven in VIP lounge | **Jetski "killer in this room" beat** (10-the-gathering.md) |
@@ -99,13 +100,13 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 Full narrator readouts (accusation branches, moral verdict, police arrival, truth reveal): **[05-episode-scripts.md](05-episode-scripts.md)** → **AFTER THE BALLOT**.
 
 Summary:
-- **Correct pair (Curie + Lacey):** cuffs on both; Genevieve may speak at arrest  
-- **Partial (Curie or Lacey alone):** half the truth; host chooses slip vs follow up arrest  
-- **Wrong target (Homes, Sachs, Alfie, etc.):** innocent arrested; killers remain  
-- **Ray accused / no consensus:** server room collapse (Ending C)  
+- **Correct (Ray alone or Ray + Lacey if room believes she knew):** cuffs on Ray; Genevieve may speak at arrest  
+- **Partial (Ray alone when pair needed, or vice versa):** half the truth; host chooses slip vs follow up arrest  
+- **Wrong target (Homes, Curie, Lacey, Sachs, Alfie, etc.):** innocent arrested; Ray remains free  
+- **Curie + Lacey wrongly accused / no consensus:** server room collapse (Ending C)  
 - **Moral layer:** MURDER / JUSTICE / SYSTEM FAILURE on top of any branch  
 
-Watch always enters. Ray hands off LC-4471.
+Watch always enters. Diamond or Curie hands off LC-4471 if Ray is in cuffs.
 
 ---
 
@@ -130,6 +131,6 @@ Delivered in **[10-the-gathering.md](10-the-gathering.md)** when all eleven are 
 ## Host reminders
 
 - Drop **storm beats** between acts: radio static, flickering lights, Melody's donor call interrupted by weather alert.  
-- Ray should **say out loud** that he's a suspect, transparency makes the premise believable.  
-- Curie should **encourage** group investigation; he's the killer making sure the room doesn't idle.  
+- Curie should **encourage** group investigation; he is the red herring the room will chase  
+- Ray should **say out loud** that he's a suspect, transparency makes the premise believable while he steers the room  
 - Do not introduce municipal patrol characters until the **Ep 4 coda**.

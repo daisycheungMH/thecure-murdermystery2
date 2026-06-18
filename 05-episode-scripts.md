@@ -21,9 +21,15 @@
 
 ## PROLOGUE: VIP CONSULTATION SUITE
 
-*Read before Episode 1 live play. Establishes Alex, Homes, Pepper.*
+*Read before Episode 1 live play. Establishes De Worsti, Homes, Pepper.*
 
-Soft lighting. Glass walls. Storm over Lesbian City skyline.
+### NARRATOR
+
+> St. Saphicca's Progressive Care rises above Lesbian City in glass and white stone, a hospital built for people who pay not to wait. Tonight the VIP consultation suite is still calm, soft light on the walls, the skyline visible through floor-to-ceiling windows.
+>
+> What no one in this room knows yet is that the storm outside is not ordinary rain. It is the kind that fills underpasses in minutes and closes causeways before the city admits it is in trouble. Down in the streets, floodwater is already pushing against curbs and swallowing the lower roads. Municipal watch has logged the warnings. Radios are starting to chatter.
+>
+> Inside St. Saphicca's, the generators hum. Nurses trade jokes about staying late. Security checks a door and goes back to coffee. The staff believe they are above the water line, protected, busy with one very expensive patient. They have not been told how fast the night is about to narrow.
 
 **ALEX AUSTIN:** patient gown worn like a tailored suit. Composed. Control.
 
@@ -31,7 +37,7 @@ Soft lighting. Glass walls. Storm over Lesbian City skyline.
 
 **NURSE PEPPER:** prepping forms; watching more than she shows.
 
-> **HOMES:** Your imaging shows a compromised arterial wall. This case is legitimate. Your intake file is still… unusually sparse, Mr. Austin.  
+> **HOMES:** Your imaging shows a compromised arterial wall. This case is legitimate. Your intake file is still… unusually sparse, Mr. De Worsti.  
 > **ALEX:** I prefer efficiency. Whatever this costs, double it. So please, no delays. No mistakes.  
 > **PEPPER:** (quietly) We don't prioritize patients that way.  
 > **ALEX:** Everyone prioritizes something.
@@ -102,9 +108,9 @@ Two heavy bodies hit the tile. **Thud. Thud.**
 
 **JETSKI. PEPPER.** Down.
 
-A choked inhale from the table: Alex, half aware, strangled in the dark.
+A choked inhale from the table: De Worsti, half aware, strangled in the dark.
 
-Then: a wet, controlled sound. Precise. Final. **An incision.**
+Then: hoses pulled loose, monitors dying mid-beep, a body dragged off the table and thrown to tile. A wet, violent sound. Passionate. Final. **A scalpel through the throat in a deadly place.**
 
 **HOMES** (shouting into black):
 
@@ -125,7 +131,7 @@ The world returns in fragments.
 **JETSKI:** crumpled at the south wall, utterly still.  
 **PEPPER:** on the tile beside the table, one arm twisted under her, face turned away.  
 **DR. HOMES:** frozen at center. Bloody gloves. Scalpel still in his hand.  
-**ALEX AUSTIN:** eyes open. Unblinking. Throat opened with surgical cleanliness.
+**ALEX AUSTIN:** on the floor, eyes open. Unblinking. Throat torn open with a scalpel, violent and crazed-looking, blood pooling on tile like rejected meat piled behind a butcher's counter, pale and shining under the red lamps beside instruments still arranged to save him.
 
 The monitor finds its voice again, one long, continuous tone.
 
@@ -156,7 +162,7 @@ Her breath catches, high, thin, **terror finally breaking through the profession
 > (scrambling, ignoring dizziness)  
 > Oh my God... oh my God...
 
-She grabs the edge of the table. Pulls herself up. Sees **Alex**.
+She grabs the edge of the table. Pulls herself up. Sees **De Worsti**.
 
 > **PEPPER:** (voice cracking, **terrified**)  
 > No... no, no, no...  
@@ -276,17 +282,17 @@ Ray: *"Melody first. Then the computer kid. Every second of camera footage, and 
 
 *Gestures toward **Lacey** or hides behind laptop.*
 
-> **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like Austin make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
+> **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like De Worsti make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
 
 *Voice cracks into squeaky panic.*
 
-**SACHS** (PLAYER: snarling, German accent):
+**SACHS** (PLAYER: efficiency rage, German accent):
 
-> You ton't get to moralize. You were on the clock.
+> You ton't get to moralize. You were on the clock. And your timeline is still wrong—"around when Sachs asked" is not a timestamp.
 
 *Radio crackles: static, then:* **"LC-4471… hold position… barricade… no ETA…"** *Ray clicks it off without comment.*
 
-*Distribute **E2-F Vance search logs** if not yet given. Room should feel Alex's world was rotting the wing before the murder.*
+*Distribute **E2-F Vance search logs** if not yet given. Room should feel De Worsti's world was rotting the wing before the murder.*
 
 **CURIE** (PLAYER: to window, dry charm):
 
@@ -344,7 +350,7 @@ Ray sprints. Curie's expression goes cold.
 >
 > (glances at **Lacey**, pained)
 >
-> Alex wasn't just a lender. Not at the end. He was… whatever he became. Men like Sachs at the door. Ledgers. Genevieve didn't run that house, she **survived** it, as best I could tell from the outside. I think he moved her when he wanted. I think he took her phone when he wanted. I **saw** bruises once. Holidays where she wouldn't eat. I could be wrong about some of it, he told the family she was unstable, and when you're family you want to believe that.
+> De Worsti wasn't just a lender. Not at the end. He was… whatever he became. Men like Sachs at the door. Ledgers. Genevieve didn't run that house, she **survived** it, as best I could tell from the outside. I think he moved her when he wanted. I think he took her phone when he wanted. I **saw** bruises once. Holidays where she wouldn't eat. I could be wrong about some of it, he told the family she was unstable, and when you're family you want to believe that.
 >
 > (voice cracks)
 >
@@ -352,11 +358,11 @@ Ray sprints. Curie's expression goes cold.
 >
 > (beat, softer)
 >
-> When she disappeared, when she took money and ran, Alex called it theft. Like she was property. Hunters. Clinic lists. I didn't know where she landed. I'm **not** saying I have proof of every step.
+> When she disappeared, when she took money and ran, De Worsti called it theft. Like she was property. Hunters. Clinic lists. I didn't know where she landed. I'm **not** saying I have proof of every step.
 >
 > (hesitates)
 >
-> There's an intake photo. Mainland clinic. Scar above the left ear, glass, years ago, I **think** it was her. Total reconstruction, maybe. New name. New life. I could be connecting dots that aren't, except Alex wasn't here for surgery, was he? He was here because **she** might be.
+> There's an intake photo. Mainland clinic. Scar above the left ear, glass, years ago, I **think** it was her. Total reconstruction, maybe. New name. New life. I could be connecting dots that aren't, except De Worsti wasn't here for surgery, was he? He was here because **she** might be.
 >
 > (almost pleading)
 >
@@ -390,7 +396,7 @@ Ray sprints. Curie's expression goes cold.
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history is a **motive**, not a mechanism. The incision was surgeon's work. The paralysis was pharmacy work. Lovely's tier fits access, not the cut. Unlikely she'd personally finish him on the table.  
+> Clinically? A director with that history is a **motive**, not a mechanism. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier fits access, not the blade. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
@@ -422,7 +428,7 @@ Ray sprints. Curie's expression goes cold.
 
 > The storm is thinning. You can hear it in the walls, less scream, more drain.  
 > Genevieve is in the room, whatever name she wears.  
-> You have surgical precision, executive access codes, a blackout that obeyed no accident protocol, and a victim who weaponized debt and fists the way others weaponize scalpels.  
+> You have a violent scalpel wound that looks like rage, executive access codes, a blackout that obeyed no accident protocol, and a victim who weaponized debt and fists the way others weaponize scalpels.  
 > Officer Ray is still the head of security here. Officer Diamond is with him. The real watch is close, sirens somewhere below the flood line, getting closer.  
 > Before they walk through that door, this room decides: **one suspect, or the pair.** Then choose what kind of city Lesbian City becomes tonight.
 
@@ -441,7 +447,7 @@ Ray sprints. Curie's expression goes cold.
 > Municipal Watch is close. Sirens somewhere below the flood line, getting closer.  
 > Before those boots hit the lobby, this room makes its call.
 
-*Collect accusation ballots: **one suspect** or **pair (Curie + Lacey)**. Collect moral verdict: **MURDER** / **JUSTICE** / **SYSTEM FAILURE**.*
+*Collect accusation ballots: **one suspect** (**Officer Ray**) or **pair (Ray + Lacey Lovely)** if room believes she knew. Collect moral verdict: **MURDER** / **JUSTICE** / **SYSTEM FAILURE**.*
 
 > **NARRATOR:** You've voted. The wing accuses **[NAME / NAMES]**.  
 > The room's verdict on what that means: **[MURDER / JUSTICE / SYSTEM FAILURE]**.  
@@ -449,34 +455,34 @@ Ray sprints. Curie's expression goes cold.
 
 ---
 
-### IF THE ROOM ACCUSES **DR. CURIE AND LACEY LOVELY** (pair, correct)
+### IF THE ROOM ACCUSES **OFFICER RAY** (correct)
 
-*The truth wins. Read this when the pair gets a majority or the room names both.*
+*The truth wins. Read this when Ray gets a majority.*
 
 **NARRATOR:**
 
 > The evidence finally lines up the way the night always demanded.  
-> Pharmacy vault code. Generator override. Master keycard in a surgeon's hand. A carotid incision too clean for panic. Logs scrubbed from administration.  
-> Genevieve ran from a monster. She did not run alone. And the man who stood beside Officer Ray all evening was the one who made the cut.
+> Pharmacy vault opened on security override. Generator cut from the security office. **Curie's keycard in the OR log** — but Curie was in the corridor and Ray's badge never opens that door. A carotid scalpel wound, violent and almost crazed. Logs torn before surgery.  
+> Genevieve ran from a monster. Her oldest protector learned where she landed, swore revenge on De Worsti, and the man who stood at the head of this investigation was the one who made the cut.
 
-**RAY** (PLAYER or host, steady):
+**DIAMOND** (PLAYER or host, steady):
 
-> Curie. Hands where I can see them. Director Lovely, same.  
-> Bad drugs. Lights out. You walked into that OR. You set up Homes. You planned this.
+> Ray. Hands where I can see them.  
+> Bad drugs. Lights out. You walked into that OR. You set up Homes. You ran this whole room.
 
 **CURIE** (optional, charm finally gone):
 
-> You have the timeline right. You don't have my regret.
+> I wanted him dead. I did not make that cut. You did.
 
 **LACEY** (optional, ice cracking):
 
 > I wanted distance. Miles. A face he wouldn't recognize. I did not want a throat in the dark.  
 > (to watch, when they arrive)  
-> My name was Genevieve. He hunted me here. Ask Alfie. Ask the intake photos.
+> My name was Genevieve. He hunted me here. Ray was my friend when I still believed friends could keep me safe. Ask Alfie. Ask the intake photos.
 
 **PEPPER** (optional, shattered):
 
-> You were in the OR with us. You were *helping* us think.
+> You were *running* the investigation. You were *leading* us.
 
 **HOMES** (optional, hollow victory):
 
@@ -485,96 +491,100 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR: EPILOGUE (GOOD / BITTERSWEET)**
 
 > The officers split the room fast, practiced, no drama, no raised voices.  
-> Two names leave in cuffs before dawn. Dr. Curie, still elegant even with steel at her wrists. Director Lacey Lovely, chin high, eyes fixed on a horizon nobody else can see.
->
+> One name leaves in cuffs before dawn. Officer Ray, still square-shouldered even with steel at his wrists.
+
 > The case does not collapse in court. It hardens.
->
-> **Dr. Curie** is convicted of conspiracy to commit murder, controlled substance facilitation, and medical misconduct resulting in death. She serves **24 years** at Lesbian City State Correctional Medical Annex, with parole eligibility after 16. Her license is permanently revoked.  
-> **Lacey Lovely (Genevieve)** is convicted of conspiracy to commit murder and criminal coordination of hospital systems for lethal intent. She serves **18 years** at Harbor Women's Correctional Center, with parole eligibility after 12.
->
-> The judge calls it "an engineered death dressed as emergency medicine."
->
-> Five years later, Curie teaches no one and charms no one worth charming. Her appeals fail, one by one, thin paper against hard facts.  
-> Lacey keeps to herself in prison, studies trauma law through a distance program, and writes letters she never sends, most of them addressed to a name she buried: **Genevieve**.
->
-> Officer Ray is cleared of corruption tied to the murder and commended for preserving chain of custody through a flood lockdown. He still checks every backup generator himself on storm nights.  
-> Officer Diamond is promoted to Senior Security Officer. She keeps her sidearm clean and her nails immaculate.  
+
+> **Officer Ray** is convicted of first-degree murder, controlled substance facilitation, and abuse of security authority resulting in death. He serves **22 years** at Lesbian City State Correctional Annex, with parole eligibility after 15.
+
+> The judge calls it "a friend's revenge dressed as emergency medicine."
+
+> Five years later, Ray writes letters from prison that Lacey never answers. He still checks storm reports when the wind rises.
+
+> Officer Diamond is promoted to Security Chief. She keeps her sidearm clean and her nails immaculate.  
+> Dr. Curie is publicly cleared. The hospital board commends his cooperation. He still flinches when someone praises his hands.  
 > Dr. Homes is publicly cleared as principal killer. The hospital board still removes him from VIP surgery for a year. He returns quieter, less certain, more human.  
+> Lacey Lovely keeps her title through the scandal's first wave, then resigns for a smaller clinic up the coast.  
 > Nurse Pepper transfers out of VIP and into emergency trauma. She stops apologizing for surviving.  
 > Dr. Jetski enters rehab, then returns under supervision. He no longer jokes when someone says "lights out."  
 > Melody testifies, then vanishes from gossip into witness protection contract work for municipal records.  
 > CD Vance pleads to accessory cyber-facilitation, serves 18 months, and spends the next decade doing compliant IT audits for public clinics. No shortcuts.  
-> Swastika Sachs disappears before sentencing on separate warrants, then reappears two years later in another port city under another bad nickname.  
-> Alfie Austin leaves Lesbian City with a single suitcase and no inheritance worth keeping.
+> Uvula Sachs disappears before sentencing on separate warrants, then reappears two years later in another port city under another bad nickname—and immediately files a complaint about local timeline documentation standards.  
+> Alfie De Worsti leaves Lesbian City with a single suitcase and no inheritance worth keeping.
 
 ### THE TRUTH
 
 > Long before the operating table, before the storm, before the red emergency lights, there was a locked house and a woman called Genevieve learning how to become smaller than a man's rage.
 >
-> Alex Austin made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
+> De Worsti made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
 >
 > Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. She told herself survival was enough.
 >
-> It was not enough for Alex.
+> It was not enough for De Worsti.
 >
 > He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
 >
-> Curie saw him first for what he was, and for what he would do if he walked out alive. A surgeon's mind, a strategist's ego, and a conscience she had already learned to quiet. Lacey had motive, access, and a life she refused to lose again. Together they shaped a murder to look like medical chaos.
+> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy.
 >
-> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand made one clean cut. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror.
+> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
 >
 > By sunrise, the script was cracked open. Logs matched toxicology. Access trails matched alibis that were too perfect. Fear matched opportunity. And for once in Lesbian City, the rich did not buy the ending.
 >
-> Alex Austin died the way he made others live, trapped, cornered, at the mercy of people he thought he owned.  
-> Genevieve did not walk free into dawn. She walked in chains beside the woman who helped her end him.  
+> De Worsti died the way he made others live, trapped, cornered, at the mercy of people he thought he owned.  
+> Ray did not walk free into dawn. He walked in chains beside the friend he tried to protect.  
 > Justice arrived late, soaked through, and incomplete. But it arrived.
 
-*Proceed to **POLICE ARRIVAL**. Watch cuffs Curie and Lacey on Ray's assembled evidence.*
+*Proceed to **POLICE ARRIVAL**. Watch cuffs Ray on Diamond's assembled evidence.*
 
 ---
 
-### IF THE ROOM ACCUSES **DR. CURIE** ALONE (partial truth)
+### IF THE ROOM ACCUSES **DR. CURIE AND LACEY LOVELY** (pair, wrong target, Ending C trigger)
 
 **NARRATOR:**
 
-> The room names the surgeon. The blade. The night vision. The corridor entry.  
-> Half the conspiracy is in cuffs before the elevator dings.  
-> But executive access, the blackout, the vault code, still want an owner. Lacey Lovely stands very still by the glass.
+> The evidence almost lines up. Sanctuary bond. Surgical skill. **Curie's keycard in the OR log.** A room that wanted a pair.  
+> But Curie was in the corridor when the reader fired. And the man who stood beside Officer Ray all evening was steering you toward exactly this mistake.
 
-**RAY:**
-
-> Curie. That's enough. You're done.
-
-**CURIE** (optional, to Ray, quiet):
-
-> You got the cutter. You didn't get the whole story.
-
-**LACEY** (optional, controlled):
-
-> I invoked containment protocol. I cooperated. I was two floors up.
-
-*Host choice: Lacey slips via admin override in the chaos, or watch takes her on access logs after Curie implicates her under pressure. Pepper and Alfie may react to Genevieve.*
+*Read **ENDING C: SYSTEM COLLAPSE** below instead of a clean arrest.*
 
 ---
 
-### IF THE ROOM ACCUSES **LACEY LOVELY** ALONE (partial truth)
+### IF THE ROOM ACCUSES **DR. CURIE** ALONE (wrong target, red herring wins)
+
+**NARRATOR:**
+
+> The room names the surgeon. The blade. The corridor presence. The orphanage photo. **His own keycard in the raw log.**  
+> Half the room exhales. The charming chief of surgery is in cuffs before the elevator dings.  
+> Curie never knew his badge left his person that night. Officer Ray stands very still by the glass.
+
+**CURIE** (optional, to Ray, quiet):
+
+> You know I didn't make that cut.
+
+**RAY** (optional, controlled):
+
+> Curie. That's enough for now. You're done.
+
+*Proceed to **POLICE ARRIVAL**. Watch arrests Curie in the chaos. Ray watches from the wing as the wrong person is led out.*
+
+---
+
+### IF THE ROOM ACCUSES **LACEY LOVELY** ALONE (partial / wrong)
 
 **NARRATOR:**
 
 > The room turns on the director. Blackout logs. Vault tier. Crisis lock. A woman who rebuilt her face to escape a dead man's shadow.  
-> But the incision was surgeon's work. And the man who guided the investigation never stopped guiding it.
+> But the wound was made in darkness with night vision gear from security stock. And the man who guided the investigation never stopped guiding it.
 
 **LACEY** (optional):
 
 > I ran. I changed my life. I did not make that cut.
 
-**CURIE** (optional, warm, lethal):
+**RAY** (optional, warm, lethal):
 
-> Officer, I told you all night: access is a lead, not the mechanism.  
-> (beat)  
-> Unless the room has new evidence I haven't seen?
+> Director Lovely had motive. She had access. She did not have my badge in that OR.
 
-*Host choice: Curie walks if the room cannot also name him; or Ray arrests Lacey while Curie remains "consultant" until watch reviews OR blood patterns in Ep 4 coda.*
+*Host choice: Lacey arrested while Ray remains "security chief" until watch reviews keycard data in Ep 4 coda.*
 
 ---
 
@@ -583,40 +593,40 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Blade contact. Bloody gloves. Panic in the red light. The room does what frightened rooms do: it chooses the man already standing in the spotlight.  
-> Dr. Homes becomes LC-4471 in the players' eyes. The real killers breathe.
+> Dr. Homes becomes LC-4471 in the players' eyes. The real killer breathes and still runs the board.
 
 **HOMES** (PLAYER, if present):
 
 > This is wrong. You are making this wrong.
 
-**CURIE** (optional, gentle, devastating):
+**RAY** (optional, gentle, devastating):
 
-> I wish I could tell you otherwise. The incision profile is consistent with his training.
+> I wish I could tell you otherwise. The wound could match his training, or any man with a scalpel and enough hatred.
 
 **PEPPER** (optional, torn):
 
 > I don't… I don't think he did it.
 
-*Proceed to **POLICE ARRIVAL**. Watch arrests Homes in the chaos. Curie and Lacey watch from the recovery wing as the wrong man is led out.*
+*Proceed to **POLICE ARRIVAL**. Watch arrests Homes in the chaos. Ray watches from the recovery wing as the wrong man is led out.*
 
 ---
 
-### IF THE ROOM ACCUSES **SWASTIKA SACHS** (wrong target)
+### IF THE ROOM ACCUSES **UVULA SACHS** (wrong target)
 
 **NARRATOR:**
 
-> Street muscle. Wire cutters. Elevator threats. A knight without a kingdom since Alex went broke.  
-> The room wants a villain who looks like violence. Sachs does not disappoint.
+> Street muscle. Wire cutters. Elevator threats. An enforcer without a ledger since De Worsti went broke.  
+> The room wants a villain who looks like violence. Sachs does not disappoint—and she has notes on your investigative process.
 
 **SACHS** (optional, German accent):
 
-> I dit not make that cut. I post where I'm tolt.
+> I did not make that cut. I post where I'm told. If I ran operations like this murder investigation, I would be dead. Which—yes, ironic.
 
-**CURIE** (optional):
+**RAY** (optional):
 
-> Sachs is a predator. Not tonight's surgeon.
+> Sachs is a predator. Not tonight's surgeon in the dark.
 
-*Watch arrests Sachs. Alfie and Vance may exhale too soon. Real killers remain.*
+*Watch arrests Sachs. Alfie and Vance may exhale too soon. Ray remains free.*
 
 ---
 
@@ -625,24 +635,19 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > The brother. The knife in the loading bay. Insurance fantasies and family rot.  
-> The room chooses the man who came to hate Alex out loud. He did not come to finish him in the OR.
+> The room chooses the man who came to hate De Worsti out loud. He did not come to finish him in the OR.
 
 **ALFIE** (optional, breaking):
 
 > I didn't… I wasn't in there… Genevieve just wanted to run…
 
-*Watch arrests Alfie. Lacey's face may flicker. Curie stays anchor.*
+*Watch arrests Alfie. Lacey's face may flicker. Ray stays anchor.*
 
 ---
 
-### IF THE ROOM ACCUSES **OFFICER RAY** (system collapse trigger)
+### IF THE ROOM ACCUSES **OFFICER RAY + LACEY LOVELY** (pair, correct if room believes she knew)
 
-**NARRATOR:**
-
-> Debt. Torn logs. A badge that arrived too fast. A victim who owned the only cop in the building.  
-> The room turns on the investigator. Trust shatters. Evidence scatters. Someone moves for the server room.
-
-*Read **ENDING C: SYSTEM COLLAPSE** below instead of a clean arrest.*
+*Use the **OFFICER RAY** correct branch above, with Lacey optionally named as accessory after conviction if evidence supports complicity. If room cannot prove she knew, Ray alone is sufficient for truth.*
 
 ---
 
@@ -660,7 +665,7 @@ Ray sprints. Curie's expression goes cold.
 
 ## ENDING C: SYSTEM COLLAPSE
 
-*Use when Ray is accused, evidence was ignored, or the group never united on Curie/Lacey.*
+*Use when **Curie + Lacey** are wrongly accused, evidence was ignored, or the group never united on Ray.*
 
 **NARRATOR:**
 
@@ -683,7 +688,7 @@ Ray sprints. Curie's expression goes cold.
 
 > Move. Everyone move. That's municipal watch on the lobby channel. Now.
 
-*Watch arrives into catastrophe. Curie and Lacey slip through recovery chaos. Investigation fragments. Truth may die in the rubble.*
+*Watch arrives into catastrophe. Ray slips through recovery chaos. Investigation fragments. Truth may die in the rubble.*
 
 ---
 
@@ -696,7 +701,7 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Your verdict: **murder**. No poetry. No storm justice.  
-> Alex Austin was a monster. He was also a man with a throat cut in an operating theater.  
+> De Worsti was a monster. He was also a man with a throat cut in an operating theater.  
 > Whoever you named, the city will treat this as felony homicide. The abuse does not erase the blade.
 
 *Ray tells arriving watch the room voted for prosecution, not cover up.*
@@ -706,10 +711,10 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Your verdict: **justice**. Not legal. Moral.  
-> A woman hunted across clinics and ledgers. A protector who failed her once and would not fail her twice. A victim who burned families and called it business.  
+> A woman hunted across clinics and ledgers. A friend who stayed close and would not fail her twice. A victim who burned families and called it business.  
 > The room says the law would call it murder. The room would call it survival.
 
-*Ray may soften his statement to watch: Genevieve's history enters the record. Arrests still happen if pair was named correctly.*
+*Diamond may soften her statement to watch: Genevieve's history enters the record. Arrests still happen if Ray was named correctly.*
 
 ### SYSTEM FAILURE (burn logs; expose the hospital)
 
@@ -732,12 +737,12 @@ Ray sprints. Curie's expression goes cold.
 > First the generators steadied. Then, distant, then close, sirens.  
 > Municipal Watch. Real patrol. Flood lights through the glass. Boots in the lobby. Radios that weren't hospital channels.
 
-**RAY** (exhausted, to the room):
+**DIAMOND** (exhausted, to the room):
 
 > That's them. Finally.  
 > Whatever you picked in this room, names, proof, who did what. It's theirs now.
 
-*Apply arrest outcome from accusation branch. Ray hands LC-4471 to municipal sergeant:*
+*Apply arrest outcome from accusation branch. Diamond hands LC-4471 to municipal sergeant if Ray is cuffed; otherwise Ray hands off:*
 
 > **RAY:** Case number's LC-4471. Was my problem until about a minute ago.
 
@@ -750,10 +755,10 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Here is what the night really was.  
-> Lacey saw Sachs on the perimeter and other warnings that Alex had found her hospital. Curie learned two days out that Alex booked **real** arterial surgery here, a power play on her turf. They hatched the plan in that window.  
-> Dr. Curie tampered the vial. Dr. Jetski delivered it unknowingly. Lacey Lovely triggered the blackout. Curie entered the OR, made the cut, framed Homes. Lacey scrubbed the logs through Vance.  
-> Alex needed the operation. He bet Genevieve would not fight back. Homes and Curie refused his theater.  
-> Alex Austin hunted Genevieve. Genevieve became Lacey Lovely. Alfie knew the abuse. Melody knew the face. Sachs hunted the money. Ray owed the dead man. Pepper loved him without knowing who he was.  
+> Lacey saw Sachs on the perimeter and other warnings that De Worsti had found her hospital. Ray learned De Worsti booked **real** arterial surgery here, a power play on her turf, and accelerated a plan he had been building since he realized how trapped she still was.  
+> Officer Ray tampered the vial. Dr. Jetski delivered it unknowingly. Ray triggered the blackout from security. Ray entered the OR, made the cut, framed Homes. Curie looked guilty and did not kill.  
+> De Worsti needed the operation. He bet Genevieve would not fight back. Homes and Curie refused his theater.  
+> De Worsti hunted Genevieve. Genevieve became Lacey Lovely. Ray was her friend and protector. Alfie knew the abuse. Melody knew the face. Sachs hunted the money. Pepper loved him without knowing who he was.  
 > Jetski said it in the gathering lounge, before any of you split up: the killer was in the room. You voted anyway.
 
 ---

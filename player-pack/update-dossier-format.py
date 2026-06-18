@@ -11,14 +11,14 @@ DOSSIER_DIR = Path(__file__).resolve().parent.parent / "player-dossiers"
 LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
     "01-dr-curie.md": {
         "likes": [
-            "clean surgical work",
+            "violent scalpel work that still lands",
             "competent partners",
             "Ray's instincts (even when they get close)",
             "being the calm anchor in a panicked room",
         ],
         "dislikes": [
             "Homes's ego",
-            "Alex",
+            "De Worsti",
             "sloppy investigations into Lacey (you quietly steer those away)",
             "cruelty that serves no purpose",
         ],
@@ -31,7 +31,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             "the idea of arresting Sachs someday",
         ],
         "dislikes": [
-            "Alex",
+            "De Worsti",
             "criminal debt",
             "storm nights",
             "anyone touching the crime scene without logging it",
@@ -60,7 +60,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
         ],
         "dislikes": [
             "Curie's charm",
-            "Alex's wallet ethics",
+            "De Worsti's wallet ethics",
             "wasted OR time",
             "accusations without proof",
         ],
@@ -74,7 +74,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             "being underestimated",
         ],
         "dislikes": [
-            "Alex",
+            "De Worsti",
             "Melody snooping",
             "Pepper near her ex",
             "unlogged admin searches",
@@ -95,7 +95,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             'anyone who calls you a "beach bum who wandered into a hospital"',
         ],
     },
-    "07-swastika-sachs.md": {
+    "07-uvula-sachs.md": {
         "likes": [
             "codes",
             "loyalty",
@@ -105,12 +105,12 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
         ],
         "dislikes": [
             "jokes about your name",
-            "Alex (even dead)",
+            "De Worsti (even dead)",
             "loose ends",
             "lawyers",
         ],
     },
-    "08-alfie-austin.md": {
+    "08-alfie-de-worsti.md": {
         "likes": [
             "insurance payouts",
             "Pepper (from afar)",
@@ -118,7 +118,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             "surviving the night",
         ],
         "dislikes": [
-            "Alex",
+            "De Worsti",
             "Homes flirting with Pepper",
             "shouting",
             "being backed into corners",
