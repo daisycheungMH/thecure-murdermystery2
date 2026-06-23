@@ -65,6 +65,13 @@ Keep your fortune and identity, protect Ray if you can without lying under oath,
 - Play damsel and for a lawyer. Comply when Ray pushes hard enough.
 - String Homes along. If Pepper's affair surfaces, ruin Pepper before she ruins you.
 
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Early:** Terminal logs place you two floors up during the blackout. Say it once, calmly. You locked the wing from admin, you did not scrub into OR Two.
+- **Mid:** Vault and power logs will name your executive tier. That is **access**, not hands on the blade. Curie or Ray may call you unlikely primary cutter; do not argue like guilt, argue like a director who facilitates crises.
+- **Late:** After Genevieve is named, admit you ran and wanted distance, not a throat cut. Mechanism evidence points to security tier and badge theft, not you at the table.
+- **Never:** Connect Ray's revenge to Genevieve in one breath until the room has proved him.
+
 ## ⚠️ RULES
 
 - **✓** Use boardroom speak and wounded denials.

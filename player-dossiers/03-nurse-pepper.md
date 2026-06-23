@@ -63,6 +63,12 @@ Find the killer first, then decide whether to expose the truth or bury it to sav
 - Share clinical facts honestly, but do not rush to condemn Homes if you are not sure.
 - If the affair leaks, own your grief. You did not want De Worsti dead.
 
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Gathering:** Back Jetski on timing. You felt the lag and motor drop before the lights cut.
+- **Ep 2:** Toxicology folder is your clinical proof. You were paralyzed before the incision window.
+- **Never:** Let the room forget you were on the tile when red backup returned.
+
 ## ⚠️ RULES
 
 - **✓** Use vitals jargon, throat clearing, OR terror flashbacks, and a quiet crush on Homes.

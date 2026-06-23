@@ -67,6 +67,12 @@ Prove you were incapacitated on the floor, not the person who made the cut.
 - In the gathering (Act 1 in your player performance script), after Ray's final briefing, deliver your quiet beat: the killer may be in the lounge with everyone, not out in the storm.
 - Ally clinically with Pepper, and panic loudly if anyone tries to frame you.
 
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Gathering:** Deliver your quiet beat: killer may be in the lounge. You were on the floor before lights.
+- **Ep 2:** Toxicology and your own statement are your lifeline. Repeat: lag, collapse, floor, already down.
+- **Ep 3+:** Street knives and wire cutters are the wrong profile. You are comic panic, but the science backs you.
+
 ## ⚠️ RULES
 
 - **✓** Wipe sweat, rant about pharma, drop occasional surfer bro slang (not every sentence), and explode if your nickname comes up.
