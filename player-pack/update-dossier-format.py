@@ -128,7 +128,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
         "likes": [
             "tea",
             "scandal",
-            "Officer Diamond (crush)",
+            "Officer Marlowe \"Marz\" (crush)",
             "Vance doing favors",
             "archival binders",
             "watching powerful people squirm",
@@ -142,7 +142,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
         "likes": [
             "uptime",
             "Melody (crush)",
-            "Officer Diamond (Diamond likes you back, badly, and you are oblivious)",
+            "Officer Marlowe \"Marz\" (Marz likes you back, badly, and you are oblivious)",
             "keychains",
             "being helpful (when it is survivable)",
         ],
@@ -155,6 +155,21 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
     },
     "11-officer-diamond.md": {
         "likes": [
+            "protocols, phases, and ideal scenarios",
+            "structured listening (you call it interrogation)",
+            "when a room finally follows a rule",
+            "Officer Marz taking you seriously for five seconds",
+            "saying boo yah when a beat lands",
+        ],
+        "dislikes": [
+            "unstructured chaos with no learning objectives",
+            "people who step in biohazard-adjacent footprints",
+            'being told overflow means decoration',
+            "storm nights that skip the debrief",
+        ],
+    },
+    "12-officer-marz.md": {
+        "likes": [
             "painting your nails to fidget",
             "CD Vance (you will not say it plainly)",
             "sweet tea",
@@ -165,21 +180,6 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             'being told to "stay decorative"',
             "Sachs breathing near your junior badge",
             "when Melody flirts too loud in front of Vance",
-        ],
-    },
-    "12-officer-marz.md": {
-        "likes": [
-            "protocols, phases, and ideal scenarios",
-            "structured listening (you call it interrogation)",
-            "when a room finally follows a rule",
-            "Officer Diamond taking you seriously for five seconds",
-            "saying boo yah when a beat lands",
-        ],
-        "dislikes": [
-            "unstructured chaos with no learning objectives",
-            "people who step in biohazard-adjacent footprints",
-            'being told overflow means decoration',
-            "storm nights that skip the debrief",
         ],
     },
 }

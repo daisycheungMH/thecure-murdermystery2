@@ -3,7 +3,7 @@
 **When:** Immediately after Episode 1 OR cutscene (~15 minutes scripted + live questioning)  
 **Location:** VIP Recovery Lounge, glass on three sides, storm hammering the city, red backup wash bleeding through the blinds  
 **Present:** All eleven players. De Worsti is absent, body in OR, morgue pending.  
-**Leads:** Officer Ray, Officer Diamond + Dr. Curie  
+**Leads:** Officer Ray, Officer Marlowe "Marz" + Dr. Curie  
 **Room temperature:** **Dr. Homes is the primary suspect.**
 
 ---
@@ -14,10 +14,10 @@
 - **Homes** sits or stands under the brightest light if possible.  
 - **Jetski** may be in a wheelchair or slumped chair, still medicated, hands unsteady.  
 - **Pepper** should still carry OR terror, bloodless knuckles, voice not fully steady; sage returns slowly.  
-- **Ray** at the head. **Diamond** beside him (junior, notebook, nail polish). **Curie** beside Ray, not across, unified front.  
+- **Ray** at the head. **Marz** beside him (junior, notebook, nail polish). **Curie** beside Ray, not across, unified front.  
 - Read **NARRATOR** blocks yourself; players deliver their own lines where marked **(PLAYER)**.  
 - **Persona guide:** [14-actor-personas.md](14-actor-personas.md), encourage big, fun choices; plot beats stay the same.
-- **Optional Marz:** If using the twelfth player, **Officer Marz** arrives at the lounge door after Ray's briefing (see [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)).
+- **Optional Diamond:** If using the twelfth player, **Officer Diamond** arrives at the lounge door after Ray's briefing (see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)).
 
 ---
 
@@ -25,7 +25,7 @@
 
 > The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
 > Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
-> Officer Ray has pulled everyone with access to this wing into one room. Officer Diamond is with him. Not a request. The wing is locked down.  
+> Officer Ray has pulled everyone with access to this wing into one room. Officer Marz is with him. Not a request. The wing is locked down.  
 > The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
 > And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
 
@@ -39,11 +39,11 @@
 
 **RAY** sets his notebook on the table. Looks at each person in turn. When he reaches **Homes**, he doesn't look away.
 
-> **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Diamond's with me.
+> **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Marz's with me.
 
-**DIAMOND** (PLAYER: southern belle, pleasant, already painting a nail):
+**MARZ** (PLAYER: southern belle, pleasant, already painting a nail):
 
-> And I'm Officer Diamond. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
+> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
 > At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
@@ -156,11 +156,11 @@
 
 > Melody! Night reception? Like, I was at the desk, I called the code when the monitor flatlined, oh my god, and I saw *everyone* coming and going all night. Including
 
-*Glances at **Alfie**. Blinks innocent. Glances at **Diamond**'s nails.*
+*Glances at **Alfie**. Blinks innocent. Glances at **Marz**'s nails.*
 
-> **MELODY:** Officer Diamond? Where is that blouse from? It is, like, literally gorgeous on you.
+> **MELODY:** Officer Marz? Where is that blouse from? It is, like, literally gorgeous on you.
 
-**DIAMOND** (PLAYER, kind, without flirting back hard):
+**MARZ** (PLAYER, kind, without flirting back hard):
 
 > Oh, bless you, honey. Thrift store in the Quarter, then I fixed the cuffs myself. You have good eyes.
 
@@ -313,7 +313,7 @@
 | **Jetski** | Paralyzed pre blackout; not the cutter; surfer bro panic; **killer among us** beat delivered |
 | **Curie** | Charm on; Ray endeared; Pepper ahem; Homes annoyed |
 | **Ray** | Containment; no police; admits own debt |
-| **Diamond** | Junior badge; wild theory optional; Melody/Vance triangle beat |
+| **Marz** | Junior badge; wild theory optional; Melody/Vance triangle beat |
 | **Lacey** | Director distance; crisis lock invoked |
 | **Melody** | Called code; hints missing log / cameras |
 | **Vance** | Server room; logs; **Sachs glance**; wife hunt foreshadow |

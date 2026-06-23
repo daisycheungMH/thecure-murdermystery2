@@ -12,19 +12,14 @@ You have tattooed knuckles, heavy boots, and wire cutters concealed on your pers
 **Likes**
 
 - bullet points
-- clean timelines (with timestamps)
-- Vance running queries on schedule
 - paid debts
-- baiting Ray when he speaks in paragraphs
+- hostile hospital lighting
 
 **Dislikes**
 
 - jokes about your name
-- De Worsti (even dead—and still badly managed)
 - "around" as a time unit
-- hostile hospital lighting
-- dramatic speech when people could just use their full voice
-- loose ends and vibes-based investigations
+- loose ends
 
 **Vibe**
 You treat crime like a perfectly engineered system—but tonight nothing meets your standards, and it is **personally offensive**. Instead of cold and slick, you are an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow. You take everything too literally. You get distracted by inefficiency mid-interrogation. You treat murder like a badly run corporate meeting and randomly fixate on small details (lighting, posture, phrasing). You over-analyze everything to absurd levels. German. Still dangerous—but also kind of ridiculous. You are not tonight's OR killer.
@@ -51,6 +46,15 @@ De Worsti was your boss, and you hated each other by the end.
 
 - You ran collections for De Worsti's empire until he went broke, and as German enforcer muscle De Worsti imported you with an accent that never left.
 - Tonight you brought wire cutters and planned your own blackout, but someone beat you to it, and you still want De Worsti's ledger and the millions his ex wife stole.
+
+**Motive**
+Mutual hatred and millions owed. De Worsti went broke and you want his ledger and Genevieve's stolen fortune, not justice for anyone in this building.
+
+**Opportunity**
+You were on the VIP perimeter corridor when the generators failed, not inside the OR. Your alibi is thin: wire cutters, a planned blackout someone else beat you to, and Vance knows you were hunting the wife. You are dangerous tonight, but you are not the OR killer.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+Threatened Vance in the elevator shaft around 9 p.m. to trace De Worsti's vanished wife, then prowled the VIP perimeter and loading routes with wire cutters on your person until you heard the generators fail.
 
 ## 3. ALIBI (11:42 p.m.)
 

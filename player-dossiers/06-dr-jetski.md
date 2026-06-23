@@ -11,18 +11,15 @@ You have shaky hands, sun bleached hair that never quite fits hospital dress cod
 
 **Likes**
 
+- dawn surf
+- poker (Alfie has the same interest)
 - clean math
-- dawn surf when the schedule allows
-- the nickname Jet not being used
-- poker with Alfie (a bad idea you keep repeating)
 
 **Dislikes**
 
-- your nickname
-- blame
+- the nickname Jet
 - syndicate collectors
-- OR drama you did not sign up for
-- anyone who calls you a "beach bum who wandered into a hospital"
+- OR drama
 
 **Vibe**
 You are a frazzled disaster with whiny competence underneath, wrapped in a surfer bro archetype: still nervous, sweaty, and sharp, but you slip into occasional surfer speech when the panic spikes (*dude*, *bro*, *gnarly*, *that's not it, man*). You rage if anyone mocks your nickname.
@@ -38,6 +35,15 @@ De Worsti was your anesthesia patient tonight.
 - You trained on the coast, where colleagues joke you intubate like you're reading a wave (the joke is unfair because you are good at both).
 - You and Alfie share gambling debts tied to De Worsti's world.
 - You did not know the VIP was a loan shark until after he was already dead.
+
+**Motive**
+Indirect: gambling debts tied to De Worsti's world through Alfie and syndicate collectors. No personal grudge against the patient himself.
+
+**Opportunity**
+You were at the south wall anesthesia console in the OR, but you collapsed before the lights cut and could not have made the incision. Pepper can confirm you were already on the floor.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+OR prep from roughly 9:45: loaded the tray from pharmacy under pressure, skipped the vial seal check you are now terrified about, and stayed at the console until the lag hit and you went down.
 
 ## 3. ALIBI (11:42 p.m.)
 

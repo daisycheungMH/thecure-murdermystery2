@@ -10,7 +10,7 @@
 ## NARRATOR SETUP (read aloud)
 
 > The gathering is over. The charge is on the table: **Dr. Homes, primary suspect.**  
-> Ray and Diamond split the wing. OR sealed but searchable under their eyes, corridors assigned, no one walks alone.  
+> Ray and Marz split the wing. OR sealed but searchable under their eyes, corridors assigned, no one walks alone.  
 > The storm hasn't stopped. The police haven't come. The room has work to do.
 
 *Players move to play space. OR still in red backup wash. Blood still drying.*
@@ -19,7 +19,7 @@
 
 ## SCENE 2, OR FORENSICS (scripted entrance)
 
-*Ray, Diamond, and Curie lead the group, or an assigned search party, back toward the theater. **HOMES** may be held at the lounge or brought to point without touching evidence.*
+*Ray, Marz, and Curie lead the group, or an assigned search party, back toward the theater. **HOMES** may be held at the lounge or brought to point without touching evidence.*
 
 **RAY** tapes the threshold. Has already bagged the scalpel.
 
@@ -115,12 +115,12 @@ Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink
 
 | Player action | Host response | Evidence |
 |---------------|---------------|----------|
-| Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** |
+| Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** (subtle Homes absolution: two phases, not one frozen surgeon) |
 | Search anesthesia trash | Empty vial, compromised seal | **E1-B IV vial** |
 | Search De Worsti's coat (with Ray present) | Dossier on ex wife reconstruction | **E1-C P.I. file** |
 | Interview Melody at desk | "I called the code." Saw **Homes** in hall earlier, alibi or misdirect | Testimony only |
-| Ask about power failure | Vance stammers; override "from admin tier", vague until Ep 2 | Foreshadow |
-| Accuse Homes immediately | Ray: *"Maybe. Show me proof that isn't standing still."* | No arrest yet |
+| Ask about power failure | Vance stammers; override "from admin tier", vague until Ep 2 | Foreshadow E2-C absolution (not OR console) |
+| Accuse Homes immediately | Ray: *"Maybe. Show me proof that isn't standing still."* | No arrest yet; E1-A/E2-A will complicate |
 | Demand to search Admin office / Lacey's background | Ray proceeds; **Curie** adds *"unlikely primary actor, still a lead"*; **Lacey** may invoke Administrative Override once | Lacey ability foreshadow |
 
 ### Pepper's logbook gate

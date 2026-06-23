@@ -1,6 +1,6 @@
 # Player Cast, The Cure
 
-**De Worsti** (victim / narrator), **11 players**, and **optional 12th** Officer Marz. Descriptions are under five words each.
+**De Worsti** (victim / narrator), **11 players**, and **optional 12th** Officer Diamond. Descriptions are under five words each.
 
 ---
 
@@ -24,7 +24,7 @@ Charming, also quite brilliant surgeon
 
 Tough security chief, soft center
 
-## Officer Diamond — Haidee
+## Officer Marlowe "Marz" — Haidee
 
 Southern belle, brutally honest 
 
@@ -52,6 +52,6 @@ Frazzled surfer bro anesthesiologist
 
 Strategic inflammatory rage baiter
 
-## Officer Marlowe "Marz" — (twelfth player, optional)
+## Officer Diamond — (twelfth player, optional)
 
 Procedure nerd, gamifies crisis

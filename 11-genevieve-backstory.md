@@ -49,6 +49,8 @@ Then **subtle warnings** turned into a pattern:
 
 His play was psychological: book at **her** hospital, let department heads fuss over him, assume she would freeze. **Homes** refused the theater (meritocrat, insulted by wallet ethics). **Curie** refused the theater (sanctuary bond, saw the trap). Ray decided Alex would not walk out.
 
+Ray did not chase him through the wing. **Sachs** was on perimeter, cameras were still mostly live, and a VIP financier killed anywhere except the table would lead straight to the badge that escorted him in. Alex's real case was the trap Alex built for himself: one window where he'd be sedated, staff could be chemically frozen, lights could die on Ray's schedule, and a violent scalpel wound would read as rage in the theater—not murder by security. Alex wanted to own Lacey's OR; Ray finished him on the table Alex chose, dressed the death as medical chaos, and walked out still running the room.
+
 **Facilitator line:** De Worsti's surgery was real. His arrogance was real. Lacey's fear was real. Ray's cut was still murder.
 
 ---

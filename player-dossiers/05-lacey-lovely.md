@@ -14,15 +14,12 @@ You are girl next door pretty, with a soft cardigan and director badge. You go v
 - control
 - clean audits
 - Curie
-- crisis protocols
-- being underestimated
 
 **Dislikes**
 
 - De Worsti
 - Melody snooping
-- Pepper near her ex
-- unlogged admin searches
+- unlogged searches
 
 **Vibe**
 You wear a damsel mask over corporate ice. You are warm for donors.
@@ -37,6 +34,15 @@ De Worsti was your first husband, and he became your hunter. Officer Ray is an o
 - As Genevieve you endured abuse, isolation, and stolen ledger cash before you fled, had facial reconstruction, took a new name, and built a career at St. Saphicca's.
 - Three years ago Ray found you again. You let him stay close as security chief. You know he swore revenge on Alex. You did not know he would cut a throat in the dark.
 - You saw Sachs and other warnings that De Worsti had found the hospital, and when his real VIP arterial surgery booked here as a power play on your turf, you braced for the worst. Homes and Curie did not play along.
+
+**Motive**
+Finish escaping De Worsti forever, protect your new identity, and keep the fortune you took when you ran. You wanted distance, not a throat cut on your own table.
+
+**Opportunity**
+Director-tier emergency codes and admin access reach pharmacy, vault, and grid systems, but terminal logs show you in the admin office two floors up during the kill window, handling crisis protocols while the OR went dark.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+Storm grid calls and containment prep from admin from roughly 8 p.m. onward: backup power cycles, wing lockdown drafts, and the sick feeling that De Worsti had chosen your hospital on purpose.
 
 ## 3. ALIBI (11:42 p.m.)
 

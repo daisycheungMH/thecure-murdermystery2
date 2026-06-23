@@ -171,11 +171,11 @@ CHARACTERS = [
         ),
     },
     {
-        "id": "diamond",
-        "name": "Officer Diamond",
+        "id": "marz",
+        "name": 'Officer Marlowe "Marz"',
         "role": "Junior Security",
         "resources": with_dossier(
-            "11-officer-diamond.md",
+            "12-officer-marz.md",
             [
                 {
                     "id": "storm-containment",
@@ -222,17 +222,17 @@ CHARACTERS = [
         "resources": with_dossier("10-cd-vance.md", []),
     },
     {
-        "id": "marz",
-        "name": 'Officer Marlowe "Marz"',
+        "id": "diamond",
+        "name": "Officer Diamond",
         "role": "Auxiliary Containment (optional 12th)",
         "optional": True,
         "resources": with_dossier(
-            "12-officer-marz.md",
+            "11-officer-diamond.md",
             [
                 {
-                    "id": "storm-containment",
-                    "label": "Storm and containment FAQ",
-                    "hint": "Player facing answers: why no police, why you investigate",
+                    "id": "17-officer-diamond",
+                    "label": "Officer Diamond beat guide",
+                    "hint": "When to enter, limited role",
                 }
             ],
         ),
@@ -269,7 +269,7 @@ HOST_RESOURCES = [
     {"id": "09-melody", "label": "Dossier: Melody", "path": "player-dossiers/09-melody.md"},
     {"id": "10-cd-vance", "label": "Dossier: CD Vance", "path": "player-dossiers/10-cd-vance.md"},
     {"id": "12-officer-marz", "label": "Dossier: Officer Marz", "path": "player-dossiers/12-officer-marz.md"},
-    {"id": "17-officer-marz", "label": "Officer Marz beat guide", "path": "17-officer-marz.md", "hint": "Host and player: when to enter, limited role"},
+    {"id": "17-officer-diamond", "label": "Officer Diamond beat guide", "path": "17-officer-diamond.md", "hint": "Host and player: when to enter, limited role"},
     {"id": "dossiers-readme", "label": "Dossiers README", "path": "player-dossiers/README.md"},
 ]
 

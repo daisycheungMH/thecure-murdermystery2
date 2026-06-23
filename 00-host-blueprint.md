@@ -11,11 +11,11 @@ Tone: High stakes medical thriller × neo noir × messy interpersonal drama
 
 ## CONTAINMENT PREMISE (read players the FAQ, not the truth)
 
-A severe storm isolates St. Saphicca's from municipal watch for the entire game. **Officer Ray** (hospital security chief, ex cop, **debt to De Worsti**) and **Officer Diamond** (junior security) run **Containment Protocol Delta**, VIP wing sealed, no one leaves, suspects must cooperate until patrol gets through flooded causeways. **Real police arrive only in the Episode 4 coda** after the storm breaks.
+A severe storm isolates St. Saphicca's from municipal watch for the entire game. **Officer Ray** (hospital security chief, ex cop, **debt to De Worsti**) and **Officer Marlowe "Marz"** (junior security) run **Containment Protocol Delta**, VIP wing sealed, no one leaves, suspects must cooperate until patrol gets through flooded causeways. **Real police arrive only in the Episode 4 coda** after the storm breaks.
 
 Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
-**Optional auxiliary:** Officer Marlowe "Marz" (storm overflow security, 12th player, limited main-plot beats): [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)
+**Optional auxiliary:** Officer Diamond (storm overflow security, 12th player, limited main-plot beats): [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)
 
 ---
 
@@ -44,6 +44,21 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 **Ray** learned De Worsti had booked a **real** VIP arterial case at St. Saphicca's, compromised carotid wall, borderline rupture, genuinely life threatening if untreated. This was not a fake patient stunt. De Worsti needed the knife. He also chose **her** hospital on purpose: ego, leverage, and the bet that Genevieve was still too afraid to fight back.
 
 **Ray had been waiting three years.** When De Worsti walked into Lacey's wing, Ray accelerated a plan he had been building in secret: vault access, tampered vial, blackout, corridor entry, frame Homes. Murder was not a 48-hour panic by Curie and Lacey. It was a friend's revenge, dressed as medical chaos, led by the only badge in the building.
+
+### Why the OR, not elsewhere
+
+Ray never planned to ambush Alex in a corridor, the parking structure, or the consultation suite.
+
+| Constraint | Why it ruled out "elsewhere" |
+|------------|------------------------------|
+| **Sachs on perimeter** | VIP muscle on the wing; a hallway kill points at the security chief who escorted him in |
+| **Cameras still live** | Storm had not yet given Ray cover; only the engineered blackout owned the blind spot |
+| **Real arterial case** | If Ray waits, **Homes might save him**; a recovered Alex leaves with leverage and keeps hunting Lacey |
+| **Ray's badge** | Security credentials do not open VIP OR Two; the stolen **Curie's keycard** only pays off at the OR reader |
+| **The frame** | Paralyzed witnesses + bloody gloves on Homes + violent scalpel wound only converge on the **table** |
+| **The alibi** | Dead VIP in a closet makes Ray explain why he was alone with the body; OR catastrophe lets him **run containment** |
+
+Alex booked Lacey's hospital to own her room. Ray used that stage: sedated patient, chemically frozen staff, lights out on Ray's schedule, death that reads as OR rage—not security-chief murder. Kill him elsewhere and Ray has a body, no frame, and a man who might still walk out.
 
 Full context: [11-genevieve-backstory.md](11-genevieve-backstory.md)
 
@@ -95,7 +110,7 @@ Full context: [11-genevieve-backstory.md](11-genevieve-backstory.md)
 - **SYSTEM FAILURE**, burn logs; expose hospital  
 
 ### Ending A, Truth exposed (Ray alone, or Ray + Lacey if room names both)
-Room accuses correctly before sirens. Diamond or Curie presents evidence to arriving watch. Full scripts: [05-episode-scripts.md](05-episode-scripts.md) → **AFTER THE BALLOT**.
+Room accuses correctly before sirens. Marz or Curie presents evidence to arriving watch. Full scripts: [05-episode-scripts.md](05-episode-scripts.md) → **AFTER THE BALLOT**.
 
 ### Ending B, Wrong target (Homes, Curie, Lacey, Sachs, others)
 Room accuses wrong person. Watch arrests the innocent in the chaos. Ray watches from the wing as patrol takes the fall guy.

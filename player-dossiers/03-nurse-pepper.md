@@ -11,16 +11,14 @@ You wear pressed scrubs and treat your clipboard like a sceptre. Your hands are 
 
 **Likes**
 
-- clean data
 - accurate timestamps
-- Homes's skill (not his personality)
-- people who survive the night
+- Homes's skill
+- cats (Diamond has the same interest)
 
 **Dislikes**
 
 - hospital politics
 - Lacey's perfume
-- Ray and Curie flirting mid crisis
 - liars
 
 **Vibe**
@@ -34,6 +32,15 @@ De Worsti was tonight's VIP, and he was also your secret lover.
 **History**
 
 - De Worsti was controlling, wealthy, and toxic in an affair that ran against your public professional life; you knew he had a vanished wife but did not know she was Lacey, and he died on your table tonight while your professional mask shattered in the OR.
+
+**Motive**
+Grief when he died, not relief. You did not want him murdered on your table. Jealousy toward Lacey flares once you learn who she really is.
+
+**Opportunity**
+You were in OR Two at the table when the lights cut, but you collapsed roughly fifteen seconds before the blackout and could not have held a blade. Homes and the monitors back that timeline.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+VIP consult prep with Homes and De Worsti around 9:30, then OR setup and assisting Homes from roughly 10:30 until the pressure dropped and the room went dark.
 
 ## 3. ALIBI (11:42 p.m.)
 

@@ -11,17 +11,15 @@ You have desk makeup, hair you touch constantly, fake surprise eyes, and gossip 
 
 **Likes**
 
-- tea
+- sweet tea (Marz has the same interest)
 - scandal
-- Officer Diamond (crush)
-- Vance doing favors
+- Marz
 - archival binders
-- watching powerful people squirm
 
 **Dislikes**
 
 - Lacey treating you like furniture
-- boring visitors who do not tip or talk
+- boring visitors
 
 **Vibe**
 You wear a Valley bimbo mask (*"like literally oh my god"*), but a razor lives underneath.
@@ -36,6 +34,15 @@ De Worsti was VIP intake at your desk tonight.
 - Three years on nights means you see what people try to hide.
 - You recognized Lacey from pre surgery intake photos and started blackmailing her.
 - You saw Alfie enter as delivery, and you were the one who called the code.
+
+**Motive**
+Blackmail Lacey with archival intake photos and public ruin, not murder. De Worsti was gossip and leverage, not someone you needed dead.
+
+**Opportunity**
+You were at the front desk when the code went out; your overhead call is on record and you were not in the OR. You also know about the torn keycard log page, which gives you trade leverage once the room starts asking who had access.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+VIP intake for De Worsti at your desk around 8:30, watched Alfie slip in as delivery around 9 p.m., and noticed a missing page in the master keycard log around 9:30. You filed it for later scandal, not for Ray.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -57,7 +64,7 @@ Public ruin of Lacey Lovely.
 
 - Play dumb in the room, but listen hard to everything.
 - After Alfie names Genevieve, corroborate with your knowledge about her plastic surgery (your proof is harder than his).
-- Flirt with Diamond (compliments, wardrobe questions: *"where is that from?"*); she answers kindly, and it still hurts when she looks at Vance.
+- Flirt with Marz (compliments, wardrobe questions: *"where is that from?"*); she answers kindly, and it still hurts when she looks at Vance.
 - Manipulate Vance for logs and leverage when you need them.
 
 ## ⚠️ RULES
@@ -67,7 +74,7 @@ Public ruin of Lacey Lovely.
 
 ## 💕 LOVE TRIANGLE (play, not secret)
 
-- You have a crush on Officer Diamond. She is gorgeous, calm, and actually listens when you talk.
-- Diamond likes Vance, not you. She will still answer kindly when you ask where her necklace is from. That almost hurts worse.
-- Vance likes you. You know it. You use it for logs sometimes. Your heart is mostly on Diamond anyway.
-- Play it for comedy and a little sting: flirt with Diamond in the open, get soft answers, watch her eyes drift to Vance. Do not make it the main plot. The murder is still the plot.
+- You have a crush on Officer Marz. She is gorgeous, calm, and actually listens when you talk.
+- Marz likes Vance, not you. She will still answer kindly when you ask where her necklace is from. That almost hurts worse.
+- Vance likes you. You know it. You use it for logs sometimes. Your heart is mostly on Marz anyway.
+- Play it for comedy and a little sting: flirt with Marz in the open, get soft answers, watch her eyes drift to Vance. Do not make it the main plot. The murder is still the plot.

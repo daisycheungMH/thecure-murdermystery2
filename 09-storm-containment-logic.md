@@ -8,7 +8,7 @@
 
 ## The one sentence pitch
 
-A city breaking storm traps eleven people in a sealed VIP wing, municipal watch is hours away, and the only badges inside the building are **Officer Ray** (chief) and **Officer Diamond** (junior). Ray owed the victim money and cannot be fully trusted, so everyone has to solve it together before the real police arrive.
+A city breaking storm traps eleven people in a sealed VIP wing, municipal watch is hours away, and the only badges inside the building are **Officer Ray** (chief) and **Officer Marlowe "Marz"** (junior). Ray owed the victim money and cannot be fully trusted, so everyone has to solve it together before the real police arrive.
 
 ---
 
@@ -38,7 +38,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 5. **No second badge**, Curie has medical authority, not arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
 
-6. **Optional overflow officer**, If cast, **Officer Marlowe "Marz"** (twelfth player) arrives after the code from main campus. She has a full dossier and supports perimeter and escort; Ray and Diamond still lead investigation. See [17-officer-marz.md](17-officer-marz.md).
+6. **Optional overflow officer**, If cast, **Officer Diamond** (twelfth player) arrives after the code from main campus. She has a full dossier and supports perimeter and escort; Ray and Marz still lead investigation. See [17-officer-diamond.md](17-officer-diamond.md).
 
 > **Narrator line (Ep 1):** *The city was drowning. The watch was spread thin as wire. And inside the VIP wing, the only handcuffs were on the wrong side of the door.*
 
@@ -78,7 +78,7 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 | Blind spot for Curie | **Easy banter + visible respect**; Curie never suspects Ray; room chases the surgeon when raw log names Curie's badge |
 | No OR access on Ray's badge | Security chief cannot open OR on his own credentials; **stole Curie's card**; mainframe shows Curie |
 | Torn keycard log before murder | Ray made the tear; looks like attention to detail or guilt depending who notices |
-| Runs the board anyway | *"I know how this looks. I don't care. Someone cut a man's throat in the dark and I'm the boss of security here until those sirens get through. Diamond's with me."* |
+| Runs the board anyway | *"I know how this looks. I don't care. Someone cut a man's throat in the dark and I'm the boss of security here until those sirens get through. Marz's with me."* |
 
 **Design intent:** Ray should feel credible enough to follow and suspicious enough to accuse. Correct target endings land harder because he was always running the board.
 
@@ -88,8 +88,8 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 
 | Episode | Who's in charge | Police status |
 |---------|-----------------|---------------|
-| **Ep 1** | Ray + Diamond secure OR → **The Gathering** (all eleven in Recovery Lounge); Homes primary suspect | LC-4471 logged; ETA unknown |
-| **Ep 2** | Ray + Diamond + Curie partnership; players gather evidence | Radio: units still blocked; "shelter in place" |
+| **Ep 1** | Ray + Marz secure OR → **The Gathering** (all eleven in Recovery Lounge); Homes primary suspect | LC-4471 logged; ETA unknown |
+| **Ep 2** | Ray + Marz + Curie partnership; players gather evidence | Radio: units still blocked; "shelter in place" |
 | **Ep 3** | Ray chases shadow (misdirection); killer still in wing | Melody attack proves external killer theory false |
 | **Ep 4** | Room builds accusation; Ray prepares handoff | Storm breaks; sirens audible; lights stabilize |
 | **Ep 4 coda** | **Municipal Watch arrives** | Ballot readout → custody; see 05-episode-scripts.md |
@@ -108,7 +108,7 @@ Summary:
 - **Curie + Lacey wrongly accused / no consensus:** server room collapse (Ending C)  
 - **Moral layer:** MURDER / JUSTICE / SYSTEM FAILURE on top of any branch  
 
-Watch always enters. Diamond or Curie hands off LC-4471 if Ray is in cuffs.
+Watch always enters. Marz or Curie hands off LC-4471 if Ray is in cuffs.
 
 ---
 
@@ -123,7 +123,7 @@ Delivered in **[10-the-gathering.md](10-the-gathering.md)** when all eleven are 
 | Question | Answer in world |
 |----------|-----------------|
 | Why can't we just call the police? | You did. They're not getting through the flood before dawn. |
-| Why is Ray investigating if he might be guilty? | Because he's the head of security here and he knows it looks bad. Diamond's junior, not decoration. |
+| Why is Ray investigating if he might be guilty? | Because he's the head of security here and he knows it looks bad. Marz's junior, not decoration. |
 | Why do we have to participate? | Wing sealed. Killer still inside. No one gets to sit out and look innocent. |
 | When do real cops show up? | End of the night, when the storm breaks. |
 | Was the storm faked? | No. It was real. The murder used it. |

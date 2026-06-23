@@ -18,7 +18,7 @@
 
 **NARRATOR** blocks are read by the facilitator. Listen, then play.
 
-**Between scenes** you investigate the wing, trade information, examine evidence, and accuse each other. Officer Ray, Officer Diamond, and Dr. Curie lead interviews, but no one is a spectator.
+**Between scenes** you investigate the wing, trade information, examine evidence, and accuse each other. Officer Ray, Officer Marlowe "Marz", and Dr. Curie lead interviews, but no one is a spectator.
 
 **Rules:**
 
@@ -30,7 +30,7 @@
 
 **Personas:** Play big and fun. Your dossier and [14-actor-personas.md](14-actor-personas.md) have how to play your character.
 
-**Auxiliary cast:** **Officer Marlowe "Marz"** is the optional twelfth player (overflow security). She has a dossier and player pack entry like everyone else, but arrives after The Gathering and stays out of the eleven-person briefing. See [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md).
+**Auxiliary cast:** **Officer Diamond** is the optional twelfth player (overflow security). She has a dossier and player pack entry like everyone else, but arrives after The Gathering and stays out of the eleven-person briefing. See [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md).
 
 ---
 
@@ -145,17 +145,17 @@
 
 > The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
 > Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
-> Officer Ray has pulled everyone with access to this wing into one room. Officer Diamond is with him. Not a request. The wing is locked down.  
+> Officer Ray has pulled everyone with access to this wing into one room. Officer Marz is with him. Not a request. The wing is locked down.  
 > The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
 > And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
 
 ### SCENE: THE BRIEFING
 
-> **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Diamond's with me.
+> **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Marz's with me.
 
-**DIAMOND** (already painting a nail):
+**MARZ** (already painting a nail):
 
-> And I'm Officer Diamond. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
+> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
 > At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
@@ -240,11 +240,11 @@
 
 > Melody! Night reception? Like, I was at the desk, I called the code when the monitor flatlined, oh my god, and I saw *everyone* coming and going all night. Including
 
-*Glances at **Alfie**. Blinks innocent. Glances at **Diamond**'s nails.*
+*Glances at **Alfie**. Blinks innocent. Glances at **Marz**'s nails.*
 
-> **MELODY:** Officer Diamond? Where is that blouse from? It is, like, literally gorgeous on you.
+> **MELODY:** Officer Marz? Where is that blouse from? It is, like, literally gorgeous on you.
 
-**DIAMOND**:
+**MARZ**:
 
 > Oh, bless you, honey. Thrift store in the Quarter, then I fixed the cuffs myself. You have good eyes.
 
@@ -361,19 +361,19 @@
 > The storm kept screaming. The sirens were still miles away.  
 > And somewhere between the pharmacy vault and the admin terminal, the truth was already written in codes and overrides the room had not opened yet.
 
-### OPTIONAL: OFFICER MARZ (twelfth player, arrives after briefing)
+### OPTIONAL: OFFICER DIAMOND (twelfth player, arrives after briefing)
 
-*Marz was on main campus when the code dropped. Read this beat when the facilitator calls you in, usually end of Act 1.*
+*Diamond was on main campus when the code dropped. Read this beat when the facilitator calls you in, usually end of Act 1.*
 
-**MARZ**:
+**DIAMOND**:
 
-> Okay! **Phase One: Lockdown Complete.** Officer Marlowe. Marz. Overflow from main campus. Perimeter's mine. You all keep being suspicious. Boo yah.
+> Okay! **Phase One: Lockdown Complete.** Officer Diamond. Overflow from main campus. Perimeter's mine. You all keep being suspicious. Boo yah.
 
 **RAY** (optional):
 
-> Marz. Door. Logs. Don't gamify the corpse.
+> Diamond. Door. Logs. Don't gamify the corpse.
 
-**MARZ** (optional):
+**DIAMOND** (optional):
 
 > Copy that, Chief. Phase One point five: Respect the Corpse. I'm on it.
 
@@ -424,7 +424,7 @@
 
 > Good. Then we're chasing it.
 
-**DIAMOND** (optional, painting a nail, outlandish but specific):
+**MARZ** (optional, painting a nail, outlandish but specific):
 
 > Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
 
@@ -446,7 +446,7 @@
 
 > Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
 
-**MARZ** (optional, escort beat if facilitator splits room for search):
+**DIAMOND** (optional, escort beat if facilitator splits room for search):
 
 > Welcome to **Phase Three: Controlled Chaos.** Pair up. I walk you to your assigned room. New rule: if you touch evidence without logging it, you lose credibility points. I don't make the system. Boo yah.
 

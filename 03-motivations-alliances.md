@@ -110,6 +110,8 @@
 
 | **Tonight** | Accelerated a plan when De Worsti's real surgery booking landed in Lacey's wing |
 
+| **Why the OR** | Not ambushable elsewhere (Sachs, cameras, badge exposure); only the table gives immobilized victim + Homes frame + Curie keycard log + containment alibi; waiting risks Homes saving a real case |
+
 | **Investigation play** | Runs the board; frames Homes; steers room toward **Curie** (red herring) |
 
 | **Secret** | Tore keycard log; **no OR access on his own badge**; stole **Curie's keycard** for blackout entry; mainframe shows Curie in OR |
@@ -222,7 +224,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 
 
-### Officer Diamond
+### Officer Marlowe "Marz"
 
 | | |
 
@@ -236,11 +238,11 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Secret** | Saw torn keycard log before Ray; waited to see who flinched |
 
-| **Romance** | Likes **Vance**; **Melody** likes Diamond; Vance likes Melody |
+| **Romance** | Likes **Vance**; **Melody** likes Marz; Vance likes Melody |
 
 | **Alliance** | **Ray** (junior officer); pushes interviews Ray softens |
 
-| **Play beat** | Melody asks where her clothes are from; Diamond answers **kindly** |
+| **Play beat** | Melody asks where her clothes are from; Marz answers **kindly** |
 
 
 
@@ -316,7 +318,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Motive vs. De Worsti** | Gossip network; saw Alfie enter |
 
-| **Romance** | Crush on **Officer Diamond**; wardrobe compliments as flirtation |
+| **Romance** | Crush on **Officer Marz**; wardrobe compliments as flirtation |
 
 | **Power** | Withholds evidence for scandal trades |
 
@@ -332,7 +334,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Persona** | Genki IT girl, nerdy, hyperactive, cutesy; terror as speed babble |
 
-| **Romance** | Crush on **Melody**; oblivious that **Officer Diamond** likes him |
+| **Romance** | Crush on **Melody**; oblivious that **Officer Marz** likes him |
 
 | **Motive** | Survival, not ideological |
 

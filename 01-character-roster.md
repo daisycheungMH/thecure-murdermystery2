@@ -1,8 +1,8 @@
 # Character Roster, 11 Players
 
 **Victim / narrator (non player):** De Worsti  
-**Investigation leads (until Ep 4 coda):** Officer Ray, Officer Diamond + Dr. Curie  
-**Optional 12th player:** Officer Marlowe "Marz", storm overflow security, see [17-officer-marz.md](17-officer-marz.md), dossier [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md)  
+**Investigation leads (until Ep 4 coda):** Officer Ray, Officer Marlowe "Marz" + Dr. Curie  
+**Optional 12th player:** Officer Diamond, storm overflow security, see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)  
 **Full performance guide:** [14-actor-personas.md](14-actor-personas.md)
 
 ---
@@ -14,7 +14,7 @@
 |---|---|
 | **Persona** | Hard edged ex cop wall; secret soft heart; easy, steady friend to Lacey |
 | **Play** | Bark first, regret later; protective; plain talk; runs the investigation |
-| **Role** | Security chief; Containment Protocol Delta with **Diamond** as junior officer |
+| **Role** | Security chief; Containment Protocol Delta with **Marz** as junior officer |
 | **Secret** | **Killer**; Lacey's old friend; swore revenge on De Worsti; debt to De Worsti; tore keycard log; **stole Curie's OR keycard** (no OR access on his own badge) |
 | **Ability** | *Good Cop, Bad Cop*, coin flip with Curie: motive OR clue |
 | **Objective** | Steer room toward Curie and Homes; survive until watch arrives |
@@ -22,14 +22,14 @@
 ### Dr. Curie, Prince Charming (obvious red herring)
 | | |
 |---|---|
-| **Persona** | Lovable leading man charm; **naive social butterfly**; **deeply traumatized, never shows it** |
-| **Play** | Warm, witty, generous with praise, friends with almost everyone; room adores him; **only Homes** is immune |
+| **Persona** | Idealist; kind-hearted **social butterfly**; **annoying charisma**; angel's advocate; assumes the best in people; **deeply traumatized, never shows it** |
+| **Play** | Warm, witty, generous with praise; genuine niceness reads suspicious but is **not performance**; **rival** to Homes; too many friends to name who lifted his keycard |
 | **Role** | Chief of Surgery + medical liaison (looks guilty, is not the killer) |
 | **Secret** | Sanctuary bond with Lacey; wanted De Worsti dead; did not make the cut; **never noticed keycard missing until evidence** |
 | **Ability** | *Surgical Counsel*, once/act: lead seems unlikely, still worth running |
 | **Objective** | Survive red herring heat; protect Lacey; help room find truth |
 
-### Officer Diamond, Southern belle (brutally honest)
+### Officer Marlowe "Marz", Southern belle (brutally honest)
 | | |
 |---|---|
 | **Persona** | Honey drawl, perfect posture, wet nail polish; says outlandish things like she is passing the sugar |
@@ -37,7 +37,7 @@
 | **Role** | Junior security officer; investigates **alongside Ray** (not under Curie's medical lane) |
 | **Secret** | Saw torn keycard log early; did not tell Ray immediately |
 | **Strength / weakness** | Will float brutal, out of pocket theories in front of everyone |
-| **Romance** | Likes **CD Vance**; **Melody** likes Diamond; Vance likes Melody (triangle) |
+| **Romance** | Likes **CD Vance**; **Melody** likes Marz; Vance likes Melody (triangle) |
 | **Objective** | Prove herself on the case; protect Vance without freezing up |
 
 ### Nurse Pepper, Sage (sentimental + logical)
@@ -54,7 +54,7 @@
 
 ### Dr. Homes, Authoritative dick (for a good cause)
 - **Persona:** Arrogant, insufferable, **actually brilliant**, saves lives, ruins moods  
-- **Play:** Condescending meritocrat; **only one openly annoyed by Curie's charm**  
+- **Play:** Condescending meritocrat; **professional rival** to Curie; hates his annoying charisma and angel's-advocate habit  
 - **Framed** at scene; **first suspect** who must defend himself; obsessed with Lacey  
 - **Ability:** *Doctor's Orders*, 3 truthful answer subpoena tokens  
 - **Objective:** Clear name; destroy Curie's reputation  
@@ -110,7 +110,7 @@
 
 ## Twelfth player (optional, overflow security)
 
-### Officer Marlowe "Marz", Procedure nerd (storm overflow)
+### Officer Diamond, Procedure nerd (storm overflow)
 | | |
 |---|---|
 | **Persona** | Over enthusiastic procedure nerd; treats real crisis like a live action training simulation |
@@ -118,6 +118,6 @@
 | **Role** | Auxiliary containment officer, called last minute when storm overflow stretches security; perimeter and escort |
 | **Secret** | Sharper than the bit; reports observations to Ray instead of holding court |
 | **Ability** | *Training Module*, once per act: declare a phase name; room lets you finish one official sentence before arguing back (comic structure only) |
-| **Objective** | Keep perimeter honest; support Ray and Diamond; one real detail per act |
-| **Dossier** | [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md) |
-| **Host** | [17-officer-marz.md](17-officer-marz.md), arrives after The Gathering; limited main plot |
+| **Objective** | Keep perimeter honest; support Ray and Marz; one real detail per act |
+| **Dossier** | [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md) |
+| **Host** | [17-officer-diamond.md](17-officer-diamond.md), arrives after The Gathering; limited main plot |

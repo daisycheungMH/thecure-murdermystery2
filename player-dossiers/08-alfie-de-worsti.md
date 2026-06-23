@@ -12,19 +12,14 @@ You wear a too clean delivery vest, keep exit-watching eyes, and hide a knife ba
 **Likes**
 
 - watching people snap
-- a room that was calm five seconds ago
 - insurance payouts
-- Pepper (from afar — and you will use that)
-- your brother's money (not your brother)
-- surviving the night
+- poker (Jetski has the same interest)
 
 **Dislikes**
 
-- De Worsti
 - calm consensus
 - being ignored
-- Homes flirting with Pepper
-- someone else steering the room
+- Homes near Pepper
 
 **Vibe**
 You are not just annoying — you are **strategically inflammatory**. You thrive on reactions, poke insecurities, and turn people against each other. Where others try to solve the murder, you try to **break the room dynamic**.
@@ -47,6 +42,15 @@ De Worsti was your older brother.
 **History**
 
 - De Worsti drained the family, married Genevieve (now Lacey Lovely), and for years you saw bruises, hollow holidays, and his "unstable wife" spin before you came tonight with a knife and an insurance fantasy, knowing you were not the OR killer.
+
+**Motive**
+Brother, insurance payout, and years of watching what he did to Genevieve. You intended to kill him yourself before someone else did.
+
+**Opportunity**
+You slipped in as a fake supply delivery around 9 p.m.; Melody saw you enter. You had a hunting knife and hung near the VIP loading route, but you were not in the OR when the throat was cut.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+Entered through the loading dock disguised as delivery, watched the wing from walls and exits, and stayed close enough to the VIP route to strike if the moment came. Someone else struck first.
 
 ## 3. ALIBI (11:42 p.m.)
 

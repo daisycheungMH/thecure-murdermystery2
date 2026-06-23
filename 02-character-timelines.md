@@ -28,14 +28,14 @@ All times approximate. Adjust to your table's surgery slot.
 | T−3y | **Officer Ray** | Lesbian City | Learns what De Worsti did to **Lacey**; swears revenge; takes security post at St. Saphicca's | Facilitator only until confession |
 | T−48h | **Lacey Lovely** | Hospital (admin) | Sees **Sachs** on perimeter + other hunt signs; panic | Subtle, no proof yet |
 | T−48h | **Officer Ray** | Security office | Learns De Worsti booked **real** VIP arterial surgery here; accelerates plan | Facilitator only until confession |
-| T−36h | **Officer Ray** | Off books | Finalizes murder plan: vial, blackout, frame Homes | No witnesses |
+| T−36h | **Officer Ray** | Off books | Finalizes murder plan: vial, blackout, frame Homes; **rejects pre-OR ambush** (Sachs on wing, cameras live, no Homes frame, Homes might save the real arterial case) | No witnesses |
 | T−3h | **Officer Ray** | Pharmacy vault | Swaps anesthesia vial (security override + memorized director codes) | Vault camera *may* be disabled wing wide |
 | T−2h | **Uvula Sachs** | VIP wing / elevator | Threatens **CD Vance**, help trace De Worsti's wife or "elevator shaft" | Vance begins clinic/hospital search logs (E2-F) |
 | T−2h | **CD Vance** | Server room | Forced wife hunt queries for Sachs | Reconstruction flags; admin tier anomalies |
 | T−2h | **Alfie De Worsti** | Loading dock → VIP | Enters disguised as delivery driver | **Melody** saw him slip in |
 | T−90m | **Officer Ray** | Security office | Debt pressure from De Worsti; tears keycard log page to hide OR entry plan | Knows he made the tear |
-| T−90m | **Officer Diamond** | VIP corridor patrol | Junior patrol; notices torn keycard log page | Does not tell Ray immediately |
-| T−60m | **Officer Marlowe "Marz"** | Main campus security desk | Storm overflow shift; not yet routed to VIP wing | Not in building wing during prep |
+| T−90m | **Officer Marlowe "Marz"** | VIP corridor patrol | Junior patrol; notices torn keycard log page | Does not tell Ray immediately |
+| T−60m | **Officer Diamond** | Main campus security desk | Storm overflow shift; not yet routed to VIP wing | Not in building wing during prep |
 | T−60m | **Melody** | Front desk | Tears / notices missing master keycard log page | Logbook gap, **host only until Ep 3** |
 | T−45m | **Dr. Homes** | Pre op / consult | De Worsti intake; tension with Pepper | Prologue scene |
 | T−30m | **Nurse Pepper** | VIP consult suite | Prep; secret eye on De Worsti | Pepper, Homes, De Worsti |
@@ -74,11 +74,11 @@ All times approximate. Adjust to your table's surgery slot.
 |------|-----------|----------|----------|
 | T+2m | **Staff / Melody** | OR corridor | Run to fetch **Lacey** (admin) and **Ray** (security) |
 | T+5m | **Nurse Pepper** | OR | Wakes terrified; sees De Worsti; shaking testimony, does not immediately accuse Homes |
-| T+10m | **Officer Ray** + **Officer Diamond** + **Lacey** | OR → Recovery Lounge | Ray secures scene; Diamond on perimeter; Lacey crisis posture; summon **all eleven** to lounge |
-| T+12m | **Officer Marlowe "Marz"** | Main campus → VIP wing stairs | Overflow call after code; en route during Gathering | Arrives end of Act 1; not in lounge for death |
+| T+10m | **Officer Ray** + **Officer Marlowe "Marz"** + **Lacey** | OR → Recovery Lounge | Ray secures scene; Marz on perimeter; Lacey crisis posture; summon **all eleven** to lounge |
+| T+12m | **Officer Diamond** | Main campus → VIP wing stairs | Overflow call after code; en route during Gathering | Arrives end of Act 1; not in lounge for death |
 | T+20m | **Everyone** | Recovery Lounge | **THE GATHERING**, news broken; Homes named primary suspect (see 10-the gathering.md) |
 | T+35m | **Officer Ray** + **Dr. Curie** | Lounge → wing | Ray splits room for evidence search; keeps Homes primary; Curie looks like co-lead |
-| T+40m | **Melody** | Lounge testimony | Hints missing keycard page / cameras; Alfie glance; flirts with Diamond |
+| T+40m | **Melody** | Lounge testimony | Hints missing keycard page / cameras; Alfie glance; flirts with Marz |
 | T+45m | **All eleven** | OR + wing | **Act 2 live play**, forensics, clue cards (06-act2-crime scene.md) |
 
 ---
@@ -90,7 +90,7 @@ All times approximate. Adjust to your table's surgery slot.
 | Ep 2 open | **Jetski** | Recovery ward interrogation (cutscene) |
 | Ep 2 | **Pepper** | Releases toxicology + pharmacy logs |
 | Ep 2 | **CD Vance** | Confesses Sachs coerced wife investigation; search logs surface (E2-F) |
-| Ep 2 | **Ray + Diamond + Curie** | Ray opens Lacey background; Diamond may volunteer wild theory; Curie: run the access logs anyway |
+| Ep 2 | **Ray + Marz + Curie** | Ray opens Lacey background; Marz may volunteer wild theory; Curie: run the access logs anyway |
 | Ep 2 late | **Locker find** | Orphanage photo, Genevieve + Curie (players may miss) |
 
 ---

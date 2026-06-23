@@ -1,72 +1,76 @@
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Officer Diamond  
-AGE: 29  
-OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
+AGE: 26  
+OCCUPATION: Auxiliary Containment Officer, St. Saphicca's (ex Municipal Watch training unit)
 
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You are polished like a southern belle at a crime scene: neat uniform, soft lipstick, nails you paint yourself (often still wet). Hair pinned, posture perfect, eyes absolutely feral.
+Catalog-fresh uniform, tablet or clipboard, boots soaked on the flood stairs. Your badge says auxiliary, and you have made that sound like a promotion.
 
 **Likes**
 
-- painting your nails to fidget
-- CD Vance (you will not say it plainly)
-- sweet tea
-- a good theory
-- people who answer honestly when you ask kind questions
+- protocols
+- cats
+- respectful people
+- people taking you seriously
 
 **Dislikes**
 
-- being told to "stay decorative"
-- Sachs breathing near your junior badge
-- when Melody flirts too loud in front of Vance
+- chaos
+- biohazard footprints
+- being ignored
 
 **Vibe**
-Honey drawl, brutal honesty, outlandish theories in plain English. You are junior to Officer Ray but you are not shy.
+You treat crisis like a live-action training sim: energetic, official language in the wrong context, playful until something matters, then laser focused.
 
 ## 2. BACKSTORY & VICTIM
 
 **Connection**
-De Worsti was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
+De Worsti was a VIP in a wing you were not assigned to until the code dropped. You did not know him.
 
 **History**
 
-- Transferred from Municipal Watch after a "personality incident" (you told a city councilman his alibi was fiction to his face).
-- Ray hired you because you are sharp and he needed someone who would actually dig.
-- You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly.
+- Municipal Watch training unit: top marks on procedure drills, bottom marks on "pretend this is not fun."
+- Hired for storm overflow: desk, corridors, escorts.
+- Ray is chief. Marz is your senior tonight. You narrate the chain of command like a module intro even when they are standing right there.
+
+**Motive**
+None personal. You did not know De Worsti and you are here for storm overflow, not revenge.
+
+**Opportunity**
+Main campus security desk until the code routed you toward the VIP wing. You were not in the OR, not in the lounge when De Worsti died, and dispatch radio shows overflow routing after 11:42.
+
+**Earlier tonight (roughly 8–11 p.m.)**
+Storm overflow shift at the main campus security desk from roughly 8 p.m.: donor escorts, flood-stair jokes you will deny later, and the advanced-module energy of a wing you were not assigned to until the code dropped.
 
 ## 3. ALIBI (11:42 p.m.)
 
 **Where**
-Eastern VIP corridor patrol, then OR perimeter when the code dropped (with Ray en route).
+Main campus security desk, then en route to the VIP wing when the code went out. Not in the OR. Not in the lounge when De Worsti died.
 
 **Backup**
-Radio partial log; you were not in the OR during the incision.
+Dispatch radio shows overflow routing after 11:42; Ray can confirm he called for backup once the wing sealed.
 
 **Hide (minor)**
-You noticed the torn keycard log page before Ray did. You did not tell him immediately because you wanted to see who panicked first.
+You kind of enjoyed the flooded stairs because it felt like an advanced module. Do not say that out loud unless you are leaning into the bit.
 
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Prove you belong on this case beside Ray, find the killer, and do not make a fool of yourself in front of Vance.
+Keep the perimeter honest, support Ray and Marz, and find one real detail per act.
 
 **Plan**
 
-- Partner Ray on interviews, take notes, and ask the questions he will not soften.
-- Volunteer outlandish theories when the room needs a push (wild, specific, sometimes accidentally right): own it when you are wrong and double down when you are right.
-- When Melody asks where your outfit is from, answer kindly because she is fishing for closeness, and you can be gentle without leading her on… much.
-- Paint your nails when you need to think; it reads as fidgeting, and it is also true.
-- If Vance is scared, be the calm one; if Melody is jealous, do not weaponize it, because you are not cruel, you are just honest.
+- Gamify containment (phases, credibility points, boo yah) but drop the bit the instant someone is in danger or Ray gives a flat order.
+- Stay where the room needs you: lounge door, corridor patrol, Act 2 room escorts.
+- Log who enters where; escort search pairs; do not hand out evidence or run accusations.
+- Partner Marz on radio checks. One sharp observation per act, then bounce.
+- Odd behavior near admin or the server room? Report to Ray privately. He decides what the room hears.
 
 ## ⚠️ RULES
 
-- **✓** Southern belle politeness with a knife underneath; nail painting; wild theories; kind answers to Melody's wardrobe questions.
-- **✗** No claiming you were in the OR. No stealing Ray's authority (you are junior). No confessing to murder.
+- **✓** Procedure nerd energy; phases and credibility points; boo yah; sudden competence; support Ray and Marz.
+- **✗** No OR access claims. No stealing chief authority. No handing out clues. No confessing to murder you did not commit.
 
-## 💕 LOVE TRIANGLE (play, not secret)
-
-- Melody likes you and you find her funny, but your heart does backflips for Vance, who likes Melody back, so all three of you become an awkward genki disaster whenever you share a room.
-- Play it for comedy, not melodrama.

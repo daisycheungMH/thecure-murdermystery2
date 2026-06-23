@@ -13,7 +13,7 @@
 | ------------------- | --------------------------------- | ------------------------------------------------------ |
 | **Dr. Curie**       | Prince Charming red herring       | Disney prince surface; motive without guilt             |
 | **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; friend's revenge               |
-| **Officer Diamond** | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
+| **Officer Marz**    | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
 | **Nurse Pepper**    | Sage + sentimental                | Wise, calm, then devastatingly precise                 |
 | **Dr. Homes**       | Authoritative dick (good cause)   | Insufferable expert who *is* that good                 |
 | **Lacey Lovely**    | Girl next door damsel / corporate | Soft, pretty, harmless, spreadsheet blade underneath   |
@@ -22,24 +22,24 @@
 | **Melody**          | Valley gossip bimbo               | Airy, ditzy, sees *everything*                         |
 | **Alfie De Worsti**    | Strategic rage baiter             | Screw-up mask; observant; inflammatory; punchable      |
 | **Dr. Jetski**      | Frazzled surfer bro               | Sweat, volume, occasional *dude*; smart when it counts |
-| **Officer Marz**    | Procedure nerd (overflow)         | Gamify phases; boo yah; sharper than the bit          |
+| **Officer Diamond** | Procedure nerd (overflow)         | Gamify phases; boo yah; sharper than the bit          |
 
 
 ---
 
 ## Dr. Curie, Prince Charming (obvious red herring)
 
-**Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading man charm, the room *wants* to be on his side.
+**Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading man charm with an **annoying charisma**: idealist, kind-hearted social butterfly, the room's angel's advocate. The room *wants* to be on his side.
 
-**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** When stressed, get *more* charming, not less, and the room will chase the wrong surgeon.
+**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** Assumes the best in people, including Ray, so he never suspects who lifted his OR keycard. His niceness is **genuine, not performance**; in a murder investigation that sincerity reads suspicious anyway. When stressed, get *more* warm and optimistic, not less, and the room will chase the wrong surgeon.
 
 **Physical:** Open posture; unhurried hands; smile that lands like a gift.  
 **Voice:** Low, warm, complete sentences. Never shouts, cuts with politeness.  
-**Tell:** When cornered on motive, he gets *extra* sincere, not guilty.
+**Tell:** When cornered on motive, he gets *extra* sincere, not guilty; finds the upside even when no one asked.
 
 > *"Officer, I'd flirt back, but we have a corpse."* (smile, pivot, devastating competence).
 
-**Only Homes** sees through the performance. Lean into that annoyance.
+**Homes** is his **professional rival**: merit vs charm, oil and fire. Homes thinks the warmth is obscene; Curie thinks Homes is exhausting. Lean into the rivalry; neither is faking the friction.
 
 ---
 
@@ -47,7 +47,9 @@
 
 **Surface:** Square jaw energy, boots loud, notebook like a weapon. First impression: *will arrest the weather.*
 
-**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes.
+**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing — he waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible.
+
+**If the room asks "why not kill him elsewhere":** *"A man like that doesn't travel alone on a storm night. You don't stab him in a hallway and walk away clean. You let a surgeon save him — or you kill him where medicine already has him pinned down."* (Curie, authoritative.) Or Marz: *"Security chief offs a VIP in the garage and then runs the case? Please."*
 
 **Soft center:** Protective of Lacey, quietly loyal to his friends, uses warmth as cover. He is easier around Lacey than almost anyone else.
 
@@ -59,7 +61,7 @@
 
 ---
 
-## Officer Diamond, Southern belle (brutally honest)
+## Officer Marz, Southern belle (brutally honest)
 
 **Surface:** Posture like church on Sunday, voice like sweet tea, nails wet from a fresh coat; you paint them when you think, and it looks like fidgeting because it is.
 
@@ -97,7 +99,7 @@
 
 **Surface:** God complex with receipts. Condescending because he *is* the best surgeon in the wing, and saving lives matters more than your feelings.
 
-**Not cartoon evil:** Believes in the medicine. Hates Curie's charm because it's **unearned** in his religion of merit.
+**Not cartoon evil:** Believes in the medicine. **Rival** to Curie: hates his annoying charisma and angel's-advocate habit of finding bright sides for people who should be suspects.
 
 **Physical:** Chin up; invades personal space; gestures with instruments or pens like scalpels.  
 **Voice:** Lecturing timbre; sighs before other people speak.  
@@ -211,9 +213,9 @@
 
 ---
 
-## Officer Marz, Procedure nerd (auxiliary, optional)
+## Officer Diamond, Procedure nerd (auxiliary, optional)
 
-**Not one of the eleven in the lounge.** Overflow security on a storm night. Full player dossier and pack; comic perimeter energy; Ray and Diamond still run the case.
+**Not one of the eleven in the lounge.** Overflow security on a storm night. Full player dossier and pack; comic perimeter energy; Ray and Marz still run the case.
 
 **Surface:** Bright eyes, clipboard or tablet, uniform still damp from the stairs. Talks like she has been waiting her whole career for a situation this dramatic.
 
@@ -225,7 +227,7 @@
 
 > *"New rule, if you interrupt, you lose credibility points. I don't make the system."* (beat) *"Boo yah."*
 
-**Host:** [17-officer-marz.md](17-officer-marz.md). Arrives after **The Gathering**. Dossier: [player-dossiers/12-officer-marz.md](player-dossiers/12-officer-marz.md).
+**Host:** [17-officer-diamond.md](17-officer-diamond.md). Arrives after **The Gathering**. Dossier: [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md).
 
 ---
 
@@ -235,7 +237,7 @@
 | Pairing           | Dynamic                                  |
 | ----------------- | ---------------------------------------- |
 | Curie + Ray       | Easy banter under pressure; Pepper ahems |
-| Curie + Homes     | Charm vs merit, oil and fire             |
+| Curie + Homes     | **Rival** surgeons: charm vs merit, angel's advocate vs righteous anger |
 | Sachs + Vance     | Chaos PM + squeaky contractor            |
 | Melody + everyone | Bimbo mirror, they underestimate her     |
 | Lacey + room      | Damselness slips one notch per act       |

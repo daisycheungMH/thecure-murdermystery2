@@ -196,7 +196,7 @@ The flatline tone fills the OR. No one moves.
 
 > Someone ran for the corridor.  
 > Someone screamed for help into a storm that ate sound.  
-> They went to find Hospital **Director Lacey Lovely**, and **Security Chief Officer Ray** (with **Officer Diamond** on perimeter), because in a hospital, death in the OR does not stay in the OR.  
+> They went to find Hospital **Director Lacey Lovely**, and **Security Chief Officer Ray** (with **Officer Marz** on perimeter), because in a hospital, death in the OR does not stay in the OR.  
 > It climbs the stairs. It knocks on doors. It demands a name.
 >
 > The code went out on every channel the building still had. Municipal Watch logged the death. and sent back the same message the city had been sending all night: *shelter in place, routes flooded, units when routing permits.*  
@@ -250,7 +250,7 @@ Pepper drops toxicology: Propofol + Midazolam, paralysis <15s.
 
 > Good. Then we're chasing it.
 
-**DIAMOND** (PLAYER, optional, painting a nail, outlandish but specific):
+**MARZ** (PLAYER, optional, painting a nail, outlandish but specific):
 
 > Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
 
@@ -429,7 +429,7 @@ Ray sprints. Curie's expression goes cold.
 > The storm is thinning. You can hear it in the walls, less scream, more drain.  
 > Genevieve is in the room, whatever name she wears.  
 > You have a violent scalpel wound that looks like rage, executive access codes, a blackout that obeyed no accident protocol, and a victim who weaponized debt and fists the way others weaponize scalpels.  
-> Officer Ray is still the head of security here. Officer Diamond is with him. The real watch is close, sirens somewhere below the flood line, getting closer.  
+> Officer Ray is still the head of security here. Officer Marz is with him. The real watch is close, sirens somewhere below the flood line, getting closer.  
 > Before they walk through that door, this room decides: **one suspect, or the pair.** Then choose what kind of city Lesbian City becomes tonight.
 
 *Tally accusation votes + moral verdict. Read **AFTER THE BALLOT** below, then **POLICE ARRIVAL**, then facilitator closing.*
@@ -459,13 +459,15 @@ Ray sprints. Curie's expression goes cold.
 
 *The truth wins. Read this when Ray gets a majority.*
 
+**Host aside (if players ask why Ray entered the OR personally):** Ray could not ambush Alex elsewhere — Sachs on perimeter, cameras still live, security chief alone with a dead VIP is instant guilt. Alex's real arterial case meant Homes might save him if Ray waited. Only the OR converged Ray's prep: tampered vial, blackout, stolen Curie's card, Homes framed, Ray summoned to the code. See [00-host-blueprint.md](00-host-blueprint.md) → *Why the OR, not elsewhere*.
+
 **NARRATOR:**
 
 > The evidence finally lines up the way the night always demanded.  
 > Pharmacy vault opened on security override. Generator cut from the security office. **Curie's keycard in the OR log** — but Curie was in the corridor and Ray's badge never opens that door. A carotid scalpel wound, violent and almost crazed. Logs torn before surgery.  
 > Genevieve ran from a monster. Her oldest protector learned where she landed, swore revenge on De Worsti, and the man who stood at the head of this investigation was the one who made the cut.
 
-**DIAMOND** (PLAYER or host, steady):
+**MARZ** (PLAYER or host, steady):
 
 > Ray. Hands where I can see them.  
 > Bad drugs. Lights out. You walked into that OR. You set up Homes. You ran this whole room.
@@ -501,7 +503,7 @@ Ray sprints. Curie's expression goes cold.
 
 > Five years later, Ray writes letters from prison that Lacey never answers. He still checks storm reports when the wind rises.
 
-> Officer Diamond is promoted to Security Chief. She keeps her sidearm clean and her nails immaculate.  
+> Officer Marz is promoted to Security Chief. She keeps her sidearm clean and her nails immaculate.  
 > Dr. Curie is publicly cleared. The hospital board commends his cooperation. He still flinches when someone praises his hands.  
 > Dr. Homes is publicly cleared as principal killer. The hospital board still removes him from VIP surgery for a year. He returns quieter, less certain, more human.  
 > Lacey Lovely keeps her title through the scandal's first wave, then resigns for a smaller clinic up the coast.  
@@ -524,9 +526,9 @@ Ray sprints. Curie's expression goes cold.
 >
 > He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
 >
-> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy.
+> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy. He did not hunt Alex through corridors. Sachs was on the wing, cameras were still live, and a VIP killed anywhere except the table would have led straight to the badge. Alex came to own Lacey's OR; Ray used that stage.
 >
-> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
+> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke — not because Ray lacked other chances, but because only the OR gave him a sedated victim, frozen witnesses, blood on the wrong gloves, and a security chief still credible when the code dropped. Then noise, panic, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
 >
 > By sunrise, the script was cracked open. Logs matched toxicology. Access trails matched alibis that were too perfect. Fear matched opportunity. And for once in Lesbian City, the rich did not buy the ending.
 >
@@ -534,7 +536,7 @@ Ray sprints. Curie's expression goes cold.
 > Ray did not walk free into dawn. He walked in chains beside the friend he tried to protect.  
 > Justice arrived late, soaked through, and incomplete. But it arrived.
 
-*Proceed to **POLICE ARRIVAL**. Watch cuffs Ray on Diamond's assembled evidence.*
+*Proceed to **POLICE ARRIVAL**. Watch cuffs Ray on Marz's assembled evidence.*
 
 ---
 
@@ -714,7 +716,7 @@ Ray sprints. Curie's expression goes cold.
 > A woman hunted across clinics and ledgers. A friend who stayed close and would not fail her twice. A victim who burned families and called it business.  
 > The room says the law would call it murder. The room would call it survival.
 
-*Diamond may soften her statement to watch: Genevieve's history enters the record. Arrests still happen if Ray was named correctly.*
+*Marz may soften her statement to watch: Genevieve's history enters the record. Arrests still happen if Ray was named correctly.*
 
 ### SYSTEM FAILURE (burn logs; expose the hospital)
 
@@ -737,12 +739,12 @@ Ray sprints. Curie's expression goes cold.
 > First the generators steadied. Then, distant, then close, sirens.  
 > Municipal Watch. Real patrol. Flood lights through the glass. Boots in the lobby. Radios that weren't hospital channels.
 
-**DIAMOND** (exhausted, to the room):
+**MARZ** (exhausted, to the room):
 
 > That's them. Finally.  
 > Whatever you picked in this room, names, proof, who did what. It's theirs now.
 
-*Apply arrest outcome from accusation branch. Diamond hands LC-4471 to municipal sergeant if Ray is cuffed; otherwise Ray hands off:*
+*Apply arrest outcome from accusation branch. Marz hands LC-4471 to municipal sergeant if Ray is cuffed; otherwise Ray hands off:*
 
 > **RAY:** Case number's LC-4471. Was my problem until about a minute ago.
 

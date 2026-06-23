@@ -136,7 +136,7 @@
       </header>
       ${modeToggleHtml("player")}
       <div class="callout callout-info">
-        Pick your character to open their resource folder. Eleven suspects plus optional Officer Marz.
+        Pick your character to open their resource folder. Eleven suspects plus optional Officer Diamond.
       </div>
       <h2 class="section-title">Cast (${mainCast.length} players)</h2>
       <div class="grid" id="cast-grid">${mainCards}</div>

@@ -18,7 +18,8 @@ Each entry: short description + full text to read aloud or hand out.
 >
 > **Zone A (pre blackout):** Controlled drip pattern, south side of table, consistent with arterial spray from elevated position. Small volume. Precise.  
 > **Zone B (post blackout):** Interrupted splash and smear, east tile, as if someone moved fast in the dark or a body shifted.  
-> **Note:** Pattern does not match a single panicked surgeon standing in place. Two phases. Two behaviors.
+> **Note:** Pattern does not match a single panicked surgeon standing in place. Two phases. Two behaviors.  
+> **Clinical footnote (subtle):** If Dr. Homes made the carotid cut while frozen at center table, Zone A and Zone B would likely read as one continuous spray. The gap suggests **action in the dark after staff were already down**, not one uninterrupted rage stroke from the primary surgeon's position.
 
 ---
 
@@ -65,7 +66,8 @@ Each entry: short description + full text to read aloud or hand out.
 
 **Text:**
 
-> When backup lighting returned, Dr. Homes was at the center table with bloody gloves and a scalpel in his hand. De Worsti lay on the tile beside it, carotid opened with a scalpel in a violent, passionate stroke that looked almost crazed, IV lines pulled loose, monitors dark. Staff testimony: Homes shouted for failover power; he claims the blade was pulled from his grip during the blackout.
+> When backup lighting returned, Dr. Homes was at the center table with bloody gloves and a scalpel in his hand. De Worsti lay on the tile beside it, carotid opened with a scalpel in a violent, passionate stroke that looked almost crazed, IV lines pulled loose, monitors dark. Staff testimony: Homes shouted for failover power; he claims the blade was pulled from his grip during the blackout.  
+> **Subtle absolution seed:** Pepper and Jetski were already unconscious on the tile. The incision window opened **after** their motor drop (confirmed Ep 2). Homes holding the blade when lights returned is **timing and terror**, not proof he made the cut in the dark.
 
 ---
 
@@ -95,6 +97,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Midazolam: trace synergy, non standard cocktail  
 > Paralytic onset (estimated): **<15 seconds** from IV push  
 > Clinical note: *"Consistent with engineered incapacitation of anesthesia staff and assisting nurse before incision window. Subject on table partially aware during early blackout phase."*  
+> **Subtle absolution:** Dr. Jetski and Nurse Pepper **cannot** be the carotid cutter. Whoever finished De Worsti needed the room cleared first, plus darkness or night vision. Dr. Homes was still conscious at the table, which narrows but does not clear him until blood pattern and wound profile land.  
 > Signed: Pepper [surname], Head Nurse, VIP Surgical Wing
 
 ---
@@ -110,7 +113,8 @@ Each entry: short description + full text to read aloud or hand out.
 > 9:38 p.m., Vault open, authorization: **LACEY LOVELY**, Executive Director  
 > Action: Single vial removal, anesthesia tier  
 > 9:41 p.m., Vault sealed  
-> Note (facilities): *"Director Lovely has standing crisis access. Unusual for personal retrieval; no surgery scheduled in her name."*
+> Note (facilities): *"Director Lovely has standing crisis access. Unusual for personal retrieval; no surgery scheduled in her name."*  
+> **Subtle absolution:** Executive vault codes prove **access**, not **hands on the blade**. Security staff with long tenure may memorize director emergency tiers. Pair with E2-C: blackout came from admin/executive console, not Lacey's physical location in admin two floors up.
 
 ---
 
@@ -124,7 +128,8 @@ Each entry: short description + full text to read aloud or hand out.
 > 11:42:01 p.m., **MANUAL OVERRIDE**, generator bypass, 60 second total dark window  
 > Authorization tier: **ADMIN / EXECUTIVE** (not surgical)  
 > Storm stress: elevated but **not** sufficient for isolated VIP failure  
-> IT note (Vance): *"Override came from upstairs terminal. Not OR console. Not anesthesia."*
+> IT note (Vance): *"Override came from upstairs terminal. Not OR console. Not anesthesia."*  
+> **Subtle absolution:** Points away from scrubbed surgeons at the table and toward **security or admin tier**. Does not clear Lacey or Ray alone, but it **does** clear "the attending made the lights die from inside the OR."
 
 ---
 
@@ -151,7 +156,8 @@ Each entry: short description + full text to read aloud or hand out.
 > Location: OR Two, anesthesia console, south wall  
 > Timeline: IV lag → motor drop → floor impact **before** red backup lighting  
 > Consciousness: impaired; could not hold instruments; could not see clearly  
-> Statement: *"I didn't make any cut. I was already down when the room went black. Whoever did this didn't need my hands. They needed me gone."*
+> Statement: *"I didn't make any cut. I was already down when the room went black. Whoever did this didn't need my hands. They needed me gone."*  
+> **Subtle absolution:** Fixed fact for Jetski. Repeat in gathering; toxicology (E2-A) backs him in Ep 2.
 
 ---
 
@@ -183,7 +189,8 @@ Each entry: short description + full text to read aloud or hand out.
 > 11:15 p.m., Card #VIP-OR-07, checkout: **Surgery chief tier (Dr. Curie)**  
 > Destination: Eastern secure corridor, OR Two approach  
 > Return field: **BLANK**  
-> Desk note (Melody, handwriting): *"Page was already gone when I called the code. Someone tore it out before surgery."*
+> Desk note (Melody, handwriting): *"Page was already gone when I called the code. Someone tore it out before surgery."*  
+> **Subtle absolution (Curie):** Checkout names Curie's tier, but the **missing return** and torn page support badge theft and corridor use, not Curie standing at the reader during the blackout.
 
 ---
 
@@ -210,7 +217,8 @@ Each entry: short description + full text to read aloud or hand out.
 > **PERSONAL EFFECTS, VIP LOADING BAY**  
 > Item: Fixed blade hunting knife, concealed carry wrap  
 > Owner statement (Alfie De Worsti): *"Delivery driver cover. I came for my brother. I didn't get to him."*  
-> Blood: none on blade (OR kill used surgical steel, not this)
+> Blood: none on blade (OR kill used surgical steel, not this)  
+> **Subtle absolution:** Alfie brought violence tonight, not the OR incision. Wound profile (E4-E) is scalpel work in darkness, not hunting knife.
 
 ---
 
@@ -223,7 +231,8 @@ Each entry: short description + full text to read aloud or hand out.
 > **PERIMETER SEARCH, VIP ACCESS CORRIDOR**  
 > Item: Industrial wire cutters, worn handles  
 > Sachs statement: *"For krits and toors, not throats. Someone peat me to the plackout—and fix the lighting in this corridor while you're at it."*  
-> Engraving (faded): collection crest, Indigo District
+> Engraving (faded): collection crest, Indigo District  
+> **Subtle absolution:** Sachs planned a squeeze, not a carotid. Someone beat her to the blackout. Cutters do not match E4-E wound profile.
 
 ---
 
@@ -287,7 +296,8 @@ Each entry: short description + full text to read aloud or hand out.
 > Reader: Eastern secure corridor → OR Two approach  
 > Duration: 58 seconds inside blackout window  
 > Compare: edited log (E4-D) shows **NO ENTRY**  
-> Curie statement (if asked): *"That's my clearance. I was not at that reader. I don't know when my card left my person."*
+> Curie statement (if asked): *"That's my clearance. I was not at that reader. I don't know when my card left my person."*  
+> **Subtle absolution:** Raw log implicates Curie's **badge**, not Curie's **body**. Cross-check corridor witnesses and E3-A torn page before accusing the charming surgeon on motive alone.
 
 ---
 
@@ -316,7 +326,8 @@ Each entry: short description + full text to read aloud or hand out.
 > Profile: **could be surgeon or killer in a frenzy**, scalpel weapon, night or low light suspected  
 > Consistent with: attending surgeon in controlled conditions **or** primary surgeon acting in hatred  
 > **Inconsistent with:** neat theatre incision; wound looks too crazed for calm surgery  
-> Curie note (if asked): *"Homes could have done this in rage. Or someone wanted it to look that way."*
+> Curie note (if asked): *"Homes could have done this in rage. Or someone wanted it to look that way."*  
+> **Subtle absolution:** Peak red herring for Curie (skill) **and** partial absolution for Homes (rage framing). The wound is **too messy** for Curie's usual theatre signature and **too staged** to trust the scalpel in Homes's hand when the lights returned.
 
 ---
 
@@ -402,6 +413,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ## HOST NOTES
 
+- **Absolution arc:** High-suspicion characters should feel **less likely over four episodes**, not innocent on night one. Drop footnotes on cards sparingly; let players connect dots. Full episode map: [04-evidence-index.md](04-evidence-index.md) → *absolution* tables.  
 - **E1-C** and **E4-F / E4-H** are designed to connect **after** Alfie names Genevieve, not before.  
 - **E4-H** never names De Worsti; room infers from financier + Indigo + sanctuary + ledger cross reference.  
 - Red herring props (**E3-C**, **E3-D**) should feel damning but do not match the violent scalpel kill profile (**E4-E**).  
