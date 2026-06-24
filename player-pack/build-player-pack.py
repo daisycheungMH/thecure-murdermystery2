@@ -224,15 +224,14 @@ CHARACTERS = [
     {
         "id": "diamond",
         "name": "Officer Diamond",
-        "role": "Auxiliary Containment (optional 12th)",
-        "optional": True,
+        "role": "Security Officer",
         "resources": with_dossier(
             "11-officer-diamond.md",
             [
                 {
                     "id": "17-officer-diamond",
                     "label": "Officer Diamond beat guide",
-                    "hint": "When to enter, limited role",
+                    "hint": "When to enter, perimeter and escort",
                 }
             ],
         ),
