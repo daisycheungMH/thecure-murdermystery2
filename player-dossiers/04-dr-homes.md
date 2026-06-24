@@ -65,6 +65,13 @@ Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
 - Push two points together: the blade was stolen, and the wound looks passionate and crazed, which fits you in the room, but a scalpel in trained hands could still belong to someone else.
 - Mock Curie and Ray's flirt openly because it makes you look guilty even when it is also true. Trade barbs with Curie like rivals who respect each other's hands. Never let his bright-side speeches go unanswered.
 
+## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
+
+- **Early:** Push the blade ripped from your grip, but when blood pattern card lands, note two phases: drip before blackout, smear in dark. That is not one panicked stroke from center table.
+- **Mid:** Toxicology proves Pepper and Jetski were down **before** the incision window. Someone engineered the room. You were conscious, so you are not cleared yet, but the kill needed darkness prep, not OR chaos alone.
+- **Late:** Wound assessment (E4-E) reads rage or framing, not calm theatre. Too messy for Curie's signature, too convenient that you were still holding steel when red lights returned.
+- **Never:** Admit you made the carotid cut. You are the primary suspect until mechanism evidence narrows the field.
+
 ## ⚠️ RULES
 
 - **✓** Give surgical lectures, sighs, and righteous anger.
