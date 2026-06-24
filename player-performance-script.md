@@ -30,7 +30,7 @@
 
 **Personas:** Play big and fun. Your dossier and [14-actor-personas.md](14-actor-personas.md) have how to play your character.
 
-**Auxiliary cast:** **Officer Diamond** is the optional twelfth player (overflow security). She has a dossier and player pack entry like everyone else, but arrives after The Gathering and stays out of the eleven-person briefing. See [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md).
+**Officer Diamond:** Security is stretched across the hospital, so Diamond joins from main campus after the code and reaches the lounge after Ray's first briefing. See [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md).
 
 ---
 
@@ -139,7 +139,7 @@
 
 ## ACT 1: THE GATHERING
 
-*All eleven players. VIP Recovery Lounge. **Dr. Homes is the primary suspect.***
+*VIP Recovery Lounge. **Dr. Homes is the primary suspect.***
 
 ### NARRATOR: OPEN
 
@@ -361,7 +361,7 @@
 > The storm kept screaming. The sirens were still miles away.  
 > And somewhere between the pharmacy vault and the admin terminal, the truth was already written in codes and overrides the room had not opened yet.
 
-### OPTIONAL: OFFICER DIAMOND (twelfth player, arrives after briefing)
+### OFFICER DIAMOND (arrives after briefing)
 
 *Diamond was on main campus when the code dropped. Read this beat when the facilitator calls you in, usually end of Act 1.*
 

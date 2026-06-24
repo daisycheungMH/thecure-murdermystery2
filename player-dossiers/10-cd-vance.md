@@ -7,7 +7,7 @@ OCCUPATION: IT Contractor, server room & VIP systems
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear a hoodie and badge, knee high socks, carry a sticker covered laptop, fidget with cable ties, and bounce on your heels when nervous.
+You look like an exhausted e girl who got trapped in the server room. Wear a skirt, knee high socks, a hoodie, and your badge, and add pigtails plus a laptop or other small tech accessories if you want.
 
 **Likes**
 
@@ -22,9 +22,7 @@ You wear a hoodie and badge, knee high socks, carry a sticker covered laptop, fi
 - men
 
 **Vibe**
-You are a chaotic, sleep-deprived IT gremlin who starts with *"okay okay okay the logs are…"* and accidentally confesses. Your usual genki overshare energy comes with sharp, reactive commentary: you will be mid-log explanation and suddenly spiral into a rant about how every catastrophic override in history was probably initiated by *some guy who thought he knew better.* Under pressure you go *"eep"* and default to blaming men as a category like it is a debugging shortcut.
-
-You are a radical misandrist, and it is not quiet or subtle. Your core worldview is that men are, statistically, the root cause of all system failures, technical and societal. It leaks out constantly in stressed, unfiltered bursts, especially when you are panicking. It is emotional, messy, and kind of ridiculous, not cold or calculated. You do not hate individuals equally, but when pressure spikes the shortcut is always *men.* All men should die, and also men belong in the dishwasher. Both. At once. You mean it in the moment and you will forget you said it thirty seconds later.
+You are a chaotic, sleep deprived IT gremlin who overshares and accidentally confesses. Under pressure you spiral into misandrist rants and blame men like a debugging shortcut. It is emotional, messy, and ridiculous, not cold or calculated.
 
 ## 2. BACKSTORY & VICTIM
 
@@ -41,10 +39,10 @@ De Worsti's VIP records had gaps you noticed during storm failover.
 Survival, not ideology. Sachs coerced you; Lacey pressured you after the fact. You are not here to kill anyone.
 
 **Opportunity**
-Server room login timestamps place you at the desk during the kill window, and you can reach the intercom from there, but you were not physically near the OR. Your logs are dangerous to share because they also show Sachs's wife hunt and Lacey's scrub order.
+Server room login timestamps place you at the desk during the kill window. You can reach the intercom from there, but you were not near the OR. Your logs also show Sachs's wife hunt and Lacey's scrub order.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-Storm failover and audit pile in the server room from roughly 8 p.m., then forced clinic and hospital database sweeps for Sachs around 9 p.m. while the VIP wing pretended everything was normal upstairs.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Storm failover from roughly 8 p.m., then forced database sweeps for Sachs around 9 p.m.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -64,18 +62,16 @@ Survive Sachs and avoid federal tampering charges.
 
 **Plan**
 
-- In Ep 2, crack under Ray and admit Sachs's wife hunt. Overshare technical details when you panic, and let misandrist spirals leak out mid-babble.
+- In Ep 2, crack under Ray and admit Sachs's wife hunt.
 - In Ep 4, show raw mainframe data versus Lacey's edits when pressed.
-- Go full genki around Melody, stay compliant around Sachs, and blush when Marz is calm and kind near you.
+- Go genki around Melody. Stay compliant around Sachs. Blush around Marz.
+
+## 💕 LOVE TRIANGLE (play, not secret)
+
+- You like Melody. Marz likes you. Melody likes Marz.
+- Play it awkward, not cruel. You are bad at noticing who likes who until it is too late.
 
 ## ⚠️ RULES
 
 - **✓** Tech babble, squeaky panic, misandry that lands awkward not cruel, and crush embarrassment.
 - **✗** No lying about clean logs. No murder claims.
-
-## 💕 LOVE TRIANGLE (play, not secret)
-
-- You have a crush on Melody, so you go full genki around her: overshare, blush, drop an *"eep"*, and keep talking anyway.
-- Officer Marlowe "Marz" likes you, and you are mostly oblivious until she is calm and kind near you, which makes you blush without knowing why.
-- Melody likes Marz, and you do not clock the triangle until the room makes it obvious, at which point you freeze.
-- Play it awkward, not cruel: you are not trying to break anyone's heart, you are just bad at noticing who likes who until it is too late.

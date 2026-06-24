@@ -172,7 +172,7 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 | **Vs. Pepper** | Knows affair with De Worsti; wants Pepper destroyed |
 
-| **Vs. Melody** | Melody has pre surgery archival photos |
+| **Vs. Melody** | Melody spotted Alfie slip in; has hospital archival binders; recognizes surgical work from her clinic days |
 
 | **Alliance** | **Curie** (childhood sanctuary bond); strings **Homes** along |
 
@@ -314,9 +314,9 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Persona** | Valley gossip bimbo, ditzy camouflage, razor underneath |
 
-| **Motive vs. Lacey** | Blackmail; archival intake photos |
+| **Motive vs. Lacey** | Blackmail; hospital archival binders; cosmetic-clinic face recognition |
 
-| **Motive vs. De Worsti** | Gossip network; saw Alfie enter |
+| **Motive vs. De Worsti** | Gossip network; spotted Alfie slip in as fake delivery (~9 p.m.) |
 
 | **Romance** | Crush on **Officer Marz**; wardrobe compliments as flirtation |
 

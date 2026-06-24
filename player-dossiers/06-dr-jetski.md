@@ -7,7 +7,7 @@ OCCUPATION: Freelance Anesthesiologist (VIP guest privileges)
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You have shaky hands, sun bleached hair that never quite fits hospital dress code, and the permanent exhaustion of someone who should have gone home hours ago (or caught one more dawn set before shift).
+You look tired, messy, and a little behind the night. Wear blue scrubs or a white button up with a white coat, and add messy hair, a coffee cup, or a loose tie if you want.
 
 **Likes**
 
@@ -22,7 +22,7 @@ You have shaky hands, sun bleached hair that never quite fits hospital dress cod
 - OR drama
 
 **Vibe**
-You are a frazzled disaster with whiny competence underneath, wrapped in a surfer bro archetype: still nervous, sweaty, and sharp, but you slip into occasional surfer speech when the panic spikes (*dude*, *bro*, *gnarly*, *that's not it, man*). You rage if anyone mocks your nickname.
+You are a frazzled disaster with real competence underneath. You slip into surfer speech when panic spikes. You rage if anyone mocks your nickname.
 
 ## 2. BACKSTORY & VICTIM
 
@@ -42,8 +42,8 @@ Indirect: gambling debts tied to De Worsti's world through Alfie and syndicate c
 **Opportunity**
 You were at the south wall anesthesia console in the OR, but you collapsed before the lights cut and could not have made the incision. Pepper can confirm you were already on the floor.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-OR prep from roughly 9:45: loaded the tray from pharmacy under pressure, skipped the vial seal check you are now terrified about, and stayed at the console until the lag hit and you went down.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+OR prep from roughly 9:45. You loaded the tray under pressure, skipped the vial seal check, and stayed at the console until you collapsed.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -63,15 +63,15 @@ Prove you were incapacitated on the floor, not the person who made the cut.
 
 **Plan**
 
-- Repeat your timeline in one breath: lag, collapse, floor, lights, already down.
-- In the gathering (Act 1 in your player performance script), after Ray's final briefing, deliver your quiet beat: the killer may be in the lounge with everyone, not out in the storm.
-- Ally clinically with Pepper, and panic loudly if anyone tries to frame you.
+- Repeat your timeline: lag, collapse, floor, lights, already down.
+- After Ray's briefing in Act 1, say the killer may be in the lounge with everyone.
+- Ally with Pepper. Panic loudly if anyone frames you.
 
 ## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
 
-- **Gathering:** Deliver your quiet beat: killer may be in the lounge. You were on the floor before lights.
-- **Ep 2:** Toxicology and your own statement are your lifeline. Repeat: lag, collapse, floor, already down.
-- **Ep 3+:** Street knives and wire cutters are the wrong profile. You are comic panic, but the science backs you.
+- **Gathering:** Killer may be in the lounge. You were on the floor before lights.
+- **Ep 2:** Toxicology is your lifeline. Repeat your timeline.
+- **Ep 3+:** Street knives and wire cutters are the wrong profile.
 
 ## ⚠️ RULES
 

@@ -64,7 +64,7 @@ Ray did not chase him through the wing. **Sachs** was on perimeter, cameras were
 | **Curie** | Abuse history; wanted De Worsti dead; did not kill |
 | **De Worsti** | Knew she was somewhere in the medical world; died before confirming |
 | **Alfie** | **Full family truth**, legal papers, old photos, abuse he witnessed; must reveal in Ep 4 |
-| **Melody** | Archival intake photos; recognizes pre surgery face; corroborates after Alfie names Genevieve |
+| **Melody** | Spotted **Alfie** slip in as fake delivery; hospital archival binders; recognizes pre surgery face; corroborates after Alfie names Genevieve |
 | **Pepper** | Thought De Worsti was legally married to someone absent; did not know Lacey |
 | **CD Vance** | Sachs forced him to hunt the wife digitally, clinic flags, admin trails; raw logs may show Ray in OR |
 | **Sachs** | Ordered the hunt for money, not mercy; threatened Vance |

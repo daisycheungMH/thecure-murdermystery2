@@ -22,7 +22,7 @@ Also print **[player-performance-script.md](../player-performance-script.md)** (
 | [08-alfie-de-worsti.md](08-alfie-de-worsti.md) | Alfie De Worsti | De Worsti's brother |
 | [09-melody.md](09-melody.md) | Melody | Night receptionist |
 | [10-cd-vance.md](10-cd-vance.md) | CD Vance | IT contractor |
-| [11-officer-diamond.md](11-officer-diamond.md) | Officer Diamond | Auxiliary containment / overflow |
+| [11-officer-diamond.md](11-officer-diamond.md) | Officer Diamond | Security officer / perimeter support |
 | [12-officer-marz.md](12-officer-marz.md) | Officer Marlowe "Marz" | Junior security / investigator |
 
 **Ray** dossier includes a sealed **NIGHT TRUTH** section at the bottom, fold or staple closed before handing out.

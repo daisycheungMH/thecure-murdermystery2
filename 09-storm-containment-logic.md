@@ -38,7 +38,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 5. **No second badge**, Curie has medical authority, not arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
 
-6. **Optional overflow officer**, If cast, **Officer Diamond** (twelfth player) arrives after the code from main campus. She has a full dossier and supports perimeter and escort; Ray and Marz still lead investigation. See [17-officer-diamond.md](17-officer-diamond.md).
+6. **Additional security presence**, **Officer Diamond** joins from main campus after the code. She has a full dossier and supports perimeter and escort; Ray and Marz still lead investigation. See [17-officer-diamond.md](17-officer-diamond.md).
 
 > **Narrator line (Ep 1):** *The city was drowning. The watch was spread thin as wire. And inside the VIP wing, the only handcuffs were on the wrong side of the door.*
 
@@ -88,7 +88,7 @@ Ray does not run a cozy mystery party. He runs **Containment Protocol Delta**, a
 
 | Episode | Who's in charge | Police status |
 |---------|-----------------|---------------|
-| **Ep 1** | Ray + Marz secure OR → **The Gathering** (all eleven in Recovery Lounge); Homes primary suspect | LC-4471 logged; ETA unknown |
+| **Ep 1** | Ray + Marz secure OR → **The Gathering** (Recovery Lounge briefing); Homes primary suspect | LC-4471 logged; ETA unknown |
 | **Ep 2** | Ray + Marz + Curie partnership; players gather evidence | Radio: units still blocked; "shelter in place" |
 | **Ep 3** | Ray chases shadow (misdirection); killer still in wing | Melody attack proves external killer theory false |
 | **Ep 4** | Room builds accusation; Ray prepares handoff | Storm breaks; sirens audible; lights stabilize |
@@ -114,7 +114,7 @@ Watch always enters. Marz or Curie hands off LC-4471 if Ray is in cuffs.
 
 ## Jetski beat (gathering, not coda)
 
-Delivered in **[10-the-gathering.md](10-the-gathering.md)** when all eleven are still in the VIP lounge, after Ray seals containment and before live questioning. Plants doubt that the killer is among them. Facilitator may callback in Ep 4 truth reveal if the room voted wrong.
+Delivered in **[10-the-gathering.md](10-the-gathering.md)** when the room is still in the VIP lounge, after Ray seals containment and before live questioning. Plants doubt that the killer is among them. Facilitator may callback in Ep 4 truth reveal if the room voted wrong.
 
 ---
 

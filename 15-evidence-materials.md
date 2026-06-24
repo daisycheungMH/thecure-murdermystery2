@@ -276,7 +276,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-B, Genevieve revelation
 
-**Description:** Not a single card. Alfie speaks in scene; Melody corroborates with archival photos; Lacey denies the murder. Host distributes **E4-F** and **E4-H** after Alfie names Genevieve.
+**Description:** Not a single card. Alfie speaks in scene; Melody corroborates with hospital archival binders and cosmetic-clinic recognition; Lacey denies the murder. Host distributes **E4-F** and **E4-H** after Alfie names Genevieve.
 
 **Text:**
 

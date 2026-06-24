@@ -1,6 +1,6 @@
 # Player Cast, The Cure
 
-**De Worsti** (victim / narrator), **11 players**, and **optional 12th** Officer Diamond. Descriptions are under five words each.
+**De Worsti** (victim / narrator) and the player cast. Descriptions are under five words each.
 
 ---
 
@@ -52,6 +52,6 @@ Frazzled surfer bro anesthesiologist
 
 Strategic inflammatory rage baiter
 
-## Officer Diamond — (twelfth player, optional)
+## Officer Diamond
 
 Procedure nerd, gamifies crisis

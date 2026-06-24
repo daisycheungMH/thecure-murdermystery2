@@ -11,7 +11,7 @@ Diamond is a **full player** with dossier and pack access. She supports perimete
 
 | | |
 |---|---|
-| **Title** | Auxiliary containment officer, St. Saphicca's Security |
+| **Title** | Security officer, St. Saphicca's Security |
 | **Why she's here** | Storm overflow; main campus security desk routed her to the VIP wing after the code dropped |
 | **Chain of command** | Junior to **Officer Marz**; Ray is chief; Diamond narrates it like a training module anyway |
 | **Night of murder** | Main campus desk, then en route when De Worsti died; **no OR access**, **not a suspect** |
@@ -26,7 +26,7 @@ Diamond is a **full player** with dossier and pack access. She supports perimete
 | Drop one sharp observation per act, report to Ray | Hand out clues or read evidence cards |
 | Escort players to assigned rooms (Act 2) | Run accusations or a vote |
 | React to storm beats with fake cheer | Confess to murder you did not commit |
-| Use optional script lines when facilitator calls her in | Hand out evidence |
+| Use her script lines when facilitator calls her in | Hand out evidence |
 
 ---
 
@@ -43,4 +43,4 @@ Diamond is a **full player** with dossier and pack access. She supports perimete
 - Ray and Marz remain the investigation leads; see [09-storm-containment-logic.md](09-storm-containment-logic.md).
 - If players ask why they have not seen her before: overflow call, storm night, main campus until the code.
 - Diamond notices odd behavior and **reports to Ray**; Ray decides what the room hears.
-- No ballot, no killer reveal. Optional character if uncast, but if cast she gets the full player pack like everyone else.
+- No ballot, no killer reveal. She gets the full player pack like everyone else.

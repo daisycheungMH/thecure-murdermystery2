@@ -36,7 +36,7 @@ All times approximate. Adjust to your table's surgery slot.
 | T−90m | **Officer Ray** | Security office | Debt pressure from De Worsti; tears keycard log page to hide OR entry plan | Knows he made the tear |
 | T−90m | **Officer Marlowe "Marz"** | VIP corridor patrol | Junior patrol; notices torn keycard log page | Does not tell Ray immediately |
 | T−60m | **Officer Diamond** | Main campus security desk | Storm overflow shift; not yet routed to VIP wing | Not in building wing during prep |
-| T−60m | **Melody** | Front desk | Tears / notices missing master keycard log page | Logbook gap, **host only until Ep 3** |
+| T−60m | **Melody** | Front desk | Notices missing master keycard log page | Logbook gap, **host only until Ep 3** |
 | T−45m | **Dr. Homes** | Pre op / consult | De Worsti intake; tension with Pepper | Prologue scene |
 | T−30m | **Nurse Pepper** | VIP consult suite | Prep; secret eye on De Worsti | Pepper, Homes, De Worsti |
 | T−20m | **Officer Ray** | VIP corridor | Lifts **Curie's OR keycard** during a social moment; Curie does not notice | No witnesses who connect it to Ray |
@@ -74,12 +74,12 @@ All times approximate. Adjust to your table's surgery slot.
 |------|-----------|----------|----------|
 | T+2m | **Staff / Melody** | OR corridor | Run to fetch **Lacey** (admin) and **Ray** (security) |
 | T+5m | **Nurse Pepper** | OR | Wakes terrified; sees De Worsti; shaking testimony, does not immediately accuse Homes |
-| T+10m | **Officer Ray** + **Officer Marlowe "Marz"** + **Lacey** | OR → Recovery Lounge | Ray secures scene; Marz on perimeter; Lacey crisis posture; summon **all eleven** to lounge |
+| T+10m | **Officer Ray** + **Officer Marlowe "Marz"** + **Lacey** | OR → Recovery Lounge | Ray secures scene; Marz on perimeter; Lacey crisis posture; summon the wing to the lounge |
 | T+12m | **Officer Diamond** | Main campus → VIP wing stairs | Overflow call after code; en route during Gathering | Arrives end of Act 1; not in lounge for death |
 | T+20m | **Everyone** | Recovery Lounge | **THE GATHERING**, news broken; Homes named primary suspect (see 10-the gathering.md) |
 | T+35m | **Officer Ray** + **Dr. Curie** | Lounge → wing | Ray splits room for evidence search; keeps Homes primary; Curie looks like co-lead |
 | T+40m | **Melody** | Lounge testimony | Hints missing keycard page / cameras; Alfie glance; flirts with Marz |
-| T+45m | **All eleven** | OR + wing | **Act 2 live play**, forensics, clue cards (06-act2-crime scene.md) |
+| T+45m | **All players** | OR + wing | **Act 2 live play**, forensics, clue cards (06-act2-crime scene.md) |
 
 ---
 
@@ -134,4 +134,4 @@ All times approximate. Adjust to your table's surgery slot.
 | Pharmacy vault | Log only (executive tier codes) | Points to admin tier; Ray physically swapped vial |
 | Power console | Manual override logged | Security office; Ray |
 | Keycard log page | **Torn out** pre surgery | Melody knows; Ray noticed gap |
-| Reception sighting | Melody saw **Homes** in hall | Alibi for Homes *or* misdirection if players assume director |
+| Reception sighting | Melody spotted **Alfie** slip in at loading dock (~9 p.m.); saw **Homes** in hall earlier | Alfie delivery cover confirmed; Homes alibi *or* misdirection if players assume director |

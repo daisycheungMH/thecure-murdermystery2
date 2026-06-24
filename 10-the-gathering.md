@@ -2,7 +2,7 @@
 
 **When:** Immediately after Episode 1 OR cutscene (~15 minutes scripted + live questioning)  
 **Location:** VIP Recovery Lounge, glass on three sides, storm hammering the city, red backup wash bleeding through the blinds  
-**Present:** All eleven players. De Worsti is absent, body in OR, morgue pending.  
+**Present:** VIP wing cast in the Recovery Lounge. De Worsti is absent, body in OR, morgue pending. Officer Diamond joins from main campus after the code.
 **Leads:** Officer Ray, Officer Marlowe "Marz" + Dr. Curie  
 **Room temperature:** **Dr. Homes is the primary suspect.**
 
@@ -10,14 +10,14 @@
 
 ## HOST SETUP
 
-- Arrange all eleven players in a circle or long table, no one standing apart.  
+- Arrange the players in a circle or long table, no one standing apart.
 - **Homes** sits or stands under the brightest light if possible.  
 - **Jetski** may be in a wheelchair or slumped chair, still medicated, hands unsteady.  
 - **Pepper** should still carry OR terror, bloodless knuckles, voice not fully steady; sage returns slowly.  
 - **Ray** at the head. **Marz** beside him (junior, notebook, nail polish). **Curie** beside Ray, not across, unified front.  
 - Read **NARRATOR** blocks yourself; players deliver their own lines where marked **(PLAYER)**.  
 - **Persona guide:** [14-actor-personas.md](14-actor-personas.md), encourage big, fun choices; plot beats stay the same.
-- **Optional Diamond:** If using the twelfth player, **Officer Diamond** arrives at the lounge door after Ray's briefing (see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)).
+- **Officer Diamond:** She reaches the lounge door after Ray's briefing (see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)).
 
 ---
 
@@ -315,7 +315,7 @@
 | **Ray** | Containment; no police; admits own debt |
 | **Marz** | Junior badge; wild theory optional; Melody/Vance triangle beat |
 | **Lacey** | Director distance; crisis lock invoked |
-| **Melody** | Called code; hints missing log / cameras |
+| **Melody** | Called code; spotted Alfie slip in; hints missing log / cameras |
 | **Vance** | Server room; logs; **Sachs glance**; wife hunt foreshadow |
 | **Sachs** | German accent; street presence; points at Homes; implies Vance is her coerced asset |
 | **Alfie** | Brother; delivery cover; inflammatory; watches who flinches |

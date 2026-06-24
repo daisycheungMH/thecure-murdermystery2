@@ -22,7 +22,7 @@
 | **Melody**          | Valley gossip bimbo               | Airy, ditzy, sees *everything*                         |
 | **Alfie De Worsti**    | Strategic rage baiter             | Screw-up mask; observant; inflammatory; punchable      |
 | **Dr. Jetski**      | Frazzled surfer bro               | Sweat, volume, occasional *dude*; smart when it counts |
-| **Officer Diamond** | Procedure nerd (overflow)         | Gamify phases; boo yah; sharper than the bit          |
+| **Officer Diamond** | Procedure nerd                    | Gamify phases; boo yah; sharper than the bit          |
 
 
 ---
@@ -213,9 +213,9 @@
 
 ---
 
-## Officer Diamond, Procedure nerd (auxiliary, optional)
+## Officer Diamond, Procedure nerd
 
-**Not one of the eleven in the lounge.** Overflow security on a storm night. Full player dossier and pack; comic perimeter energy; Ray and Marz still run the case.
+**Security on storm routing.** She joins from main campus after the code, brings comic perimeter energy, and stays inside Ray and Marz's chain of command.
 
 **Surface:** Bright eyes, clipboard or tablet, uniform still damp from the stairs. Talks like she has been waiting her whole career for a situation this dramatic.
 

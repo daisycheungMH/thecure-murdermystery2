@@ -2,12 +2,12 @@
 
 CHARACTER NAME: Officer Diamond  
 AGE: 26  
-OCCUPATION: Auxiliary Containment Officer, St. Saphicca's (ex Municipal Watch training unit)
+OCCUPATION: Security Officer, St. Saphicca's (ex Municipal Watch training unit)
 
 ## 1. PUBLIC PERSONA & TRAITS
 
-**Look**
-Catalog-fresh uniform, tablet or clipboard, boots soaked on the flood stairs. Your badge says auxiliary, and you have made that sound like a promotion.
+**Look**   
+You look eager, freshly official, and proud of the uniform. Wear a white button up shirt, black pants, and boots, and add a black cap, tie, tablet, clipboard, or badge if you have one.
 
 **Likes**
 
@@ -33,17 +33,17 @@ De Worsti was a VIP in a wing you were not assigned to until the code dropped. Y
 **History**
 
 - Municipal Watch training unit: top marks on procedure drills, bottom marks on "pretend this is not fun."
-- Hired for storm overflow: desk, corridors, escorts.
+- Hired into hospital security: desk, corridors, escorts, and the kind of procedural work everyone else forgets until it matters.
 - Ray is chief. Marz is your senior tonight. You narrate the chain of command like a module intro even when they are standing right there.
 
 **Motive**
-None personal. You did not know De Worsti and you are here for storm overflow, not revenge.
+None personal. You did not know De Worsti, and that distance lets you clock the room without old baggage.
 
 **Opportunity**
 Main campus security desk until the code routed you toward the VIP wing. You were not in the OR, not in the lounge when De Worsti died, and dispatch radio shows overflow routing after 11:42.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-Storm overflow shift at the main campus security desk from roughly 8 p.m.: donor escorts, flood-stair jokes you will deny later, and the advanced-module energy of a wing you were not assigned to until the code dropped.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Storm overflow shift at the main campus security desk from roughly 8 p.m.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -63,11 +63,10 @@ Keep the perimeter honest, support Ray and Marz, and find one real detail per ac
 
 **Plan**
 
-- Gamify containment (phases, credibility points, boo yah) but drop the bit the instant someone is in danger or Ray gives a flat order.
-- Stay where the room needs you: lounge door, corridor patrol, Act 2 room escorts.
-- Log who enters where; escort search pairs; do not hand out evidence or run accusations.
-- Partner Marz on radio checks. One sharp observation per act, then bounce.
-- Odd behavior near admin or the server room? Report to Ray privately. He decides what the room hears.
+- Gamify containment, but drop the bit when someone is in danger or Ray gives a flat order.
+- Stay where the room needs you: lounge door, corridor patrol, Act 2 escorts.
+- Log who enters where. Escort search pairs. Do not hand out evidence.
+- One sharp observation per act, then bounce.
 
 ## ⚠️ RULES
 

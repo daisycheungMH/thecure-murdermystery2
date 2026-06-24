@@ -7,7 +7,7 @@ OCCUPATION: "Medical delivery driver" *(cover)* / gambler *(truth)*
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear a too clean delivery vest, keep exit-watching eyes, and hide a knife badly. You smirk when everyone else goes quiet.
+You look casual, restless, and slightly fake in a way people notice later. Wear a delivery vest, work shirt, or simple service outfit and make it look a little too neat to be natural.
 
 **Likes**
 
@@ -22,17 +22,13 @@ You wear a too clean delivery vest, keep exit-watching eyes, and hide a knife ba
 - Homes near Pepper
 
 **Vibe**
-You are not just annoying — you are **strategically inflammatory**. You thrive on reactions, poke insecurities, and turn people against each other. Where others try to solve the murder, you try to **break the room dynamic**.
-
-You hide behind the persona of a reckless, unserious screw-up. Underneath, you are very observant. You notice what hurts people — and press exactly there.
+You are strategically inflammatory. You poke insecurities, stir reactions, and treat the investigation like entertainment. Under the screw up mask you are very observant.
 
 **Texture**
-- Smirk through serious moments
-- Treat the investigation like entertainment
-- Escalate tension whenever it starts to settle
-- Punchable
 
-You say *"I think… maybe… I could be wrong…"* right before your truest lines — not because you are scared, but because sounding harmless makes the hit land harder.
+- Smirk through serious moments
+- Escalate tension when the room settles
+- Say *"I think… maybe… I could be wrong…"* right before your truest lines
 
 ## 2. BACKSTORY & VICTIM
 
@@ -41,7 +37,8 @@ De Worsti was your older brother.
 
 **History**
 
-- De Worsti drained the family, married Genevieve (now Lacey Lovely), and for years you saw bruises, hollow holidays, and his "unstable wife" spin before you came tonight with a knife and an insurance fantasy, knowing you were not the OR killer.
+- De Worsti drained the family and married Genevieve, now Lacey Lovely.
+- For years you saw bruises and hollow holidays before you came tonight with a knife and an insurance fantasy.
 
 **Motive**
 Brother, insurance payout, and years of watching what he did to Genevieve. You intended to kill him yourself before someone else did.
@@ -49,8 +46,8 @@ Brother, insurance payout, and years of watching what he did to Genevieve. You i
 **Opportunity**
 You slipped in as a fake supply delivery around 9 p.m.; Melody saw you enter. You had a hunting knife and hung near the VIP loading route, but you were not in the OR when the throat was cut.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-Entered through the loading dock disguised as delivery, watched the wing from walls and exits, and stayed close enough to the VIP route to strike if the moment came. Someone else struck first.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Slipped in through the loading dock as fake supply delivery around 9 p.m.; Melody at the desk spotted you. You watched the wing from walls and exits and stayed near the VIP route. Someone else struck first.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -70,9 +67,9 @@ Avoid a murder charge, chase the insurance angle if you can, and do not destroy 
 
 **Plan**
 
-- Bait obvious targets, stir alliances, stay near walls and exits.
-- Drop half-truths that make two people fight while you watch.
-- In Ep 4, name Genevieve with hedged language and go soft on Lacey (*"she just wanted to run"*) — the one beat where the screw-up mask slips toward real guilt.
+- Bait obvious targets and stay near walls and exits.
+- Drop half truths that make two people fight.
+- In Ep 4, name Genevieve with hedged language and go soft on Lacey.
 
 ## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
 

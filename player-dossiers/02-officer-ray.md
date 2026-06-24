@@ -7,7 +7,7 @@ OCCUPATION: Security Chief, St. Saphicca's (ex Municipal Watch)
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You wear a security chief jacket with faded municipal patches, loud boots, and carry a paper notebook (you do not trust the servers tonight).
+You look sturdy, watchful, and tired in a way that reads real security. Wear a white button up shirt, black pants, and boots, and add a black cap, tie, notebook, radio, or badge if you have one.
 
 **Likes**
 
@@ -21,31 +21,36 @@ You wear a security chief jacket with faded municipal patches, loud boots, and c
 - storm nights
 - unlogged crime scenes
 
-**Vibe**
-You are a bruiser with a soft center and blue collar plain talk, not a police manual; you bark first and soften later, and Curie's flirt flusters you enough that you rub your neck when embarrassed.
+**Vibe**   
+You are a tough guy with a soft center and blue collar plain talk. You bark first and soften later. Curie's flirt flusters you enough that you rub your neck when embarrassed. In the room you and Lacey act like strangers who happen to work in the same building.
+
+**Play in public**
+
+- Treat **Lacey Lovely** like any hospital director. Formal. Professional. No warmth that reads as history.
+- Never defend her outright. If you soften a line of questioning, do it with procedure and reason, not loyalty.
+- Let evidence reveal you are her father. Do not confirm it before the room earns it.
 
 ## 2. BACKSTORY & VICTIM
 
-**Connection**
-De Worsti owned your debt, and with it he owned your fear. He also owned one of the few people you still cared about, and tonight you finished what you swore years ago.
+**Who you are**
 
-**History**
+- You spent years on mainland Municipal Watch chasing Indigo loan sharks. **Sachs** was a repeat target. You moved to Lesbian City hoping the work would be quieter.
+- **Lacey Lovely** is your daughter, you love her to the ends of the earth.   
+Her name was Genevieve when she was young. You were separated for years: De Worsti married her, isolated her, and cut her off from you while you were drowning in debt and miles away.
+- Three years ago you found her again. She had a new face and new name, director of St. Saphicca's. The reunion was raw and emotional. You swore to protect her forever and took this security chief post to stay close. In public you both pretend you barely know each other.
+- De Worsti owned your debt after your mother got sick. He lent you money, tightened the leash, and threatened your mother and sister if you missed payments. He hunted your daughter. Tonight you finished what you swore.
 
-- On the mainland watch you chased Indigo loan sharks. Sachs was a repeat target.
-- You moved to Lesbian City hoping for quieter work.
-- Lacey, once Genevieve, is one of the few people you still treat with uncomplicated loyalty.
-- When your mother got sick, De Worsti lent you money, then tightened the leash. He threatened your mother and sister if you missed payments.
-- Three years ago you found Genevieve again: new face, new name, **Lacey Lovely**, director of St. Saphicca's. You took this security post to stay near her and swore revenge on Alex for what he did to her.
-- Tonight De Worsti died in your building during a real VIP arterial case he booked here as leverage over half the wing.
+**Connection**  
+De Worsti owned your debt and your fear, he also hunted the daughter you had just found again.
 
 **Motive**
-Protect Lacey and finish what you swore three years ago. De Worsti owned your debt, threatened your mother and sister, and hunted the one friend you still trust without question.
+Protect your daughter and finish what you swore three years ago at that reunion.
 
 **Opportunity**
-You run security, you memorized Lacey's director emergency codes, and you can trigger a manual grid blackout from the security office. You have no OR badge of your own, so you lifted Curie's keycard in the corridor and used it for the kill window. You did not ambush Alex elsewhere — Sachs on the wing, live cameras, and your own badge made a hallway kill suicide. The OR was the only room you could own: sedated patient, frozen witnesses, Homes next to the blade, and a summons to the code that sounds natural for security.
+You run security and memorized Lacey's director emergency codes. You can trigger a manual grid blackout from the security office. You have no OR badge, so you lifted Curie's keycard in the corridor and used it during the kill window. The OR was your only workable room: sedated patient, frozen witnesses, Homes beside the blade.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-You swapped the anesthesia vial in the pharmacy vault around 8 p.m., sat on debt pressure in the security office around 9:30 and tore a page from the keycard log, then lifted Curie's OR badge during a corridor moment around 9:40 while he worked the room. After that you stayed visible on radio and perimeter until the code dropped.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+You swapped the anesthesia vial around 8 p.m., tore a keycard log page around 9:30, and lifted Curie's OR badge around 9:40. After that you stayed visible on radio and perimeter until the code dropped.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -53,10 +58,10 @@ You swapped the anesthesia vial in the pharmacy vault around 8 p.m., sat on debt
 You were at the security office, then the VIP perimeter, then the OR when the code dropped.
 
 **Backup**
-Partial radio logs and the code-call chain make your story sound airtight at first: Melody called the code, staff fetched you and Lacey, you were running containment. The badge buys you authority, and nobody questions you on night one.
+Partial radio logs and the code call chain make your story sound airtight at first. Nobody questions the badge on night one.
 
 **Hide (minor)**
-Your alibi is not substantiated for the kill window. No witness, camera, or independent log puts you at the security office during the 60 second blackout. You were in the OR. A keycard log page was torn before surgery, and you sat on it because you made the tear yourself. Admit the debt if pressed, but never admit you were in the OR during the blackout, or that you used Curie's card to get there. Your security badge does not open the OR. Only his does.
+No witness puts you at the security office during the 60 second blackout. You were in the OR. You tore the keycard log page yourself. Admit the debt if pressed. Never admit you used Curie's card.
 
 ## 4. SECRET OBJECTIVE
 
@@ -65,21 +70,24 @@ Run the investigation, keep suspicion on Homes and Curie, and hand a clean case 
 
 **Plan**
 
-- Lock the wing down (Containment Protocol Delta; you just tell people nobody leaves) with Officer Marz as your junior on site.
-- Admit you are a suspect because it buys you authority in the room, and partner with Curie on the investigation so the room chases the charming surgeon instead of the badge.
-- Let Officer Marz ask the sharp questions while you keep the room in line, push Homes as primary suspect, and steer any scalpel-skill evidence toward Curie.
-- Push Sachs hard because you have an old vendetta and unfinished business.
+- Lock the wing down with Marz as your junior on site.
+- Admit you are a suspect if it buys you authority. Partner with Curie so the room chases the surgeon instead of you.
+- Let Marz ask sharp questions. Push Homes as primary suspect. Steer scalpel evidence toward Curie.
+- Push Sachs hard. You have old unfinished business there.
+- With Lacey, stay cold in public. No advocacy that looks personal, ok if its reasonable. 
 
 ## ⚠️ RULES
 
-- **✓** Plain talk, storm frustration, Curie banter, and gruff tenderness. Save the fancy words for Curie.
-- **✗** No fake alibi for the kill window. No confessing. No patrol on site until the endgame.
+- **✓** Plain talk, frustration about storm, Curie banter, and gruff tenderness.
+- **✗** No alternate alibi for the kill window. Don't confess
+- **✗** No familiarity with Lacey before evidence surfaces. No calling her by an old name. 
 
 ## 🔒 NIGHT TRUTH, DO NOT SHARE
 
-- You killed De Worsti to protect Lacey, your friend: tampered vial, security-office blackout, OR entry with night vision, carotid cut, Homes framed. You waited for the table, not a corridor — kill him elsewhere and you had no frame, no Curie log, and a surgeon who might still save him.
-- You have no OR keycard access. You lifted Curie's badge during a corridor moment when he was working the room — he never felt it go. You used it for the kill, slipped it back before he noticed, and tore the physical keycard log page to muddy the trail.
-- You used director emergency codes you memorized after finding Lacey three years ago for pharmacy and blackout.
-- The mainframe will show **Curie's** card at the OR reader during the blackout. He still does not know it was missing. That is your best frame.
-- In Ep 3 you may attack Melody (KCl) if the story reaches that beat (do not initiate this). You send Curie after a "shadow toward administration" as misdirection.
-- Lacey does not know you made the cut. She knows you hate Alex. Keep it that way until the room proves it.
+- <span style="color:#ff0000;font-weight:bold">YOU KILLED DE WORSTI</span> to protect your daughter: tampered vial, security office blackout, OR entry with night vision, carotid cut, Homes framed.
+- You lifted Curie's badge in the corridor. He never felt it go. You slipped it back and tore the physical keycard log page.
+- You used Lacey's director emergency codes for pharmacy and blackout.
+- The mainframe will show **Curie's** card at the OR reader during the blackout. That is your best frame.
+- In Ep 3 you may attack Melody (KCl) if the story reaches that beat. Do not initiate this.
+- Lacey does not know you made the cut. She knows you hate Alex and swore to protect her. Keep it that way until the room proves it.
+

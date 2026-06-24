@@ -15,7 +15,7 @@ A severe storm isolates St. Saphicca's from municipal watch for the entire game.
 
 Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
-**Optional auxiliary:** Officer Diamond (storm overflow security, 12th player, limited main-plot beats): [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)
+**Officer Diamond:** Security officer on storm routing, folded into VIP containment after the code: [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)
 
 ---
 
@@ -93,7 +93,7 @@ Full context: [11-genevieve-backstory.md](11-genevieve-backstory.md)
 | 4 | FINAL CALL | 45 min | Ledger puzzle, accusation, ethical verdict |
 
 ### Episode beats
-- **Ep 1:** 60-sec blackout → **The Gathering** (all eleven; Homes primary suspect) → wing search → P.I. file discovered  
+- **Ep 1:** 60-sec blackout → **The Gathering** (cast briefing; Homes primary suspect) → wing search → P.I. file discovered
 - **Ep 2:** Toxicology → Vance confesses Sachs wife hunt → Orphanage photo → Terminal override → De Worsti's scale surfaces  
 - **Ep 3:** Melody poisoned → Antidote puzzle → Street tools found  
 - **Ep 4:** **Alfie reveals Genevieve** (abuse + surgery + stolen identity) → Melody corroborates → Ledger puzzle → Final accusation → Ethical verdict  

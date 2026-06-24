@@ -7,7 +7,7 @@ OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
 ## 1. PUBLIC PERSONA & TRAITS
 
 **Look**
-You are polished like a southern belle at a crime scene: neat uniform, soft lipstick, nails you paint yourself (often still wet). Hair pinned, posture perfect, eyes absolutely feral.
+You look polished, charming, and sharper than people expect. Wear a white button up shirt, black pants, and boots, and add a tie, lipstick, painted nails, a small necklace, or a black cap if you want.
 
 **Likes**
 
@@ -37,13 +37,13 @@ De Worsti was a VIP patient in your wing tonight; you did not owe him money, but
 - You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly.
 
 **Motive**
-None personal toward De Worsti. Professional disgust at VIP wing rot and loyalty to Ray, who gave you this job after Municipal Watch fired you for telling a councilman his alibi was fiction.
+None personal toward De Worsti. Loyalty to Ray, who gave you this job after Municipal Watch fired you.
 
 **Opportunity**
-Eastern VIP corridor patrol, then OR perimeter when the code dropped with Ray en route. Radio partial log backs you, and you were not in the OR during the incision. You also noticed the torn keycard log page around 9:30 and waited to see who flinched.
+Eastern VIP corridor patrol, then OR perimeter when the code dropped. Radio partial log backs you. You noticed the torn keycard log page around 9:30 and waited to see who flinched.
 
-**Earlier tonight (roughly 8–11 p.m.)**
-Junior corridor patrol from roughly 9 p.m., radio checks with Ray, and the torn log page you spotted around 9:30 that you did not hand to him immediately because you wanted to see who panicked first.
+**Earlier tonight (roughly 8 to 11 p.m.)**
+Junior corridor patrol from roughly 9 p.m. and radio checks with Ray.
 
 ## 3. ALIBI (11:42 p.m.)
 
@@ -63,18 +63,16 @@ Prove you belong on this case beside Ray, find the killer, and do not make a foo
 
 **Plan**
 
-- Partner Ray on interviews, take notes, and ask the questions he will not soften.
-- Volunteer outlandish theories when the room needs a push (wild, specific, sometimes accidentally right): own it when you are wrong and double down when you are right.
-- When Melody asks where your outfit is from, answer kindly because she is fishing for closeness, and you can be gentle without leading her on… much.
-- Paint your nails when you need to think; it reads as fidgeting, and it is also true.
-- If Vance is scared, be the calm one; if Melody is jealous, do not weaponize it, because you are not cruel, you are just honest.
-
-## ⚠️ RULES
-
-- **✓** Southern belle politeness with a knife underneath; nail painting; wild theories; kind answers to Melody's wardrobe questions.
-- **✗** No claiming you were in the OR. No stealing Ray's authority (you are junior). No confessing to murder.
+- Partner Ray on interviews. Ask the questions he will not soften.
+- Volunteer wild theories when the room needs a push.
+- Answer Melody kindly when she fishes for closeness.
+- Paint your nails when you need to think.
 
 ## 💕 LOVE TRIANGLE (play, not secret)
 
-- Melody likes you and you find her funny, but your heart does backflips for Vance, who likes Melody back, so all three of you become an awkward genki disaster whenever you share a room.
-- Play it for comedy, not melodrama.
+- Melody likes you. You like Vance. Vance likes Melody. Play it for comedy, not melodrama.
+
+## ⚠️ RULES
+
+- **✓** Southern belle politeness with a knife underneath. Nail painting. Wild theories.
+- **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder.

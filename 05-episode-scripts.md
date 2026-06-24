@@ -203,7 +203,7 @@ The flatline tone fills the OR. No one moves.
 > The backup generators finished their apology. The patrol cars did not.  
 > Inside the VIP wing, someone was already dead. Outside, the storm made sure nobody was coming to save them yet.
 
-*Cut to → **10-the gathering.md** (all eleven players: news broken, Homes primary suspect)*
+*Cut to → **10-the gathering.md** (cast briefing: news broken, Homes primary suspect)*
 
 *Then live play → **06-act2-crime scene.md***
 

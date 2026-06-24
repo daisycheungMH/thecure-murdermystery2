@@ -1,8 +1,8 @@
-# Character Roster, 11 Players
+# Character Roster
 
 **Victim / narrator (non player):** De Worsti  
 **Investigation leads (until Ep 4 coda):** Officer Ray, Officer Marlowe "Marz" + Dr. Curie  
-**Optional 12th player:** Officer Diamond, storm overflow security, see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)  
+**Officer Diamond:** Security officer folded into VIP containment after the code, see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)  
 **Full performance guide:** [14-actor-personas.md](14-actor-personas.md)
 
 ---
@@ -94,7 +94,7 @@
 ### Melody, Valley gossip bimbo
 - **Persona:** Valley cadence, ditzy camouflage; **sharp nail file underneath**  
 - **Play:** *"Like literally oh my god"*, then one sentence that ends careers  
-- Blackmails Lacey; saw Alfie enter; torn keycard log knowledge  
+- Blackmails Lacey; spotted Alfie slip in as fake delivery; torn keycard log knowledge  
 - **Ability:** *Spill the Tea*, evidence for scandal trades  
 - **Objective:** Public ruin of Lacey  
 
@@ -108,16 +108,16 @@
 
 ---
 
-## Twelfth player (optional, overflow security)
+## Additional investigator
 
-### Officer Diamond, Procedure nerd (storm overflow)
+### Officer Diamond, Procedure nerd
 | | |
 |---|---|
 | **Persona** | Over enthusiastic procedure nerd; treats real crisis like a live action training simulation |
 | **Play** | Gamifies phases and credibility points; *boo yah*; official language in wrong contexts; playful then laser focused |
-| **Role** | Auxiliary containment officer, called last minute when storm overflow stretches security; perimeter and escort |
+| **Role** | Security officer assigned into VIP containment after the code; perimeter and escort |
 | **Secret** | Sharper than the bit; reports observations to Ray instead of holding court |
 | **Ability** | *Training Module*, once per act: declare a phase name; room lets you finish one official sentence before arguing back (comic structure only) |
 | **Objective** | Keep perimeter honest; support Ray and Marz; one real detail per act |
 | **Dossier** | [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md) |
-| **Host** | [17-officer-diamond.md](17-officer-diamond.md), arrives after The Gathering; limited main plot |
+| **Host** | [17-officer-diamond.md](17-officer-diamond.md), joins after the code from main campus |
