@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Nurse Pepper  
@@ -72,12 +82,6 @@ Find the killer first, then decide whether to expose the truth or bury it to sav
 - Share clinical facts honestly, but do not rush to condemn Homes if you are not sure.
 - Stand up for Jetski if the room turns on him. He is your junior and you know his timeline.
 - If the affair leaks, own your grief. You did not want De Worsti dead.
-
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Gathering:** Back Jetski on timing. You felt the lag and motor drop before the lights cut, and so did he.
-- **Ep 2:** Toxicology folder is your clinical proof. You were paralyzed before the incision window.
-- **Never:** Let anyone forget you were already on the OR floor, unable to move, when the lights came back on.
 
 ## ⚠️ RULES
 

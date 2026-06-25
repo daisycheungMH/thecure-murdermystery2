@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Lacey Lovely *(born Genevieve)*  
@@ -75,13 +85,6 @@ Keep your fortune and identity, protect your father if you can without lying und
 - Play damsel and lawyer up when it helps. Comply when Ray pushes hard enough, but keep it procedural.
 - String Homes along. If Pepper's affair surfaces, ruin Pepper before she ruins you.
 - With Ray, stay cold in public. No advocacy that looks personal. Reason only.
-
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Early:** Terminal logs place you two floors up during the blackout. You locked the wing from admin.
-- **Mid:** Vault and power logs prove you could reach systems from admin. They won't put the knife in your hand.
-- **Late:** After Genevieve is named, admit you ran because you needed him gone. You never wanted him slaughtered on your own OR table.
-- **Never:** Connect Ray to Genevieve as your father until evidence proves it.
 
 ## ⚠️ RULES
 

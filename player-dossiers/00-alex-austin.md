@@ -1,6 +1,16 @@
+
+
+LESBIAN CITY POLICE DEPARTMENT
+
+CRIMINAL TRANSVESTIGATION DIVISION
+
+Case File No.: LCPSD-CTV-0471-DC
+
+
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
-CHARACTER NAME: Alex Austin *(De Worsti)*  
+CHARACTER NAME: Alex *De Worsti*  
 AGE: 48  
 OCCUPATION: VIP patient *(cover)* / Indigo District financier and crime lord *(truth)*
 
@@ -79,3 +89,4 @@ Set the tone in the prologue, then get out of the players' way. You are the woun
 - Episode 3: Alfie, Sachs, and others came to hurt or kill you tonight.
 - Episode 4: Genevieve's abuse, the fire, the hunt, why you chose this hospital. The ballot asks whether your killer was a murderer, an executioner, or a symptom of a broken system.
 - Ray killed you to protect his daughter. You were worse than any of them, and that does not erase the law.
+

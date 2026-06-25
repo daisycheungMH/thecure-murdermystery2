@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Dr. Curie  
@@ -76,13 +86,6 @@ Protect Lacey, survive the red herring heat, and help the room find the truth wi
 - When access logs surface, be honestly baffled. You were in the corridor and cannot name who took your card.
 - Offer real medical insight when asked.
 - If the room chases your friendship with Lacey or your surgical skill, stay calm. Needle Homes when he deserves it.
-
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Early:** Blood pattern and staff down before the cut point away from a simple OR rage story.
-- **Mid:** Toxicology clears Jetski and Pepper. Power and vault logs land on admin or security tier instead of your clearance level.
-- **Late:** Torn keycard page and mainframe implicate your keycard while you were plainly in the corridor. Witnesses back you up.
-- **Never:** Confess to a cut you did not make.
 
 ## ⚠️ RULES
 

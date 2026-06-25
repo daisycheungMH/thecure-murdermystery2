@@ -1,3 +1,13 @@
+
+
+LESBIAN CITY POLICE DEPARTMENT
+
+CRIMINAL TRANSVESTIGATION DIVISION
+
+Case File No.: LCPSD-CTV-0471-DC
+
+
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Alfie De Worsti  
@@ -71,13 +81,8 @@ Avoid a murder charge, chase the insurance angle if you can, and do not destroy 
 - Drop half truths that make two people fight.
 - In Ep 4, name Genevieve with hedged language and go soft on Lacey.
 
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Early:** Melody saw you slip in. Own the delivery cover, deny OR presence.
-- **Ep 3:** When the hunting knife drops, point at it: no blood, wrong weapon. You came to kill Alex your way; someone used a scalpel in the dark.
-- **Late:** Wound report backs you - You had your own violent plan and OR incision belongs to someone else.
-
 ## ⚠️ RULES
 
 - **✓** Inflammatory bait, smirks, fake screw-up energy, observation disguised as jokes, escalation when the room settles.
-- **✗** No OR presence. The Ep 4 Genevieve beat is mandatory once you are pressed.
+- **✗** No OR presence. The Ep 4 Genevieve backstory is mandatory once you are pressed.
+

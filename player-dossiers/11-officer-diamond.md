@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Officer Diamond  

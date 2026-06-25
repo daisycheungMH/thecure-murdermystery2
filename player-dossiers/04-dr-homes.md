@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Dr. Homes  
@@ -70,13 +80,6 @@ Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
 
 - Push two points: the blade was stolen, and the wound looks too crazed for a calm theatre cut.
 - Mock Curie and Ray's flirt. Trade barbs with Curie like rivals who respect each other's hands.
-
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Early:** Push that the blade was ripped from your grip. Blood pattern shows two distinct spray phases rather than one frantic pass from a frozen surgeon.
-- **Mid:** Toxicology proves Pepper and Jetski were down before the incision window. Someone engineered the room.
-- **Late:** Wound assessment screams rage or framing because it's too sloppy for Curie's theatre hands, and too convenient for your guilt story.
-- **Never:** Admit you made the carotid cut.
 
 ## ⚠️ RULES
 

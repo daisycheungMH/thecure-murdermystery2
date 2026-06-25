@@ -1,3 +1,13 @@
+<div class="case-file-letterhead">
+
+<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+
+<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+
+<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+
+</div>
+
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Dr. Jetski  
@@ -66,12 +76,6 @@ Prove you were incapacitated on the floor, not the person who made the cut.
 - Repeat your timeline: lag, collapse, floor, lights, already down.
 - After Ray's briefing in Act 1, say the killer may be in the lounge with everyone.
 - Ally with Pepper. Panic loudly if anyone frames you.
-
-## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
-
-- **Gathering:** Killer may be in the lounge. You were on the floor before lights.
-- **Ep 2:** Toxicology is your lifeline. Repeat your timeline.
-- **Ep 3+:** Street knives and wire cutters are the wrong profile.
 
 ## ⚠️ RULES
 
