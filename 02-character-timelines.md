@@ -120,7 +120,7 @@ All times approximate. Adjust to your table's surgery slot.
 | Ep 4 | **Melody** (if alive) | Corroborates Alfie, archival pre surgery face match |
 | Ep 4 | **CD Vance** | Raw mainframe vs. Lacey's edited timestamps |
 | Ep 4 | **Officer Ray** | **Curie's keycard** in OR during exact 60s blackout (raw mainframe); Ray has no OR access on his own badge |
-| Ep 4 | **Dr. Curie** | Genuinely shocked when logs name his card — he never knew it left his person that night |
+| Ep 4 | **Dr. Curie** | Genuinely shocked when logs name his card. He never knew it left his person that night |
 | Ep 4 | **Room** | Dual ballot, target + moral verdict |
 
 ---
@@ -130,7 +130,7 @@ All times approximate. Adjust to your table's surgery slot.
 | System | Status | Implication |
 |--------|--------|-------------|
 | OR internal cameras | Disabled / doctored | Forces eyewitness + physical evidence |
-| VIP wing corridor CCTV | Mostly offline | Hacking skill red herring → **CD Vance**, not sole killer |
+| VIP wing corridor CCTV | Mostly offline | Hacking skill red herring → **CD Vance** is a suspect, never the sole killer |
 | Pharmacy vault | Log only (executive tier codes) | Points to admin tier; Ray physically swapped vial |
 | Power console | Manual override logged | Security office; Ray |
 | Keycard log page | **Torn out** pre surgery | Melody knows; Ray noticed gap |

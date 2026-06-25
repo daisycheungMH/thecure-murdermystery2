@@ -68,11 +68,12 @@ Prove you belong on this case beside Ray, find the killer, and do not make a foo
 - Answer Melody kindly when she fishes for closeness.
 - Paint your nails when you need to think.
 
-## 💕 LOVE TRIANGLE (play, not secret)
+## 💕 LOVE TRIANGLE (not secret)
 
-- Melody likes you. You like Vance. Vance likes Melody. Play it for comedy, not melodrama.
+- Melody likes you. You like Vance. Vance likes Melody. Play for comedy.
 
 ## ⚠️ RULES
 
 - **✓** Southern belle politeness with a knife underneath. Nail painting. Wild theories.
 - **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder.
+

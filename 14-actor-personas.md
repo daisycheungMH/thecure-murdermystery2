@@ -31,11 +31,11 @@
 
 **Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading man charm with an **annoying charisma**: idealist, kind-hearted social butterfly, the room's angel's advocate. The room *wants* to be on his side.
 
-**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** Assumes the best in people, including Ray, so he never suspects who lifted his OR keycard. His niceness is **genuine, not performance**; in a murder investigation that sincerity reads suspicious anyway. When stressed, get *more* warm and optimistic, not less, and the room will chase the wrong surgeon.
+**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** Assumes the best in people, including Ray, so he never suspects who lifted his OR keycard. His niceness is **genuine**. That reads suspicious in a murder wing. When stressed, get *more* warm and optimistic. The room will chase the wrong surgeon.
 
 **Physical:** Open posture; unhurried hands; smile that lands like a gift.  
 **Voice:** Low, warm, complete sentences. Never shouts, cuts with politeness.  
-**Tell:** When cornered on motive, he gets *extra* sincere, not guilty; finds the upside even when no one asked.
+**Tell:** When cornered on motive, he gets *extra* sincere. Finds the upside even when no one asked.
 
 > *"Officer, I'd flirt back, but we have a corpse."* (smile, pivot, devastating competence).
 
@@ -47,9 +47,9 @@
 
 **Surface:** Square jaw energy, boots loud, notebook like a weapon. First impression: *will arrest the weather.*
 
-**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing — he waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible.
+**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing. He waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible.
 
-**If the room asks "why not kill him elsewhere":** *"A man like that doesn't travel alone on a storm night. You don't stab him in a hallway and walk away clean. You let a surgeon save him — or you kill him where medicine already has him pinned down."* (Curie, authoritative.) Or Marz: *"Security chief offs a VIP in the garage and then runs the case? Please."*
+**If the room asks "why not kill him elsewhere":** *"A man like that doesn't travel alone on a storm night. You don't stab him in a hallway and walk away clean. You let a surgeon save him, or you kill him where medicine already has him pinned down."* (Curie, authoritative.) Or Marz: *"Security chief offs a VIP in the garage and then runs the case? Please."*
 
 **Soft center:** Protective of Lacey, quietly loyal to his friends, uses warmth as cover. He is easier around Lacey than almost anyone else.
 
@@ -141,7 +141,7 @@
 
 ## Uvula Sachs, Workflow chaos gremlin (second in command, German)
 
-**Surface:** Sachs treats crime like a **perfectly engineered system**—but tonight nothing meets her standards, and it is personally offensive. Instead of cold and slick, she becomes an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow.
+**Surface:** Sachs treats crime like a **perfectly engineered system**. Tonight nothing meets her standards, and it is personally offensive. Instead of cold and slick, she becomes an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow.
 
 **Still dangerous:** Wire cutters, elevator threats, syndicate muscle. The ridiculousness does not make her safe. It makes her **unpredictable**.
 
@@ -155,9 +155,9 @@
 
 **Sample lines (ad-lib freely):**
 
-> *"Wait. Stop. Everyone stop. This timeline—this is not a timeline. This is a suggestion."*
+> *"Wait. Stop. Everyone stop. This timeline? This is a suggestion."*
 
-> *"You said 'around 9.' What is 'around'? This is not a planet orbit."*
+> *"You said 'around 9.' What is 'around'? Pick a time."*
 
 > *"Who is in charge here? No one? Ah. That explains everything immediately."*
 
@@ -167,9 +167,9 @@
 
 > *"The lighting in this hospital is hostile. I cannot think in this lighting."*
 
-> *"If I made decisions like this in my work, I would be dead. Which—yes, ironic."*
+> *"If I made decisions like this in my work, I would be dead. Ironic, yes."*
 
-**Vance:** Treats as overworked contractor on a death march—coerced, micromanaged, still *hers*.
+**Vance:** Treats as overworked contractor on a death march. Coerced, micromanaged, still *hers*.
 
 ---
 
@@ -189,13 +189,13 @@
 
 **Surface:** Reckless screw-up, delivery driver cosplay, knife held wrong on purpose, treats murder night like a bad reality show.
 
-**Truth:** Very observant. Strategically inflammatory — thrives on reactions, pokes insecurities, turns people against each other. While others solve the murder, he tries to **break the room dynamic**. Hedged language (*"I think… maybe…"*) is camouflage, not fear; sounding harmless makes the hit land harder.
+**Truth:** Very observant. Strategically inflammatory. Thrives on reactions, pokes insecurities, turns people against each other. While others solve the murder, he tries to **break the room dynamic**. Hedged language (*"I think… maybe…"*) is camouflage. He sounds harmless on purpose so the hit lands harder.
 
 **Physical:** Loose grin in serious moments; can't stand a calm room; eyes on exits and on whoever's about to crack.  
-**Voice:** Unserious cadence that sharpens when baiting; fake apology mid-sentence; voice only cracks on Genevieve's name — the one subject that punches through the mask.  
+**Voice:** Unserious cadence that sharpens when baiting; fake apology mid-sentence; voice only cracks on Genevieve's name. That subject punches through the mask.  
 **Tell:** Smirk when tension spikes; *"I mean, probably, I could be wrong, "* before the most accurate thing anyone says all night.
 
-**Ep 4:** Protective of Lacey/Genevieve because family guilt — the rare beat where the baiter mask slips toward something real.
+**Ep 4:** Protective of Lacey/Genevieve because family guilt. The rare beat where the baiter mask slips toward something real.
 
 ---
 
@@ -203,11 +203,11 @@
 
 **Surface:** Sweating anesthesiologist who peaked in the wrong specialty. Sun bleached, hospital ID crooked, every panic is physical, wipe brow, shaky hands.
 
-**Under the hood:** Actually sharp. Knows the chemistry cold. The surfer bro layer is real, not a bit, you trained coastal, you still talk like the beach when the adrenaline hits.
+**Under the hood:** Actually sharp. Knows the chemistry cold. The surfer bro layer is real. Coastal training stuck in your mouth when adrenaline spikes.
 
-**Play:** Comic relief pressure valve; rage when nickname mocked. Surfer speech is **occasional**, not constant. One *dude* or *bro* per scene lands harder than a whole monologue in slang.  
-**Voice:** Whiny competence with surf cadence bleeding through; knows the pharmacology, hates the drama.  
-**Tell:** Stress makes you sound more like a surfer, not less.
+**Play:** Comic relief pressure valve; rage when nickname mocked. Surfer speech is **occasional**. One *dude* or *bro* per scene lands harder than a whole monologue in slang.
+**Voice:** Whiny competence with surf cadence bleeding through; knows the pharmacology, hates the drama.
+**Tell:** Stress makes you sound more like a surfer. The mask comes out when you're scared.
 
 > *"Dude, that's not drift, that's a wipeout in a vial."* (then immediately correct yourself like you hate that you said it).
 

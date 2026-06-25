@@ -115,7 +115,7 @@ Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink
 
 | Player action | Host response | Evidence |
 |---------------|---------------|----------|
-| Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** (subtle Homes absolution: two phases, not one frozen surgeon) |
+| Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** (subtle Homes absolution: two phases. Rules out one frozen surgeon standing in place) |
 | Search anesthesia trash | Empty vial, compromised seal | **E1-B IV vial** |
 | Search De Worsti's coat (with Ray present) | Dossier on ex wife reconstruction | **E1-C P.I. file** |
 | Interview Melody at desk | "I called the code." Spotted **Alfie** slip in as delivery ~9 p.m.; saw **Homes** in hall earlier | Testimony only |

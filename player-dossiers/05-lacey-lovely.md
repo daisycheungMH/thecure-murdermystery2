@@ -62,7 +62,7 @@ You were in the admin office two floors up, handling grid crisis and containment
 Terminal logs show your activity, and you locked the wing.
 
 **Hide (minor)**
-Publicly deny murder and say *"I wanted distance, not a throat cut."* If Genevieve is named, admit you ran. Do not name Ray as your father or say he killed until evidence forces it.
+Publicly deny murder and say *"I wanted him gone. I didn't want him opened up on my table."* If Genevieve is named, admit you ran. Do not name Ray as your father or say he killed until evidence forces it.
 
 ## 4. SECRET OBJECTIVE
 
@@ -79,8 +79,8 @@ Keep your fortune and identity, protect your father if you can without lying und
 ## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
 
 - **Early:** Terminal logs place you two floors up during the blackout. You locked the wing from admin.
-- **Mid:** Vault and power logs show access, not hands on the blade.
-- **Late:** After Genevieve is named, admit you ran and wanted distance, not a throat cut.
+- **Mid:** Vault and power logs prove you could reach systems from admin. They won't put the knife in your hand.
+- **Late:** After Genevieve is named, admit you ran because you needed him gone. You never wanted him slaughtered on your own OR table.
 - **Never:** Connect Ray to Genevieve as your father until evidence proves it.
 
 ## ⚠️ RULES

@@ -14,7 +14,7 @@
 
 **Only read the act you are in.** When the facilitator says you are in Act 1, read through Act 1 and **stop**. Do not read Act 2 until the facilitator opens it. Same for Acts 3 and 4. Spoilers ruin the night for everyone.
 
-**Lines under your character name** are yours when that scene is reached. Optional lines are yours to use or skip. Brief notes in parentheses are scene cues only, not persona reminders. Stage directions in *italics* are mood or movement, not spoken aloud.
+**Lines under your character name** are yours when that scene is reached. Optional lines are yours to use or skip. Parentheses are scene cues. Stage directions in *italics* are movement only.
 
 **NARRATOR** blocks are read by the facilitator. Listen, then play.
 
@@ -55,7 +55,7 @@
 > **PEPPER:** (quietly) We don't prioritize patients that way.  
 > **ALEX:** Everyone prioritizes something.
 
-> **HOMES:** This is a surgical facility, not a negotiation table. You need this repair. I am not here to flatter you.  
+> **HOMES:** You came here for surgery. Take the negotiation somewhere else. You need this repair. I'm not here to flatter you.
 > **ALEX:** Everything is a negotiation table, Doctor. I chose this hospital. I expect your seniors to act like it. But I'm here to walk out better than I walked in.
 
 > **ALEX:** (softly) People don't get second chances where I come from.  
@@ -73,7 +73,7 @@
 > **HOMES:** Arterial wall's more compromised than imaging suggested. This is borderline rupture.  
 > Jetski, tighten control. I want zero drift. Pepper, clamp.
 
-**PEPPER** (crisp, professional; fear not yet in the room):
+**PEPPER** (crisp; professional):
 
 > Clamp in.  
 > (beat, reading monitor)  
@@ -155,7 +155,7 @@
 
 **MARZ** (already painting a nail):
 
-> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
+> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray. Same team. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
 > At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
@@ -197,7 +197,7 @@
 
 > Officer. I have counsel on standby. This hospital will cooperate within regulatory...
 
-> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That was your call, not mine. Your lawyer can wait until I say otherwise.
+> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
 
 > **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
 > (beat, harder)  
@@ -335,7 +335,7 @@
 
 ### JETSKI: THE ROOM GOES QUIET
 
-**JETSKI** (quiet, not performing, genuinely unsettled):
+**JETSKI** (quiet; unsettled):
 
 > You know what keeps turning in my head?  
 > (beat)  
@@ -418,7 +418,7 @@
 
 > Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
 > (beat)  
-> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern fits a **facilitator**, not a cutter. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
+> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
 
 **RAY** (short nod, trusts the tone):
 
@@ -456,9 +456,9 @@
 
 > **VANCE:** I'm not realted to the victim, I was just helping a debt collector hunt a woman who ran. That's what he built. Men like De Worsti make you dig with your own hands and your own cute little keyboard, and I'm so sorry...
 
-**SACHS** (efficiency rage, not snarling):
+**SACHS** (rage):
 
-> You ton't get to moralize. You were on the clock. And your timeline is still wrong—"around when Sachs asked" is not a timestamp.
+> You ton't get to moralize. You were on the clock. And your timeline is still wrong. "Around when Sachs asked" is not a timestamp.
 
 **CURIE** (to window):
 
@@ -554,7 +554,7 @@
 
 > I know enough that I didn't want to say it like this.
 
-**LACEY** (stands; not confession):
+**LACEY** (stands; ice):
 
 > Officer. You want the truth from me? Fine.
 >
@@ -572,7 +572,7 @@
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history is a **motive**, not a mechanism. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier fits access, not the blade. Unlikely she'd personally finish him on the table.  
+> Clinically? A director with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
@@ -586,7 +586,7 @@
 
 > Doctor, your alibi is still bleeding. I'd focus.
 
-**RAY** (cutting, but not at Curie):
+**RAY** (cutting):
 
 > I'm not dropping it. Someone opened the vault. Someone killed the lights. Someone with the keys. And a dead man who came here chasing a woman who just wanted to get away.
 

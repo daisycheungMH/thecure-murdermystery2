@@ -38,11 +38,11 @@ De Worsti was your VIP arterial case tonight.
 **History**
 
 - His records were sparse and his confidence insulting. His money bought priority anyway.
-- You took the case for the anatomy challenge and the fee, not affection.
+- You took the case for the anatomy challenge and the fee.
 - You did not know he was a bankrupt crime lord hunting his ex wife, or that her father was standing security in your building.
 
 **Motive**
-Weak and professional: his money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee, not affection. You are also obsessed with Lacey, which the room will read as passion.
+His money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee. You were never doing it for love. You are also obsessed with Lacey, which the room will read as passion.
 
 **Opportunity**
 You were the primary surgeon at dead center when the red lights returned, scalpel in your bloody gloves. During the blackout the blade was ripped from your grip while Pepper and Jetski were already down.
@@ -73,9 +73,9 @@ Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
 
 ## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
 
-- **Early:** Push that the blade was ripped from your grip. Blood pattern shows two phases, not one panicked stroke.
+- **Early:** Push that the blade was ripped from your grip. Blood pattern shows two distinct spray phases rather than one frantic pass from a frozen surgeon.
 - **Mid:** Toxicology proves Pepper and Jetski were down before the incision window. Someone engineered the room.
-- **Late:** Wound assessment reads rage or framing, not calm theatre. Too messy for Curie, too convenient for you.
+- **Late:** Wound assessment screams rage or framing because it's too sloppy for Curie's theatre hands, and too convenient for your guilt story.
 - **Never:** Admit you made the carotid cut.
 
 ## ⚠️ RULES

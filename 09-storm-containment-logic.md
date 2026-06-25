@@ -12,7 +12,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 ---
 
-## The storm (ongoing, not just flavor)
+## The storm (ongoing, more than atmosphere)
 
 | Layer | What happened |
 |-------|----------------|
@@ -32,11 +32,11 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 
 2. **Physical isolation**, Patrol units attempted routing; radio traffic (read by narrator or Vance) reports units "holding at barricade, mile and a half out."
 
-3. **Hospital legal posture**, **Lacey Lovely** invoked **corporate crisis containment**: no external law enforcement entry until hospital counsel and patient privacy review on scene, a delay tactic that buys hours, not a permanent block.
+3. **Hospital legal posture**, **Lacey Lovely** invoked **corporate crisis containment**: no external law enforcement entry until hospital counsel and patient privacy review on scene. A delay tactic that buys hours. Never a permanent block.
 
 4. **Ray's on site authority**, Ray is **not municipal patrol tonight**. He is **St. Saphicca's Security Chief**, ex Municipal Watch, hired by the hospital. He is the highest law enforcement adjacent authority **physically in the building**.
 
-5. **No second badge**, Curie has medical authority, not arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
+5. **No second badge**, Curie has medical authority but no arrest power. Pepper has clinical logs. Everyone else is staff, contractor, or visitor.
 
 6. **Additional security presence**, **Officer Diamond** joins from main campus after the code. She has a full dossier and supports perimeter and escort; Ray and Marz still lead investigation. See [17-officer-diamond.md](17-officer-diamond.md).
 
@@ -112,7 +112,7 @@ Watch always enters. Marz or Curie hands off LC-4471 if Ray is in cuffs.
 
 ---
 
-## Jetski beat (gathering, not coda)
+## Jetski beat (gathering, deliver before the coda)
 
 Delivered in **[10-the-gathering.md](10-the-gathering.md)** when the room is still in the VIP lounge, after Ray seals containment and before live questioning. Plants doubt that the killer is among them. Facilitator may callback in Ep 4 truth reveal if the room voted wrong.
 
@@ -123,7 +123,7 @@ Delivered in **[10-the-gathering.md](10-the-gathering.md)** when the room is sti
 | Question | Answer in world |
 |----------|-----------------|
 | Why can't we just call the police? | You did. They're not getting through the flood before dawn. |
-| Why is Ray investigating if he might be guilty? | Because he's the head of security here and he knows it looks bad. Marz's junior, not decoration. |
+| Why is Ray investigating if he might be guilty? | Because he's the head of security here and he knows it looks bad. Marz is junior but she pulls her weight. |
 | Why do we have to participate? | Wing sealed. Killer still inside. No one gets to sit out and look innocent. |
 | When do real cops show up? | End of the night, when the storm breaks. |
 | Was the storm faked? | No. It was real. The murder used it. |

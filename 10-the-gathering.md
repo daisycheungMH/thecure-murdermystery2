@@ -14,7 +14,7 @@
 - **Homes** sits or stands under the brightest light if possible.  
 - **Jetski** may be in a wheelchair or slumped chair, still medicated, hands unsteady.  
 - **Pepper** should still carry OR terror, bloodless knuckles, voice not fully steady; sage returns slowly.  
-- **Ray** at the head. **Marz** beside him (junior, notebook, nail polish). **Curie** beside Ray, not across, unified front.  
+- **Ray** at the head. **Marz** beside him (junior, notebook, nail polish). **Curie** beside Ray on the same side. Unified front.  
 - Read **NARRATOR** blocks yourself; players deliver their own lines where marked **(PLAYER)**.  
 - **Persona guide:** [14-actor-personas.md](14-actor-personas.md), encourage big, fun choices; plot beats stay the same.
 - **Officer Diamond:** She reaches the lounge door after Ray's briefing (see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)).
@@ -43,7 +43,7 @@
 
 **MARZ** (PLAYER: southern belle, pleasant, already painting a nail):
 
-> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray, not around him. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
+> And I'm Officer Marlowe. Marz. Junior guard. I work with Ray. Same team. Y'all can tell us the truth, or you can tell us something so dumb we'll know you're lying. Either way's fine with me.
 
 > **RAY:** (beat)  
 > At eleven forty-two, De Worsti died in VIP OR Two. Throat opened with a scalpel. Violent. Almost crazed.  
@@ -93,7 +93,7 @@
 
 > Officer. I have counsel on standby. This hospital will cooperate within regulatory...
 
-> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That was your call, not mine. Your lawyer can wait until I say otherwise.
+> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
 
 *Lacey holds his gaze. Sits. Says nothing.*
 
@@ -264,7 +264,7 @@
 
 ## CURIE, THE ASK (why they investigate)
 
-**CURIE** steps forward. Addresses everyone, not just Homes.
+**CURIE** steps forward. Addresses the whole room. Homes included.
 
 > **CURIE:** Officer Ray cannot process a coordinated murder alone. I cannot autopsy a conspiracy from a cot.  
 > Every person in this lounge was inside the VIP wing when De Worsti died. That makes you witnesses, suspects, or both.  
@@ -286,7 +286,7 @@
 
 *Hold one beat after Ray's line. The lounge is full. Eleven people. One dead man upstairs. No sirens yet.*
 
-**JETSKI** (PLAYER: quiet, not performing, genuinely unsettled; surfer bro mostly gone):
+**JETSKI** (PLAYER: quiet; unsettled; surfer bro mostly gone):
 
 > You know what keeps turning in my head?  
 > (beat)  
@@ -310,7 +310,7 @@
 |-----------|-------------------------|
 | **Homes** | Primary suspect; scalpel; "blade pulled from grip" |
 | **Pepper** | Witness; incapacitated first; torn about Homes |
-| **Jetski** | Paralyzed pre blackout; not the cutter; surfer bro panic; **killer among us** beat delivered |
+| **Jetski** | Paralyzed pre blackout; wrong profile for the cutter; surfer bro panic; **killer among us** beat delivered |
 | **Curie** | Charm on; Ray endeared; Pepper ahem; Homes annoyed |
 | **Ray** | Containment; no police; admits own debt |
 | **Marz** | Junior badge; wild theory optional; Melody/Vance triangle beat |
@@ -333,7 +333,7 @@
 - Melody: *"Who did you see in the hall in the hour before surgery?"*
 - Lacey: *"Whose code opened the pharmacy vault?"* (she deflects; may use Administrative Override later)
 
-**Curie questions (credibility, not obstruction):**
+**Curie questions (credibility; helpful):**
 - *"Let's focus on who had hands on metal in the OR, blade contact first."*
 - If Ray investigates Lacey: *"Unlikely she'd personally make that cut, but her access tier is still a lead. Run it."*
 - Never tell Ray **not** to investigate her background.

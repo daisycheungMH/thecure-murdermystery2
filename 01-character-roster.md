@@ -24,7 +24,7 @@
 |---|---|
 | **Persona** | Idealist; kind-hearted **social butterfly**; **annoying charisma**; angel's advocate; assumes the best in people; **deeply traumatized, never shows it** |
 | **Play** | Warm, witty, generous with praise; genuine niceness reads suspicious but is **not performance**; **rival** to Homes; too many friends to name who lifted his keycard |
-| **Role** | Chief of Surgery + medical liaison (looks guilty, is not the killer) |
+| **Role** | Chief of Surgery + medical liaison (looks guilty; didn't make the cut) |
 | **Secret** | Sanctuary bond with Lacey; wanted De Worsti dead; did not make the cut; **never noticed keycard missing until evidence** |
 | **Ability** | *Surgical Counsel*, once/act: lead seems unlikely, still worth running |
 | **Objective** | Survive red herring heat; protect Lacey; help room find truth |
@@ -76,7 +76,7 @@
 - **Objective:** Prove physical incapacitation  
 
 ### Uvula Sachs, Workflow chaos gremlin (second in command)
-- **Persona:** German enforcer who treats crime like engineering—tonight's murder investigation is a **broken workflow** and personally offensive  
+- **Persona:** German enforcer who treats crime like engineering. Tonight's murder investigation is a **broken workflow** and personally offensive  
 - **Play:** Overly expressive efficiency rage; takes everything literally; fixates on lighting, posture, phrasing; murder as badly run corporate meeting; **still dangerous**; **German accent** (D→T, B→P, G→K, V→F); **not the killer**  
 - Coerces **CD Vance** (micromanaged contractor) to trace De Worsti's wife digitally  
 - Wire cutters; planned own blackout, beaten to punch  
@@ -87,7 +87,7 @@
 - **Persona:** Reckless unserious screw-up *(mask)*; observant, inflammatory, punchable  
 - **Play:** Smirks through serious moments; treats the investigation like entertainment; escalates when tension settles; pokes insecurities, turns people against each other  
 - Delivery disguise; hunting knife; insurance plot; witnessed Genevieve's abuse  
-- **Ep 4 obligation:** Name Genevieve, hedged language *(camouflage, not cowardice)*, soft on Lacey  
+- **Ep 4 obligation:** Name Genevieve, hedged language *(camouflage over cowardice)*, soft on Lacey  
 - **Ability:** *Double or Nothing*, die roll for clue vs. reveal knife  
 - **Objective:** Escape suspicion; insurance; break room dynamic; don't destroy Genevieve if he can help it  
 

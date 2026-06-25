@@ -9,7 +9,7 @@ Tone: High stakes medical thriller × neo noir × messy interpersonal drama
 
 ---
 
-## CONTAINMENT PREMISE (read players the FAQ, not the truth)
+## CONTAINMENT PREMISE (read players the FAQ. Keep the truth in this file)
 
 A severe storm isolates St. Saphicca's from municipal watch for the entire game. **Officer Ray** (hospital security chief, ex cop, **debt to De Worsti**) and **Officer Marlowe "Marz"** (junior security) run **Containment Protocol Delta**, VIP wing sealed, no one leaves, suspects must cooperate until patrol gets through flooded causeways. **Real police arrive only in the Episode 4 coda** after the storm breaks.
 
@@ -21,7 +21,7 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 ## THE TRUTH
 
-**De Worsti** was a ruthless loan shark and crime lord. Bankrupt on paper, violent in practice, hunting his runaway ex wife to strip her of the fortune she stole when she fled. Tonight he booked **real** VIP arterial surgery at St. Saphicca's as a power play on Lacey's hospital, not a medical fake out.
+**De Worsti** was a ruthless loan shark and crime lord. Bankrupt on paper, violent in practice, hunting his runaway ex wife to strip her of the fortune she stole when she fled. Tonight he booked **real** VIP arterial surgery at St. Saphicca's as a power play on Lacey's hospital. Genuine case. No illness stunt.
 
 **Genevieve** was that wife. De Worsti isolated her, controlled every account, beat her when she questioned his "business," and escalated to burning **Curie's family home** after she took money from his ledger. Genevieve vanished, underwent **total facial reconstruction**, and rebuilt herself as **Lacey Lovely**, hospital director of St. Saphicca's.
 
@@ -45,7 +45,7 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 **Ray had been waiting three years.** When De Worsti walked into Lacey's wing, Ray accelerated a plan he had been building in secret: vault access, tampered vial, blackout, corridor entry, frame Homes. Murder was not a 48-hour panic by Curie and Lacey. It was a friend's revenge, dressed as medical chaos, led by the only badge in the building.
 
-### Why the OR, not elsewhere
+### Why the OR instead of elsewhere
 
 Ray never planned to ambush Alex in a corridor, the parking structure, or the consultation suite.
 
@@ -58,7 +58,7 @@ Ray never planned to ambush Alex in a corridor, the parking structure, or the co
 | **The frame** | Paralyzed witnesses + bloody gloves on Homes + violent scalpel wound only converge on the **table** |
 | **The alibi** | Dead VIP in a closet makes Ray explain why he was alone with the body; OR catastrophe lets him **run containment** |
 
-Alex booked Lacey's hospital to own her room. Ray used that stage: sedated patient, chemically frozen staff, lights out on Ray's schedule, death that reads as OR rage—not security-chief murder. Kill him elsewhere and Ray has a body, no frame, and a man who might still walk out.
+Alex booked Lacey's hospital to own her room. Ray used that stage: sedated patient, chemically frozen staff, lights out on Ray's schedule, death that reads as OR rage. A security-chief murder would have been obvious anywhere else. Kill him elsewhere and Ray has a body, no frame, and a man who might still walk out.
 
 Full context: [11-genevieve-backstory.md](11-genevieve-backstory.md)
 

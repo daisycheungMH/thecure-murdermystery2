@@ -19,7 +19,7 @@ Each entry: short description + full text to read aloud or hand out.
 > **Zone A (pre blackout):** Controlled drip pattern, south side of table, consistent with arterial spray from elevated position. Small volume. Precise.  
 > **Zone B (post blackout):** Interrupted splash and smear, east tile, as if someone moved fast in the dark or a body shifted.  
 > **Note:** Pattern does not match a single panicked surgeon standing in place. Two phases. Two behaviors.  
-> **Clinical footnote (subtle):** If Dr. Homes made the carotid cut while frozen at center table, Zone A and Zone B would likely read as one continuous spray. The gap suggests **action in the dark after staff were already down**, not one uninterrupted rage stroke from the primary surgeon's position.
+> **Clinical footnote (subtle):** If Dr. Homes made the carotid cut while frozen at center table, Zone A and Zone B would likely read as one continuous spray. The gap suggests **action in the dark after staff were already down**. A second phase separate from any rage stroke at center table.
 
 ---
 
@@ -41,7 +41,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E1-C, Private investigator dossier
 
-**Description:** Folded report in De Worsti's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Saphicca's for a **real** surgical booking, not cover alone. **No first name** until Alfie speaks in Episode 4.
+**Description:** Folded report in De Worsti's coat pocket. Hired to find a vanished wife; mentions facial reconstruction and a childhood friend near the Sapphic Quarter. Notes client chose St. Saphicca's for a **real** surgical booking. Cover story alone doesn't explain the OR slot. **No first name** until Alfie speaks in Episode 4.
 
 **Text:**
 
@@ -67,7 +67,7 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > When backup lighting returned, Dr. Homes was at the center table with bloody gloves and a scalpel in his hand. De Worsti lay on the tile beside it, carotid opened with a scalpel in a violent, passionate stroke that looked almost crazed, IV lines pulled loose, monitors dark. Staff testimony: Homes shouted for failover power; he claims the blade was pulled from his grip during the blackout.  
-> **Subtle absolution seed:** Pepper and Jetski were already unconscious on the tile. The incision window opened **after** their motor drop (confirmed Ep 2). Homes holding the blade when lights returned is **timing and terror**, not proof he made the cut in the dark.
+> **Subtle absolution seed:** Pepper and Jetski were already unconscious on the tile. The incision window opened **after** their motor drop (confirmed Ep 2). Homes holding the blade when lights returned is **timing and terror**. It doesn't prove he made the cut in the dark.
 
 ---
 
@@ -114,13 +114,13 @@ Each entry: short description + full text to read aloud or hand out.
 > Action: Single vial removal, anesthesia tier  
 > 9:41 p.m., Vault sealed  
 > Note (facilities): *"Director Lovely has standing crisis access. Unusual for personal retrieval; no surgery scheduled in her name."*  
-> **Subtle absolution:** Executive vault codes prove **access**, not **hands on the blade**. Security staff with long tenure may memorize director emergency tiers. Pair with E2-C: blackout came from admin/executive console, not Lacey's physical location in admin two floors up.
+> **Subtle absolution:** Executive vault codes prove **access**. They don't put **hands on the blade**. Security staff with long tenure may memorize director emergency tiers. Pair with E2-C: blackout came from admin/executive console while Lacey sat two floors up in admin.
 
 ---
 
 ### E2-C, Power override log
 
-**Description:** Grid console record of the VIP wing blackout. Manual override from admin or IT tier, not storm failure alone.
+**Description:** Grid console record of the VIP wing blackout. Manual override from admin or IT tier. Storm failure alone doesn't explain the isolated VIP drop.
 
 **Text:**
 
@@ -190,7 +190,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Destination: Eastern secure corridor, OR Two approach  
 > Return field: **BLANK**  
 > Desk note (Melody, handwriting): *"Page was already gone when I called the code. Someone tore it out before surgery."*  
-> **Subtle absolution (Curie):** Checkout names Curie's tier, but the **missing return** and torn page support badge theft and corridor use, not Curie standing at the reader during the blackout.
+> **Subtle absolution (Curie):** Checkout names Curie's tier, but the **missing return** and torn page support badge theft and corridor use while Curie was elsewhere. He wasn't at the reader during the blackout.
 
 ---
 
@@ -210,15 +210,15 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E3-C, Alfie's hunting knife
 
-**Description:** Blade dropped during Ep 3 panic. Proves Alfie brought violence tonight, not the OR incision.
+**Description:** Blade dropped during Ep 3 panic. Proves Alfie brought violence tonight. The OR incision belongs to someone else.
 
 **Text:**
 
 > **PERSONAL EFFECTS, VIP LOADING BAY**  
 > Item: Fixed blade hunting knife, concealed carry wrap  
 > Owner statement (Alfie De Worsti): *"Delivery driver cover. I came for my brother. I didn't get to him."*  
-> Blood: none on blade (OR kill used surgical steel, not this)  
-> **Subtle absolution:** Alfie brought violence tonight, not the OR incision. Wound profile (E4-E) is scalpel work in darkness, not hunting knife.
+> Blood: none on blade (OR kill used surgical steel. This is a fixed blade)  
+> **Subtle absolution:** Alfie came armed for his own plan. The OR incision is scalpel work in darkness. Hunting knife doesn't match E4-E wound profile.
 
 ---
 
@@ -230,9 +230,9 @@ Each entry: short description + full text to read aloud or hand out.
 
 > **PERIMETER SEARCH, VIP ACCESS CORRIDOR**  
 > Item: Industrial wire cutters, worn handles  
-> Sachs statement: *"For krits and toors, not throats. Someone peat me to the plackout—and fix the lighting in this corridor while you're at it."*  
+> Sachs statement: *"Krits and toors only. Never throats. Someone peat me to the plackout, and fix the lighting in this corridor while you're at it."*  
 > Engraving (faded): collection crest, Indigo District  
-> **Subtle absolution:** Sachs planned a squeeze, not a carotid. Someone beat her to the blackout. Cutters do not match E4-E wound profile.
+> **Subtle absolution:** Sachs planned a squeeze on doors and power. Carotid work needs a scalpel. Someone beat her to the blackout. Cutters do not match E4-E wound profile.
 
 ---
 
@@ -287,7 +287,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-C, Raw mainframe keycard log
 
-**Description:** Vance pulls unedited data. Shows **Dr. Curie's** OR keycard at the reader during the 60 second blackout. Curie was in the corridor — Ray stole the badge and Curie never noticed until tonight.
+**Description:** Vance pulls unedited data. Shows **Dr. Curie's** OR keycard at the reader during the 60 second blackout. Curie was in the corridor. Ray stole the badge and Curie never noticed until tonight.
 
 **Text:**
 
@@ -297,7 +297,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Duration: 58 seconds inside blackout window  
 > Compare: edited log (E4-D) shows **NO ENTRY**  
 > Curie statement (if asked): *"That's my clearance. I was not at that reader. I don't know when my card left my person."*  
-> **Subtle absolution:** Raw log implicates Curie's **badge**, not Curie's **body**. Cross-check corridor witnesses and E3-A torn page before accusing the charming surgeon on motive alone.
+> **Subtle absolution:** Raw log implicates Curie's **badge** while Curie was in the corridor. Cross-check corridor witnesses and E3-A torn page before accusing the charming surgeon on motive alone.
 
 ---
 
@@ -413,8 +413,8 @@ Each entry: short description + full text to read aloud or hand out.
 
 ## HOST NOTES
 
-- **Absolution arc:** High-suspicion characters should feel **less likely over four episodes**, not innocent on night one. Drop footnotes on cards sparingly; let players connect dots. Full episode map: [04-evidence-index.md](04-evidence-index.md) → *absolution* tables.  
-- **E1-C** and **E4-F / E4-H** are designed to connect **after** Alfie names Genevieve, not before.  
+- **Absolution arc:** High-suspicion characters should feel **less likely over four episodes**. Nobody should look innocent on night one. Drop footnotes on cards sparingly; let players connect dots. Full episode map: [04-evidence-index.md](04-evidence-index.md) → *absolution* tables.  
+- **E1-C** and **E4-F / E4-H** are designed to connect **after** Alfie names Genevieve. Hold them until then.  
 - **E4-H** never names De Worsti; room infers from financier + Indigo + sanctuary + ledger cross reference.  
 - Red herring props (**E3-C**, **E3-D**) should feel damning but do not match the violent scalpel kill profile (**E4-E**).  
 - Full drop timing: [04-evidence-index.md](04-evidence-index.md).

@@ -22,7 +22,7 @@ You look warm, polished, and easy to trust. Wear a white button up with a white 
 - cruelty
 
 **Vibe**
-You are warm, generous, and professionally serious. Your optimism is real, not an act, but in a murder wing it can read suspicious. **Dr. Homes** is your rival. **Lacey Lovely** is one of your closest friends and your public partner in this investigation.
+You are warm, generous, and professionally serious. Your optimism is genuine, which is worse for you in a murder wing because sincerity reads suspicious here. **Dr. Homes** is your rival. **Lacey Lovely** is one of your closest friends and your public partner in this investigation.
 
 **Play in public**
 
@@ -56,7 +56,7 @@ You worked liaison checkpoints and the VIP corridor. You kept professional dista
 ## 3. ALIBI (11:42 p.m.)
 
 **Where**
-You were in the eastern VIP corridor and at liaison checkpoints, not in the OR at the moment of the kill.
+You were out in the eastern VIP corridor and at liaison checkpoints when the kill happened. The OR was empty of you.
 
 **Backup**
 Staff saw you in the corridor. Ray trusts you on the investigation, and you trust him back.
@@ -80,8 +80,8 @@ Protect Lacey, survive the red herring heat, and help the room find the truth wi
 ## 5. WHEN EVIDENCE SHIFTS (play the turn, do not lecture)
 
 - **Early:** Blood pattern and staff down before the cut point away from a simple OR rage story.
-- **Mid:** Toxicology clears Jetski and Pepper. Power and vault logs point to admin or security tier, not surgery chief.
-- **Late:** Torn keycard page and mainframe name your badge, not your body. Corridor witnesses back you.
+- **Mid:** Toxicology clears Jetski and Pepper. Power and vault logs land on admin or security tier instead of your clearance level.
+- **Late:** Torn keycard page and mainframe implicate your keycard while you were plainly in the corridor. Witnesses back you up.
 - **Never:** Confess to a cut you did not make.
 
 ## ⚠️ RULES

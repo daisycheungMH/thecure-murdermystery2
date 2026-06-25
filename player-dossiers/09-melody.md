@@ -68,7 +68,7 @@ Public ruin of Lacey Lovely.
 - Deny you know anything about Lacey's past if asked early. Corroborate from what you recognize at the cosmetic clinic when the moment comes. No photos. Just recognition and gossip.
 - Flirt with Marz. Manipulate Vance for logs when you need them.
 
-## 💕 LOVE TRIANGLE
+## 💕 LOVE TRIANGLE (not secret)
 
 - You have a crush on Marz. She likes Vance. Vance likes you.
 - Play it for comedy and a little sting. The murder is still the plot.
@@ -77,3 +77,4 @@ Public ruin of Lacey Lovely.
 
 - **✓** Valley girl speak, gasps, and "*wait oh my god*"
 - **✗** No claiming you were in the OR or at the admin terminal.
+

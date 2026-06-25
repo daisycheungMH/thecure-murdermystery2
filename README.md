@@ -33,7 +33,9 @@
 
 ## Style (for future edits)
 
+- **No contrast pairs:** do not write "X, not Y" or "it's A, not B". State one thing plainly. See `.cursor/rules/prose-style.mdc`.
 - **No em dashes** (`—`). Use commas, periods, colons, or parentheses instead.
+- **Keep language simple:** short sentences, plain words, especially in dossiers and stage directions (`rage`, not `efficiency rage, not snarling`).
 - **Interrupted dialogue:** ellipses (`...`), not em dashes.
 - **Ranges** (episodes, runtime): en dash (`3–4 hours`) or plain words (`Ep 1 to 3`) are fine.
 - **Compound modifiers:** prefer spaces (`pre op`, `night vision`) unless the term is a proper name or code.

@@ -75,7 +75,7 @@ Avoid a murder charge, chase the insurance angle if you can, and do not destroy 
 
 - **Early:** Melody saw you slip in. Own the delivery cover, deny OR presence.
 - **Ep 3:** When the hunting knife drops, point at it: no blood, wrong weapon. You came to kill Alex your way; someone used a scalpel in the dark.
-- **Late:** Wound report backs you. Parallel motive, not the incision.
+- **Late:** Wound report backs you - You had your own violent plan and OR incision belongs to someone else.
 
 ## ⚠️ RULES
 

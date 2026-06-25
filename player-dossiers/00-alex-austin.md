@@ -64,7 +64,7 @@ Set the tone in the prologue, then get out of the players' way. You are the woun
 
 - Deliver your prologue lines cold and expensive. Let Homes push back. Let Pepper look away first.
 - Touch the wrist bruise once so the room files it.
-- In the OR cutscene, stay still on the table until blackout. One choked sound if the facilitator cues it. After that you are a body, not a character.
+- In the OR cutscene, stay still on the table until blackout. One choked sound if the facilitator cues it. After that you're scenery. Stay dead.
 - Do not investigate, vote, or argue in the lounge. The facilitator may keep you at the table as atmosphere or release you after Act 1.
 
 ## ⚠️ RULES
@@ -75,7 +75,7 @@ Set the tone in the prologue, then get out of the players' way. You are the woun
 ## 🔒 WHAT THE ROOM LEARNS (DO NOT PLAY THIS ALOUD)
 
 - Episode 1: controlling VIP, real surgery, half the wing in your debt, old bruise you gave as well as received.
-- Episode 2: your death was engineered, not bad luck; Vance was forced to hunt Genevieve digitally for Sachs.
+- Episode 2: somebody planned your death. The room just hasn't caught up yet. Vance was forced to hunt Genevieve digitally for Sachs.
 - Episode 3: Alfie, Sachs, and others came to hurt or kill you tonight.
 - Episode 4: Genevieve's abuse, the fire, the hunt, why you chose this hospital. The ballot asks whether your killer was a murderer, an executioner, or a symptom of a broken system.
 - Ray killed you to protect his daughter. You were worse than any of them, and that does not erase the law.

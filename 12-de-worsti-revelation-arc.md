@@ -11,9 +11,9 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 | Episode | What the room learns about De Worsti | Source |
 |---------|--------------------------------|--------|
 | **Ep 1** | Controlling, wealthy, treats the hospital as his property; old bruise on wrist (he gives violence, doesn't only receive) | Prologue, Gathering |
-| **Ep 1** | **Real** VIP arterial case, not a fake illness cover; booked at Lacey's hospital as power play; Homes and Curie refuse to orbit him | Prologue, OR script |
+| **Ep 1** | **Real** VIP arterial case. Genuine surgery. No illness stunt. Booked at Lacey's hospital as power play; Homes and Curie refuse to orbit him | Prologue, OR script |
 | **Ep 1** | Half the wing owed him money or feared him; Sachs on perimeter; P.I. hunting vanished ex wife | E1-C dossier, Ray's debt admission, gathering |
-| **Ep 2** | Someone engineered his death like a procedure, he was hunted, not unlucky | Toxicology, coordination evidence |
+| **Ep 2** | Someone engineered his death like a procedure; he was hunted, never unlucky | Toxicology, coordination evidence |
 | **Ep 2** | **Vance was forced by Sachs** to dig through systems for De Worsti's wife, clinic lists, reconstruction leads, hospital admin trails | E2-F Vance search logs |
 | **Ep 3** | Sachs, Alfie, and others came to hurt or kill him tonight; De Worsti collected enemies faster than allies | Knives, wire cutters, Melody attack context |
 | **Ep 4** | **Genevieve's abuse**, isolation, beatings, fire as punishment, repossession mindset | Alfie reveal, E4-F newspaper |
@@ -37,7 +37,7 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 
 ## CD Vance + Sachs, wife investigation (coerced alliance)
 
-**Sachs threatened Vance** (elevator shaft, T−2h) to use contractor access and trace **De Worsti's runaway wife**, not for justice for Genevieve, but because Sachs believed the stolen millions were in her hands.
+**Sachs threatened Vance** (elevator shaft, T−2h) to use contractor access and trace **De Worsti's runaway wife**. Genevieve's safety was irrelevant. Sachs wanted the stolen millions in her hands.
 
 | Vance did for Sachs | Detail |
 |---------------------|--------|
@@ -49,7 +49,7 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 
 **Reveal timing:**
 - **Ep 2**, Vance cracks under Ray; admits Sachs made him hunt the wife digitally  
-- **Ep 4**, After Alfie names Genevieve, Vance can connect raw mainframe to **Curie's keycard** in OR during blackout — Curie was elsewhere; Ray has no OR access
+- **Ep 4**, After Alfie names Genevieve, Vance can connect raw mainframe to **Curie's keycard** in OR during blackout. Curie was elsewhere. Ray has no OR access
 
 Lacey's separate pressure (containment, crisis) and Ray's log manipulation make Vance a person crushed between **two** monsters, Sachs and Ray, while De Worsti was the reason any of it started.
 
@@ -63,6 +63,6 @@ Lacey's separate pressure (containment, crisis) and Ray's log manipulation make 
 
 **Ray (Ep 4, if accused correctly):** *"I've hated men like him my whole career. That doesn't give me a license. It gave my friend a chance."*
 
-**Sachs (Ep 3–4):** Not innocent, hunted Genevieve for money, not mercy. Vance's helper, not Vance's friend.
+**Sachs (Ep 3–4):** Not innocent. Hunted Genevieve for money, never mercy. Vance was her helper. Friendship was never on the table.
 
 **Jetski (gathering):** Killer in the lounge; De Worsti's shadow was why the table existed.

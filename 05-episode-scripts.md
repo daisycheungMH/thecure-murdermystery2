@@ -44,7 +44,7 @@
 
 Tension. Pepper looks away first.
 
-> **HOMES:** This is a surgical facility, not a negotiation table. You need this repair. I am not here to flatter you.  
+> **HOMES:** You came here for surgery. Take the negotiation somewhere else. You need this repair. I'm not here to flatter you.  
 > **ALEX:** Everything is a negotiation table, Doctor. I chose this hospital. I expect your seniors to act like it. But I'm here to walk out better than I walked in.
 
 He adjusts his wrist, faint old bruise. Pepper notices.
@@ -240,11 +240,11 @@ Pepper drops toxicology: Propofol + Midazolam, paralysis <15s.
 > **RAY:** Pharmacy vault got opened. Top-level clearance. **Lacey Lovely.**  
 > **RAY:** Power got cut around the same time. That's not a coincidence. I want everything on her. Who she let in. What she's been doing.
 
-**CURIE** (PLAYER: calm authority, not obstruction):
+**CURIE** (PLAYER: calm; helpful):
 
 > Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
 > (beat)  
-> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern fits a **facilitator**, not a cutter. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
+> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
 
 **RAY** (short nod: trusts the tone):
 
@@ -286,9 +286,9 @@ Ray: *"Melody first. Then the computer kid. Every second of camera footage, and 
 
 *Voice cracks into squeaky panic.*
 
-**SACHS** (PLAYER: efficiency rage, German accent):
+**SACHS** (PLAYER: rage; German accent):
 
-> You ton't get to moralize. You were on the clock. And your timeline is still wrong—"around when Sachs asked" is not a timestamp.
+> You ton't get to moralize. You were on the clock. And your timeline is still wrong. "Around when Sachs asked" is not a timestamp.
 
 *Radio crackles: static, then:* **"LC-4471… hold position… barricade… no ETA…"** *Ray clicks it off without comment.*
 
@@ -370,7 +370,7 @@ Ray sprints. Curie's expression goes cold.
 
 *Silence. Storm on the glass.*
 
-**LACEY** (PLAYER: mandatory; controlled, not crumbling):
+**LACEY** (PLAYER: mandatory; controlled):
 
 > You don't know what you're talking about.
 
@@ -378,7 +378,7 @@ Ray sprints. Curie's expression goes cold.
 
 > I know enough that I didn't want to say it like this.
 
-**LACEY** (PLAYER: stands; ice, not confession):
+**LACEY** (PLAYER: stands; icey):
 
 > Officer. You want the truth from me? Fine.
 >
@@ -392,11 +392,11 @@ Ray sprints. Curie's expression goes cold.
 
 > …The archival intake binders don't lie. I wondered why you looked familiar. Pre op photos. Before the reconstruction. If he's right, that's Genevieve.
 
-**CURIE** (PLAYER: authoritative doubt, not obstruction; room hangs on it):
+**CURIE** (PLAYER: authoritative doubt):
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history is a **motive**, not a mechanism. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier fits access, not the blade. Unlikely she'd personally finish him on the table.  
+> Clinically? A director with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
@@ -459,12 +459,12 @@ Ray sprints. Curie's expression goes cold.
 
 *The truth wins. Read this when Ray gets a majority.*
 
-**Host aside (if players ask why Ray entered the OR personally):** Ray could not ambush Alex elsewhere — Sachs on perimeter, cameras still live, security chief alone with a dead VIP is instant guilt. Alex's real arterial case meant Homes might save him if Ray waited. Only the OR converged Ray's prep: tampered vial, blackout, stolen Curie's card, Homes framed, Ray summoned to the code. See [00-host-blueprint.md](00-host-blueprint.md) → *Why the OR, not elsewhere*.
+**Host aside (if players ask why Ray entered the OR personally):** Ray could not ambush Alex elsewhere. Sachs was on perimeter, cameras still live, security chief alone with a dead VIP is instant guilt. Alex's real arterial case meant Homes might save him if Ray waited. Only the OR converged Ray's prep: tampered vial, blackout, stolen Curie's card, Homes framed, Ray summoned to the code. See [00-host-blueprint.md](00-host-blueprint.md) → *Why the OR instead of elsewhere*.
 
 **NARRATOR:**
 
 > The evidence finally lines up the way the night always demanded.  
-> Pharmacy vault opened on security override. Generator cut from the security office. **Curie's keycard in the OR log** — but Curie was in the corridor and Ray's badge never opens that door. A carotid scalpel wound, violent and almost crazed. Logs torn before surgery.  
+> Pharmacy vault opened on security override. Generator cut from the security office. **Curie's keycard in the OR log**. Curie was in the corridor. Ray's badge never opens that door. A carotid scalpel wound, violent and almost crazed. Logs torn before surgery.  
 > Genevieve ran from a monster. Her oldest protector learned where she landed, swore revenge on De Worsti, and the man who stood at the head of this investigation was the one who made the cut.
 
 **MARZ** (PLAYER or host, steady):
@@ -511,7 +511,7 @@ Ray sprints. Curie's expression goes cold.
 > Dr. Jetski enters rehab, then returns under supervision. He no longer jokes when someone says "lights out."  
 > Melody testifies, then vanishes from gossip into witness protection contract work for municipal records.  
 > CD Vance pleads to accessory cyber-facilitation, serves 18 months, and spends the next decade doing compliant IT audits for public clinics. No shortcuts.  
-> Uvula Sachs disappears before sentencing on separate warrants, then reappears two years later in another port city under another bad nickname—and immediately files a complaint about local timeline documentation standards.  
+> Uvula Sachs disappears before sentencing on separate warrants, then reappears two years later in another port city under another bad nickname, and immediately files a complaint about local timeline documentation standards.  
 > Alfie De Worsti leaves Lesbian City with a single suitcase and no inheritance worth keeping.
 
 ### THE TRUTH
@@ -528,7 +528,7 @@ Ray sprints. Curie's expression goes cold.
 >
 > Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy. He did not hunt Alex through corridors. Sachs was on the wing, cameras were still live, and a VIP killed anywhere except the table would have led straight to the badge. Alex came to own Lacey's OR; Ray used that stage.
 >
-> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke — not because Ray lacked other chances, but because only the OR gave him a sedated victim, frozen witnesses, blood on the wrong gloves, and a security chief still credible when the code dropped. Then noise, panic, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
+> Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Ray had other chances. The OR was the only room that gave him a sedated victim, frozen witnesses, blood on the wrong gloves, and a security chief still credible when the code dropped. Then noise, panic, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
 >
 > By sunrise, the script was cracked open. Logs matched toxicology. Access trails matched alibis that were too perfect. Fear matched opportunity. And for once in Lesbian City, the rich did not buy the ending.
 >
@@ -618,11 +618,11 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Street muscle. Wire cutters. Elevator threats. An enforcer without a ledger since De Worsti went broke.  
-> The room wants a villain who looks like violence. Sachs does not disappoint—and she has notes on your investigative process.
+> The room wants a villain who looks like violence. Sachs does not disappoint, and she has notes on your investigative process.
 
 **SACHS** (optional, German accent):
 
-> I did not make that cut. I post where I'm told. If I ran operations like this murder investigation, I would be dead. Which—yes, ironic.
+> I did not make that cut. I post where I'm told. If I ran operations like this murder investigation, I would be dead. Which, yes, ironic.
 
 **RAY** (optional):
 
@@ -696,7 +696,7 @@ Ray sprints. Curie's expression goes cold.
 
 ## MORAL VERDICT CODA (layer after accusation branch)
 
-*Read one coda after the accusation outcome. This is what the room says the killing **meant**, not who did it.*
+*Read one coda after the accusation outcome. This is what the room says the killing **meant**, separate from who did it.*
 
 ### MURDER (criminal act; maximum punishment)
 
@@ -706,7 +706,7 @@ Ray sprints. Curie's expression goes cold.
 > De Worsti was a monster. He was also a man with a throat cut in an operating theater.  
 > Whoever you named, the city will treat this as felony homicide. The abuse does not erase the blade.
 
-*Ray tells arriving watch the room voted for prosecution, not cover up.*
+*Ray tells arriving watch the room voted for prosecution over cover-up.*
 
 ### JUSTICE (justified execution; sympathy)
 
@@ -724,7 +724,7 @@ Ray sprints. Curie's expression goes cold.
 
 > Your verdict: **system failure**.  
 > St. Saphicca's sold VIP wings to predators. Directors with new faces. Contractors who scrub logs. Security chiefs with debts.  
-> The room wants the institution exposed, not just the hands that held the scalpel.  
+> The room wants the institution on trial. The whole machine behind the blade.  
 > Whatever happens to the suspects, the scandal outlives the storm.
 
 *If Vance lives, raw mainframe data goes to press or watch. Lacey's admin tier becomes public crisis.*

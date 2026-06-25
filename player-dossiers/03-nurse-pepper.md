@@ -43,7 +43,7 @@ De Worsti was tonight's VIP, and he was also your secret lover.
 - He died on your table tonight. Your professional mask shattered in the OR.
 
 **Motive**
-Grief when he died, not relief. You did not want him murdered on your table. Jealousy toward Lacey flares once you learn who she really is.
+You grieved when he died. You did not want him murdered on your table. Jealousy toward Lacey flares once you learn who she really is.
 
 **Opportunity**
 You were in OR Two at the table when the lights cut, but you collapsed roughly fifteen seconds before the blackout and could not have held a blade. Homes and the monitors back that timeline.

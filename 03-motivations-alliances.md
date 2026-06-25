@@ -50,7 +50,7 @@
 
 
 
-    [STREET LAYER, not the murder team]
+    [STREET LAYER, parallel to murder team]
 
     Sachs ── enforcer ── De Worsti (dead); coerces Vance to hunt Genevieve
 
@@ -180,7 +180,7 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 #### Genevieve's abuse under De Worsti (facilitator truth)
 
-De Worsti ran Genevieve as property, not a partner: monitored her contact with the world, controlled every account, beat her when she questioned his deals or embarrassed him in front of enforcers like Sachs. After she took money from his vault, De Worsti burned Curie's family home to punish her. She vanished, rebuilt her face and name, and became Lacey. **Alfie reveals this to the room in Episode 4**, see 11-genevieve backstory.md.
+De Worsti ran Genevieve as property: monitored her contact with the world, controlled every account, beat her when she questioned his deals or embarrassed him in front of enforcers like Sachs. She was never a partner in his eyes. After she took money from his vault, De Worsti burned Curie's family home to punish her. She vanished, rebuilt her face and name, and became Lacey. **Alfie reveals this to the room in Episode 4**, see 11-genevieve backstory.md.
 
 
 
@@ -212,7 +212,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Persona** | Sage, sentimental heart, surgical logic |
 
-| **Motive vs. De Worsti** | Secret toxic affair, grief when dead, not relief |
+| **Motive vs. De Worsti** | Secret toxic affair. Grief when he died. No relief. |
 
 | **Motive vs. Lacey** | Jealousy; did not know Lacey was De Worsti's legal wife **Genevieve** until Alfie's reveal |
 
@@ -262,7 +262,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 
 
-### Uvula Sachs (red herring, guilty of other crimes, not this murder)
+### Uvula Sachs (red herring, guilty of other crimes, wrong murder)
 
 | | |
 
@@ -274,7 +274,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Tonight's plan** | Wire cutters to cut power himself, **beaten to blackout by Ray** |
 
-| **Wife hunt** | Threatened **CD Vance** into tracing De Worsti's ex wife through clinic/hospital systems, wants the stolen fortune, not Genevieve's safety |
+| **Wife hunt** | Threatened **CD Vance** into tracing De Worsti's ex wife through clinic/hospital systems. Wants the stolen fortune. Genevieve's safety was never the point |
 
 | **Ray's play** | **Pin murder on Sachs** when useful; players may bite |
 
@@ -296,11 +296,11 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Tonight's plan** | Hunting knife; intended to kill De Worsti himself; otherwise stir the room |
 
-| **Motive vs. Pepper** | Unrequited crush; hates Homes flirting with her — both are bait material |
+| **Motive vs. Pepper** | Unrequited crush. Hates Homes flirting with her. Both are bait material |
 
 | **Secret** | Mainland clinic intake photo; scar above Lacey's ear matches Genevieve's injury |
 
-| **Mandatory beat** | **Episode 4: reveals Genevieve**, truth about De Worsti's abuse and her disappearance, but **hedged with uncertainty** *(camouflage, not cowardice)*; still cares about Lacey/Genevieve and does not want her destroyed |
+| **Mandatory beat** | **Episode 4: reveals Genevieve**, truth about De Worsti's abuse and her disappearance, but **hedged with uncertainty** *(camouflage over cowardice)*; still cares about Lacey/Genevieve and does not want her destroyed |
 
 | **Tone** | Punchable, inflammatory, punchline delivery; *"I think…" / "as far as I know…" / "I'm not saying she, "*, facts slip out sounding harmless; Melody corroborates harder after he speaks |
 
@@ -336,7 +336,7 @@ De Worsti ran Genevieve as property, not a partner: monitored her contact with t
 
 | **Romance** | Crush on **Melody**; oblivious that **Officer Marz** likes him |
 
-| **Motive** | Survival, not ideological |
+| **Motive** | Survival. Ideology never entered it |
 
 | **Primary alliance** | **Uvula Sachs (coerced)**, forced to help investigate De Worsti's wife via IT access: reconstruction clinic sweeps, hospital admin trails, VIP anomalies |
 

@@ -81,6 +81,5 @@ Find the ledger and Genevieve's (De Worsti's ex wife's) money trail, and avoid a
 ## ⚠️ RULES
 
 - **✓** Efficiency rage, literal timelines, German accent on every line.
-- **✓** Sample ad libs: *"This timeline is not a timeline. This is a suggestion."* / *"What is 'around'? This is not a planet orbit."*
 - **✗** No OR incision confession. Do not claim you were inside the OR.
 

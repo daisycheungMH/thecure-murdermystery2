@@ -1,0 +1,55 @@
+---
+description: Prose style for dossiers, scripts, and host docs
+globs: "**/*.md"
+alwaysApply: false
+---
+
+# Prose style
+
+## No contrast pairs
+
+Do not write **"X, not Y"** or close variants:
+- "it's A, not B"
+- "motive, not mechanism"
+- "genuine, not performance"
+- "X — not Y"
+
+Say one thing plainly. Cut the second half if it only exists to negate.
+
+```
+Bad:  Enforcer muscle, De Worsti's network, not random street noise
+Good: De Worsti's network
+
+Bad:  efficiency rage, not snarling
+Good: rage
+
+Bad:  quiet, not performing, genuinely unsettled
+Good: quiet; unsettled
+```
+
+## No em dashes
+
+No `—` in new or edited prose. Use commas, periods, colons, or short sentences.
+
+En dashes in ranges (`3–4 hours`, `Ep 1–3`) are fine.
+
+## Keep it simple
+
+- Short sentences. Plain words. Casual where it fits players reading aloud.
+- Stage directions: one or two words when possible (`rage`, `ice`, `unsettled`, `optional`).
+- No stacked negations or rhetorical contrasts in dossiers, host notes, or cues.
+
+## Stage directions
+
+```
+Bad:  **SACHS** (efficiency rage — clipped and furious, no snarling)
+Good: **SACHS** (rage)
+
+Bad:  **JETSKI** (quiet — the surfer mask drops; genuinely unsettled)
+Good: **JETSKI** (quiet; unsettled)
+
+Bad:  **CURIE** (PLAYER: calm authority, not obstruction)
+Good: **CURIE** (PLAYER: calm; helpful)
+```
+
+Parentheses are cues for the beat, not a character bible.
