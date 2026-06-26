@@ -75,7 +75,7 @@ High-suspicion characters should feel **less likely over four episodes**. Don't 
 | **Ep 2** | **Homes** (narrow) | E2-A engineered room; killer needed darkness prep |
 | **Ep 2** | **Lacey, Curie** (mechanism) | E2-B/E2-C admin tier access. OR console never authorized the grid drop |
 | **Ep 3** | **Alfie, Sachs** | E3-C/E3-D wrong weapons; E3-A supports badge theft |
-| **Ep 4** | **Curie, Homes, Lacey** | E4-C card vs corridor; E4-E wound profile; E4-B motive without mechanism |
+| **Ep 4** | **Curie, Homes, Lacey** | E4-C card vs corridor; E4-E wound profile (Lacey didn't cut); E4-B + E2-B/E2-C logistics complicity if room believes she knew |
 
 Full tables: [04-evidence-index.md](04-evidence-index.md), card copy: [15-evidence-materials.md](15-evidence-materials.md).
 

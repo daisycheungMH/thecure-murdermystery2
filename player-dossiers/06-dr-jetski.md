@@ -13,6 +13,7 @@
 CHARACTER NAME: Dr. Jetski  
 AGE: 33  
 OCCUPATION: Freelance Anesthesiologist (VIP guest privileges)
+PRONOUNS: he/him
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -34,28 +35,31 @@ You look tired, messy, and a little behind the night. Wear blue scrubs or a whit
 **Vibe**
 You are a frazzled disaster with real competence underneath. You slip into surfer speech when panic spikes. You rage if anyone mocks your nickname.
 
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
-**Connection**
-De Worsti was your anesthesia patient tonight.
-
-**History**
+**Who you are**
 
 - You are a guest contractor who fills in when hospitals are short staffed.
 - You trained on the coast, where colleagues joke you intubate like you're reading a wave (the joke is unfair because you are good at both).
 - You and Alfie share gambling debts tied to De Worsti's world.
-- You did not know the VIP was a loan shark until after he was already dead.
+
+**Where you came from**
+
+- You grew up poor on the coast in a trailer and the beach was the one free thing you had.
+- Kids gave you the nickname Jet and you still hate it when people use it.
+- You met Alfie in pier card rooms before you both had serious gambling problems and syndicate collectors still know your face.
+- You still go surfing at dawn on weekends because it is the one part of your week that feels calm.
 
 **Motive**
-Indirect: gambling debts tied to De Worsti's world through Alfie and syndicate collectors. No personal grudge against the patient himself.
+Gambling debts tied to De Worsti's world through Alfie and syndicate collectors. No personal grudge against the patient.
 
 **Opportunity**
 You were at the south wall anesthesia console in the OR, but you collapsed before the lights cut and could not have made the incision. Pepper can confirm you were already on the floor.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
+**Earlier tonight (roughly 8 to 11pm)**
 OR prep from roughly 9:45. You loaded the tray under pressure, skipped the vial seal check, and stayed at the console until you collapsed.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were at the south wall of the OR, at the anesthesia console.
@@ -74,7 +78,6 @@ Prove you were incapacitated on the floor, not the person who made the cut.
 **Plan**
 
 - Repeat your timeline: lag, collapse, floor, lights, already down.
-- After Ray's briefing in Act 1, say the killer may be in the lounge with everyone.
 - Ally with Pepper. Panic loudly if anyone frames you.
 
 ## ⚠️ RULES

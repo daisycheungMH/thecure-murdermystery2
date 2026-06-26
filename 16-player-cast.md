@@ -2,6 +2,8 @@
 
 **De Worsti** (victim / narrator) and the player cast. Descriptions are under five words each.
 
+**Official genders:** [18-character-genders.md](18-character-genders.md) (*MM2: A Gender Reveal*)
+
 ---
 
 ## De Worsti — Daisy

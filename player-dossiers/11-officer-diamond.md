@@ -13,6 +13,7 @@
 CHARACTER NAME: Officer Diamond  
 AGE: 26  
 OCCUPATION: Security Officer, St. Saphicca's (ex Municipal Watch training unit)
+PRONOUNS: she/her
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -35,10 +36,7 @@ You look eager, freshly official, and proud of the uniform. Wear a white button 
 **Vibe**
 You treat crisis like a live-action training sim: energetic, official language in the wrong context, playful until something matters, then laser focused.
 
-## 2. BACKSTORY & VICTIM
-
-**Connection**
-De Worsti was a VIP in a wing you were not assigned to until the code dropped. You did not know him.
+## 2. BACKSTORY
 
 **History**
 
@@ -46,16 +44,23 @@ De Worsti was a VIP in a wing you were not assigned to until the code dropped. Y
 - Hired into hospital security: desk, corridors, escorts, and the kind of procedural work everyone else forgets until it matters.
 - Ray is chief. Marz is your senior tonight. You narrate the chain of command like a module intro even when they are standing right there.
 
+**Where you came from**
+
+- Both your parents worked in city government and most dinner talk was about rules and the cats on the porch.
+- Kids in training teased you for enjoying the drills too much but you still got the best scores on the written tests.
+- You like procedure because it makes hard nights feel like something you can actually handle.
+- You rescue stray cats because someone has to take care of them and you are good at keeping track of things.
+
 **Motive**
 None personal. You did not know De Worsti, and that distance lets you clock the room without old baggage.
 
 **Opportunity**
 Main campus security desk until the code routed you toward the VIP wing. You were not in the OR, not in the lounge when De Worsti died, and dispatch radio shows overflow routing after 11:42.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
-Storm overflow shift at the main campus security desk from roughly 8 p.m.
+**Earlier tonight (roughly 8 to 11pm)**
+Storm overflow shift at the main campus security desk from roughly 8pm
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 Main campus security desk, then en route to the VIP wing when the code went out. Not in the OR. Not in the lounge when De Worsti died.

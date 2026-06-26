@@ -1,18 +1,15 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Dr. Curie  
 AGE: 38  
 OCCUPATION: Chief of Surgery and medical liaison on De Worsti's death
+PRONOUNS: he/him
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -34,36 +31,31 @@ You look warm, polished, and easy to trust. Wear a white button up with a white 
 **Vibe**
 You are warm, generous, and professionally serious. Your optimism is genuine, which is worse for you in a murder wing because sincerity reads suspicious here. **Dr. Homes** is your rival. **Lacey Lovely** is one of your closest friends and your public partner in this investigation.
 
-**Play in public**
-
-- Stand with **Lacey** openly. Back her leads, share medical reads, and let the room see you as allies.
-- You know Ray is her father, but you do not advertise it. Treat him like security chief until evidence surfaces.
-- Never block for Ray and Lacey as a pair. Block for Lacey when the medicine or the logs support it.
-
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
 **Who you are**
 
 - You are Chief of Surgery and the wing's medical liaison. Staff and donors like you. You make hard nights feel survivable.
-- **Lacey Lovely** is a close friend. You know Ray is her father and you have watched that reunion mean everything to both of them. You would protect her without thinking twice.
-- **Dr. Homes** is your professional rival. He thinks your warmth is theatre. You think his ego wastes OR time. You respect each other's hands and needle each other constantly.
-- You do pottery to keep your hands steady. Half the wing has heard about your kiln.
+- **Lacey Lovely** is a close friend and the hospital administrator. You would protect her without thinking twice.
+- **Officer Ray** is security chief. You trust him on procedure, and you have noticed he and Lacey keep their distance in public, like strangers who work in the same building. You flirt with him because you think he is cute, and because the room's displeasure is funny. Pepper ahems, Homes needles you, Lacey goes cold, and you enjoy that playfully.
+- **Dr. Homes** is your professional rival. He thinks your warmth is theatre, and you think his ego wastes OR time, but you respect each other's hands and needle each other constantly.
+- You do pottery to keep your hands steady.
 
-**Connection**
-De Worsti was tonight's VIP patient. You had never met him before he booked into St. Saphicca's.
+**Where you came from**
+
+- You met Lacey in university when she studied public health and you studied surgery and you became friends.
+- You give money to charities even when they look sketchy because you are generous.
+- People at the hospital think you grew up rich but you did not.
 
 **History**
 
 - When his case landed in your wing, he was just another difficult VIP with no personal history attached.
-- You did not kill him. Officer Ray runs this investigation, and the room may still mistake your surgical skill and corridor access for guilt.
+- You carry surgery chief OR clearance. Staff know you in the eastern VIP corridor on storm nights like this.
 
-**Opportunity**
-You carry surgery chief OR clearance. You were in the eastern VIP corridor during the blackout. Your keycard log names you at the OR reader during the kill window, but you were in the corridor and someone lifted the badge without you noticing.
-
-**Earlier tonight (roughly 8 to 11 p.m.)**
+**Earlier tonight (roughly 8 to 11pm)**
 You worked liaison checkpoints and the VIP corridor. You kept professional distance from the VIP and stayed out of the OR until the code dropped.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were out in the eastern VIP corridor and at liaison checkpoints when the kill happened. The OR was empty of you.
@@ -82,12 +74,11 @@ Protect Lacey, survive the red herring heat, and help the room find the truth wi
 **Plan**
 
 - Ally openly with Lacey on the investigation. Let the room see you two as a team.
-- Partner with Ray on procedure. Flirt lightly. Do not openly block leads away from Lacey unless you have a reason on the merits.
-- When access logs surface, be honestly baffled. You were in the corridor and cannot name who took your card.
-- Offer real medical insight when asked.
-- If the room chases your friendship with Lacey or your surgical skill, stay calm. Needle Homes when he deserves it.
+- Partner with Ray on procedure, flirt lightly when it fits, and lean into it when everyone else looks displeased.
+- Offer real medical insight when asked. Needle Homes when he deserves it.
 
 ## ⚠️ RULES
 
 - **✓** Charm, praise, dry flirt, medical jargon, angel's advocate upside, and public alliance with Lacey.
-- **✗** Do not confess. Do not break with Lacey. Do not blow Ray and Lacey's cover before evidence surfaces.
+- **✗** Do not confess to murder you did not commit. Do not break with Lacey.
+

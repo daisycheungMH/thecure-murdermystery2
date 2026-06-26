@@ -37,7 +37,7 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 
 ## CD Vance + Sachs, wife investigation (coerced alliance)
 
-**Sachs threatened Vance** (elevator shaft, T−2h) to use contractor access and trace **De Worsti's runaway wife**. Genevieve's safety was irrelevant. Sachs wanted the stolen millions in her hands.
+**Sachs threatened Vance** (elevator shaft, T−2h) to use contractor access and trace **De Worsti's runaway wife**. Genevieve's safety was irrelevant. Sachs wanted the stolen millions in their hands.
 
 | Vance did for Sachs | Detail |
 |---------------------|--------|
@@ -45,13 +45,13 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 | Hospital cross reference | Admin access patterns, VIP wing anomalies |
 | Partial match | Trails pointing toward St. Saphicca's admin tier, **before** Vance understood Lacey |
 
-**Vance is terrified of Sachs** and still feeding him scraps when he can. He is **not** loyal, he is leased.
+**Vance is terrified of Sachs** and still feeding her scraps when she can. She is **not** loyal, she is leased.
 
 **Reveal timing:**
-- **Ep 2**, Vance cracks under Ray; admits Sachs made him hunt the wife digitally  
+- **Ep 2**, Vance cracks under Ray; admits Sachs made her hunt the wife digitally  
 - **Ep 4**, After Alfie names Genevieve, Vance can connect raw mainframe to **Curie's keycard** in OR during blackout. Curie was elsewhere. Ray has no OR access
 
-Lacey's separate pressure (containment, crisis) and Ray's log manipulation make Vance a person crushed between **two** monsters, Sachs and Ray, while De Worsti was the reason any of it started.
+Lacey's coordinated logistics (containment, crisis lock, admin cover) and Ray's log manipulation make Vance a person crushed between **two** monsters, Sachs and Ray, while De Worsti was the reason any of it started.
 
 ---
 
@@ -61,8 +61,10 @@ Lacey's separate pressure (containment, crisis) and Ray's log manipulation make 
 
 **Curie (Ep 4):** *"I wanted him dead. I did not make that cut."*
 
-**Ray (Ep 4, if accused correctly):** *"I've hated men like him my whole career. That doesn't give me a license. It gave my friend a chance."*
+**Ray (Ep 4, if accused correctly):** *"I've hated men like him my whole career. That doesn't give me a license. It gave my daughter a chance."*
 
-**Sachs (Ep 3–4):** Not innocent. Hunted Genevieve for money, never mercy. Vance was her helper. Friendship was never on the table.
+**Lacey (Ep 4, if cornered):** *"I didn't cut him. I never walked into that room. When he booked here, I knew what Ray would need from admin."*
+
+**Sachs (Ep 3–4):** Not innocent. Hunted Genevieve for money, never mercy. Vance was their helper. Friendship was never on the table.
 
 **Jetski (gathering):** Killer in the lounge; De Worsti's shadow was why the table existed.

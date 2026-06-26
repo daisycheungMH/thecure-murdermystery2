@@ -13,6 +13,7 @@
 CHARACTER NAME: Dr. Homes  
 AGE: 41  
 OCCUPATION: Lead Attending Surgeon, VIP Wing
+PRONOUNS: he/him
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -34,33 +35,37 @@ You look immaculate, superior, and completely sure you are the smartest person i
 **Vibe**
 You are an authoritative dick for a good cause, and you are usually right. **Dr. Curie** is your rival. His warmth annoys you. His angel's advocate speeches annoy you more.
 
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
 **Who you are**
 
 - You are lead attending surgeon on the VIP wing. Your technique is excellent and your bedside manner is not. The hospital keeps you because outcomes matter more than charm.
 - **Dr. Curie** is surgery chief and your rival. His warmth reads as unearned to you. You needle each other in every consult and respect each other's hands anyway.
-- You are obsessed with **Lacey Lovely**, the director. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not.
+- You are obsessed with **Lacey Lovely**, the administrator. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not.
 
-**Connection**
-De Worsti was your VIP arterial case tonight.
+**Where you came from**
+
+- Your father was a famous surgeon and he taught you that feelings were a waste of time at work.
+- Your family had money and you went to prep school and other kids did not like how sure you sounded.
+- You stopped trying to charm people and you focused on being right and being good with your hands.
+- You go to the opera on weekends when you want a quiet night away from the hospital.
+- Lacey bothers you because she does not care about your money and that is new for you.
 
 **History**
 
 - His records were sparse and his confidence insulting. His money bought priority anyway.
 - You took the case for the anatomy challenge and the fee.
-- You did not know he was a bankrupt crime lord hunting his ex wife, or that her father was standing security in your building.
 
 **Motive**
-His money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee. You were never doing it for love. You are also obsessed with Lacey, which the room will read as passion.
+His money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee.
 
 **Opportunity**
-You were the primary surgeon at dead center when the red lights returned, scalpel in your bloody gloves. During the blackout the blade was ripped from your grip while Pepper and Jetski were already down.
+You are the primary surgeon at dead center when the lights return, scalpel in your bloody gloves.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
+**Earlier tonight (roughly 8 to 11pm)**
 Pre-op consult around 9:15, tension with Pepper in the suite, then at the table from roughly 10:45 until the generators failed.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were the primary surgeon at the table, dead center in the OR when the red lights returned.

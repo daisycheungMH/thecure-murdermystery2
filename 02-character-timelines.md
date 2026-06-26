@@ -26,10 +26,10 @@ All times approximate. Adjust to your table's surgery slot.
 | Time | Character | Location | Activity | Witnesses / record |
 |------|-----------|----------|----------|-------------------|
 | T−3y | **Officer Ray** | Lesbian City | Learns what De Worsti did to **Lacey**; swears revenge; takes security post at St. Saphicca's | Facilitator only until confession |
-| T−48h | **Lacey Lovely** | Hospital (admin) | Sees **Sachs** on perimeter + other hunt signs; panic | Subtle, no proof yet |
+| T−48h | **Lacey Lovely** | Hospital (admin) | Sees **Sachs** on perimeter + other hunt signs; Alex's booking lands; aligns with Ray on logistics (codes, wing lock, admin cover) | Facilitator only until confession |
 | T−48h | **Officer Ray** | Security office | Learns De Worsti booked **real** VIP arterial surgery here; accelerates plan | Facilitator only until confession |
 | T−36h | **Officer Ray** | Off books | Finalizes murder plan: vial, blackout, frame Homes; **rejects pre-OR ambush** (Sachs on wing, cameras live, no Homes frame, Homes might save the real arterial case) | No witnesses |
-| T−3h | **Officer Ray** | Pharmacy vault | Swaps anesthesia vial (security override + memorized director codes) | Vault camera *may* be disabled wing wide |
+| T−3h | **Officer Ray** | Pharmacy vault | Swaps anesthesia vial (security override + memorized administrator codes) | Vault camera *may* be disabled wing wide |
 | T−2h | **Uvula Sachs** | VIP wing / elevator | Threatens **CD Vance**, help trace De Worsti's wife or "elevator shaft" | Vance begins clinic/hospital search logs (E2-F) |
 | T−2h | **CD Vance** | Server room | Forced wife hunt queries for Sachs | Reconstruction flags; admin tier anomalies |
 | T−2h | **Alfie De Worsti** | Loading dock → VIP | Enters disguised as delivery driver | **Melody** saw him slip in |
@@ -63,7 +63,7 @@ All times approximate. Adjust to your table's surgery slot.
 - **Pepper / Jetski:** Unconscious on tile  
 - **De Worsti:** Dead, violent scalpel wound to carotid  
 - **Curie:** Eastern corridor (true alibi for kill window; still looks guilty)  
-- **Lacey:** Admin wing, alibi as "director responding to crisis"  
+- **Lacey:** Admin wing, staged crisis alibi two floors up (logistics accomplice; never entered OR)  
 - **Ray:** Claims security perimeter (false alibi for kill window)  
 
 ---
@@ -115,7 +115,7 @@ All times approximate. Adjust to your table's surgery slot.
 | Time | Character | Event |
 |------|-----------|-------|
 | Ep 4 | **Alfie** | **Mandatory reveal:** Genevieve, uncertain testimony; abuse truth; protects Lacey from full condemnation |
-| Ep 4 | **Lacey** | Admits running; **denies murder** (truthful); may confirm Ray as a close friend and protector |
+| Ep 4 | **Lacey** | Admits running; **denies the cut** (truthful); may admit logistics if cornered; cannot honestly claim ignorance once E2-B/E2-C land |
 | Ep 4 | **Curie** | Red herring heat peaks; insists he did not make the cut |
 | Ep 4 | **Melody** (if alive) | Corroborates Alfie, archival pre surgery face match |
 | Ep 4 | **CD Vance** | Raw mainframe vs. Lacey's edited timestamps |
@@ -134,4 +134,4 @@ All times approximate. Adjust to your table's surgery slot.
 | Pharmacy vault | Log only (executive tier codes) | Points to admin tier; Ray physically swapped vial |
 | Power console | Manual override logged | Security office; Ray |
 | Keycard log page | **Torn out** pre surgery | Melody knows; Ray noticed gap |
-| Reception sighting | Melody spotted **Alfie** slip in at loading dock (~9 p.m.); saw **Homes** in hall earlier | Alfie delivery cover confirmed; Homes alibi *or* misdirection if players assume director |
+| Reception sighting | Melody spotted **Alfie** slip in at loading dock (~9pm); saw **Homes** in hall earlier | Alfie delivery cover confirmed; Homes alibi *or* misdirection if players assume administrator |

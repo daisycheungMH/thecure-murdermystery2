@@ -1,18 +1,15 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Nurse Pepper  
 AGE: 41  
 OCCUPATION: Head Nurse, VIP Surgical Wing
+PRONOUNS: she/her
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -31,10 +28,9 @@ OCCUPATION: Head Nurse, VIP Surgical Wing
 - Lacey's perfume
 - liars
 
-**Vibe**
-You are sage, calm, and precise, with sentiment buried underneath. You ahem loudly when Ray and Curie spark.
+**Vibe** You are sage, calm, and precise, with sentiment buried underneath. You ahem loudly when Ray and Curie interact.
 
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
 **Who you are**
 
@@ -43,25 +39,28 @@ You are sage, calm, and precise, with sentiment buried underneath. You ahem loud
 - You have a quiet crush on **Dr. Homes** that you will never admit cleanly in front of this room.
 - You ahem when Ray and Curie flirt because someone in this hospital should still have standards.
 
-**Connection**
-De Worsti was tonight's VIP, and he was also your secret lover.
+**Where you came from**
+
+- You grew up as the oldest of four kids in a small apartment and your parents worked two jobs.
+- You took care of your younger siblings while your parents were at work and that felt normal to you.
+- Kids in nursing school made fun of you for starting at thirty and you learned to keep your feelings to yourself.
+- You bake on Sunday nights because that is the one time you let yourself relax.
 
 **History**
 
-- The affair ran against your professional life. He was controlling, wealthy, and toxic. You told yourself you could manage it.
-- You knew he had a vanished wife. You did not know she was **Lacey Lovely**, the director, until later.
-- He died on your table tonight. Your professional mask shattered in the OR.
+- The affair runs against your professional life. He is controlling, wealthy, and toxic. You told yourself you could manage it.
+- You knew he had a vanished wife somewhere in his past. You did not know she worked in this building.
 
 **Motive**
-You grieved when he died. You did not want him murdered on your table. Jealousy toward Lacey flares once you learn who she really is.
+You cared about De Worsti despite the toxicity. 
 
 **Opportunity**
 You were in OR Two at the table when the lights cut, but you collapsed roughly fifteen seconds before the blackout and could not have held a blade. Homes and the monitors back that timeline.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
+**Earlier tonight (roughly 8 to 11pm)**
 VIP consult prep around 9:30, then OR setup and assisting Homes from roughly 10:30 until the room went dark.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were in OR Two, assisting Dr. Homes.
@@ -69,8 +68,8 @@ You were in OR Two, assisting Dr. Homes.
 **Backup**
 Homes and Jetski can back you up. Jetski saw you go down before the lights cut. You look out for him in return.
 
-**Hide (minor)**
-Your affair with De Worsti, and Lacey's perfume right before you collapsed.
+**Hide (minor)**  
+Your affair with De Worsti.
 
 ## 4. SECRET OBJECTIVE
 

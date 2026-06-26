@@ -23,9 +23,9 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 **De Worsti** was a ruthless loan shark and crime lord. Bankrupt on paper, violent in practice, hunting his runaway ex wife to strip her of the fortune she stole when she fled. Tonight he booked **real** VIP arterial surgery at St. Saphicca's as a power play on Lacey's hospital. Genuine case. No illness stunt.
 
-**Genevieve** was that wife. De Worsti isolated her, controlled every account, beat her when she questioned his "business," and escalated to burning **Curie's family home** after she took money from his ledger. Genevieve vanished, underwent **total facial reconstruction**, and rebuilt herself as **Lacey Lovely**, hospital director of St. Saphicca's.
+**Genevieve** was that wife. De Worsti isolated her, controlled every account, beat her when she questioned his "business," and escalated to burning **Curie's family home** after she took money from his ledger. Genevieve vanished, underwent **total facial reconstruction**, and rebuilt herself as **Lacey Lovely**, hospital administrator of St. Saphicca's.
 
-**Lacey and Officer Ray are old friends**, easy with each other and protective in a low key way. Ray learned what De Worsti had done to her, stayed close as security chief at St. Saphicca's, and quietly built toward revenge. **Ray is the killer.**
+**Lacey Lovely** is Genevieve rebuilt. **Officer Ray** is her father. In public they act like strangers who work in the same building. When Alex booked real surgery at her hospital, Lacey knew Ray had a plan. She coordinated logistics from admin: codes, wing lock, crisis posture two floors up. She never entered the OR. **Ray is the killer.** Lacey is a knowing accomplice on logistics if the room proves complicity.
 
 **Dr. Curie** is Genevieve's childhood protector from the regional youth sanctuary. He failed to stop the marriage; he failed to stop the fire. He wanted De Worsti dead and looks guilty in every way that matters, but **he did not make the cut**. **Curie is the obvious red herring**: sanctuary bond, surgical skill, charm, and motive make the room chase him while **Ray runs the investigation from the head of the table**. Playbook: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
@@ -43,7 +43,7 @@ Full logic: [09-storm-containment-logic.md](09-storm-containment-logic.md)
 
 **Ray** learned De Worsti had booked a **real** VIP arterial case at St. Saphicca's, compromised carotid wall, borderline rupture, genuinely life threatening if untreated. This was not a fake patient stunt. De Worsti needed the knife. He also chose **her** hospital on purpose: ego, leverage, and the bet that Genevieve was still too afraid to fight back.
 
-**Ray had been waiting three years.** When De Worsti walked into Lacey's wing, Ray accelerated a plan he had been building in secret: vault access, tampered vial, blackout, corridor entry, frame Homes. Murder was not a 48-hour panic by Curie and Lacey. It was a friend's revenge, dressed as medical chaos, led by the only badge in the building.
+**Ray had been waiting three years.** When De Worsti walked into Lacey's wing, Lacey knew what Ray would need from admin. Ray accelerated a plan he had been building in secret: vault access, tampered vial, blackout, corridor entry, frame Homes. Murder was not a 48-hour panic by Curie. It was a father's revenge, dressed as medical chaos, with Lacey's logistics upstairs and Ray's hand in the OR.
 
 ### Why the OR instead of elsewhere
 
@@ -68,7 +68,7 @@ Full context: [11-genevieve-backstory.md](11-genevieve-backstory.md)
 
 | Step | Operation | Who | How |
 |------|-----------|-----|-----|
-| 1 | Drug Tampering | Officer Ray | Swapped anesthesia vial in secure pharmacy vault using security override + director emergency codes he memorized after finding Lacey |
+| 1 | Drug Tampering | Officer Ray | Swapped anesthesia vial in secure pharmacy vault using security override + administrator emergency codes he memorized after finding Lacey |
 | 2 | Sedative Delivery | Dr. Jetski (unknowing) | Injected tampered vial → backflow paralysis of Jetski + Nurse Pepper |
 | 3 | Blackout Trigger | Officer Ray | Remote generator override from security office, 60 sec total darkness |
 | 4 | OR Entry | Officer Ray | **Curie's stolen OR keycard** (Ray has no OR access on his own badge) + night vision gear from security stock |
@@ -131,7 +131,7 @@ Ballot tally → accusation readout → moral coda → **POLICE ARRIVAL** → op
 
 ## HOST PRINT PACKET CHECKLIST
 
-- [ ] 11 player dossiers ([player-dossiers/](player-dossiers/)), fold **NIGHT TRUTH** on **Ray** only  
+- [ ] 11 player dossiers ([player-dossiers/](player-dossiers/)), fold **NIGHT TRUTH** on **Ray** and **Lacey**  
 - [ ] Host script ([05-episode-scripts.md](05-episode-scripts.md)) + player script ([player-performance-script.md](player-performance-script.md))  
 - [ ] 1 live table puzzle (The Antidote)  
 - [ ] 11 final ethical verdict ballots  

@@ -35,7 +35,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 | ID | Evidence | Type | Found where | Points to | Dropped |
 |----|----------|------|-------------|-----------|---------|
 | E2-A | **Toxicology screen** | Card | Pepper's folder | Custom Propofol + Midazolam; paralysis <15s | Ep 2 cutscene |
-| E2-B | **Pharmacy vault log** | Card | Facilities report | Security override + director emergency codes, 2h pre op | Ep 2 cutscene |
+| E2-B | **Pharmacy vault log** | Card | Facilities report | Security override + administrator emergency codes, 2h pre op | Ep 2 cutscene |
 | E2-C | **Power override log** | Card | Security / facilities | Manual grid drop, **security office** | Ep 2 cutscene |
 | E2-D | **Orphanage photo** | Physical | Old locker | Young **Genevieve** + **Curie** | Ep 2, easy to miss |
 | E2-E | **Jetski testimony** | Testimony | Recovery ward | Collapsed *before* lights; killer needed night vision | Ep 2 cutscene |
@@ -52,7 +52,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 |-----------|----------|--------------------------------|
 | **Dr. Jetski / Nurse Pepper** | E2-A, E2-E | Paralysis **<15s**, before lights cut. Neither could hold a blade for the carotid. |
 | **Dr. Homes** | E2-A | Assisting staff down before incision window; killer needed darkness prep rather than OR panic chaos. |
-| **Lacey Lovely** | E2-B, E2-C | Director codes on vault and admin-tier blackout, yes, but override never came from OR or anesthesia console. Access pattern matches a **facilitator** opening doors. The hand at the table was someone else. |
+| **Lacey Lovely** | E2-B, E2-C | Administrator codes on vault and admin-tier blackout. Override never came from OR or anesthesia console. Access pattern matches a **facilitator** opening doors. Admin activity two floors up reads as **cover**, not innocence. The hand at the table was someone else. |
 | **Dr. Curie** | E2-C | Blackout authorization tier is admin/executive. Surgery chief clearance doesn't explain the grid drop. Motive-heavy, mechanism-light. |
 | **Uvula Sachs** | E2-F | Wife hunt and coercion on the street layer. No OR entry, no silent kill profile. |
 
@@ -65,7 +65,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 | E3-A | **Missing keycard log page** | Physical | Melody's discovery | OR corridor access; **Ray tore page** pre surgery | Ep 3, Melody (if survives) |
 | E3-B | **KCl syringe** | Prop | Pharmacy hallway | Murder attempt on Melody | Ep 3 cutscene |
 | E3-C | **Alfie's hunting knife** | Prop | Dropped in panic | Alfie meant to kill De Worsti, parallel motive | Ep 3 panic |
-| E3-D | **Sachs's wire cutters** | Prop | Discovered on search | Sachs planned her own blackout. Someone else struck first | Ep 3 panic |
+| E3-D | **Sachs's wire cutters** | Prop | Discovered on search | Sachs planned their own blackout. Someone else struck first | Ep 3 panic |
 | E3-E | **Melody's whisper** | Testimony | If antidote succeeds | *"Security badge… in the OR log…"* | Ep 3 puzzle pass |
 
 ### Antidote puzzle (live)
@@ -79,7 +79,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 | Character | Evidence | What careful players may notice |
 |-----------|----------|--------------------------------|
 | **Alfie De Worsti** | E3-C | Hunting knife: **no OR blood**; kill used surgical steel. Fixed blade doesn't match the wound. Parallel plan. Different weapon, different moment. |
-| **Uvula Sachs** | E3-D | Wire cutters for doors/power. Carotid work needs a scalpel. Someone beat her to the blackout. |
+| **Uvula Sachs** | E3-D | Wire cutters for doors/power. Carotid work needs a scalpel. Someone beat them to the blackout. |
 | **Dr. Curie** | E3-A | Torn log page: surgery-chief card checked out pre surgery, return field blank. Reads like **badge theft** while Curie was elsewhere. |
 | **Officer Ray** | E3-B | KCl on Melody points at someone silencing the desk. That doesn't clear Ray. It widens the field. |
 
@@ -90,7 +90,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 | ID | Evidence | Type | Source | Connects |
 |----|----------|------|--------|----------|
 | E4-A | **Two synchronized footsteps** | Testimony | Alfie | Pair entered OR corridor |
-| E4-B | **Genevieve revelation** | Testimony | **Alfie (hedged)** + Melody corroborates + **Lacey denies murder** | Identity/motive established; Lacey claims she only wanted to run |
+| E4-B | **Genevieve revelation** | Testimony | **Alfie (hedged)** + Melody corroborates + **Lacey denies the cut** | Identity/motive established; Lacey may admit logistics if cornered; cannot claim total ignorance once E2-B/E2-C land |
 | E4-C | **CD Vance raw mainframe** | Digital | Vance | **Curie's** card at OR reader during 60s blackout (Curie was in corridor; Ray stole badge) |
 | E4-D | **Edited vs. raw timestamps** | Digital | Vance botch | Anomalies Ray planted or exploited |
 | E4-E | **Surgical perfection** | Medical | Autopsy / staff | **Red herring** pointing at Curie; wound reads rage/framing. Too messy for neat theatre work |
@@ -103,7 +103,7 @@ Track physical props, evidence cards, who holds them, and when they enter play.
 |-----------|----------|--------------------------------|
 | **Dr. Curie** | E4-C + E3-A + corridor witnesses | Card in log, person in corridor: **opportunity without presence**. Orphanage photo (E2-D) shows bond. Doesn't put the blade in his hand. |
 | **Dr. Homes** | E4-E | Wound **inconsistent with calm theatre incision**; rage read or deliberate framing while he held the scalpel when lights returned. |
-| **Lacey Lovely** | E4-B + E2-B/E2-C | Motive and admin access established; she **denies murder** and mechanism evidence fits security/facilitator tier. A director at the table doesn't match the wound profile. |
+| **Lacey Lovely** | E4-B + E2-B/E2-C | Denies the cut (truthful); admin tier + staged upstairs alibi fit **logistics accomplice** if room believes she knew. Wound profile still rules out her hand on the blade. |
 | **Alfie / Sachs** | E3-C, E3-D, E4-E | Wrong tools + wrong wound profile for street weapons. |
 
 ### Accusation logic chain
@@ -130,7 +130,8 @@ Alfie names Genevieve + abuse + surgery (E4-B)
 | **Jetski** | Anesthesia tray | Unwitting; paralyzed pre blackout |
 | **CD Vance** | CCTV gaps; hacking; Sachs's wife hunt | Coerced by Sachs; raw log helps investigators |
 | **Dr. Curie** | Sanctuary bond; surgical skill; charm; OR corridor | Red herring; wanted him dead, did not cut |
-| **Officer Ray** | Debt to De Worsti; runs investigation | **Killer**; security keycard in OR during blackout; Lacey's close friend |
+| **Officer Ray** | Debt to De Worsti; runs investigation | **Killer**; security keycard in OR during blackout; Lacey's father; used her admin codes |
+| **Lacey Lovely** | Genevieve history; vault/blackout tier; crisis lock | **Logistics accomplice** if room believes she knew; never entered OR; did not cut |
 
 ---
 

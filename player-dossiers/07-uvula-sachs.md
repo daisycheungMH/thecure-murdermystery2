@@ -1,18 +1,19 @@
-<div class="case-file-letterhead">
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-</div>
+Case File No.: LCPSD-CTV-0471-DC
+
+
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Uvula Sachs  
 AGE: 39  
 OCCUPATION: De Worsti's former enforcer / syndicate second in command (German)
+PRONOUNS: they/them
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -31,7 +32,7 @@ OCCUPATION: De Worsti's former enforcer / syndicate second in command (German)
 - loose ends
 
 **Vibe**
-You treat crime like a system, but tonight nothing meets your standards and it offends you personally. You are an expressive, hyper critical chaos gremlin who tries to optimize the investigation like a broken workflow. German. Still dangerous. Also ridiculous. You are not tonight's OR killer.
+You treat crime like a system, but tonight nothing meets your standards and it offends you personally. You are an expressive, hyper critical chaos gremlin who tries to optimize the investigation like a broken workflow. German, still dangerous, and also ridiculous.
 
 ### German accent (speak every line this way)
 
@@ -48,26 +49,27 @@ Your spoken lines in the script are already written how you say them. When you a
 
 Apply to every D, B, G, and V sound in your words (not just the examples). Read the script lines literally.
 
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
-**Connection**
-De Worsti was your boss, and you hated each other by the end.
+**Who you are**
 
-**History**
+- You ran collections for crime lord Alex De Worsti's empire until he went broke. De Worsti imported you as German enforcer muscle.
+- You and De Worsti hated each other by the end. He still owes you money, and you still want his ledger. Your search for him lead you to St. Saphiccas hospital
 
-- You ran collections for De Worsti's empire until he went broke, and as German enforcer muscle De Worsti imported you with an accent that never left.
-- Tonight you brought wire cutters and planned your own blackout, but someone beat you to it, and you still want De Worsti's ledger and the millions his ex wife stole.
+**Where you came from**
 
-**Motive**
-Mutual hatred and millions owed. De Worsti went broke and you want his ledger and Genevieve's stolen fortune, not justice for anyone in this building.
+- You grew up poor in industrial East Germany and your father timed his workers lunch breaks with a stopwatch.
+- You left young and you learned that scaring people is a fast way to get work done.
+- You do not like sitting around and you do not like when people waste time.
+- You like it when the numbers add up and everyone owes what they owe.
 
 **Opportunity**
-You were on the VIP perimeter corridor when the generators failed, not inside the OR. Wire cutters, a planned blackout someone else beat you to, and Vance knows you were hunting the wife.
+You were on the VIP perimeter corridor when the generators failed, not inside the OR. You brought wire cutters. Vance knows you were hunting De Worsti's vanished wife.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
-Threatened Vance in the elevator shaft around 9 p.m., then prowled the VIP perimeter with wire cutters until the generators failed.
+**Earlier tonight (roughly 8 to 11pm)**
+Threatened Vance in the elevator shaft around 9pm, then prowled the VIP perimeter with wire cutters until the generators failed.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were on the VIP perimeter corridor when you heard the generators fail.
@@ -81,11 +83,10 @@ The wire cutters and your plan, plus the fact that you threatened Vance in the e
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Find the ledger and Genevieve's (De Worsti's ex wife's) money trail, and avoid a murder conviction.
+Find the ledger and De Worsti's vanished wife's money trail, and avoid a murder conviction.
 
 **Plan**
 
-- Point at Homes. He had blade contact when the lights returned.
 - Command Vance like an overworked contractor. Provoke Ray when his process is inefficient.
 
 ## ⚠️ RULES

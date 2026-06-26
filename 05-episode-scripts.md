@@ -196,7 +196,7 @@ The flatline tone fills the OR. No one moves.
 
 > Someone ran for the corridor.  
 > Someone screamed for help into a storm that ate sound.  
-> They went to find Hospital **Director Lacey Lovely**, and **Security Chief Officer Ray** (with **Officer Marz** on perimeter), because in a hospital, death in the OR does not stay in the OR.  
+> They went to find Hospital **Administrator Lacey Lovely**, and **Security Chief Officer Ray** (with **Officer Marz** on perimeter), because in a hospital, death in the OR does not stay in the OR.  
 > It climbs the stairs. It knocks on doors. It demands a name.
 >
 > The code went out on every channel the building still had. Municipal Watch logged the death. and sent back the same message the city had been sending all night: *shelter in place, routes flooded, units when routing permits.*  
@@ -244,7 +244,7 @@ Pepper drops toxicology: Propofol + Midazolam, paralysis <15s.
 
 > Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
 > (beat)  
-> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
+> My surgical opinion? A hospital administrator doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
 
 **RAY** (short nod: trusts the tone):
 
@@ -252,7 +252,7 @@ Pepper drops toxicology: Propofol + Midazolam, paralysis <15s.
 
 **MARZ** (PLAYER, optional, painting a nail, outlandish but specific):
 
-> Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
+> Honey, what if the administrator didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
 
 **RAY** (PLAYER, optional, gruff):
 
@@ -268,13 +268,13 @@ Pepper drops toxicology: Propofol + Midazolam, paralysis <15s.
 
 > *(ahem)*
 
-> **CURIE:** Access, preparation, delivery, blackout, incision. You don't improvise that. Someone coordinated. Director's tier is on that list until it isn't.
+> **CURIE:** Access, preparation, delivery, blackout, incision. You don't improvise that. Someone coordinated. Administrator's tier is on that list until it isn't.
 
 Ray: *"Melody first. Then the computer kid. Every second of camera footage, and what's missing."*
 
 **RAY** (to **Vance**, if present or via intercom):
 
-> Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
+> Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to them.
 
 **VANCE** (PLAYER: genki speed collapse; breaking):
 
@@ -384,9 +384,17 @@ Ray sprints. Curie's expression goes cold.
 >
 > I ran. I changed my life. I did what I had to do to never sleep in the same room as that man again.  
 > (beat)  
-> I did **not** hate him enough to kill him. I wanted distance, miles, years, a face he wouldn't recognize. Murder wasn't the plan. Running was.  
+> I did **not** cut him. I was two floors up in administration. If your logs say otherwise, read them.  
+> (beat)  
+> Genevieve wanted distance. Miles. A face he wouldn't recognize. That part is still true.  
 > (cold)  
-> Someone killed him in an operating theater. I was two floors up in administration. If your logs say otherwise, read them. But don't let that ghost put words in my mouth.
+> I didn't hold the steel. Don't let Alfie put a blade in my hand.
+
+*Host: If the room has connected vault + blackout + crisis lock (E2-B/E2-C) or Melody's planning read, Lacey **cannot** honestly deny she knew. Player may admit logistics only when cornered:*
+
+**LACEY** (if cornered):
+
+> ...Fine. When he booked **my** hospital, I knew Ray had a plan. I opened what needed opening. I locked the wing on cue. I stayed upstairs where the record would clear me. I never walked into that theater.
 
 **MELODY** (PLAYER: corroboration, after Alfie only; firmer than Alfie):
 
@@ -396,7 +404,7 @@ Ray sprints. Curie's expression goes cold.
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
+> Clinically? An administrator with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
@@ -420,7 +428,7 @@ Ray sprints. Curie's expression goes cold.
 
 > I loved him. I need you to hear that. And I need you to hear that I didn't know... Genevieve. The fire. Any of it. He wasn't… he wasn't just difficult. He was what Alfie said. And the people who cut his throat still sat with us at that table.
 
-*Host: Alfie's reveal is **mandatory**: hedged truth, protective of Lacey. Lacey's denial is **mandatory**: ran yes, killed no. Curie never blocks Ray on her background. See 11-genevieve backstory.md.*
+*Host: Alfie's reveal is **mandatory**: hedged truth, protective of Lacey. Lacey's denial is **mandatory**: ran yes, cut no (truthful). She may lie about ignorance until E2-B/E2-C land; then she cannot honestly claim she knew nothing. Curie never blocks Ray on her background. See 11-genevieve backstory.md.*
 
 ---
 
@@ -478,9 +486,11 @@ Ray sprints. Curie's expression goes cold.
 
 **LACEY** (optional, ice cracking):
 
-> I wanted distance. Miles. A face he wouldn't recognize. I did not want a throat in the dark.  
+> I didn't cut him. I never walked into that room.  
+> (beat)  
+> When he booked here, I knew Ray had a plan. I thought I could keep my hands clean upstairs. I was wrong about that much.  
 > (to watch, when they arrive)  
-> My name was Genevieve. He hunted me here. Ray was my friend when I still believed friends could keep me safe. Ask Alfie. Ask the intake photos.
+> My name was Genevieve. He hunted me here. Ray was my father when I still believed fathers could keep me safe. Ask Alfie. Ask the intake photos.
 
 **PEPPER** (optional, shattered):
 
@@ -499,7 +509,7 @@ Ray sprints. Curie's expression goes cold.
 
 > **Officer Ray** is convicted of first-degree murder, controlled substance facilitation, and abuse of security authority resulting in death. He serves **22 years** at Lesbian City State Correctional Annex, with parole eligibility after 15.
 
-> The judge calls it "a friend's revenge dressed as emergency medicine."
+> The judge calls it "a father's revenge dressed as emergency medicine."
 
 > Five years later, Ray writes letters from prison that Lacey never answers. He still checks storm reports when the wind rises.
 
@@ -520,13 +530,13 @@ Ray sprints. Curie's expression goes cold.
 >
 > De Worsti made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
 >
-> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. She told herself survival was enough.
+> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. When Alex booked her hospital, she knew Ray had a plan. She opened what needed opening, locked the wing on cue, and stayed upstairs where the record would clear her. She never entered the theater.
 >
 > It was not enough for De Worsti.
 >
 > He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
 >
-> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy. He did not hunt Alex through corridors. Sachs was on the wing, cameras were still live, and a VIP killed anywhere except the table would have led straight to the badge. Alex came to own Lacey's OR; Ray used that stage.
+> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy. Lacey coordinated from admin: codes, wing lock, crisis posture two floors up. He did not hunt Alex through corridors. Sachs was on the wing, cameras were still live, and a VIP killed anywhere except the table would have led straight to the badge. Alex came to own Lacey's OR; Ray used that stage.
 >
 > Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Ray had other chances. The OR was the only room that gave him a sedated victim, frozen witnesses, blood on the wrong gloves, and a security chief still credible when the code dropped. Then noise, panic, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
 >
@@ -575,16 +585,16 @@ Ray sprints. Curie's expression goes cold.
 
 **NARRATOR:**
 
-> The room turns on the director. Blackout logs. Vault tier. Crisis lock. A woman who rebuilt her face to escape a dead man's shadow.  
+> The room turns on the administrator. Blackout logs. Vault tier. Crisis lock. A woman who rebuilt her face to escape a dead man's shadow.  
 > But the wound was made in darkness with night vision gear from security stock. And the man who guided the investigation never stopped guiding it.
 
 **LACEY** (optional):
 
-> I ran. I changed my life. I did not make that cut.
+> I didn't cut him. I never entered that room.
 
 **RAY** (optional, warm, lethal):
 
-> Director Lovely had motive. She had access. She did not have my badge in that OR.
+> Administrator Lovely had motive. She had access. She staged the upstairs record. She did not have my badge in that OR.
 
 *Host choice: Lacey arrested while Ray remains "security chief" until watch reviews keycard data in Ep 4 coda.*
 
@@ -618,7 +628,7 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Street muscle. Wire cutters. Elevator threats. An enforcer without a ledger since De Worsti went broke.  
-> The room wants a villain who looks like violence. Sachs does not disappoint, and she has notes on your investigative process.
+> The room wants a villain who looks like violence. Sachs does not disappoint, and they have notes on your investigative process.
 
 **SACHS** (optional, German accent):
 
@@ -649,7 +659,7 @@ Ray sprints. Curie's expression goes cold.
 
 ### IF THE ROOM ACCUSES **OFFICER RAY + LACEY LOVELY** (pair, correct if room believes she knew)
 
-*Use the **OFFICER RAY** correct branch above, with Lacey optionally named as accessory after conviction if evidence supports complicity. If room cannot prove she knew, Ray alone is sufficient for truth.*
+*Use the **OFFICER RAY** correct branch above. If the room also names Lacey as logistics accomplice, watch may cuff both or read accessory charges on Lacey after Ray's conviction. Ray alone is sufficient for truth if complicity is not proved.*
 
 ---
 
@@ -723,7 +733,7 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Your verdict: **system failure**.  
-> St. Saphicca's sold VIP wings to predators. Directors with new faces. Contractors who scrub logs. Security chiefs with debts.  
+> St. Saphicca's sold VIP wings to predators. Administrators with new faces. Contractors who scrub logs. Security chiefs with debts.  
 > The room wants the institution on trial. The whole machine behind the blade.  
 > Whatever happens to the suspects, the scandal outlives the storm.
 
@@ -757,10 +767,11 @@ Ray sprints. Curie's expression goes cold.
 **NARRATOR:**
 
 > Here is what the night really was.  
-> Lacey saw Sachs on the perimeter and other warnings that De Worsti had found her hospital. Ray learned De Worsti booked **real** arterial surgery here, a power play on her turf, and accelerated a plan he had been building since he realized how trapped she still was.  
+> Lacey saw Sachs on the perimeter and other warnings that De Worsti had found her hospital. When Alex booked real surgery here, she knew Ray had a plan. She gave codes or failed to rotate them, locked the wing on cue, and stayed in admin two floors up as cover. She never entered the OR.  
+> Ray learned the booking was a power play on her turf and accelerated a plan he had been building since he realized how trapped she still was.  
 > Officer Ray tampered the vial. Dr. Jetski delivered it unknowingly. Ray triggered the blackout from security. Ray entered the OR, made the cut, framed Homes. Curie looked guilty and did not kill.  
 > De Worsti needed the operation. He bet Genevieve would not fight back. Homes and Curie refused his theater.  
-> De Worsti hunted Genevieve. Genevieve became Lacey Lovely. Ray was her friend and protector. Alfie knew the abuse. Melody knew the face. Sachs hunted the money. Pepper loved him without knowing who he was.  
+> De Worsti hunted Genevieve. Genevieve became Lacey Lovely. Ray was her father and protector. Lacey opened the night from admin. Alfie knew the abuse. Melody knew the face. Sachs hunted the money. Pepper loved him without knowing who he was.  
 > Jetski said it in the gathering lounge, before any of you split up: the killer was in the room. You voted anyway.
 
 ---

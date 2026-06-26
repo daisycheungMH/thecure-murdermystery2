@@ -13,6 +13,7 @@ Case File No.: LCPSD-CTV-0471-DC
 CHARACTER NAME: Alex *De Worsti*  
 AGE: 48  
 OCCUPATION: VIP patient *(cover)* / Indigo District financier and crime lord *(truth)*
+PRONOUNS: he/him
 
 **You are not one of the eleven suspects.** You open the night in the prologue, die in the OR during Act 1, and the room spends four episodes learning what kind of man you were.
 
@@ -45,19 +46,26 @@ You are a controlling crime lord in a hospital gown. Everything is a negotiation
 - When she took money from your ledger and fled, you burned homes and hired hunters. You never stopped looking.
 - Your brother Alfie watched the bruises and hollow holidays. Your enforcer Sachs runs collections. Half the VIP wing tonight owes you money or fear.
 
+**Where you came from**
+
+- You grew up poor in the Indigo District and you learned early that having something on people gets you what you want.
+- You built a lending business that looked like family loyalty on the outside but it was predatory underneath.
+- Genevieve was young and guarded and you married her because she made you look respectable to other people.
+- You kept her isolated and you hurt her and you called it discipline until she ran.
+
 **Names in the building**
 
 - Staff and paperwork call you **Mr. De Worsti**.
 - Ray and Lacey still say **Alex** in private. Ray is Lacey's father. He hates you for what you did to her.
 - Your ledger initials are **A.A.** Genevieve is **G.A.** The room will not connect those dots until Episode 4.
 
-## 3. TONIGHT (11:42 p.m.)
+## 3. TONIGHT (11:42pm)
 
 **Where**
 VIP consultation suite, then VIP OR Two on the table.
 
 **What is real**
-Your arterial wall is genuinely compromised. Borderline rupture. You need this surgery. You are not faking illness to sneak in.
+Your arterial wall is genuinely compromised, with borderline rupture, and you need this surgery. You are not faking illness to sneak in.
 
 **What is the play**
 You booked St. Saphicca's on purpose. Lacey's hospital. You wanted the wing to know who owns the room. Homes took the case for skill and fee. Ray decided you would not walk out.
@@ -74,7 +82,7 @@ Set the tone in the prologue, then get out of the players' way. You are the woun
 
 - Deliver your prologue lines cold and expensive. Let Homes push back. Let Pepper look away first.
 - Touch the wrist bruise once so the room files it.
-- In the OR cutscene, stay still on the table until blackout. One choked sound if the facilitator cues it. After that you're scenery. Stay dead.
+- In the OR cutscene, stay still on the table until blackout, give one choked sound if the facilitator cues it, then stay dead as scenery.
 - Do not investigate, vote, or argue in the lounge. The facilitator may keep you at the table as atmosphere or release you after Act 1.
 
 ## ⚠️ RULES

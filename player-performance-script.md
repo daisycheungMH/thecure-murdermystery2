@@ -128,7 +128,7 @@
 
 > Someone ran for the corridor.  
 > Someone screamed for help into a storm that ate sound.  
-> They went to find **Director Lacey Lovely** in administration, and **Security Chief Officer Ray**, because in a hospital, death in the OR does not stay in the OR.  
+> They went to find **Administrator Lacey Lovely** in administration, and **Security Chief Officer Ray**, because in a hospital, death in the OR does not stay in the OR.  
 > It climbs the stairs. It knocks on doors. It demands a name.
 >
 > The code went out on every channel the building still had. Municipal Watch logged the death, and sent back the same message the city had been sending all night: *shelter in place, routes flooded, units when routing permits.*  
@@ -197,7 +197,7 @@
 
 > Officer. I have counsel on standby. This hospital will cooperate within regulatory...
 
-> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
+> **RAY:** (flat) Administrator Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
 
 > **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
 > (beat, harder)  
@@ -258,7 +258,7 @@
 
 **VANCE**:
 
-> Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Director Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
+> Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Administrator Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
 
 > **VANCE:** *(quieter)* …eep.
 
@@ -266,7 +266,7 @@
 
 **SACHS**:
 
-> He does what keeps his pones in one piece. Like any contractor who does not want the project cancelled.
+> She does what keeps her pones in one piece. Like any contractor who does not want the project cancelled.
 
 **ALFIE** (smug, too casual):
 
@@ -288,13 +288,13 @@
 
 **LACEY**:
 
-> Lacey Lovely. Hospital Director. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
+> Lacey Lovely. Hospital Administrator. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
 
 **CURIE** (does not block):
 
 > Good. Pull it. Executive tier on a night like this is a lead.  
 > (to Ray, professional)  
-> Surgical read? A director facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
+> Surgical read? An administrator facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
 
 ### THE ACCUSATION
 
@@ -418,7 +418,7 @@
 
 > Run it. You should run it. Executive codes on a night like this are a lead. Full stop.  
 > (beat)  
-> My surgical opinion? A hospital director doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
+> My surgical opinion? A hospital administrator doesn't usually personally execute a patient on her own OR table. The access pattern is facilitator work. Keys, codes, clearance. Someone else held the blade. Unlikely as primary actor, but unlikely isn't innocent. Pull her file. I'm not standing in your way.
 
 **RAY** (short nod, trusts the tone):
 
@@ -426,7 +426,7 @@
 
 **MARZ** (optional, painting a nail, outlandish but specific):
 
-> Honey, what if the director didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
+> Honey, what if the administrator didn't do the cutting because she was two floors up showing she *couldn't* have been in that room? That's not innocent. That's planning.
 
 **RAY** (optional):
 
@@ -440,11 +440,11 @@
 
 > *(ahem)*
 
-> **CURIE:** Access, preparation, delivery, blackout, incision. You don't improvise that. Someone coordinated. Director's tier is on that list until it isn't.
+> **CURIE:** Access, preparation, delivery, blackout, incision. You don't improvise that. Someone coordinated. Administrator's tier is on that list until it isn't.
 
 **RAY** (to **Vance**, if present or via intercom):
 
-> Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to her.
+> Vance. You. Now. If Sachs put you up to anything in my building tonight, start talking before I hand you to them.
 
 **DIAMOND** (optional, escort beat if facilitator splits room for search):
 
@@ -560,9 +560,17 @@
 >
 > I ran. I changed my life. I did what I had to do to never sleep in the same room as that man again.  
 > (beat)  
-> I did **not** hate him enough to kill him. I wanted distance, miles, years, a face he wouldn't recognize. Murder wasn't the plan. Running was.  
+> I did **not** cut him. I was two floors up in administration. If your logs say otherwise, read them.  
+> (beat)  
+> Genevieve wanted distance. Miles. A face he wouldn't recognize. That part is still true.  
 > (cold)  
-> Someone killed him in an operating theater. I was two floors up in administration. If your logs say otherwise, read them. But don't let that ghost put words in my mouth.
+> I didn't hold the steel. Don't let Alfie put a blade in my hand.
+
+*If the room has connected vault, blackout, and crisis lock, you cannot honestly deny you knew. You may admit logistics only when cornered:*
+
+**LACEY** (if cornered):
+
+> ...Fine. When he booked **my** hospital, I knew Ray had a plan. I opened what needed opening. I locked the wing on cue. I stayed upstairs where the record would clear me. I never walked into that theater.
 
 **MELODY** (support, after Alfie only; firmer than Alfie):
 
@@ -572,7 +580,7 @@
 
 > Officer, run every log you have. I've said that all night.  
 > (to the room)  
-> Clinically? A director with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
+> Clinically? An administrator with that history gives you **motive**. The mechanism is still open. The throat was opened with a scalpel in a violent, almost crazed stroke. That could be a surgeon. It could be Homes in a rage. Lovely's tier explains how someone got in the building. It doesn't explain whose hand held the steel. Unlikely she'd personally finish him on the table.  
 > (beat, meets Ray's eyes)  
 > Still a live lead. Especially if someone else held the blade for her. Don't drop it on my account.
 
@@ -632,13 +640,13 @@
 >
 > De Worsti made debt into religion. He called cruelty discipline. He called possession love. Behind security doors and polished glass, he broke people down to what they could pay, and when money was gone, he took silence, obedience, blood.
 >
-> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. She told herself survival was enough.
+> Genevieve ran when she finally could. She paid for a new face with fear and cash and sleepless years. She took a new name, Lacey Lovely, and built an administrative empire out of rules, schedules, and controlled doors. When Alex booked her hospital, she knew Ray had a plan. She opened what needed opening, locked the wing on cue, and stayed upstairs where the record would clear her. She never entered the theater.
 >
 > It was not enough for De Worsti.
 >
 > He found the thread, clinic photos, reconstruction records, a scar above the left ear, and followed it back to St. Saphicca's. He arrived as a patient and predator, smiling through intake, already planning what he would reclaim.
 >
-> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy.
+> Officer Ray watched De Worsti ruin one of the few people he still cared about, took a security post to stay close, and swore revenge. When De Worsti booked real surgery in Lacey's wing, Ray accelerated a plan the room would mistake for medical conspiracy. Lacey coordinated from admin: codes, wing lock, crisis posture two floors up.
 >
 > Vault access opened the path. Potassium chloride prepared the room. Backup power failed at exactly the right minute. Sedation lagged the witnesses. In darkness, one trained hand drove a scalpel through his throat in a violent, almost crazed stroke. Then noise, panic, blood on the wrong gloves, and Dr. Homes framed by timing and terror while Curie became the obvious red herring.
 >

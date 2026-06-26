@@ -18,6 +18,7 @@
 | [12-de-worsti-revelation-arc.md](12-de-worsti-revelation-arc.md) | **De Worsti worse than killers, episode reveal map; Vance + Sachs** |
 | [13-curie-charm-playbook.md](13-curie-charm-playbook.md) | **Curie red herring; Ray flirt tension; Pepper ahem; Homes annoyed** |
 | [14-actor-personas.md](14-actor-personas.md) | **Exaggerated actor personas for the full cast** |
+| [18-character-genders.md](18-character-genders.md) | **Official character pronouns** (*MM2: A Gender Reveal*) |
 | [17-officer-diamond.md](17-officer-diamond.md) | **Officer Diamond beat guide + dossier link** |
 | [player-dossiers/](player-dossiers/) | **Printable player character dossiers (1 per actor)** |
 | [player-performance-script.md](player-performance-script.md) | **Player script only** (no host notes; act by act) |

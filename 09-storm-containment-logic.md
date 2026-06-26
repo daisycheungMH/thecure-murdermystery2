@@ -18,7 +18,7 @@ A city breaking storm traps eleven people in a sealed VIP wing, municipal watch 
 |-------|----------------|
 | **Weather** | Severe Pacific front; sustained winds; flash flooding in the Indigo District and lower causeways |
 | **City grid** | Lesbian City eco grid under stress all evening, brownouts before the murder |
-| **Hospital** | St. Saphicca's has backup generators, but VIP wing redundancy was **manually overridden** during the 60-second OR blackout (Lacey) |
+| **Hospital** | St. Saphicca's has backup generators, but VIP wing redundancy was **manually overridden** during the 60-second OR blackout (Lacey on cue; Ray used her admin tier) |
 | **Communications** | Cell towers degraded; external 911 queue backed up citywide |
 | **Access roads** | Two of three routes to St. Saphicca's campus reported flooded; ambulance bay open, patrol cars not getting through |
 

@@ -93,7 +93,7 @@
 
 > Officer. I have counsel on standby. This hospital will cooperate within regulatory...
 
-> **RAY:** (flat) Director Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
+> **RAY:** (flat) Administrator Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
 
 *Lacey holds his gaze. Sits. Says nothing.*
 
@@ -174,7 +174,7 @@
 
 **VANCE** (PLAYER, genki speed, then wilt):
 
-> Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Director Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
+> Hi! Hi. CD Vance. IT contractor? Server room! Storm failover, corridor three offline, Administrator Lovely's audit, and also, um. Other requests. I don't do violence, I do logs, I do Python, I do panic
 
 *Glances at **Sachs**. Goes very small.*
 
@@ -184,7 +184,7 @@
 
 **SACHS** (PLAYER, efficiency rage bleeding into menace, German accent; lines as written):
 
-> He does what keeps his pones in one piece. Like any contractor who does not want the project cancelled.
+> She does what keeps her pones in one piece. Like any contractor who does not want the project cancelled.
 
 **ALFIE** (PLAYER, smug, too casual):
 
@@ -208,17 +208,17 @@
 
 **LACEY** (PLAYER, controlled):
 
-> Lacey Lovely. Hospital Director. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
+> Lacey Lovely. Hospital Administrator. I was in administration, two floors up, managing grid instability and crisis protocol when the wing failed over. I did not enter the operating theater.
 
 **RAY** (if Lacey named or vault raised):
 
-> Director Lovely, you're on my list. I want to know everything about you.
+> Administrator Lovely, you're on my list. I want to know everything about you.
 
 **CURIE** (PLAYER, does not block):
 
 > Good. Pull it. Executive tier on a night like this is a lead.  
 > (to Ray, professional)  
-> Surgical read? A director facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
+> Surgical read? An administrator facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
 
 *Lacey doesn't blink. Curie sounds helpful because he is, on the record.*
 
@@ -314,10 +314,10 @@
 | **Curie** | Charm on; Ray endeared; Pepper ahem; Homes annoyed |
 | **Ray** | Containment; no police; admits own debt |
 | **Marz** | Junior badge; wild theory optional; Melody/Vance triangle beat |
-| **Lacey** | Director distance; crisis lock invoked |
+| **Lacey** | Administrator distance; crisis lock invoked |
 | **Melody** | Called code; spotted Alfie slip in; hints missing log / cameras |
 | **Vance** | Server room; logs; **Sachs glance**; wife hunt foreshadow |
-| **Sachs** | German accent; street presence; points at Homes; implies Vance is her coerced asset |
+| **Sachs** | German accent; street presence; points at Homes; implies Vance is their coerced asset |
 | **Alfie** | Brother; delivery cover; inflammatory; watches who flinches |
 
 ---

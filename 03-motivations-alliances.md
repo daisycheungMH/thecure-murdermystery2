@@ -20,7 +20,7 @@
 
                     Killer + investigator
 
-                    Lacey's friend; revenge on De Worsti
+                    Lacey's father; revenge on De Worsti
 
                            │
 
@@ -44,9 +44,9 @@
 
     [LACEY LOVELY]
 
-    Ray's friend; hunted by De Worsti
+    Ray's daughter; logistics accomplice
 
-    Did not plan the murder
+    Did not enter the OR; did not cut
 
 
 
@@ -148,7 +148,7 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 
 
-### Lacey Lovely, born Genevieve (protected friend)
+### Lacey Lovely, born Genevieve (knowing accomplice, logistics)
 
 | | |
 
@@ -156,19 +156,19 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 | **Persona** | Girl next door damsel mask; corporate ice underneath |
 
-| **Surface motive** | Ice queen director; corporate liability |
+| **Surface motive** | Ice queen administrator; corporate liability |
 
 | **Real motive** | Finish escaping De Worsti forever; keep stolen fortune; protect new identity |
 
-| **Past** | De Worsti's first wife. Ray's longtime friend. Lived under his crime empire, isolated, beaten, financially erased, hunted after she fled with ledger cash |
+| **Past** | De Worsti's first wife. Ray's daughter. Lived under his crime empire, isolated, beaten, financially erased, hunted after she fled with ledger cash |
 
 | **Transformation** | Total facial reconstruction + legal name change to **Lacey Lovely**; built career at St. Saphicca's |
 
 | **Vs. De Worsti** | Sachs and other warnings told her he had found the hospital; his **real** VIP surgery booking was a power play on her turf |
 
-| **Vs. Ray** | Trusted friend for years; he swore revenge on De Worsti; she did not know he would kill in the OR |
+| **Vs. Ray** | Knew he had a plan when Alex booked her hospital; coordinated logistics (codes, wing lock, admin cover upstairs); never entered the OR |
 
-| **Public denial (Ep 4)** | Admits she ran and rebuilt her life; **denies murder**, *she never hated him enough to kill; she only wanted distance* (**truthful**) |
+| **Public denial (Ep 4)** | Admits she ran and rebuilt her life; **denies the cut** (*"I didn't cut him"*, truthful); may lie about ignorance until vault/blackout evidence lands, then cannot honestly claim she knew nothing |
 
 | **Vs. Pepper** | Knows affair with De Worsti; wants Pepper destroyed |
 
@@ -272,7 +272,7 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | **Motive vs. De Worsti** | Mutual hatred; De Worsti broke; millions owed |
 
-| **Tonight's plan** | Wire cutters to cut power himself, **beaten to blackout by Ray** |
+| **Tonight's plan** | Wire cutters to cut power themselves, **beaten to blackout by Ray** |
 
 | **Wife hunt** | Threatened **CD Vance** into tracing De Worsti's ex wife through clinic/hospital systems. Wants the stolen fortune. Genevieve's safety was never the point |
 
@@ -316,7 +316,7 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | **Motive vs. Lacey** | Blackmail; hospital archival binders; cosmetic-clinic face recognition |
 
-| **Motive vs. De Worsti** | Gossip network; spotted Alfie slip in as fake delivery (~9 p.m.) |
+| **Motive vs. De Worsti** | Gossip network; spotted Alfie slip in as fake delivery (~9pm) |
 
 | **Romance** | Crush on **Officer Marz**; wardrobe compliments as flirtation |
 
@@ -334,7 +334,7 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | **Persona** | Genki IT girl, nerdy, hyperactive, cutesy; terror as speed babble |
 
-| **Romance** | Crush on **Melody**; oblivious that **Officer Marz** likes him |
+| **Romance** | Crush on **Melody**; oblivious that **Officer Marz** likes her |
 
 | **Motive** | Survival. Ideology never entered it |
 
@@ -344,9 +344,9 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | **Secret** | Running Sachs's wife hunt queries the same night Ray's blackout hit; raw mainframe shows **Curie's keycard** in OR (Ray stole it) |
 
-| **Ep 2 reveal** | Cracks under Ray, admits Sachs made him dig for Genevieve, didn't know name until Alfie |
+| **Ep 2 reveal** | Cracks under Ray, admits Sachs made her dig for Genevieve, didn't know name until Alfie |
 
-| **Ep 4 tie in** | His search logs + Alfie's Genevieve reveal + Vance raw mainframe = **Curie's badge in OR** while Curie was elsewhere → Ray |
+| **Ep 4 tie in** | Her search logs + Alfie's Genevieve reveal + Vance raw mainframe = **Curie's badge in OR** while Curie was elsewhere → Ray |
 
 | **Romance** | Infatuated with **Melody**, only voluntary bond in his night |
 
@@ -374,7 +374,7 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | Curie | Ray |
 
-| Lacey | Ray (if room thinks she ordered it) |
+| Lacey | Ray (if room believes she facilitated logistics) |
 
 | Curie + Lacey (pair) | Ray (Ending C escape) |
 

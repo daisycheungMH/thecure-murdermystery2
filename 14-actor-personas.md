@@ -12,7 +12,7 @@
 | Character           | Persona                           | Play as…                                               |
 | ------------------- | --------------------------------- | ------------------------------------------------------ |
 | **Dr. Curie**       | Prince Charming red herring       | Disney prince surface; motive without guilt             |
-| **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; friend's revenge               |
+| **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; father's revenge               |
 | **Officer Marz**    | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
 | **Nurse Pepper**    | Sage + sentimental                | Wise, calm, then devastatingly precise                 |
 | **Dr. Homes**       | Authoritative dick (good cause)   | Insufferable expert who *is* that good                 |
@@ -47,7 +47,7 @@
 
 **Surface:** Square jaw energy, boots loud, notebook like a weapon. First impression: *will arrest the weather.*
 
-**Under the hood:** Lacey's old friend. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing. He waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible.
+**Under the hood:** Lacey's father. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing. He waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible. Lacey coordinated logistics from admin when Alex booked her hospital.
 
 **If the room asks "why not kill him elsewhere":** *"A man like that doesn't travel alone on a storm night. You don't stab him in a hallway and walk away clean. You let a surgeon save him, or you kill him where medicine already has him pinned down."* (Curie, authoritative.) Or Marz: *"Security chief offs a VIP in the garage and then runs the case? Please."*
 
@@ -71,11 +71,11 @@
 **Voice:** Drawl, polite, simple words, then a theory that clears the room.  
 **Tell:** Paints a nail, blows on it, delivers catastrophe like weather.
 
-> *"Honey, I'm not saying the director cut him. I'm saying if I were her, I'd have been upstairs making sure nobody thought I could."*
+> *"Honey, I'm not saying the administrator cut him. I'm saying if I were her, I'd have been upstairs making sure nobody thought I could."*
 
 **Melody beat:** She asks where your outfit is from, and you answer **kindly** because you are not cruel.
 
-**Vance beat:** You go soft when he panics and do not tease him for liking Melody, even though your heart is your own problem.
+**Vance beat:** You go soft when she panics and do not tease her for liking Melody, even though your heart is your own problem.
 
 ---
 
@@ -111,15 +111,15 @@
 
 ## Lacey Lovely, Girl next door damsel (corporate)
 
-**Surface:** Pretty, approachable, *harmless*, cardigan energy in a director's badge. People underestimate her because she looks like someone who needs protecting.
+**Surface:** Pretty, approachable, *harmless*, cardigan energy in a administrator's badge. People underestimate her because she looks like someone who needs protecting.
 
 **Corporate side:** Ice underneath. Liability language, boardroom smile, crisis voice on speakerphone.
 
-**Play the gap:** Damsel in the light; steel in the pause before she answers. Ray's friend; she did not plan the murder.
+**Play the gap:** Damsel in the light; steel in the pause before she answers. Ray's daughter; knowing accomplice on logistics when Alex booked her hospital.
 
 **Physical:** Soft angles; stillness; smile that doesn't reach eyes when cornered.  
 **Voice:** Warm alto for public; flat executive for threats.  
-**Ep 4 denial:** Sincere, *"I only wanted to run"*, delivered like a woman telling the truth for once.
+**Ep 4 denial:** *"I didn't cut him"* is true. Crumble on ignorance if vault, blackout, and crisis-lock evidence land.
 
 ---
 
@@ -141,15 +141,15 @@
 
 ## Uvula Sachs, Workflow chaos gremlin (second in command, German)
 
-**Surface:** Sachs treats crime like a **perfectly engineered system**. Tonight nothing meets her standards, and it is personally offensive. Instead of cold and slick, she becomes an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow.
+**Surface:** Sachs treats crime like a **perfectly engineered system**. Tonight nothing meets their standards, and it is personally offensive. Instead of cold and slick, they become an overly expressive, hyper-critical chaos gremlin who keeps trying to "optimize" the murder investigation like it's a broken workflow.
 
-**Still dangerous:** Wire cutters, elevator threats, syndicate muscle. The ridiculousness does not make her safe. It makes her **unpredictable**.
+**Still dangerous:** Wire cutters, elevator threats, syndicate muscle. The ridiculousness does not make them safe. It makes them **unpredictable**.
 
 **Not dumb muscle:** Over-analysis to absurd levels. Takes everything too literally. Gets distracted by inefficiency mid-interrogation. Treats murder like a badly run corporate meeting. Randomly fixates on lighting, posture, phrasing.
 
 **German accent (mandatory):** Lines in the script are pre-accented. When you improvise, swap **D→T, B→P, G→K, V→F** (good→goot, rob→rop, dog→dok, love→luff).
 
-**Physical:** Big gestures when something is *wrong* with the process; wire cutters like a tool she brought to fix the building; stops mid-threat to squint at bad lighting.  
+**Physical:** Big gestures when something is *wrong* with the process; wire cutters like a tool they brought to fix the building; stops mid-threat to squint at bad lighting.  
 **Voice:** German consonants; sudden full-volume efficiency rage; whiplash from corporate critique to violence.  
 **Tell:** *"Wait. Stop. Everyone stop."* before dismantling someone's timeline, alibi, or sentence structure.
 
@@ -169,7 +169,7 @@
 
 > *"If I made decisions like this in my work, I would be dead. Ironic, yes."*
 
-**Vance:** Treats as overworked contractor on a death march. Coerced, micromanaged, still *hers*.
+**Vance:** Treats as overworked contractor on a death march. Coerced, micromanaged, still *theirs*.
 
 ---
 

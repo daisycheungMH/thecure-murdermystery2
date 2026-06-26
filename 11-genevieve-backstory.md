@@ -1,6 +1,6 @@
 # Genevieve → Lacey Lovely, Backstory (Facilitator)
 
-**De Worsti's first wife was Genevieve.** She is now **Lacey Lovely**, hospital director, after total facial reconstruction and legal name change. **Officer Ray is an old friend and protector** who knows who she used to be. Only a handful of people in the building can connect the identities tonight.
+**De Worsti's first wife was Genevieve.** She is now **Lacey Lovely**, hospital administrator, after total facial reconstruction and legal name change. **Officer Ray is her father and protector** who knows who she used to be. Only a handful of people in the building can connect the identities tonight.
 
 ---
 
@@ -47,11 +47,11 @@ Then **subtle warnings** turned into a pattern:
 
 **Ray** confirmed the worst when De Worsti's **real surgical booking** landed: VIP arterial repair, compromised vessel, **legitimate medical need**. De Worsti was not faking illness to sneak in. He was dying slowly enough to shop for a stage.
 
-His play was psychological: book at **her** hospital, let department heads fuss over him, assume she would freeze. **Homes** refused the theater (meritocrat, insulted by wallet ethics). **Curie** refused the theater (sanctuary bond, saw the trap). Ray decided Alex would not walk out.
+His play was psychological: book at **her** hospital, let department heads fuss over him, assume she would freeze. **Homes** refused the theater (meritocrat, insulted by wallet ethics). **Curie** refused the theater (sanctuary bond, saw the trap). Ray decided Alex would not walk out. **Lacey** heard the booking and aligned with him on logistics: administrator codes, wing lock on cue, admin cover two floors up while the record cleared her. She never entered the OR.
 
 Ray did not chase him through the wing. **Sachs** was on perimeter, cameras were still mostly live, and a VIP financier killed anywhere except the table would lead straight to the badge that escorted him in. Alex's real case was the trap Alex built for himself: one window where he'd be sedated, staff could be chemically frozen, lights could die on Ray's schedule, and a violent scalpel wound would read as rage in the theater. Security-chief murder would have been obvious anywhere else. Alex wanted to own Lacey's OR; Ray finished him on the table Alex chose, dressed the death as medical chaos, and walked out still running the room.
 
-**Facilitator line:** De Worsti's surgery was real. His arrogance was real. Lacey's fear was real. Ray's cut was still murder.
+**Facilitator line:** De Worsti's surgery was real. His arrogance was real. Lacey's fear was real. Lacey opened the night from admin. Ray's cut was still murder.
 
 ---
 
@@ -59,14 +59,14 @@ Ray did not chase him through the wing. **Sachs** was on perimeter, cameras were
 
 | Character | Knowledge |
 |-----------|-----------|
-| **Lacey** | Full abuse history; knows Ray hates De Worsti and watches out for her; does not know Ray killed tonight |
-| **Ray** | Full truth; killer protecting a friend |
+| **Lacey** | Full abuse history; knew Ray had a plan when Alex booked her hospital; coordinated logistics (codes, wing lock, admin cover upstairs); never entered the OR; did not hold the blade |
+| **Ray** | Full truth; killer protecting his daughter |
 | **Curie** | Abuse history; wanted De Worsti dead; did not kill |
 | **De Worsti** | Knew she was somewhere in the medical world; died before confirming |
 | **Alfie** | **Full family truth**, legal papers, old photos, abuse he witnessed; must reveal in Ep 4 |
 | **Melody** | Spotted **Alfie** slip in as fake delivery; hospital archival binders; recognizes pre surgery face; corroborates after Alfie names Genevieve |
 | **Pepper** | Thought De Worsti was legally married to someone absent; did not know Lacey |
-| **CD Vance** | Sachs forced him to hunt the wife digitally, clinic flags, admin trails; raw logs may show Ray in OR |
+| **CD Vance** | Sachs forced her to hunt the wife digitally, clinic flags, admin trails; raw logs may show Ray in OR |
 | **Sachs** | Ordered the hunt for money; mercy never entered it. Threatened Vance |
 | **Everyone else** | P.I. dossier (E1-C) hints ex wife + reconstruction, no name |
 
@@ -78,7 +78,7 @@ Ray did not chase him through the wing. **Sachs** was on perimeter, cameras were
 
 - **When:** Act 4 / Episode 4, before final ballot  
 - **Script:** see **05-episode scripts.md** → *Alfie Reveals Genevieve*  
-- **Lacey responds:** admits she ran and rebuilt her life; **denies murder**, *never hated him enough to kill; only wanted distance* (**truthful**)  
+- **Lacey responds:** admits she ran and rebuilt her life; **denies the cut** (*"I didn't cut him"*, truthful); may lie about ignorance until E2-B/E2-C and crisis-lock timing land, then cannot honestly claim she knew nothing; may admit logistics only if cornered  
 - **Curie:** does **not** oppose Ray's investigation; offers authoritative opinion that he did not make the cut; sanctuary bond makes him look guilty anyway  
 - **Melody corroborates:** archival face match, firmer than Alfie, after he speaks  
 - **Moral weight:** Room understands De Worsti was **a bigger monster than his killer**, and the killer is still guilty  

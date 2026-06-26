@@ -34,7 +34,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Batch: SJ-8841 (VOID)  
 > Dispensed from: **Secure Pharmacy Vault**, executive tier access required  
 > Seal status: **COMPROMISED**, outer cap rotated, inner ring puncture inconsistent with standard draw  
-> Found: OR Two waste bin, 11:58 p.m.  
+> Found: OR Two waste bin, 11:58pm  
 > Handwriting (nurse): *"Seal looked wrong. Too clean. Like someone opened it and pretended they hadn't."*
 
 ---
@@ -54,7 +54,7 @@ Each entry: short description + full text to read aloud or hand out.
 > – Regional youth sanctuary records (childhood contact: male, same cohort, medical training suspected)  
 > – Sapphic Quarter clinic network, facial reconstruction intake flags (3 clinics, 2 false positives)  
 > – Hospital admin cross reference (VIP medical corridors, Lesbian City metro)  
-> Surgical booking: **St. Saphicca's VIP arterial repair**, legitimate indication (compromised vessel); client chose director's hospital personally  
+> Surgical booking: **St. Saphicca's VIP arterial repair**, legitimate indication (compromised vessel); client chose administrator's hospital personally  
 > Status: **ACTIVE HUNT**, surgery used as proximity + leverage  
 > Investigator note: *"Client does not want her found for reconciliation. He wants her cornered while he's on her table."*
 
@@ -77,10 +77,10 @@ Each entry: short description + full text to read aloud or hand out.
 
 **Text:**
 
-> **OR MONITOR LOG EXCERPT, 11:42 p.m.**  
+> **OR MONITOR LOG EXCERPT, 11:42pm**  
 > Heart rate: erratic → flatline during grid failure  
-> Backup lighting: 11:42:58 p.m. (approx. 60 seconds dark)  
-> Code called: 11:43:12 p.m. (Melody, VIP reception)
+> Backup lighting: 11:42:58pm (approx. 60 seconds dark)  
+> Code called: 11:43:12pm (Melody, VIP reception)
 
 ---
 
@@ -110,11 +110,11 @@ Each entry: short description + full text to read aloud or hand out.
 
 > **SECURE PHARMACY VAULT ACCESS LOG**  
 > Date: [TONIGHT]  
-> 9:38 p.m., Vault open, authorization: **LACEY LOVELY**, Executive Director  
+> 9:38pm, Vault open, authorization: **LACEY LOVELY**, Executive Administrator  
 > Action: Single vial removal, anesthesia tier  
-> 9:41 p.m., Vault sealed  
-> Note (facilities): *"Director Lovely has standing crisis access. Unusual for personal retrieval; no surgery scheduled in her name."*  
-> **Subtle absolution:** Executive vault codes prove **access**. They don't put **hands on the blade**. Security staff with long tenure may memorize director emergency tiers. Pair with E2-C: blackout came from admin/executive console while Lacey sat two floors up in admin.
+> 9:41pm, Vault sealed  
+> Note (facilities): *"Administrator Lovely has standing crisis access. Unusual for personal retrieval; no surgery scheduled in her name."*  
+> **Subtle read:** Executive vault codes prove **access**. They don't put **hands on the blade**. Security staff with long tenure may memorize administrator emergency tiers. Pair with E2-C: blackout came from admin/executive console while Lacey sat two floors up in admin. That upstairs posture may be **cover**, not innocence, if the room believes she knew.
 
 ---
 
@@ -125,11 +125,11 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **ECO GRID FAILOVER, VIP WING B**  
-> 11:42:01 p.m., **MANUAL OVERRIDE**, generator bypass, 60 second total dark window  
+> 11:42:01pm, **MANUAL OVERRIDE**, generator bypass, 60 second total dark window  
 > Authorization tier: **ADMIN / EXECUTIVE** (not surgical)  
 > Storm stress: elevated but **not** sufficient for isolated VIP failure  
 > IT note (Vance): *"Override came from upstairs terminal. Not OR console. Not anesthesia."*  
-> **Subtle absolution:** Points away from scrubbed surgeons at the table and toward **security or admin tier**. Does not clear Lacey or Ray alone, but it **does** clear "the attending made the lights die from inside the OR."
+> **Subtle read:** Points away from scrubbed surgeons at the table and toward **security or admin tier**. Does not clear Lacey or Ray alone. An administrator upstairs during the blackout may be logistics cover if the room believes she knew.
 
 ---
 
@@ -173,7 +173,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Hits: 14 clinics, 3 reconstruction flags, 1 partial admin cross match  
 > **ST. SAPHICCA'S PROGRESSIVE CARE, EXECUTIVE ACCESS PATTERNS, ANOMALY**  
 > Vance note (typed, panicked): *"I was looking for whoever stole his money. I didn't know her name. I didn't know it was her."*  
-> Timestamp gap: one 11:42 p.m. edit flagged **POST INCIDENT**
+> Timestamp gap: one 11:42pm edit flagged **POST INCIDENT**
 
 ---
 
@@ -186,7 +186,7 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **VIP MASTER KEYCARD LOG, EXTRACT (PAGE MISSING FROM BINDER)**  
-> 11:15 p.m., Card #VIP-OR-07, checkout: **Surgery chief tier (Dr. Curie)**  
+> 11:15pm, Card #VIP-OR-07, checkout: **Surgery chief tier (Dr. Curie)**  
 > Destination: Eastern secure corridor, OR Two approach  
 > Return field: **BLANK**  
 > Desk note (Melody, handwriting): *"Page was already gone when I called the code. Someone tore it out before surgery."*  
@@ -224,7 +224,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E3-D, Sachs's wire cutters
 
-**Description:** Industrial cutters found on search. Sachs planned her own squeeze tonight; she did not make the carotid cut.
+**Description:** Industrial cutters found on search. Sachs planned their own squeeze tonight; they did not make the carotid cut.
 
 **Text:**
 
@@ -232,7 +232,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Item: Industrial wire cutters, worn handles  
 > Sachs statement: *"Krits and toors only. Never throats. Someone peat me to the plackout, and fix the lighting in this corridor while you're at it."*  
 > Engraving (faded): collection crest, Indigo District  
-> **Subtle absolution:** Sachs planned a squeeze on doors and power. Carotid work needs a scalpel. Someone beat her to the blackout. Cutters do not match E4-E wound profile.
+> **Subtle absolution:** Sachs planned a squeeze on doors and power. Carotid work needs a scalpel. Someone beat them to the blackout. Cutters do not match E4-E wound profile.
 
 ---
 
@@ -276,7 +276,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E4-B, Genevieve revelation
 
-**Description:** Not a single card. Alfie speaks in scene; Melody corroborates with hospital archival binders and cosmetic-clinic recognition; Lacey denies the murder. Host distributes **E4-F** and **E4-H** after Alfie names Genevieve.
+**Description:** Not a single card. Alfie speaks in scene; Melody corroborates with hospital archival binders and cosmetic-clinic recognition; Lacey denies the cut and may admit logistics if cornered. Host distributes **E4-F** and **E4-H** after Alfie names Genevieve.
 
 **Text:**
 
@@ -292,7 +292,7 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **MAINFRAME RAW, VIP KEYCARD (UNEDITED)**  
-> 11:42:04 p.m., Card #VIP-OR-07, **DR. CURIE**, surgery chief tier  
+> 11:42:04pm, Card #VIP-OR-07, **DR. CURIE**, surgery chief tier  
 > Reader: Eastern secure corridor → OR Two approach  
 > Duration: 58 seconds inside blackout window  
 > Compare: edited log (E4-D) shows **NO ENTRY**  
@@ -308,9 +308,9 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **LOG COMPARISON, VANCE WORKSTATION**  
-> Raw timestamp: 11:42:04 p.m., **Dr. Curie**, surgery chief card, OR corridor  
+> Raw timestamp: 11:42:04pm, **Dr. Curie**, surgery chief card, OR corridor  
 > Published timestamp: **[ENTRY REMOVED]**  
-> Edit authorization: **ADMIN DIRECTIVE**, voice match flagged: Director Lovely  
+> Edit authorization: **ADMIN DIRECTIVE**, voice match flagged: Administrator Lovely  
 > Vance note: *"I botched it. Left the gap. I'm sorry. I'm sorry. eep."*
 
 ---

@@ -150,7 +150,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
             "Sachs in elevators",
             "Alfie's threats",
             "prison",
-            "the 11:42 p.m. overrides in the logs",
+            "the 11:42pm overrides in the logs",
         ],
     },
     "11-officer-diamond.md": {

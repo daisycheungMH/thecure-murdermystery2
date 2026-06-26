@@ -1,18 +1,15 @@
-
-
 LESBIAN CITY POLICE DEPARTMENT
 
 CRIMINAL TRANSVESTIGATION DIVISION
 
 Case File No.: LCPSD-CTV-0471-DC
 
-
-
 # PLAYER DOSSIER, CONFIDENTIAL
 
 CHARACTER NAME: Alfie De Worsti  
 AGE: 29  
 OCCUPATION: "Medical delivery driver" *(cover)* / gambler *(truth)*
+PRONOUNS: he/him
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -31,35 +28,36 @@ You look casual, restless, and slightly fake in a way people notice later. Wear 
 - being ignored
 - Homes near Pepper
 
-**Vibe**
-You are strategically inflammatory. You poke insecurities, stir reactions, and treat the investigation like entertainment. Under the screw up mask you are very observant.
+**Vibe** You are strategically inflammatory. You poke insecurities, stir reactions, and treat the investigation like entertainment. Under the screw up mask you are very observant.
 
-**Texture**
+**Act**
 
 - Smirk through serious moments
 - Escalate tension when the room settles
-- Say *"I think… maybe… I could be wrong…"* right before your truest lines
+- Say *"I think… maybe… I could be wrong…"* before your truest lines
 
-## 2. BACKSTORY & VICTIM
+## 2. BACKSTORY
 
-**Connection**
-De Worsti was your older brother.
+**Who you are**
 
-**History**
+- You are the younger De Worsti brother. **Alex** is your older brother. He runs the family name in Indigo District: lending, enforcement, debt dressed up as loyalty.
+- Alex married young, kept his wife isolated, and treated the family like collateral. You watched bruises and hollow holidays for years and stopped pretending it was discipline.
+- Alex drained the estate. You picked up gambling debts on the same circuit as **Dr. Jetski**. You came to St. Saphicca's tonight posing as supply delivery because this hospital is where the money and the grudges end up (you are searching for your brother Alex to get his help).
 
-- De Worsti drained the family and married Genevieve, now Lacey Lovely.
-- For years you saw bruises and hollow holidays before you came tonight with a knife and an insurance fantasy.
+**Where you came from**
 
-**Motive**
-Brother, insurance payout, and years of watching what he did to Genevieve. You intended to kill him yourself before someone else did.
+- You were the youngest De Worsti brother and your house looked perfect in photos but everyone was scared behind closed doors.
+- You watched Alex hit Genevieve and you stopped pretending that was normal family discipline.
+- Holidays at home were tense and you learned to stir people up instead of starting a fight you would lose.
+- You played poker with friends on nights when nobody talked about what happened at your house.
 
 **Opportunity**
-You slipped in as a fake supply delivery around 9 p.m.; Melody saw you enter. You had a hunting knife and hung near the VIP loading route, but you were not in the OR when the throat was cut.
+You slipped in as a fake supply delivery around 9pm; Melody saw you enter. You had a hunting knife and hung near the VIP loading route. You were not in the OR when the throat was cut.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
-Slipped in through the loading dock as fake supply delivery around 9 p.m.; Melody at the desk spotted you. You watched the wing from walls and exits and stayed near the VIP route. Someone else struck first.
+**Earlier tonight (roughly 8 to 11pm)**
+Slipped in through the loading dock as fake supply delivery around 9pm; Melody at the desk spotted you. You watched the wing from walls and exits and stayed near the VIP route.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 You were on the VIP loading route, posing as a "supply delivery."
@@ -68,21 +66,20 @@ You were on the VIP loading route, posing as a "supply delivery."
 Melody saw you slip in, but her testimony is weak and self serving.
 
 **Hide (minor)**
-The hunting knife, your insurance motive, and the fact that you intended to kill De Worsti yourself before someone else did.
+The hunting knife, your insurance angle, and why you really came tonight.
 
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Avoid a murder charge, chase the insurance angle if you can, and do not destroy Lacey/Genevieve.
+Avoid a murder charge and chase the insurance angle if you can.
 
 **Plan**
 
 - Bait obvious targets and stay near walls and exits.
 - Drop half truths that make two people fight.
-- In Ep 4, name Genevieve with hedged language and go soft on Lacey.
 
 ## ⚠️ RULES
 
 - **✓** Inflammatory bait, smirks, fake screw-up energy, observation disguised as jokes, escalation when the room settles.
-- **✗** No OR presence. The Ep 4 Genevieve backstory is mandatory once you are pressed.
+- **✗** No OR presence.
 

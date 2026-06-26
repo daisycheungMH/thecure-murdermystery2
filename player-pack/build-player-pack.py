@@ -194,7 +194,7 @@ CHARACTERS = [
     {
         "id": "lacey",
         "name": "Lacey Lovely",
-        "role": "Hospital Director",
+        "role": "Hospital Administrator",
         "resources": with_dossier("05-lacey-lovely.md", []),
     },
     {
@@ -254,6 +254,7 @@ HOST_RESOURCES = [
     {"id": "12-de-worsti-revelation-arc", "label": "De Worsti revelation arc", "path": "12-de-worsti-revelation-arc.md", "hint": "Episode reveal map"},
     {"id": "13-curie-charm-playbook", "label": "Curie charm playbook", "path": "13-curie-charm-playbook.md", "hint": "Ray flirt, Pepper ahem"},
     {"id": "actor-personas", "label": "Actor personas", "path": "14-actor-personas.md", "hint": "Performance guide for all eleven"},
+    {"id": "18-character-genders", "label": "Character genders (official)", "path": "18-character-genders.md", "hint": "Canonical pronouns for all characters"},
     {"id": "performance-script", "label": "Player performance script", "path": "player-performance-script.md", "hint": "Distribute to players"},
     {"id": "readme", "label": "Project README", "path": "README.md", "hint": "File index"},
     {"id": "01-dr-curie", "label": "Dossier: Dr. Curie", "path": "player-dossiers/01-dr-curie.md"},

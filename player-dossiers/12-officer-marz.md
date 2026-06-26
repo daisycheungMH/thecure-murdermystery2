@@ -13,6 +13,7 @@
 CHARACTER NAME: Officer Marlowe "Marz"  
 AGE: 29  
 OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
+PRONOUNS: she/they
 
 ## 1. PUBLIC PERSONA & TRAITS
 
@@ -35,10 +36,7 @@ You look polished, charming, and sharper than people expect. Wear a white button
 **Vibe**
 Honey drawl, brutal honesty, outlandish theories in plain English. You are junior to Officer Ray but you are not shy.
 
-## 2. BACKSTORY & VICTIM
-
-**Connection**
-De Worsti was a VIP patient in your wing tonight; you did not owe him money, but you do owe Ray your job.
+## 2. BACKSTORY
 
 **History**
 
@@ -46,16 +44,23 @@ De Worsti was a VIP patient in your wing tonight; you did not owe him money, but
 - Ray hired you because you are sharp and he needed someone who would actually dig.
 - You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly.
 
+**Where you came from**
+
+- You grew up in the South in a family that had some money but not enough to feel truly rich.
+- You learned to be polite and keep your nails perfect at parties your family made you attend.
+- The Municipal Watch fired you because you told a councilman his alibi was fake right to his face.
+- Ray hired you anyway and you drink sweet tea on the porch when you need to think without your uniform on.
+
 **Motive**
 None personal toward De Worsti. Loyalty to Ray, who gave you this job after Municipal Watch fired you.
 
 **Opportunity**
 Eastern VIP corridor patrol, then OR perimeter when the code dropped. Radio partial log backs you. You noticed the torn keycard log page around 9:30 and waited to see who flinched.
 
-**Earlier tonight (roughly 8 to 11 p.m.)**
-Junior corridor patrol from roughly 9 p.m. and radio checks with Ray.
+**Earlier tonight (roughly 8 to 11pm)**
+Junior corridor patrol from roughly 9pm and radio checks with Ray.
 
-## 3. ALIBI (11:42 p.m.)
+## 3. ALIBI (11:42pm)
 
 **Where**
 Eastern VIP corridor patrol, then OR perimeter when the code dropped (with Ray en route).
@@ -84,6 +89,6 @@ Prove you belong on this case beside Ray, find the killer, and do not make a foo
 
 ## ⚠️ RULES
 
-- **✓** Southern belle politeness with a knife underneath. Nail painting. Wild theories.
+- **✓** Southern belle politeness with a knife underneath, nail painting, and wild theories.
 - **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder.
 

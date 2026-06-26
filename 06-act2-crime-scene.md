@@ -118,7 +118,7 @@ Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink
 | Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** (subtle Homes absolution: two phases. Rules out one frozen surgeon standing in place) |
 | Search anesthesia trash | Empty vial, compromised seal | **E1-B IV vial** |
 | Search De Worsti's coat (with Ray present) | Dossier on ex wife reconstruction | **E1-C P.I. file** |
-| Interview Melody at desk | "I called the code." Spotted **Alfie** slip in as delivery ~9 p.m.; saw **Homes** in hall earlier | Testimony only |
+| Interview Melody at desk | "I called the code." Spotted **Alfie** slip in as delivery ~9pm; saw **Homes** in hall earlier | Testimony only |
 | Ask about power failure | Vance stammers; override "from admin tier", vague until Ep 2 | Foreshadow E2-C absolution (not OR console) |
 | Accuse Homes immediately | Ray: *"Maybe. Show me proof that isn't standing still."* | No arrest yet; E1-A/E2-A will complicate |
 | Demand to search Admin office / Lacey's background | Ray proceeds; **Curie** adds *"unlikely primary actor, still a lead"*; **Lacey** may invoke Administrative Override once | Lacey ability foreshadow |
@@ -138,7 +138,7 @@ When blood pattern + vial + at least two testimonies are logged (or 30+ minutes 
 **RAY** (closing the scene):
 
 > OR's closed. De Worsti goes to the morgue. Everyone's statements are on paper.  
-> Cops aren't here. I am. We get the vault records, who flipped the power, and whatever Vance swears he can't find, before those sirens show up.
+> Cops aren't here. I am. We get the vault records, who flipped the power, and whatever Vance swears she can't find, before those sirens show up.
 
 **CURIE** (to players):
 
