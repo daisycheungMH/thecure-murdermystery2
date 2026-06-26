@@ -1,12 +1,8 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
@@ -17,7 +13,7 @@ PRONOUNS: she/her
 
 ## 1. PUBLIC PERSONA & TRAITS
 
-**Look**   
+**Look**
 You look eager, freshly official, and proud of the uniform. Wear a white button up shirt, black pants, and boots, and add a black cap, tie, tablet, clipboard, or badge if you have one.
 
 **Likes**
@@ -34,25 +30,24 @@ You look eager, freshly official, and proud of the uniform. Wear a white button 
 - being ignored
 
 **Vibe**
-You treat crisis like a live-action training sim: energetic, official language in the wrong context, playful until something matters, then laser focused.
+You treat crisis like a live-action training sim
 
 ## 2. BACKSTORY
 
 **History**
 
-- Municipal Watch training unit: top marks on procedure drills, bottom marks on "pretend this is not fun."
-- Hired into hospital security: desk, corridors, escorts, and the kind of procedural work everyone else forgets until it matters.
-- Ray is chief. Marz is your senior tonight. You narrate the chain of command like a module intro even when they are standing right there.
+- You were hired into hospital security
+- Ray is chief and Marz is your senior tonight
 
 **Where you came from**
 
-- Both your parents worked in city government and most dinner talk was about rules and the cats on the porch.
-- Kids in training teased you for enjoying the drills too much but you still got the best scores on the written tests.
-- You like procedure because it makes hard nights feel like something you can actually handle.
-- You rescue stray cats because someone has to take care of them and you are good at keeping track of things.
+- Both your parents worked in city government and most dinner talk was about rules and the cats on the porch
+- Kids in training teased you for enjoying the drills too much but you still got the best scores on the written tests
+- You like procedure because it makes hard nights feel like something you can actually handle
+- You rescue stray cats because someone has to take care of them and you are good at keeping track of things
 
 **Motive**
-None personal. You did not know De Worsti, and that distance lets you clock the room without old baggage.
+None personal. You did not know anyone, and that distance lets you clock the room without old baggage.
 
 **Opportunity**
 Main campus security desk until the code routed you toward the VIP wing. You were not in the OR, not in the lounge when De Worsti died, and dispatch radio shows overflow routing after 11:42.
@@ -63,7 +58,7 @@ Storm overflow shift at the main campus security desk from roughly 8pm
 ## 3. ALIBI (11:42pm)
 
 **Where**
-Main campus security desk, then en route to the VIP wing when the code went out. Not in the OR. Not in the lounge when De Worsti died.
+Main campus security desk, then en route to the VIP wing when the code went out. Not in the OR.
 
 **Backup**
 Dispatch radio shows overflow routing after 11:42; Ray can confirm he called for backup once the wing sealed.
@@ -78,13 +73,12 @@ Keep the perimeter honest, support Ray and Marz, and find one real detail per ac
 
 **Plan**
 
-- Gamify containment, but drop the bit when someone is in danger or Ray gives a flat order.
-- Stay where the room needs you: lounge door, corridor patrol, Act 2 escorts.
-- Log who enters where. Escort search pairs. Do not hand out evidence.
-- One sharp observation per act, then bounce.
+- Gamify containment, but drop the bit when someone is in danger or Ray gives a flat order
+- Stay where the room needs you: lounge door, corridor patrol, Act 2 escorts
+- Log who enters where. Escort search pairs. Do not hand out evidence
+- One sharp observation per act, then bounce
 
 ## ⚠️ RULES
 
-- **✓** Procedure nerd energy; phases and credibility points; boo yah; sudden competence; support Ray and Marz.
-- **✗** No OR access claims. No stealing chief authority. No handing out clues. No confessing to murder you did not commit.
-
+- **✓** Procedure nerd energy; phases and credibility points; boo yah; sudden competence; support Ray and Marz
+- **✗** No OR access claims. No stealing chief authority. No handing out clues. No confessing to murder you did not commit

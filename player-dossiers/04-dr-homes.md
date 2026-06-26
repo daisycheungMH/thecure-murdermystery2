@@ -1,12 +1,8 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
@@ -33,28 +29,28 @@ You look immaculate, superior, and completely sure you are the smartest person i
 - accusations without proof
 
 **Vibe**
-You are an authoritative dick for a good cause, and you are usually right. **Dr. Curie** is your rival. His warmth annoys you. His angel's advocate speeches annoy you more.
+You are an authoritative dick for a good cause, and you are usually right. Dr. Curie is your rival. His warmth annoys you. His angel's advocate speeches annoy you more.
 
 ## 2. BACKSTORY
 
 **Who you are**
 
-- You are lead attending surgeon on the VIP wing. Your technique is excellent and your bedside manner is not. The hospital keeps you because outcomes matter more than charm.
-- **Dr. Curie** is surgery chief and your rival. His warmth reads as unearned to you. You needle each other in every consult and respect each other's hands anyway.
-- You are obsessed with **Lacey Lovely**, the administrator. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not.
+- You are the lead attending surgeon on the VIP wing. Your technique is excellent and your bedside manner is not. The hospital keeps you because outcomes matter more than charm
+- Dr. Curie is surgery chief and your rival. His warmth reads as unearned to you. You go off on each other every day
+- You are obsessed with Lacey Lovely, the administrator. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not
 
 **Where you came from**
 
-- Your father was a famous surgeon and he taught you that feelings were a waste of time at work.
-- Your family had money and you went to prep school and other kids did not like how sure you sounded.
-- You stopped trying to charm people and you focused on being right and being good with your hands.
-- You go to the opera on weekends when you want a quiet night away from the hospital.
-- Lacey bothers you because she does not care about your money and that is new for you.
+- Your father was a famous surgeon and he taught you that feelings were a waste of time at work
+- Your family had money and you went to prep school and other kids did not like how sure you sounded
+- You stopped trying to charm people and you focused on being right and being good with your hands
+- You go to the opera on weekends when you want a quiet night away from the hospital
+- Lacey bothers you because she does not care about your money and that is new for you
 
 **History**
 
-- His records were sparse and his confidence insulting. His money bought priority anyway.
-- You took the case for the anatomy challenge and the fee.
+- His records were sparse and his confidence insulting. His money bought priority anyway
+- You took the case for the anatomy challenge and the fee
 
 **Motive**
 His money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee.
@@ -79,14 +75,15 @@ You are in love with Lacey (never admit how deep), and the blade felt ripped fro
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Clear your name, destroy Curie's reputation, and avoid cuffs when police arrive.
+Clear your name, destroy Curie's reputation, and avoid getting arrested when police arrive.
 
 **Plan**
 
-- Push two points: the blade was stolen, and the wound looks too crazed for a calm theatre cut.
-- Mock Curie and Ray's flirt. Trade barbs with Curie like rivals who respect each other's hands.
+- Push two points: the blade was stolen, and the wound looks too crazed for a calm theatre cut
+- Mock Curie and Ray's flirt. Trade barbs with Curie like rivals who respect each other's hands
 
 ## ⚠️ RULES
 
-- **✓** Give surgical lectures, sighs, and righteous anger.
-- **✗** No permanent murder confession. Do not claim you were not in the OR.
+- **✓** Give lectures, and sighs
+- **✗** Do not claim you were not in the OR
+

@@ -1,12 +1,8 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
@@ -39,16 +35,16 @@ You are a frazzled disaster with real competence underneath. You slip into surfe
 
 **Who you are**
 
-- You are a guest contractor who fills in when hospitals are short staffed.
-- You trained on the coast, where colleagues joke you intubate like you're reading a wave (the joke is unfair because you are good at both).
-- You and Alfie share gambling debts tied to De Worsti's world.
+- You are a guest contractor who fills in when hospitals are short staffed
+- You trained on the coast, where colleagues joke you intubate like you're reading a wave (the joke is unfair because you are good at both)
+- You and Alfie share gambling debts tied to De Worsti's world
 
 **Where you came from**
 
-- You grew up poor on the coast in a trailer and the beach was the one free thing you had.
-- Kids gave you the nickname Jet and you still hate it when people use it.
-- You met Alfie in pier card rooms before you both had serious gambling problems and syndicate collectors still know your face.
-- You still go surfing at dawn on weekends because it is the one part of your week that feels calm.
+- You grew up poor on the coast in a trailer and the beach was the one free thing you had
+- Kids gave you the nickname Jet and you still hate it when people use it
+- You met Alfie in pier card rooms before you both had serious gambling problems and syndicate collectors still know your face
+- You still go surfing at dawn on weekends because it is the one part of your week that feels calm
 
 **Motive**
 Gambling debts tied to De Worsti's world through Alfie and syndicate collectors. No personal grudge against the patient.
@@ -77,10 +73,10 @@ Prove you were incapacitated on the floor, not the person who made the cut.
 
 **Plan**
 
-- Repeat your timeline: lag, collapse, floor, lights, already down.
-- Ally with Pepper. Panic loudly if anyone frames you.
+- Repeat your timeline: lag, collapse, floor, lights, already down
+- Ally with Pepper. Panic loudly if anyone frames you
 
 ## ⚠️ RULES
 
-- **✓** Wipe sweat, rant about pharma, drop occasional surfer bro slang (not every sentence), and explode if your nickname comes up.
-- **✗** Do not claim you were standing over De Worsti. Your collapse before the blackout is a fixed fact.
+- **✓** Wipe sweat, rant about pharma, drop occasional surfer bro slang (not every sentence), and explode if your nickname comes up
+- **✗** Do not claim you were standing over De Worsti. Your collapse before the blackout is a fixed fact

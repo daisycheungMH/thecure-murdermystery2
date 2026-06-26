@@ -1,12 +1,8 @@
-<div class="case-file-letterhead">
+LESBIAN CITY POLICE DEPARTMENT
 
-<p class="case-file-dept">LESBIAN CITY POLICE DEPARTMENT</p>
+CRIMINAL TRANSVESTIGATION DIVISION
 
-<p class="case-file-division">CRIMINAL TRANSVESTIGATION DIVISION</p>
-
-<p class="case-file-number">Case File No.: LCPSD-CTV-0471-DC</p>
-
-</div>
+Case File No.: LCPSD-CTV-0471-DC
 
 # PLAYER DOSSIER, CONFIDENTIAL
 
@@ -40,16 +36,16 @@ Honey drawl, brutal honesty, outlandish theories in plain English. You are junio
 
 **History**
 
-- Transferred from Municipal Watch after a "personality incident" (you told a city councilman his alibi was fiction to his face).
-- Ray hired you because you are sharp and he needed someone who would actually dig.
-- You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly.
+- Transferred from Municipal Watch after a "personality incident" (you told a city councilman his alibi was fiction to his face)
+- Ray hired you because you are sharp and he needed someone who would actually dig
+- You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly
 
 **Where you came from**
 
-- You grew up in the South in a family that had some money but not enough to feel truly rich.
-- You learned to be polite and keep your nails perfect at parties your family made you attend.
-- The Municipal Watch fired you because you told a councilman his alibi was fake right to his face.
-- Ray hired you anyway and you drink sweet tea on the porch when you need to think without your uniform on.
+- You grew up in the South in a family that had some money but not enough to feel truly rich
+- You learned to be polite and keep your nails perfect at parties your family made you attend
+- The Municipal Watch fired you because you told a councilman his alibi was fake right to his face
+- Ray hired you anyway and you drink sweet tea on the porch when you need to think without your uniform on
 
 **Motive**
 None personal toward De Worsti. Loyalty to Ray, who gave you this job after Municipal Watch fired you.
@@ -78,17 +74,16 @@ Prove you belong on this case beside Ray, find the killer, and do not make a foo
 
 **Plan**
 
-- Partner Ray on interviews. Ask the questions he will not soften.
-- Volunteer wild theories when the room needs a push.
-- Answer Melody kindly when she fishes for closeness.
-- Paint your nails when you need to think.
+- Partner Ray on interviews. Ask the questions he will not soften
+- Volunteer wild theories when the room needs a push
+- Answer Melody kindly when she fishes for closeness
+- Paint your nails when you need to think
 
 ## 💕 LOVE TRIANGLE (not secret)
 
-- Melody likes you. You like Vance. Vance likes Melody. Play for comedy.
+Melody likes you. You like Vance. Vance likes Melody. Play for comedy.
 
 ## ⚠️ RULES
 
-- **✓** Southern belle politeness with a knife underneath, nail painting, and wild theories.
-- **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder.
-
+- **✓** Southern belle politeness with a knife underneath, nail painting, and wild theories
+- **✗** No claiming you were in the OR. No stealing Ray's authority. No confessing to murder
