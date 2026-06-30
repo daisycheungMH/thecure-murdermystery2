@@ -8,7 +8,7 @@ Case File No.: LCPSD-CTV-0471-DC
 
 CHARACTER NAME: Officer Marlowe "Marz"  
 AGE: 29  
-OCCUPATION: Junior Security Officer, St. Saphicca's (ex–Municipal Watch)
+OCCUPATION: Junior Security Officer, St. Saphicca's (ex LCPD)
 PRONOUNS: she/they
 
 ## 1. PUBLIC PERSONA & TRAITS
@@ -36,25 +36,25 @@ Honey drawl, brutal honesty, outlandish theories in plain English. You are junio
 
 **History**
 
-- Transferred from Municipal Watch after a "personality incident" (you told a city councilman his alibi was fiction to his face)
-- Ray hired you because you are sharp and he needed someone who would actually dig
+- Transferred from LCPD after a "personality incident" (you told a city councilman his alibi was fiction to his face)
+- Ray hired you because you are sharp and she needed someone who would actually dig
 - You have been half in love with Vance for months. Melody has been half in love with you for weeks. None of you have said it cleanly
 
 **Where you came from**
 
 - You grew up in the South in a family that had some money but not enough to feel truly rich
 - You learned to be polite and keep your nails perfect at parties your family made you attend
-- The Municipal Watch fired you because you told a councilman his alibi was fake right to his face
+- The LCPD fired you because you told a councilman his alibi was fake right to his face
 - Ray hired you anyway and you drink sweet tea on the porch when you need to think without your uniform on
 
 **Motive**
-None personal toward De Worsti. Loyalty to Ray, who gave you this job after Municipal Watch fired you.
+None personal toward De Worsti. Loyalty to Ray, who gave you this job after LCPD fired you.
 
 **Opportunity**
-Eastern VIP corridor patrol, then OR perimeter when the code dropped. Radio partial log backs you. You noticed the torn keycard log page around 9:30 and waited to see who flinched.
+Eastern VIP corridor patrol, then OR perimeter when the code dropped. Radio partial log backs you. You know Curie was working farther east, and the backup camera mess later makes that harder to ignore.
 
 **Earlier tonight (roughly 8 to 11pm)**
-Junior corridor patrol from roughly 9pm and radio checks with Ray.
+Junior corridor patrol from roughly 9pm and radio checks with Ray. You saw Curie on the eastern liaison side, not near the OR Two approach.
 
 ## 3. ALIBI (11:42pm)
 
@@ -62,10 +62,10 @@ Junior corridor patrol from roughly 9pm and radio checks with Ray.
 Eastern VIP corridor patrol, then OR perimeter when the code dropped (with Ray en route).
 
 **Backup**
-Radio partial log; you were not in the OR during the incision.
+Radio partial log; you were not in the OR during the incision. You can also say Curie was posted farther east if the room starts treating her like she walked that hall herself.
 
 **Hide (minor)**
-You noticed the torn keycard log page before Ray did. You did not tell him immediately because you wanted to see who panicked first.
+You knew the badge story felt off before the room could prove why. Do not invent camera evidence yourself, but once it surfaces you can honestly say it fits what you saw: Curie was farther east, not near OR Two.
 
 ## 4. SECRET OBJECTIVE
 
@@ -74,10 +74,11 @@ Prove you belong on this case beside Ray, find the killer, and do not make a foo
 
 **Plan**
 
-- Partner Ray on interviews. Ask the questions he will not soften
+- Partner Ray on interviews. Ask the questions she will not soften
 - Volunteer wild theories when the room needs a push
 - Answer Melody kindly when she fishes for closeness
 - Paint your nails when you need to think
+- If footage comes up, press the simple version: if the camera hall is empty and Curie is east, somebody messed with a system
 
 ## 💕 LOVE TRIANGLE (not secret)
 

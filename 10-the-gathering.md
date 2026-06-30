@@ -14,7 +14,7 @@
 - **Homes** sits or stands under the brightest light if possible.  
 - **Jetski** may be in a wheelchair or slumped chair, still medicated, hands unsteady.  
 - **Pepper** should still carry OR terror, bloodless knuckles, voice not fully steady; sage returns slowly.  
-- **Ray** at the head. **Marz** beside him (junior, notebook, nail polish). **Curie** beside Ray on the same side. Unified front.  
+- **Ray** at the head. **Marz** beside her (junior, notebook, nail polish). **Curie** beside Ray on the same side. Unified front.  
 - Read **NARRATOR** blocks yourself; players deliver their own lines where marked **(PLAYER)**.  
 - **Persona guide:** [14-actor-personas.md](14-actor-personas.md), encourage big, fun choices; plot beats stay the same.
 - **Officer Diamond:** She reaches the lounge door after Ray's briefing (see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)).
@@ -24,9 +24,9 @@
 ## NARRATOR, OPEN
 
 > The VIP Recovery Lounge was built for donors and executives, soft light, skyline views, the illusion that nothing here could go wrong.  
-> Tonight the generators stutter. Rain lashes the glass. Somewhere below, a municipal radio repeats the same sentence: *hold position, no ETA.*  
-> Officer Ray has pulled everyone with access to this wing into one room. Officer Marz is with him. Not a request. The wing is locked down.  
-> The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves has not fully dried.  
+> Tonight the generators stutter. Rain lashes the glass. Somewhere below, an LCPD radio repeats the same sentence: *hold position, no ETA.*  
+> Officer Ray has pulled everyone with access to this wing into one room. Officer Marz is with her. Not a request. The wing is locked down.  
+> The body of De Worsti is still in the operating theater. The blood on Dr. Homes's gloves and gown has not fully dried.  
 > And eleven people who hated the dead man, or loved him, or owed him, are about to learn they cannot leave until someone answers for what happened in the dark.
 
 *Door locks. Distant thunder.*
@@ -37,7 +37,7 @@
 
 *Ray enters last. Curie already inside, arms loose, watching faces. Nobody speaks until Ray closes the door.*
 
-**RAY** sets his notebook on the table. Looks at each person in turn. When he reaches **Homes**, he doesn't look away.
+**RAY** sets her notebook on the table. Looks at each person in turn. When she reaches **Homes**, she doesn't look away.
 
 > **RAY:** I'm Officer Ray. I run security here. Used to work for the city cops. Right now I'm the senior guard in this building. Officer Marz's with me.
 
@@ -57,9 +57,9 @@
 
 > Doctor, you'll get your turn. All of you will.
 
-*He shifts, half a step closer to **Ray** than strictly necessary. The room notices.*
+*She shifts, half a step closer to **Ray** than strictly necessary. The room notices.*
 
-> **CURIE:** I'm Dr. Curie, Chief of Surgery. Until Municipal Watch gets through the flood, and they are not here yet, I am medical liaison on this death.  
+> **CURIE:** I'm Dr. Curie, Chief of Surgery. Until LCPD gets through the flood, and they are not here yet, I am medical liaison on this death.  
 > That means cause, mechanism, and whether anyone in this room had the skill and the access to do what was done.
 
 **RAY** (PLAYER: gruff, almost softening):
@@ -70,7 +70,7 @@
 
 > Officer, I'd flirt back, but we have a corpse and a flood. Another time.
 
-*Light laugh from **Melody** or **Jetski**. **RAY** exhales like he's been disarmed.*
+*Light laugh from **Melody** or **Jetski**. **RAY** exhales like she's been disarmed.*
 
 **PEPPER** (PLAYER: **sharp ahem**; comedic beat):
 
@@ -95,7 +95,7 @@
 
 > **RAY:** (flat) Administrator Lovely. You locked this wing down twenty minutes ago. That order came from your office. Your lawyer can wait until I say otherwise.
 
-*Lacey holds his gaze. Sits. Says nothing.*
+*Lacey holds her gaze. Sits. Says nothing.*
 
 > **RAY:** I called the real cops. They logged it. Answer back was wait, roads are flooded. No patrol car. No detective. Nobody's coming up those elevators for hours.  
 > (beat, harder)  
@@ -134,7 +134,7 @@
 
 **CURIE** (quiet, surgical):
 
-> The wound was not panic. It was passionate, almost crazed. But a scalpel did it, and that could be a surgeon's hand or a man's rage.
+> The wound was not panic. It was passionate, almost crazed. Theatre steel was in Homes's hand when the lights returned. That could be a surgeon's rage. It could be a frame.
 
 *Not accusation. Worse, assessment. The room hears it as verdict.*
 
@@ -220,7 +220,7 @@
 > (to Ray, professional)  
 > Surgical read? An administrator facilitates, she doesn't usually make the incision herself. Unlikely primary cutter. Still a lead. Run it.
 
-*Lacey doesn't blink. Curie sounds helpful because he is, on the record.*
+*Lacey doesn't blink. Curie sounds helpful because she is, on the record.*
 
 ---
 
@@ -268,7 +268,7 @@
 
 > **CURIE:** Officer Ray cannot process a coordinated murder alone. I cannot autopsy a conspiracy from a cot.  
 > Every person in this lounge was inside the VIP wing when De Worsti died. That makes you witnesses, suspects, or both.  
-> The municipal watch is not walking through that flood tonight. The killer may still be in this wing, I don't say that to panic you. I say it because it's true.  
+> The LCPD is not walking through that flood tonight. The killer may still be in this wing, I don't say that to panic you. I say it because it's true.  
 > So here's what happens next. We split the wing. We log evidence. We cross check access, pharmacy, power, keycards, and testimony. You don't get to go home and invent an alibi in the rain.
 
 **RAY:**
@@ -296,7 +296,7 @@
 > (quieter, to Pepper or the room)  
 > That's the part that's going to stay with me, man.
 
-*Silence. **Curie** may offer a warm, dismissive line. **Ray** may tell him to focus. **Homes** may snap. Let it land, then move on.*
+*Silence. **Curie** may offer a warm, dismissive line. **Ray** may tell her to focus. **Homes** may snap. Let it land, then move on.*
 
 > **CURIE:** (optional, pleasant) Doctor, you're medicated and you're frightened. That's fair. Let's channel it into evidence.
 
@@ -312,7 +312,7 @@
 | **Pepper** | Witness; incapacitated first; torn about Homes |
 | **Jetski** | Paralyzed pre blackout; wrong profile for the cutter; surfer bro panic; **killer among us** beat delivered |
 | **Curie** | Charm on; Ray endeared; Pepper ahem; Homes annoyed |
-| **Ray** | Containment; no police; admits own debt |
+| **Ray** | Containment; no police; admits old conflict with De Worsti; discharge and fire history if pressed |
 | **Marz** | Junior badge; wild theory optional; Melody/Vance triangle beat |
 | **Lacey** | Administrator distance; crisis lock invoked |
 | **Melody** | Called code; spotted Alfie slip in; hints missing log / cameras |

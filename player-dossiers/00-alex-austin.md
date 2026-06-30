@@ -42,22 +42,23 @@ You are a controlling crime lord in a hospital gown. Everything is a negotiation
 **Who you were**
 
 - You built an Indigo District empire on predatory lending, enforcement, and debt dressed up as family loyalty. Bankrupt on paper. Violent in practice
-- You married Genevieve young, ran her life as property, isolated her, beat her when she questioned your business, and called cruelty discipline. You kept her from her father Ray for years
-- When she took money from your ledger and fled, you burned homes and hired hunters. You never stopped looking
+- You married **Genevieve Roper** in **1976** after **Ajax** traded her to you as debt collateral. On paper she became **Genevieve De Worsti**. You ran her life as property, isolated her, beat her when she questioned your business, and called cruelty discipline. You kept her from her mother Ray for years
+- When Ray hunted Genevieve using LCPD resources, you sent **Uvula Sachs** and goons to burn Ray's residence on **13 September 1977**. Ray's **mother Gemma Roper** and **sister Junie Roper** died. Ray was discharged the month before. You never stopped hunting Genevieve after she fled with your money in **1980**
 - Your brother Alfie watched the bruises and hollow holidays. Your enforcer Sachs runs collections. Half the VIP wing tonight owes you money or fear
 
 **Where you came from**
 
 - You grew up poor in the Indigo District and you learned early that having something on people gets you what you want
 - You built a lending business that looked like family loyalty on the outside but it was predatory underneath
-- Genevieve was young and guarded and you married her because she made you look respectable to other people
+- Genevieve was young and guarded. **Ajax** handed her to you in **1976** to cover his debts and vanished. You married her because she made you look respectable to other people
 - You kept her isolated and you hurt her and you called it discipline until she ran
 
 **Names in the building**
 
 - Staff and paperwork call you **Mr. De Worsti**
-- Ray and Lacey still say **Alex** in private. Ray is Lacey's father. He hates you for what you did to her
-- Your ledger initials are **A.A.** Genevieve is **G.A.** The room will not connect those dots until Episode 4
+- Ray and Lacey still say **Alex** in private. Ray is Lacey's mother. She hates you for what you did to her
+- Your ledger initials are **A.D.W.** Genevieve's married initials were **G.D.W.**, for **Genevieve De Worsti**. The room will not connect those dots until Episode 4
+- Indigo enforcers, underground filings, and redacted press call you **Purple Reign**. Hospital staff never use it
 
 ## 3. TONIGHT (11:42pm)
 
@@ -71,7 +72,7 @@ Your arterial wall is genuinely compromised, with borderline rupture, and you ne
 You booked St. Saphicca's on purpose. Lacey's hospital. You wanted the wing to know who owns the room. Homes took the case for skill and fee. Ray decided you would not walk out.
 
 **Your last beat**
-Sedated on the table when the lights die. A choked inhale in the dark. Then Ray's scalpel, and you are meat on tile when the red emergency lights return.
+Sedated on the table when the lights die. A choked inhale in the dark. Then Ray's improvised razor, and you are meat on tile when the red emergency lights return.
 
 ## 4. PERFORMANCE OBJECTIVES
 
@@ -95,6 +96,6 @@ Set the tone in the prologue, then get out of the players' way. You are the woun
 - Episode 1: controlling VIP, real surgery, half the wing in your debt, old bruise you gave as well as received
 - Episode 2: somebody planned your death. The room just hasn't caught up yet. Vance was forced to hunt Genevieve digitally for Sachs
 - Episode 3: Alfie, Sachs, and others came to hurt or kill you tonight
-- Episode 4: Genevieve's abuse, the fire, the hunt, why you chose this hospital. The ballot asks whether your killer was a murderer, an executioner, or a symptom of a broken system
-- Ray killed you to protect his daughter. You were worse than any of them, and that does not erase the law
+- Episode 4: Genevieve's abuse, **Ajax trade**, Ray residence fire, the hunt, why you chose this hospital. The ballot asks whether your killer was a murderer, an executioner, or a symptom of a broken system
+- Ray killed you to protect her daughter. You were worse than any of them, and that does not erase the law
 

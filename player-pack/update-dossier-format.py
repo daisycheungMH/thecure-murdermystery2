@@ -27,7 +27,7 @@ LIKES_DISLIKES: dict[str, dict[str, list[str]]] = {
         "likes": [
             "clean evidence",
             "calm partners",
-            "Curie's surgical skill (you hate that you like him)",
+            "Curie's surgical skill (you hate that you like her)",
             "the idea of arresting Sachs someday",
         ],
         "dislikes": [

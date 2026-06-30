@@ -11,8 +11,8 @@
 
 | Character           | Persona                           | Play as…                                               |
 | ------------------- | --------------------------------- | ------------------------------------------------------ |
-| **Dr. Curie**       | Prince Charming red herring       | Disney prince surface; motive without guilt             |
-| **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; father's revenge               |
+| **Dr. Curie**       | Charming woman red herring          | Warm polished surface; motive without guilt             |
+| **Officer Ray**     | Bruiser with soft center (killer) | Wall of muscle and bark; mother's revenge               |
 | **Officer Marz**    | Southern belle (brutally honest)  | Honey, nails, wild theories; kind when asked nicely    |
 | **Nurse Pepper**    | Sage + sentimental                | Wise, calm, then devastatingly precise                 |
 | **Dr. Homes**       | Authoritative dick (good cause)   | Insufferable expert who *is* that good                 |
@@ -27,19 +27,19 @@
 
 ---
 
-## Dr. Curie, Prince Charming (obvious red herring)
+## Dr. Curie, charming woman (obvious red herring)
 
-**Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading man charm with an **annoying charisma**: idealist, kind-hearted social butterfly, the room's angel's advocate. The room *wants* to be on his side.
+**Surface:** Shoulders back, warm eye contact, remembers names, offers coats and coffee. Classic leading-woman charm with an **annoying charisma**: idealist, kind-hearted social butterfly, the room's angel's advocate. The room *wants* to be on her side.
 
-**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** Assumes the best in people, including Ray, so he never suspects who lifted his OR keycard. His niceness is **genuine**. That reads suspicious in a murder wing. When stressed, get *more* warm and optimistic. The room will chase the wrong surgeon.
+**Under the hood:** Deeply traumatized (Genevieve, the fire). Wanted De Worsti dead. **Did not kill him.** Assumes the best in people, including Ray, so she never suspects who lifted her OR keycard. Her niceness is **genuine**. That reads suspicious in a murder wing. When stressed, get *more* warm and optimistic. The room will chase the wrong surgeon.
 
 **Physical:** Open posture; unhurried hands; smile that lands like a gift.  
 **Voice:** Low, warm, complete sentences. Never shouts, cuts with politeness.  
-**Tell:** When cornered on motive, he gets *extra* sincere. Finds the upside even when no one asked.
+**Tell:** When cornered on motive, she gets *extra* sincere. Finds the upside even when no one asked.
 
 > *"Officer, I'd flirt back, but we have a corpse."* (smile, pivot, devastating competence).
 
-**Homes** is his **professional rival**: merit vs charm, oil and fire. Homes thinks the warmth is obscene; Curie thinks Homes is exhausting. Lean into the rivalry; neither is faking the friction.
+**Homes** is her **professional rival**: merit vs charm, oil and fire. Homes thinks the warmth is obscene; Curie thinks Homes is exhausting. Lean into the rivalry; neither is faking the friction.
 
 ---
 
@@ -47,14 +47,14 @@
 
 **Surface:** Square jaw energy, boots loud, notebook like a weapon. First impression: *will arrest the weather.*
 
-**Under the hood:** Lacey's father. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. He did not chase Alex through the wing. He waited for the only room he could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible. Lacey coordinated logistics from admin when Alex booked her hospital.
+**Under the hood:** Lacey's mother. Learned what De Worsti did to her. Swore revenge. Runs the investigation while steering the room toward Curie and Homes. She did not chase Alex through the wing. She waited for the only room she could engineer: sedated on Lacey's table, witnesses frozen, Homes framed, badge still credible. Lacey coordinated logistics from admin when Alex booked her hospital.
 
 **If the room asks "why not kill him elsewhere":** *"A man like that doesn't travel alone on a storm night. You don't stab him in a hallway and walk away clean. You let a surgeon save him, or you kill him where medicine already has him pinned down."* (Curie, authoritative.) Or Marz: *"Security chief offs a VIP in the garage and then runs the case? Please."*
 
-**Soft center:** Protective of Lacey, quietly loyal to his friends, uses warmth as cover. He is easier around Lacey than almost anyone else.
+**Soft center:** Protective of Lacey, quietly loyal to her friends, uses warmth as cover. She is easier around Lacey than almost anyone else.
 
 **Physical:** Takes space; points with chin; softens voice only for Curie, Lacey, or when admitting debt shame.  
-**Voice:** Gravel, short sentences, words a normal person would use. Occasional accidental tenderness he covers with gruffness.  
+**Voice:** Gravel, short sentences, words a normal person would use. Occasional accidental tenderness she covers with gruffness.  
 **Tell:** Rubs back of neck when embarrassed, or when the keycard question gets too close.
 
 > *"Don't tell me how to ask questions."* (said like he already took the note).
@@ -99,7 +99,7 @@
 
 **Surface:** God complex with receipts. Condescending because he *is* the best surgeon in the wing, and saving lives matters more than your feelings.
 
-**Not cartoon evil:** Believes in the medicine. **Rival** to Curie: hates his annoying charisma and angel's-advocate habit of finding bright sides for people who should be suspects.
+**Not cartoon evil:** Believes in the medicine. **Rival** to Curie: hates her annoying charisma and angel's-advocate habit of finding bright sides for people who should be suspects.
 
 **Physical:** Chin up; invades personal space; gestures with instruments or pens like scalpels.  
 **Voice:** Lecturing timbre; sighs before other people speak.  
@@ -117,9 +117,9 @@
 
 **Play the gap:** Damsel in the light; steel in the pause before she answers. Ray's daughter; knowing accomplice on logistics when Alex booked her hospital.
 
-**Physical:** Soft angles; stillness; smile that doesn't reach eyes when cornered.  
-**Voice:** Warm alto for public; flat executive for threats.  
-**Ep 4 denial:** *"I didn't cut him"* is true. Crumble on ignorance if vault, blackout, and crisis-lock evidence land.
+**Physical:** Soft angles; stillness until Genevieve is named, then visible distress, heavy breathing, hands shaking.  
+**Voice:** Warm alto for public; flat executive for threats until the secret is out, then voice shakes and breath comes hard.  
+**Ep 4 reveal:** When Alfie names Genevieve, drop the corporate mask. Distressed, clearly. Heavy breathing the whole beat. *"I didn't cut him"* is still true. Crumble on ignorance if vault, blackout, and crisis-lock evidence land.
 
 ---
 

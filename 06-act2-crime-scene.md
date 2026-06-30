@@ -29,7 +29,7 @@
 
 > **CURIE:** Start with what the lights didn't erase. Blood doesn't lie about order. Chemistry doesn't lie about timing.
 
-*Curie is helpful, witty, warm, the room likes him and will chase him. **Homes** is the only one visibly irritated. **Pepper** may **ahem** if Ray and Curie crowd the same clue. Ray steers every helpful path that isn't Curie's keycard or his own lack of OR access.*
+*Curie is helpful, witty, warm, the room likes her and will chase her. **Homes** is the only one visibly irritated. **Pepper** may **ahem** if Ray and Curie crowd the same clue. Ray steers every helpful path that isn't Curie's keycard or her own lack of OR access.*
 
 ---
 
@@ -48,7 +48,7 @@ Ray bags the scalpel **without** letting Homes touch it again.
 > **RAY:** (to room) Full names. Where you stood when the red lights came on. Pepper, write the times. I write the names.
 
 ### 3. Radio, no patrol (storm)
-Ray keys his radio:
+Ray keys her radio:
 
 > **RAY:** Guard shack, status on LC-4471.
 
@@ -83,7 +83,7 @@ Ray gestures to De Worsti's folded clothes in the anteroom.
 ### 6. Jetski hold
 Ray to Jetski (gurney or sitting against wall):
 
-> **RAY:** You're not arrested. You're also not leaving. Clinical witness. Pepper monitors. You say one word about dosing without me in the room, I'll put you in municipal cuffs anyway.
+> **RAY:** You're not arrested. You're also not leaving. Clinical witness. Pepper monitors. You say one word about dosing without me in the room, I'll put you in LCPD cuffs anyway.
 
 Jetski nods, pale.
 
@@ -91,9 +91,9 @@ Jetski nods, pale.
 
 ## CURIE'S INVESTIGATION POSTURE (obvious red herring)
 
-Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink.
+Curie doesn't pace. She *orients*, checks ceiling mounts, sight lines, scrub sink.
 
-> **CURIE:** (quiet, to Ray) That wound won't read as panic. It's violent, almost crazed. But it's a scalpel. Who else in this building had attending privileges tonight?
+> **CURIE:** (quiet, to Ray) That wound won't read as panic. It's violent, almost crazed. Homes is holding theatre steel. Who else in this building had attending privileges tonight?
 
 > **RAY:** Everyone with a grudge and a badge. Starting with him.
 
@@ -101,7 +101,7 @@ Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink
 
 > **CURIE:** Then we don't start with feeling. We start with floor patterns and who had vault access.
 
-*Curie is helpful, and the room will mistake his motive for guilt.*
+*Curie is helpful, and the room will mistake her motive for guilt.*
 
 **Optional Curie line** (if players rush Sachs):
 
@@ -115,7 +115,8 @@ Curie doesn't pace. He *orients*, checks ceiling mounts, sight lines, scrub sink
 
 | Player action | Host response | Evidence |
 |---------------|---------------|----------|
-| Examine OR floor near table | Two distinct blood behaviors visible | **E1-A Blood pattern** (subtle Homes absolution: two phases. Rules out one frozen surgeon standing in place) |
+| Examine OR floor near table | Two distinct blood behaviors visible; cast-off on Homes's gown noted | **E1-A Blood pattern** (subtle Homes absolution: two phases on floor and wear. Rules out one frozen surgeon standing in place) |
+| Search OR sharps / contaminated refuse | Red storm poncho and bloodied disposable facial razor | **E2-G** (Episode 2 deep search; drop early Ep 2 if room returns to OR) |
 | Search anesthesia trash | Empty vial, compromised seal | **E1-B IV vial** |
 | Search De Worsti's coat (with Ray present) | Dossier on ex wife reconstruction | **E1-C P.I. file** |
 | Interview Melody at desk | "I called the code." Spotted **Alfie** slip in as delivery ~9pm; saw **Homes** in hall earlier | Testimony only |
@@ -148,7 +149,7 @@ When blood pattern + vial + at least two testimonies are logged (or 30+ minutes 
 
 *Narrator:*
 
-> The storm kept hitting the glass. Municipal channels stayed empty. Somewhere two floors up, an administrative terminal held the ghost of a manual override. And somewhere in this wing, someone at the table already knew the wound looked too violent and crazed for a man still holding the blade when the red lights returned.
+> The storm kept hitting the glass. LCPD channels stayed empty. Somewhere two floors up, an administrative terminal held the ghost of a manual override. And somewhere in this wing, someone at the table already knew the wound looked too violent and crazed for a man still holding the blade when the red lights returned.
 
 *Cut to Episode 2 cutscene, **05-episode scripts.md** → "The Logic of the Needle"*
 
@@ -156,8 +157,8 @@ When blood pattern + vial + at least two testimonies are logged (or 30+ minutes 
 
 ## HOST NOTES
 
-- **No municipal patrol until Ep 4 coda**, see 09-storm containment logic.md.  
-- **Ray = killer + compromised authority:** procedural, credible, openly admits debt/motive, runs the board.
+- **No LCPD patrol until Ep 4 coda**, see 09-storm containment logic.md.  
+- **Ray = killer + compromised authority:** procedural, credible, openly admits conflict with De Worsti, runs the board.
 - **Curie steers participation** as red herring; room chases the charming surgeon.
 - Drop storm beats between acts: radio static, flood alerts, flickering generators.  
 - Do **not** reveal Lacey/Genevieve until Ep 2–4 evidence chain.

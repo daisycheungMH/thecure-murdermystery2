@@ -10,6 +10,8 @@
 | [03-motivations-alliances.md](03-motivations-alliances.md) | Motives, secrets, faction politics |
 | [04-evidence-index.md](04-evidence-index.md) | Every clue card, prop, and when it drops |
 | [15-evidence-materials.md](15-evidence-materials.md) | **Player readable evidence text + props print list** |
+| [19-evidence-design.md](19-evidence-design.md) | **Evidence medium rules, log audit, solvability** |
+| [20-evidence-prop-reference.md](20-evidence-prop-reference.md) | **Evidence text + object photo reference (deletable images)** |
 | [05-episode-scripts.md](05-episode-scripts.md) | Cutscenes, prologue, narrator beats |
 | [06-act2-crime-scene.md](06-act2-crime-scene.md) | Live investigation opener, police handoff, crime scene |
 | [09-storm-containment-logic.md](09-storm-containment-logic.md) | **Why no police / why suspects investigate / Ray's conflict** |
@@ -41,3 +43,4 @@
 - **Ranges** (episodes, runtime): en dash (`3–4 hours`) or plain words (`Ep 1 to 3`) are fine.
 - **Compound modifiers:** prefer spaces (`pre op`, `night vision`) unless the term is a proper name or code.
 - **Sentence flow:** combine choppy fragments in dossiers and host docs; reserve short beats for scripted dialogue and stage panic.
+- **Evidence clues:** show don't tell; searchable handouts; see [19-evidence-design.md](19-evidence-design.md) and [15-evidence-materials.md](15-evidence-materials.md) → *Evidence medium guide*.

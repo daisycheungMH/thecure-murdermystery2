@@ -29,14 +29,14 @@ You look immaculate, superior, and completely sure you are the smartest person i
 - accusations without proof
 
 **Vibe**
-You are an authoritative dick for a good cause, and you are usually right. Dr. Curie is your rival. His warmth annoys you. His angel's advocate speeches annoy you more.
+You are an authoritative dick for a good cause, and you are usually right. Dr. Curie is your rival. Her warmth annoys you. Her angel's advocate speeches annoy you more.
 
 ## 2. BACKSTORY
 
 **Who you are**
 
 - You are the lead attending surgeon on the VIP wing. Your technique is excellent and your bedside manner is not. The hospital keeps you because outcomes matter more than charm
-- Dr. Curie is surgery chief and your rival. His warmth reads as unearned to you. You go off on each other every day
+- Dr. Curie is surgery chief and your rival. Her warmth reads as unearned to you. You go off on each other every day
 - You are obsessed with Lacey Lovely, the administrator. You want her attention, her approval, and maybe more. The room will read that as passion whether you admit it or not
 
 **Where you came from**
@@ -56,7 +56,7 @@ You are an authoritative dick for a good cause, and you are usually right. Dr. C
 His money insulted the hospital, and his confidence insulted you. You took the case for the anatomy and the fee.
 
 **Opportunity**
-You are the primary surgeon at dead center when the lights return, scalpel in your bloody gloves.
+You are the primary surgeon at dead center when the lights return, scalpel in your bloody gloves, blood spatter across your surgical gown and upper sleeves.
 
 **Earlier tonight (roughly 8 to 11pm)**
 Pre-op consult around 9:15, tension with Pepper in the suite, then at the table from roughly 10:45 until the generators failed.
@@ -79,7 +79,7 @@ Clear your name, destroy Curie's reputation, and avoid getting arrested when pol
 
 **Plan**
 
-- Push two points: the blade was stolen, and the wound looks too crazed for a calm theatre cut
+- Push two points: the blade was stolen, and the wound reads wrong for theatre scalpel work once refuse evidence lands
 - Mock Curie and Ray's flirt. Trade barbs with Curie like rivals who respect each other's hands
 
 ## ⚠️ RULES

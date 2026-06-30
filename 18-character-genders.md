@@ -6,13 +6,13 @@ Canonical pronouns for host docs, dossiers, and scripts. When a character refers
 
 | Character | Pronouns |
 |-----------|----------|
-| Dr. Curie | he/him |
+| Dr. Curie | she/her |
 | Officer Marlowe "Marz" | she/they |
 | Nurse Pepper | she/her |
 | Officer Diamond | she/her |
 | Melody | she/her |
 | CD Vance | she/her |
-| Officer Ray | he/him |
+| Officer Ray | she/her |
 | Dr. Homes | he/him |
 | Lacey Lovely | she/her |
 | Dr. Jetski | he/him |

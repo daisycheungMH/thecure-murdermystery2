@@ -20,7 +20,7 @@
 
                     Killer + investigator
 
-                    Lacey's father; revenge on De Worsti
+                    Lacey's mother; revenge on De Worsti
 
                            │
 
@@ -32,7 +32,7 @@
 
     First suspect      Obvious red        Secret lover of De Worsti
 
-    Must defend        herring; sanctuary  Throat clear comedy
+    Must defend        herring; university  Throat clear comedy
 
     himself            bond + skill       Hates Lacey
 
@@ -86,9 +86,9 @@
 
 | **Public face** | Wealthy VIP patient demanding priority care |
 
-| **Truth** | Bankrupt loan shark and crime lord; hunting ex wife Genevieve; **real** VIP arterial case booked at St. Saphicca's as power play on Lacey's hospital |
+| **Truth** | Bankrupt loan shark and crime lord; Indigo street name **Purple Reign**; hunting ex wife Genevieve; **real** VIP arterial case booked at St. Saphicca's as power play on Lacey's hospital |
 
-| **Crimes** | Years of violent abuse of **Genevieve** (see below); arson against Curie's family; predatory lending; threatened Ray's **mother and sister** |
+| **Crimes** | Years of violent abuse of **Genevieve** (see below); **arson at Ray's residence** (mother + Junie dead); predatory lending; traded Genevieve from **Ajax** as debt collateral |
 
 | **Why murdered** | Ray's revenge to protect Lacey; Alfie/Sachs had parallel plans |
 
@@ -106,7 +106,7 @@
 
 | **Surface motive** | Security chief running Containment Protocol Delta |
 
-| **Real motive** | Protect **Lacey**; revenge on De Worsti after years of watching what he did to her |
+| **Real motive** | Protect **Lacey**; revenge on De Worsti since the **1977 warning fire** killed her mother **Gemma** and sister **Junie** |
 
 | **Tonight** | Accelerated a plan when De Worsti's real surgery booking landed in Lacey's wing |
 
@@ -114,9 +114,9 @@
 
 | **Investigation play** | Runs the board; frames Homes; steers room toward **Curie** (red herring) |
 
-| **Secret** | Tore keycard log; **no OR access on his own badge**; stole **Curie's keycard** for blackout entry; mainframe shows Curie in OR |
+| **Secret** | Tore keycard log; **no OR access on her own badge**; stole **Curie's keycard** for OR entry; facial razor kill; red poncho in sharps refuse; **Lacey** triggered admin blackout and scrubbed primary logs; mainframe shows Curie in OR |
 
-| **Alliance** | Protects **Lacey**; performs partnership with **Curie** to keep eyes off himself |
+| **Alliance** | Protects **Lacey**; performs partnership with **Curie** to keep eyes off herself |
 
 
 
@@ -126,19 +126,19 @@
 
 |---|---|
 
-| **Persona** | Prince Charming, lovable social butterfly, traumatized, **not the killer** |
+| **Persona** | Charming woman, lovable social butterfly, traumatized, **not the killer** |
 
 | **Surface motive** | Beloved chief; cooperative investigator |
 
-| **Real motive** | Wanted De Worsti dead; failed Genevieve once; will not confess to a cut he did not make |
+| **Real motive** | Wanted De Worsti dead; learned too late what Alex had done to Lacey; will not confess to a cut she did not make |
 
-| **Why he looks guilty** | Sanctuary bond with Genevieve, surgical skill, OR corridor presence, charm that buys trust, **raw keycard log names his badge in OR during blackout** |
+| **Why she looks guilty** | University bond with Genevieve, surgical skill, OR corridor presence, charm that buys trust, **raw keycard log names her badge in OR during blackout** |
 
 | **Charm play** | **Deliberate warmth**, but for protection not murder cover; **Homes alone** finds it grating |
 
-| **Vs. Ray** | Flirty banter Ray half enjoys; senses Ray respects him and does **not** suspect him; Ray stole his OR keycard without his knowledge |
+| **Vs. Ray** | Flirty banter Ray half enjoys; senses Ray respects her and does **not** suspect her; Ray stole her OR keycard without her knowledge |
 
-| **Investigation play** | Contributes real clues; room chases him by default |
+| **Investigation play** | Contributes real clues; room chases her by default |
 
 | **Alliance** | **Lacey** (absolute); performs partnership with **Ray** |
 
@@ -160,13 +160,13 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 | **Real motive** | Finish escaping De Worsti forever; keep stolen fortune; protect new identity |
 
-| **Past** | De Worsti's first wife. Ray's daughter. Lived under his crime empire, isolated, beaten, financially erased, hunted after she fled with ledger cash |
+| **Past** | Born **Genevieve Roper** in **1957**. Ray's daughter. **Ajax** traded her into marriage with **Alex De Worsti** in **1976**; on paper she became **Genevieve De Worsti**. Lived under Alex's crime empire, isolated, beaten, financially erased, hunted after she fled with ledger cash in **1980** |
 
 | **Transformation** | Total facial reconstruction + legal name change to **Lacey Lovely**; built career at St. Saphicca's |
 
 | **Vs. De Worsti** | Sachs and other warnings told her he had found the hospital; his **real** VIP surgery booking was a power play on her turf |
 
-| **Vs. Ray** | Knew he had a plan when Alex booked her hospital; coordinated logistics (codes, wing lock, admin cover upstairs); never entered the OR |
+| **Vs. Ray** | Triggered admin blackout from upstairs; scrubbed primary desk trail post code; coordinated logistics (codes, wing lock, admin cover); never entered the OR |
 
 | **Public denial (Ep 4)** | Admits she ran and rebuilt her life; **denies the cut** (*"I didn't cut him"*, truthful); may lie about ignorance until vault/blackout evidence lands, then cannot honestly claim she knew nothing |
 
@@ -174,13 +174,13 @@ Full beat guide: [13-curie-charm-playbook.md](13-curie-charm-playbook.md)
 
 | **Vs. Melody** | Melody spotted Alfie slip in; has hospital archival binders; recognizes surgical work from her clinic days |
 
-| **Alliance** | **Curie** (childhood sanctuary bond); strings **Homes** along |
+| **Alliance** | **Curie** (university friend); strings **Homes** along |
 
 
 
 #### Genevieve's abuse under De Worsti (facilitator truth)
 
-De Worsti ran Genevieve as property: monitored her contact with the world, controlled every account, beat her when she questioned his deals or embarrassed him in front of enforcers like Sachs. She was never a partner in his eyes. After she took money from his vault, De Worsti burned Curie's family home to punish her. She vanished, rebuilt her face and name, and became Lacey. **Alfie reveals this to the room in Episode 4**, see 11-genevieve backstory.md.
+De Worsti ran Genevieve as property: monitored her contact with the world, controlled every account, beat her when she questioned his deals or embarrassed him in front of enforcers like Sachs. She was never a partner in his eyes. **Ajax** had handed her over as debt collateral in **1976** and disappeared. After Ray hunted her using LCPD resources, Alex ordered the **13 September 1977 residential fire** that killed Ray's mother **Gemma Roper** and sister **Junie Roper** (E4-H). When Genevieve took money from his vault and fled in **1980**, De Worsti hired P.I.s and clinic sweeps. She vanished, rebuilt her face and name, and became Lacey. **Alfie reveals this to the room in Episode 4**, see 11-genevieve-backstory.md.
 
 
 
@@ -340,7 +340,7 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 | **Primary alliance** | **Uvula Sachs (coerced)**, forced to help investigate De Worsti's wife via IT access: reconstruction clinic sweeps, hospital admin trails, VIP anomalies |
 
-| **Also pressured by** | **Ray** (log anomalies he planted or exploited); Alfie (elevator threats earlier) |
+| **Also pressured by** | **Ray** (log anomalies she planted or exploited); Alfie (elevator threats earlier) |
 
 | **Secret** | Running Sachs's wife hunt queries the same night Ray's blackout hit; raw mainframe shows **Curie's keycard** in OR (Ray stole it) |
 
@@ -394,9 +394,9 @@ De Worsti ran Genevieve as property: monitored her contact with the world, contr
 
 |---------|------------------|
 
-| **MURDER** | Ray killed a man; De Worsti's crimes do not erase his |
+| **MURDER** | Ray killed a man; De Worsti's crimes do not erase hers |
 
-| **JUSTICE** | De Worsti was the bigger monster; Ray gave his friend a chance; bury it |
+| **JUSTICE** | De Worsti was the bigger monster; Ray gave her friend a chance; bury it |
 
 | **SYSTEM FAILURE** | De Worsti built the corruption; expose the whole wing and the city he poisoned |
 

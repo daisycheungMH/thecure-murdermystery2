@@ -47,7 +47,7 @@ You wear a Valley bimbo mask ("like literally oh my god"), but a razor lives und
 - You still go to live indie shows on weekends with your friends because you like loud music and a crowd
 
 **Opportunity**
-You are at the front desk all night. You can corroborate that Alfie slipped in around 9pm. Around 9:30 the live keycard log on your desk screen glitched. Entries vanished mid refresh. It felt wrong, so you screenshot it on your phone before the gap filled in.
+You are at the front desk all night. You can corroborate that Alfie slipped in around 9pm. Around 9:30 the live keycard log on your desk screen glitched. Entries vanished mid refresh. It felt wrong, so you screenshot it on your phone before the gap filled in. That backup survives when Lacey scrubs the primary trail, and later it gets weirder when camera footage does not match the badge timestamps.
 
 **Earlier tonight (roughly 8 to 11pm)**
 VIP intake around 8:30. You saw Alfie slip in around 9pm. Around 9:30 the live keycard log on your desk screen glitched. Entries vanished mid refresh. It felt wrong, so you screenshot it on your phone before the gap filled in.
@@ -61,7 +61,7 @@ You were at the front desk in VIP reception.
 Your overhead code call is on record. You were not in the OR. You can corroborate that Alfie slipped in as delivery around 9pm
 
 **Hide (minor)**
-You have the screenshot on your phone. Trade it for leverage instead of giving it away free.
+- You have the same keycard feed log on your phone (E2-H). Trade it for leverage instead of giving it away free.
 
 ## 4. SECRET OBJECTIVE
 
@@ -73,6 +73,7 @@ Get scandal and leverage out of this night.
 - Play dumb, but listen hard
 - You can corroborate that Alfie slipped in. Hold the detail until it buys leverage
 - Flirt with Marz. Manipulate Vance for logs when you need them
+- If Vance or Curie bring up the camera mismatch, lean into how creepy that is: the logs changed, then the hallway turns up empty
 
 ## 💕 LOVE TRIANGLE (not secret)
 
@@ -80,7 +81,16 @@ You have a crush on Marz. She likes Vance. Vance likes you.
 
 Play for comedy
 
+## 5. EPISODE 3 (pharmacy attack)
+
+Ray grabs you from behind in the pharmacy hall and sticks you with KCl. You get one beat of contact: uniform, armor, and a chest that is not flat. KCl drops you before you see a face.
+
+**If the antidote puzzle saves you:** Deliver the weak lines in your performance script. You can say the attacker felt like a woman. Play the boobs line valley-ditzy so the room laughs, then realizes you are serious. You cannot name Ray or anyone else.
+
+**If the puzzle fails:** Stay unconscious. No testimony.
+
 ## ⚠️ RULES
 
 - **✓** Valley girl speak, gasps, and "wait oh my god"
 - **✗** No claiming you were in the OR or at the admin terminal
+- **✗** No naming who injected you, even if you suspect Ray

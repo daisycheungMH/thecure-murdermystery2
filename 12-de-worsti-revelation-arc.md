@@ -12,11 +12,11 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 |---------|--------------------------------|--------|
 | **Ep 1** | Controlling, wealthy, treats the hospital as his property; old bruise on wrist (he gives violence, doesn't only receive) | Prologue, Gathering |
 | **Ep 1** | **Real** VIP arterial case. Genuine surgery. No illness stunt. Booked at Lacey's hospital as power play; Homes and Curie refuse to orbit him | Prologue, OR script |
-| **Ep 1** | Half the wing owed him money or feared him; Sachs on perimeter; P.I. hunting vanished ex wife | E1-C dossier, Ray's debt admission, gathering |
+| **Ep 1** | Half the wing owed him money or feared him; Indigo syndicate filings tag him **Purple Reign**; Sachs on perimeter; P.I. hunting vanished ex wife | E1-C dossier, Ray's conflict with De Worsti, gathering |
 | **Ep 2** | Someone engineered his death like a procedure; he was hunted, never unlucky | Toxicology, coordination evidence |
 | **Ep 2** | **Vance was forced by Sachs** to dig through systems for De Worsti's wife, clinic lists, reconstruction leads, hospital admin trails | E2-F Vance search logs |
 | **Ep 3** | Sachs, Alfie, and others came to hurt or kill him tonight; De Worsti collected enemies faster than allies | Knives, wire cutters, Melody attack context |
-| **Ep 4** | **Genevieve's abuse**, isolation, beatings, fire as punishment, repossession mindset | Alfie reveal, E4-F newspaper |
+| **Ep 4** | **Genevieve De Worsti's abuse**, isolation, beatings, **1977 Ray residence fire**, repossession mindset | Alfie reveal, E4-F flyer + E4-H newspaper |
 | **Ep 4** | De Worsti chose Lacey's hospital for real surgery + hunt; Pepper learns she was sleeping with a man who torched families and hunted ex wives | Alfie + Pepper reaction beat |
 | **Ep 4 ballot** | Killer broke the law. Victim broke people. Room chooses: punishment, justice, or system exposure | Ethical verdict |
 
@@ -26,8 +26,8 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 
 | | Officer Ray | De Worsti |
 |---|---------------|-------------|
-| **Violence** | One violent scalpel kill; cover up; attack on Melody to silence | Years of domestic torture; arson murder; debt slavery across the city |
-| **Target** | De Worsti, hunter who would not stop; protect Lacey | Genevieve, Curie's family, Ray's mother & sister, countless debtors |
+| **Violence** | One violent improvised razor kill; red poncho cover-up; attack on Melody to silence | Years of domestic torture; arson murder; debt slavery across the city |
+| **Target** | De Worsti, hunter who would not stop; protect Lacey | Genevieve De Worsti, Ray's mother and Junie, countless debtors |
 | **Scale** | One night, one wing | Empire built on fear |
 | **Room question** | *Did he murder?* | *Was he the real monster in the building?* |
 
@@ -49,7 +49,7 @@ The killer (Ray) is guilty, calculated, and sympathetic. **De Worsti is not symp
 
 **Reveal timing:**
 - **Ep 2**, Vance cracks under Ray; admits Sachs made her hunt the wife digitally  
-- **Ep 4**, After Alfie names Genevieve, Vance can connect raw mainframe to **Curie's keycard** in OR during blackout. Curie was elsewhere. Ray has no OR access
+- **Ep 4**, After Alfie names Genevieve, Vance can connect raw mainframe to **Curie's keycard** in OR during blackout. E3-A CCTV places Curie on eastern liaison cam and shows an empty OR Two approach. Ray has no OR access
 
 Lacey's coordinated logistics (containment, crisis lock, admin cover) and Ray's log manipulation make Vance a person crushed between **two** monsters, Sachs and Ray, while De Worsti was the reason any of it started.
 
@@ -57,13 +57,13 @@ Lacey's coordinated logistics (containment, crisis lock, admin cover) and Ray's 
 
 ## Suggested player beats
 
-**Pepper (Ep 4, after Alfie):** Optional host prompt, affair grief collides with abuse testimony; she must sit with loving a man worse than his killer.
+**Pepper (Ep 4, after Alfie):** Optional host prompt, affair grief collides with abuse testimony; she must sit with loving a man who torched Ray's family and hunted ex wives.
 
 **Curie (Ep 4):** *"I wanted him dead. I did not make that cut."*
 
 **Ray (Ep 4, if accused correctly):** *"I've hated men like him my whole career. That doesn't give me a license. It gave my daughter a chance."*
 
-**Lacey (Ep 4, if cornered):** *"I didn't cut him. I never walked into that room. When he booked here, I knew what Ray would need from admin."*
+**Lacey (Ep 4, if cornered):** distressed; heavy breathing. *"I didn't cut him. I never walked into that room. When he booked here, I knew what Ray would need from admin."*
 
 **Sachs (Ep 3–4):** Not innocent. Hunted Genevieve for money, never mercy. Vance was their helper. Friendship was never on the table.
 

@@ -1,6 +1,6 @@
 # Curie's Charm, Red Herring Playbook (Facilitator)
 
-**Dr. Curie is Prince Charming who looks like the killer.** Idealist, kind-hearted social butterfly with **annoying charisma**: the wing's angel's advocate, always finding the bright side. Assumes the best in people, including Ray. His niceness is **genuine**. That reads suspicious in a murder wing. Traumatized (Genevieve, the fire), **never let it show.** Play the lovable leading man: serious when required, shuts down flirt with polished deflection, then back to devastating competence.
+**Dr. Curie is a charming woman who looks like the killer.** Idealist, kind-hearted social butterfly with **annoying charisma**: the wing's angel's advocate, always finding the bright side. Assumes the best in people, including Ray. Her niceness is **genuine**. That reads suspicious in a murder wing. She knows Lacey's history secondhand, including the **1977 warning fire** at Ray's home, **never let it show.** Play the lovable leading woman: serious when required, shuts down flirt with polished deflection, then back to devastating competence.
 
 **Officer Ray is the real killer.** Curie's charm makes the room chase the wrong surgeon while Ray runs the investigation.
 
@@ -12,30 +12,40 @@
 |-----------|-------------------|
 | **Officer Ray** | Likes Curie's competence; banter reads easy and professional; uses Curie as cover |
 | **Nurse Pepper** | **Comedic timing**, clears throat when Ray and Curie crowd each other; eye roll the room can see |
-| **Most players** | Admire wit; want him on their side of the investigation |
+| **Most players** | Admire wit; want her on their side of the investigation |
 | **Dr. Homes** | **Professional rival**: openly annoyed; hates angel's-advocate speeches; merit vs charm |
 
 ---
 
 ## Why Curie looks guilty (host cues)
 
-1. **Sanctuary bond** with Genevieve / Lacey (orphanage photo, E2-D)  
-2. **Surgical skill** signature on the wound (E4-E red herring)  
-3. **Motive** everyone can name: fire, failed rescue, De Worsti in his hospital  
-4. **Partnership with Ray** reads like two investigators on the same case  
-5. **Homes's irritation** (rival dynamic) makes Curie look like the room's favorite answer  
-6. **Genuine niceness**: optimism in a corpse wing reads wrong on accident  
-7. **OR keycard in the log** names Curie's badge; he has too many corridor friends to say who lifted it. Truth lands when evidence surfaces (torn page, mainframe, Melody). Until then stay baffled.
+1. **Surgical skill** signature on the wound (E4-E red herring)  
+2. **Motive** everyone can name: failed to stop Ajax marriage, watched Lacey suffer, De Worsti in her hospital  
+3. **Partnership with Ray** reads like two investigators on the same case  
+4. **Homes's irritation** (rival dynamic) makes Curie look like the room's favorite answer  
+5. **Genuine niceness**: optimism in a corpse wing reads wrong on accident  
+6. **OR keycard in the log** names Curie's badge; she has too many corridor friends to say who lifted it. Truth lands when evidence surfaces (CCTV stills, mainframe, desk printout). Until then stay baffled.
 
 ---
 
 ## Curie's toolkit (repeat every episode)
 
-1. **Credit Ray publicly.** Make him feel partnered.  
+1. **Credit Ray publicly.** Make her feel partnered.  
 2. **Praise others' contributions**, then steer ("Good catch. So where does that leave us on X?")  
 3. **Deflect with charm**, *"Officer, save the compliments, we have a corpse."* Smile. Back to work.  
 4. **Serious when needed**, no jokes during toxicology or Melody attack; charm returns after  
 5. **Never block Ray**, but if Ray's keycard surfaces, Curie may be the first to say *run it*  
+
+---
+
+## Episode beats (facilitator)
+
+| Episode | Curie role |
+|---------|------------|
+| **Ep 1** | Medical liaison; helpful; Homes framed; Curie looks cooperative |
+| **Ep 2** | E2-B/E2-C admin tier access. OR console never authorized the grid drop |
+| **Ep 3** | Melody scene; sends Ray after shadow; keycard heat rises |
+| **Ep 4** | Red herring peak; *"I wanted him dead. I did not make that cut."* |
 
 ---
 
@@ -58,7 +68,7 @@ Room laughs or tenses. Curie doesn't break character. Homes **scowls**.
 
 > **HOMES:** Could we investigate the murder instead of auditioning for a municipal calendar?  
 > **CURIE:** *(pleasant)* Doctor, when you have an alibi, I'll schedule around your preferences.  
-> **HOMES:** He always does this: finds the bright side for whoever we're about to cuff.  
+> **HOMES:** She always does this: finds the bright side for whoever we're about to cuff.  
 > **CURIE:** *(sincere)* Because sometimes we're wrong, Doctor. That's why we investigate.  
 > **RAY:** *(almost amused)* Keep talking, Homes.
 
@@ -70,12 +80,12 @@ High-suspicion characters should feel **less likely over four episodes**. Don't 
 
 | Episode | Who cools off | Key evidence |
 |---------|---------------|--------------|
-| **Ep 1** | **Homes** (seed) | E1-A two-phase blood; E1-D scene (witnesses down when lights return) |
+| **Ep 1** | **Homes** (seed) | E1-A two-phase blood + gown wear; E1-D scene (witnesses down when lights return) |
 | **Ep 2** | **Jetski, Pepper** | E2-A, E2-E paralysis before incision |
 | **Ep 2** | **Homes** (narrow) | E2-A engineered room; killer needed darkness prep |
 | **Ep 2** | **Lacey, Curie** (mechanism) | E2-B/E2-C admin tier access. OR console never authorized the grid drop |
-| **Ep 3** | **Alfie, Sachs** | E3-C/E3-D wrong weapons; E3-A supports badge theft |
-| **Ep 4** | **Curie, Homes, Lacey** | E4-C card vs corridor; E4-E wound profile (Lacey didn't cut); E4-B + E2-B/E2-C logistics complicity if room believes she knew |
+| **Ep 3** | **Alfie, Sachs** | E3-C/E3-D wrong weapons; E3-A CCTV clears Curie from OR Two hallway |
+| **Ep 4** | **Curie, Homes, Lacey** | E3-A + E4-C timestamp mismatch; E4-A card lost and found that day; E4-E wound profile (improvised razor, not theatre scalpel); E2-G red poncho points security not admin; E4-B + E2-B/E2-C/E2-H logistics complicity if room believes she knew |
 
 Full tables: [04-evidence-index.md](04-evidence-index.md), card copy: [15-evidence-materials.md](15-evidence-materials.md).
 
@@ -83,7 +93,9 @@ Full tables: [04-evidence-index.md](04-evidence-index.md), card copy: [15-eviden
 
 ## Design intent
 
-- Ray's cover is **authority**. He's sharp under pressure. Curie is the face the room wants to trust  
+- Ray's cover is **authority**. She's sharp under pressure. Curie is the face the room wants to trust  
 - Pepper's ahem is pressure valve for player stress  
 - Homes' annoyance makes him look guilty when he's actually the **first suspect who must defend himself**  
 - Jetski gathering beat lands harder later: *they trusted whoever sounded most confident* (see 10-the-gathering.md)
+
+Full episode scripts: [05-episode-scripts.md](05-episode-scripts.md)

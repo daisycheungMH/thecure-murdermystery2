@@ -46,7 +46,9 @@ Your spoken lines in the script are already written how you say them. When you a
 **Who you are**
 
 - You ran collections for crime lord Alex De Worsti's empire until he went broke. De Worsti imported you as German enforcer muscle
+- You still call him De Worsti to his face. In Indigo files and when you want to mock his ego you say **Purple Reign**
 - You and De Worsti hated each other by the end. He still owes you money, and you still want his ledger. Your search for him lead you to St. Saphiccas hospital
+- In **1977** Alex ordered you to burn **Officer Ray's residence** as a warning after Ray hunted Genevieve on the force. Ray's mother **Gemma Roper** and sister **Junie Roper** died. Ray survived. Players may learn this from **E4-H**
 
 **Where you came from**
 
@@ -79,7 +81,7 @@ Find the ledger and De Worsti's vanished wife's money trail, and avoid a murder 
 
 **Plan**
 
-- Command Vance like an overworked contractor. Provoke Ray when his process is inefficient
+- Command Vance like an overworked contractor. Provoke Ray when her process is inefficient
 
 ## ⚠️ RULES
 

@@ -1,6 +1,6 @@
 # Character Roster
 
-**Victim / narrator (non player):** De Worsti  
+**Victim / narrator (non player):** De Worsti (Indigo syndicate street name: **Purple Reign**)  
 **Investigation leads (until Ep 4 coda):** Officer Ray, Officer Marlowe "Marz" + Dr. Curie  
 **Officer Diamond:** Security officer folded into VIP containment after the code, see [17-officer-diamond.md](17-officer-diamond.md), dossier [player-dossiers/11-officer-diamond.md](player-dossiers/11-officer-diamond.md)  
 **Full performance guide:** [14-actor-personas.md](14-actor-personas.md)  
@@ -13,20 +13,20 @@
 ### Officer Ray, Bruiser with a soft center (killer)
 | | |
 |---|---|
-| **Persona** | Hard edged ex cop wall; secret soft heart; protective father to Lacey in private |
+| **Persona** | Hard edged ex cop wall; secret soft heart; protective mother to Lacey in private |
 | **Play** | Bark first, regret later; protective; plain talk; runs the investigation |
 | **Role** | Security chief; Containment Protocol Delta with **Marz** as junior officer |
-| **Secret** | **Killer**; Lacey's father; swore revenge on De Worsti; debt to De Worsti; tore keycard log; **stole Curie's OR keycard** (no OR access on his own badge) |
+| **Secret** | **Killer**; Lacey's mother; swore revenge on De Worsti since the **1977 warning fire**; LCPD **discharge**; tore keycard log; **stole Curie's OR keycard** (no OR access on her own badge) |
 | **Ability** | *Good Cop, Bad Cop*, coin flip with Curie: motive OR clue |
 | **Objective** | Steer room toward Curie and Homes; survive until watch arrives |
 
-### Dr. Curie, Prince Charming (obvious red herring)
+### Dr. Curie, charming woman (obvious red herring)
 | | |
 |---|---|
 | **Persona** | Idealist; kind-hearted **social butterfly**; **annoying charisma**; angel's advocate; assumes the best in people; **deeply traumatized, never shows it** |
-| **Play** | Warm, witty, generous with praise; genuine niceness reads suspicious but is **not performance**; **rival** to Homes; too many friends to name who lifted his keycard |
+| **Play** | Warm, witty, generous with praise; genuine niceness reads suspicious but is **not performance**; **rival** to Homes; too many friends to name who lifted her keycard |
 | **Role** | Chief of Surgery + medical liaison (looks guilty; didn't make the cut) |
-| **Secret** | Sanctuary bond with Lacey; wanted De Worsti dead; did not make the cut; **never noticed keycard missing until evidence** |
+| **Secret** | University friendship with Lacey; wanted De Worsti dead; did not make the cut; **never noticed keycard missing until evidence** |
 | **Ability** | *Surgical Counsel*, once/act: lead seems unlikely, still worth running |
 | **Objective** | Survive red herring heat; protect Lacey; help room find truth |
 
@@ -55,7 +55,7 @@
 
 ### Dr. Homes, Authoritative dick (for a good cause)
 - **Persona:** Arrogant, insufferable, **actually brilliant**, saves lives, ruins moods  
-- **Play:** Condescending meritocrat; **professional rival** to Curie; hates his annoying charisma and angel's-advocate habit  
+- **Play:** Condescending meritocrat; **professional rival** to Curie; hates her annoying charisma and angel's-advocate habit  
 - **Framed** at scene; **first suspect** who must defend himself; obsessed with Lacey  
 - **Ability:** *Doctor's Orders*, 3 truthful answer subpoena tokens  
 - **Objective:** Clear name; destroy Curie's reputation  

@@ -42,7 +42,7 @@ You are strategically inflammatory. You poke insecurities, stir reactions, and t
 **Who you are**
 
 - You are the younger De Worsti brother. Alex is your older brother. He runs the family name in Indigo District: lending, enforcement, debt dressed up as loyalty
-- Alex married young, kept his wife isolated, and treated the family like collateral. You watched bruises and hollow holidays for years and stopped pretending it was discipline
+- Alex married **Genevieve Roper** in **1976** after **Ajax** traded her to him as debt collateral. On paper she became **Genevieve De Worsti**. Ajax vanished after. Alex kept his wife isolated and treated the family like collateral. You watched bruises and hollow holidays for the next four years and stopped pretending it was discipline
 - Alex drained the estate. You picked up gambling debts on the same circuit as Dr. Jetski. You came to St. Saphicca's tonight posing as supply delivery because this hospital is where the money and the grudges end up (you are searching for your brother Alex to get his help)
 
 **Where you came from**
@@ -72,7 +72,7 @@ The hunting knife, your insurance angle, and why you really came tonight.
 ## 4. SECRET OBJECTIVE
 
 **Goal**
-Avoid a murder charge and chase the insurance angle if you can.
+Your brother Alex had a large life insurance policy and you are the beneficiary. You came tonight hoping he would die at this hospital so you could collect and pay off your gambling debts. Someone else killed him before you could, which is bad for your plan but still useful if you are not the one holding the knife when the room decides. Dodge a murder charge and look enough like the shocked younger brother that the payout still goes through.
 
 **Plan**
 

@@ -9,15 +9,15 @@ All times approximate. Adjust to your table's surgery slot.
 | Time | Event | Investigation impact |
 |------|-------|----------------------|
 | T−6h | Severe storm warning issued; city grid under stress | Background |
-| T−2h | Lower causeways flood; patrol units redeployed to rescue | Municipal watch stretched |
+| T−2h | Lower causeways flood; patrol units redeployed to rescue | LCPD stretched |
 | T−30m | St. Saphicca's on backup power cycles; VIP wing stable | Ray exploits chaos |
-| T+0 | OR murder + 60s surgical blackout | LC-4471 logged; **no patrol on campus** |
+| T+0 | OR murder + ~1 min surgical blackout | LC-4471 logged; **no patrol on campus** |
 | T+10m | Ray invokes **Containment Protocol Delta** | Wing sealed |
 | Ep 1–3 | Radio: *"hold position… no ETA"* | Suspects must cooperate inside |
 | Ep 3 | Melody attacked, killer still in wing | External killer theory dies |
 | Ep 4 | Storm breaks; sirens audible | Room makes accusation before handoff |
 | Gathering | All eleven in VIP lounge | Jetski "killer in this room" beat |
-| Ep 4 coda | Municipal Watch enters | Ballot readouts; see 05-episode-scripts.md |
+| Ep 4 coda | LCPD enters | Ballot readouts; see 05-episode-scripts.md |
 
 ---
 
@@ -25,20 +25,24 @@ All times approximate. Adjust to your table's surgery slot.
 
 | Time | Character | Location | Activity | Witnesses / record |
 |------|-----------|----------|----------|-------------------|
-| T−3y | **Officer Ray** | Lesbian City | Learns what De Worsti did to **Lacey**; swears revenge; takes security post at St. Saphicca's | Facilitator only until confession |
+| 1969 | **Officer Ray** | LCPD | Begins unauthorized off books search for Genevieve after police training | Facilitator backstory |
+| 1977 | **Officer Ray** | LCPD → discharged | Unauthorized hunt for Genevieve De Worsti; **warning fire** kills **Gemma Roper** + **Junie Roper** | E4-H; facilitator backstory |
+| 1988 | **Officer Ray** | Lesbian City | Finds **Lacey** rebuilt; swears revenge on Alex; takes security post at St. Saphicca's | Facilitator only until confession |
 | T−48h | **Lacey Lovely** | Hospital (admin) | Sees **Sachs** on perimeter + other hunt signs; Alex's booking lands; aligns with Ray on logistics (codes, wing lock, admin cover) | Facilitator only until confession |
 | T−48h | **Officer Ray** | Security office | Learns De Worsti booked **real** VIP arterial surgery here; accelerates plan | Facilitator only until confession |
 | T−36h | **Officer Ray** | Off books | Finalizes murder plan: vial, blackout, frame Homes; **rejects pre-OR ambush** (Sachs on wing, cameras live, no Homes frame, Homes might save the real arterial case) | No witnesses |
 | T−3h | **Officer Ray** | Pharmacy vault | Swaps anesthesia vial (security override + memorized administrator codes) | Vault camera *may* be disabled wing wide |
+| T−2h30m | **Officer Ray** + **Lacey Lovely** | Admin corridor / office | Brief pre op sync; **-R** note on Lacey's desk (*Let's meet. VIP quiet after nine.*) | Facilitator; **E2-I** |
 | T−2h | **Uvula Sachs** | VIP wing / elevator | Threatens **CD Vance**, help trace De Worsti's wife or "elevator shaft" | Vance begins clinic/hospital search logs (E2-F) |
 | T−2h | **CD Vance** | Server room | Forced wife hunt queries for Sachs | Reconstruction flags; admin tier anomalies |
 | T−2h | **Alfie De Worsti** | Loading dock → VIP | Enters disguised as delivery driver | **Melody** saw him slip in |
-| T−90m | **Officer Ray** | Security office | Debt pressure from De Worsti; tears keycard log page to hide OR entry plan | Knows he made the tear |
+| T−90m | **Officer Ray** | Security office | Debt pressure from De Worsti; tears keycard log page to hide OR entry plan | Knows she made the tear |
 | T−90m | **Officer Marlowe "Marz"** | VIP corridor patrol | Junior patrol; notices torn keycard log page | Does not tell Ray immediately |
 | T−60m | **Officer Diamond** | Main campus security desk | Storm overflow shift; not yet routed to VIP wing | Not in building wing during prep |
 | T−60m | **Melody** | Front desk | Notices missing master keycard log page | Logbook gap, **host only until Ep 3** |
-| T−45m | **Dr. Homes** | Pre op / consult | De Worsti intake; tension with Pepper | Prologue scene |
+| T−7h (afternoon) | **Dr. Curie** | Surgeon's lounge corridor | Misplaces OR keycard on corridor bench; reclaimed from lost-and-found ~4pm | **E4-A**; she thought she'd left it in the lounge |
 | T−30m | **Nurse Pepper** | VIP consult suite | Prep; secret eye on De Worsti | Pepper, Homes, De Worsti |
+| T−25m | **Dr. Curie** | Pre-op lounge | Card scanned at lounge reader; staff assume badge stayed on her lanyard | **E4-A** pre-op stub |
 | T−20m | **Officer Ray** | VIP corridor | Lifts **Curie's OR keycard** during a social moment; Curie does not notice | No witnesses who connect it to Ray |
 | T−15m | **Dr. Jetski** | OR prep | Loads tray from pharmacy, **tampered vial** | Unaware |
 | T−10m | **De Worsti** | Gowned, VIP route | **Real** arterial case; power play on Lacey's hospital; hunting ex wife | Multiple enemies in building |
@@ -53,18 +57,18 @@ All times approximate. Adjust to your table's surgery slot.
 | T+0 | **Nurse Pepper** | OR | Assisting; notes falling pressure | Conscious → **paralyzed ~15s** |
 | T+0 | **Dr. Jetski** | OR anesthesia | Administers IV; notices lag | Conscious → **paralyzed ~15s** |
 | T+0 | **De Worsti** | OR table | Patient | Sedated → **killed during blackout** |
-| T+0 to T+15s | **Officer Ray** | Security route → OR | Enters on **Curie's stolen keycard**; night vision kill | **Immune / prepared** |
-| T+0 to T+60s | **Officer Ray** | Security office | Manual grid override (blackout) | Remote |
-| T+15s | **Officer Ray** | OR | Violent scalpel wound to carotid; plants tool near Homes | Exits blind spot; **returns Curie's keycard** before he notices |
-| T+60s | **Emergency lighting** | OR | Red backup flickers on | Scene frozen |
+| T+0 | **Dr. Curie** | Eastern VIP liaison hall | Triage coordination; on Camera 07 during blackout | Conscious; far from OR Two approach |
+| T+0 | **Lacey Lovely** | Admin office | Manual grid override; ~1 min dark window | Upstairs |
+| T+0 to T+1m | **Officer Ray** | OR | Enters on **Curie's stolen keycard**; night vision; red poncho; facial razor kill; frame Homes with theatre scalpel | **In room during blackout** |
+| T+1m | **Emergency lighting** | OR | Red backup flickers on | Scene frozen |
 
 ### Post blackout OR snapshot
-- **Homes:** Standing, bloody gloves, scalpel in hand, **framed**  
+- **Homes:** Standing, bloody gloves, blood on gown, theatre scalpel in hand, **framed**  
 - **Pepper / Jetski:** Unconscious on tile  
-- **De Worsti:** Dead, violent scalpel wound to carotid  
-- **Curie:** Eastern corridor (true alibi for kill window; still looks guilty)  
-- **Lacey:** Admin wing, staged crisis alibi two floors up (logistics accomplice; never entered OR)  
-- **Ray:** Claims security perimeter (false alibi for kill window)  
+- **De Worsti:** Dead, violent carotid wound (improvised facial razor; theatre scalpel is frame)  
+- **Curie:** Eastern liaison triage hall (true alibi for kill window; keycard logs still name her badge; still looks guilty)  
+- **Lacey:** Admin wing, override and crisis posture two floors up; scrubs primary logs post incident (logistics accomplice; never entered OR)  
+- **Ray:** Claims security perimeter (false alibi for kill window); red poncho and razor already in refuse
 
 ---
 
@@ -90,8 +94,10 @@ All times approximate. Adjust to your table's surgery slot.
 | Ep 2 open | **Jetski** | Recovery ward interrogation (cutscene) |
 | Ep 2 | **Pepper** | Releases toxicology + pharmacy logs |
 | Ep 2 | **CD Vance** | Confesses Sachs coerced wife investigation; search logs surface (E2-F) |
+| Ep 2 | **Deep OR search** | Contaminated refuse opened; red poncho + facial razor logged (E2-G) |
+| Ep 2 | **Melody** | Backup phone capture surfaces if pressed (E2-H) |
 | Ep 2 | **Ray + Marz + Curie** | Ray opens Lacey background; Marz may volunteer wild theory; Curie: run the access logs anyway |
-| Ep 2 late | **Locker find** | Orphanage photo, Genevieve + Curie (players may miss) |
+| Ep 2 late | **Locker find** | Family snapshot, young Genevieve + Ray (players may miss) |
 
 ---
 
@@ -105,7 +111,7 @@ All times approximate. Adjust to your table's surgery slot.
 | Ep 3 | **Sachs** | Wire cutters discovered |
 | Ep 3 | Players | Antidote puzzle, Calcium Gluconate |
 
-**If antidote succeeds:** Melody whispers *"Curie's card… in the OR log…"*  
+**If antidote succeeds:** Melody whispers female attacker (felt chest during grab from behind) + admin/desk fragment; no name ID  
 **If fails:** Melody comatose; group loses direct testimony  
 
 ---
@@ -116,11 +122,11 @@ All times approximate. Adjust to your table's surgery slot.
 |------|-----------|-------|
 | Ep 4 | **Alfie** | **Mandatory reveal:** Genevieve, uncertain testimony; abuse truth; protects Lacey from full condemnation |
 | Ep 4 | **Lacey** | Admits running; **denies the cut** (truthful); may admit logistics if cornered; cannot honestly claim ignorance once E2-B/E2-C land |
-| Ep 4 | **Curie** | Red herring heat peaks; insists he did not make the cut |
+| Ep 4 | **Curie** | Red herring heat peaks; insists she did not make the cut |
 | Ep 4 | **Melody** (if alive) | Corroborates Alfie, archival pre surgery face match |
 | Ep 4 | **CD Vance** | Raw mainframe vs. Lacey's edited timestamps |
-| Ep 4 | **Officer Ray** | **Curie's keycard** in OR during exact 60s blackout (raw mainframe); Ray has no OR access on his own badge |
-| Ep 4 | **Dr. Curie** | Genuinely shocked when logs name his card. He never knew it left his person that night |
+| Ep 4 | **Officer Ray** | **Curie's keycard** in OR during one minute blackout (raw mainframe); Ray has no OR access on her own badge; E2-G red poncho is security stock |
+| Ep 4 | **Dr. Curie** | Genuinely shocked when logs name her card. CCTV (E3-A) shows her on eastern liaison triage, far from OR Two approach |
 | Ep 4 | **Room** | Dual ballot, target + moral verdict |
 
 ---
@@ -130,7 +136,9 @@ All times approximate. Adjust to your table's surgery slot.
 | System | Status | Implication |
 |--------|--------|-------------|
 | OR internal cameras | Disabled / doctored | Forces eyewitness + physical evidence |
-| VIP wing corridor CCTV | Mostly offline | Hacking skill red herring → **CD Vance** is a suspect, never the sole killer |
+| OR Two approach CCTV (Cam 14) | Primary feed gap during storm; **backup partition** empty 9pm–midnight (E3-A) | Conflicts with keycard swipe at same reader |
+| Eastern liaison CCTV (Cam 07) | Backup still shows **Curie** at triage board ~11:40pm (E3-A) | No sight line to OR Two; clears her body from approach hall |
+| VIP wing corridor CCTV (other) | Mostly offline | Hacking skill red herring → **CD Vance** is a suspect, never the sole killer |
 | Pharmacy vault | Log only (executive tier codes) | Points to admin tier; Ray physically swapped vial |
 | Power console | Manual override logged | Security office; Ray |
 | Keycard log page | **Torn out** pre surgery | Melody knows; Ray noticed gap |

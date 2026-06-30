@@ -13,7 +13,7 @@ Also print **[player-performance-script.md](../player-performance-script.md)** (
 
 | File | Character | Role |
 |------|-----------|------|
-| [00-alex-austin.md](00-alex-austin.md) | Alex Austin *(De Worsti)* | Victim / prologue only (not one of the eleven) |
+| [00-alex-austin.md](00-alex-austin.md) | Alex De Worsti | Victim / prologue only (not one of the eleven) |
 | [01-dr-curie.md](01-dr-curie.md) | Dr. Curie | Obvious red herring |
 | [02-officer-ray.md](02-officer-ray.md) | Officer Ray | Killer / security chief |
 | [03-nurse-pepper.md](03-nurse-pepper.md) | Nurse Pepper | Witness + logbook gatekeeper |

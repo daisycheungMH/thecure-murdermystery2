@@ -8,7 +8,7 @@ Case File No.: LCPSD-CTV-0471-DC
 
 CHARACTER NAME: Officer Diamond  
 AGE: 26  
-OCCUPATION: Security Officer, St. Saphicca's (ex Municipal Watch training unit)
+OCCUPATION: Security Officer, St. Saphicca's (ex LCPD training unit)
 PRONOUNS: she/her
 
 ## 1. PUBLIC PERSONA & TRAITS
@@ -61,7 +61,7 @@ Storm overflow shift at the main campus security desk from roughly 8pm
 Main campus security desk, then en route to the VIP wing when the code went out. Not in the OR.
 
 **Backup**
-Dispatch radio shows overflow routing after 11:42; Ray can confirm he called for backup once the wing sealed.
+Dispatch radio shows overflow routing after 11:42; Ray can confirm she called for backup once the wing sealed.
 
 **Hide (minor)**
 You kind of enjoyed the flooded stairs because it felt like an advanced module. Do not say that out loud unless you are leaning into the bit.
