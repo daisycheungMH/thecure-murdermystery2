@@ -476,8 +476,8 @@ Ray sprints. Curie's expression goes cold.
 
 *Collect accusation ballots: **one suspect** (**Officer Ray**) or **pair (Ray + Lacey Lovely)** if room believes she knew. Collect moral verdict: **MURDER** / **JUSTICE** / **SYSTEM FAILURE**.*
 
-> **NARRATOR:** You've voted. The wing accuses **[NAME / NAMES]**.  
-> The room's verdict on what that means: **[MURDER / JUSTICE / SYSTEM FAILURE]**.  
+> **NARRATOR:** You've voted. The wing accuses **whoever your ballots name**.  
+> The room's verdict on what that means: **murder, justice, or system failure**.  
 > Here's what happens next.
 
 ---

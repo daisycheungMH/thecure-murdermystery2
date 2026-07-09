@@ -47,17 +47,17 @@ Each entry: short description + full text to read aloud or hand out.
 
 ### E1-C, Private investigator dossier
 
-**Description:** Folded report in De Worsti's coat pocket. Hired to find a vanished wife; mentions facial reconstruction, an **Ajax debt ledger**, and marriage records tied to the client's household. Notes client chose St. Saphicca's for a **real** surgical booking. Cover story alone doesn't explain the OR slot. **No first name** until Alfie speaks in Episode 4.
+**Description:** Folded report in De Worsti's coat pocket. Hired to find a vanished wife; mentions facial reconstruction, an **Ajax Roper debt ledger**, and marriage records tied to the client's household. Notes client chose St. Saphicca's for a **real** surgical booking. Cover story alone doesn't explain the OR slot. **No first name** until Alfie speaks in Episode 4.
 
 **Text:**
 
 > **CONFIDENTIAL, INVESTIGATIVE SUMMARY**  
 > Client: A.D.W. (financier, Indigo District; syndicate handle **Purple Reign**)  
-> Subject: Female, late 20s at time of disappearance, married client [REDACTED] years  
+> Subject: Female, late 20s at time of disappearance, married client four years  
 > Last known: Cohabiting with client; subject removed from shared accounts without authorization  
 > Client alleges: Theft of family business funds; unstable behavior; possible cosmetic surgery to evade recovery  
 > Leads:  
-> – **Ajax [surname] debt ledger**, property transfer tied to marriage certificate (subject traded as collateral, father vanished after signing)  
+> – **Ajax Roper debt ledger**, property transfer tied to marriage certificate (subject traded as collateral, father vanished after signing)  
 > – Sapphic Quarter clinic network, facial reconstruction intake flags (3 clinics, 2 false positives)  
 > – Hospital admin cross reference (VIP medical corridors, Lesbian City metro)  
 > Surgical booking: **St. Saphicca's VIP arterial repair**, legitimate indication (compromised vessel); client chose administrator's hospital personally  
@@ -106,7 +106,7 @@ Each entry: short description + full text to read aloud or hand out.
 > Paralytic onset (estimated): **<15 seconds** from IV push  
 > Clinical note: *"Consistent with engineered incapacitation of anesthesia staff and assisting nurse before incision window. Subject on table partially aware during early blackout phase."*  
 > **Subtle absolution:** Dr. Jetski and Nurse Pepper **cannot** be the carotid cutter. Whoever finished De Worsti needed the room cleared first, plus darkness or night vision. Dr. Homes was still conscious at the table, which narrows but does not clear him until blood pattern and wound profile land.  
-> Signed: Pepper [surname], Head Nurse, VIP Surgical Wing
+> Signed: Pepper Holloway, Head Nurse, VIP Surgical Wing
 
 ---
 
@@ -117,7 +117,7 @@ Each entry: short description + full text to read aloud or hand out.
 **Text:**
 
 > **SECURE PHARMACY VAULT ACCESS LOG**  
-> Date: [TONIGHT]  
+> Date: 14 November 1991  
 > 9:38pm, Vault open, authorization: **LACEY LOVELY**, Executive Administrator  
 > Action: Single vial removal, anesthesia tier  
 > 9:41pm, Vault sealed  
@@ -218,7 +218,7 @@ Each entry: short description + full text to read aloud or hand out.
 > 9:31:08pm · CHECKOUT  
 > Reader: OR Two eastern approach  
 > Card: #VIP-OR-07 · **Dr. Curie** · surgery chief tier  
-> Return: **[blank]**  
+> Return: **not returned**  
 > ---
 > *(Feed ends. Lower lines torn away.)*
 
@@ -405,7 +405,7 @@ Each entry: short description + full text to read aloud or hand out.
 
 > **LOG COMPARISON, VANCE WORKSTATION**  
 > Raw timestamp: 11:42:04pm, **Dr. Curie**, surgery chief card, OR corridor  
-> Published timestamp: **[ENTRY REMOVED]**  
+> Published timestamp: **scrubbed by admin directive**  
 > CCTV note (Vance, appended): Camera 14 empty at 11:42 · Camera 07 shows Curie east at 11:40  
 > Edit authorization: **ADMIN DIRECTIVE**, voice match flagged: Administrator Lovely  
 > Vance note: *"I botched it. Left the gap. I'm sorry. I'm sorry. eep."*
@@ -461,8 +461,8 @@ Each entry: short description + full text to read aloud or hand out.
 > *(Handwritten, water damaged)*  
 >
 > PR / A.D.W., collections, VIP medical cover  
-> Outstanding: Ray [security], Jetski/Alfie [gambling], Sachs [enforcement split]  
-> **REPOSSESSION LIST:** Genevieve De Worsti, wife, full account freeze, **Ray family residence** [fire incident, see press]  
+> Outstanding: Ray, VIP security retainer; Jetski/Alfie, gambling markers; Sachs, enforcement split  
+> **REPOSSESSION LIST:** Genevieve De Worsti, wife, full account freeze, **Ray family residence** (13 Sep 1977 warning fire, see press)  
 > **STOLEN / UNRECOVERED:** $2.4M moved offshore, subject fled  
 > Margin note (De Worsti): *"She doesn't get to buy a new face with my money."*  
 >
